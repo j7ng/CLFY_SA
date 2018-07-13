@@ -1,0 +1,1 @@
+CREATE INDEX sa.byop_sms_stg_idx1 ON sa.byop_sms_stg(esn,"MIN");

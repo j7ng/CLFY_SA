@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_sl_migration_stg FOR sa.x_sl_migration_stg;

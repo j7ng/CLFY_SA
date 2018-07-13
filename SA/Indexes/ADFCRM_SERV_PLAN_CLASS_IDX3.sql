@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_serv_plan_class_idx3 ON sa.adfcrm_serv_plan_class_matview(sp_objid);

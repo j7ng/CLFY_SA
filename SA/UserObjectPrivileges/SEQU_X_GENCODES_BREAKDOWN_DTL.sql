@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_gencodes_breakdown_dtl TO PUBLIC;

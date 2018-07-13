@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.clfy_ml_to_create TO dbit_mtoribiolopez;

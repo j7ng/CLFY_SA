@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.tab_num TO dbit_mtoribiolopez;

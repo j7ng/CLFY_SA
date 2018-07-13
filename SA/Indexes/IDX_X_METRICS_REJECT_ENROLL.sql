@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_metrics_reject_enroll ON sa.x_metrics_reject_enroll(objid);

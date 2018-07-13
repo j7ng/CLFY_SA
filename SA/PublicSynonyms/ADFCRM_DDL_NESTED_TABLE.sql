@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_ddl_nested_table FOR sa.adfcrm_ddl_nested_table;

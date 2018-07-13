@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_alt_esn2case ON sa.table_x_alt_esn(x_alt_esn2case);

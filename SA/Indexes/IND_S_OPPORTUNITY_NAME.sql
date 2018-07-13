@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_s_opportunity_name ON sa.table_opportunity(s_name);

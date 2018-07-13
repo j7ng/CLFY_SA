@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.frcst_grp_objindex ON sa.table_frcst_grp(objid);

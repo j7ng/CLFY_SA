@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_vas_programs_nm ON sa.x_vas_programs(vas_name);

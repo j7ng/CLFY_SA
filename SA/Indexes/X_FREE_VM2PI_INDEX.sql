@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_free_vm2pi_index ON sa.x_free_voice_mail(free_vm2part_inst);

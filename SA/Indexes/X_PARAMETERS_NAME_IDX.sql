@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_parameters_name_idx ON sa.table_x_parameters(x_param_name);

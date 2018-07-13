@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_monelm_fnl FOR sa.table_monelm_fnl;

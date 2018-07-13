@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_program_web_user_his FOR sa.x_program_web_user_his;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM xsu_vmbc_request_view FOR sa.xsu_vmbc_request_view;

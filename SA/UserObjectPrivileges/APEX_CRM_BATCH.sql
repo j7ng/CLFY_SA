@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.apex_crm_batch TO role_sa_update;

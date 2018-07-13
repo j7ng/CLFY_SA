@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.cl_keyword_cl_keyword_ind ON sa.table_cl_keyword(id_number);

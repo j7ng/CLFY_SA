@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_flows FOR sa.x_flows;

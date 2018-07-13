@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_vas_subscrptn_real_esn ON sa.x_vas_subscriptions(x_real_esn);

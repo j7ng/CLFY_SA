@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_window_db4_rc_config1 FOR sa.mtm_window_db4_rc_config1;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx4_pcrf_transaction_history ON sa.x_pcrf_transaction_history(insert_timestamp,update_timestamp);

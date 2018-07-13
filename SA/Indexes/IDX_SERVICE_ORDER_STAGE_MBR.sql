@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_service_order_stage_mbr ON sa.x_service_order_stage(account_group_member_id);

@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.smp_vdu_objects_sequence;

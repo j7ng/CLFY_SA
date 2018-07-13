@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_wex_return_order ON sa.wex_return_dispos_daily(bp_order);

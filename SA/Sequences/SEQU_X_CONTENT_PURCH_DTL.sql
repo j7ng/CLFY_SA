@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_x_content_purch_dtl;

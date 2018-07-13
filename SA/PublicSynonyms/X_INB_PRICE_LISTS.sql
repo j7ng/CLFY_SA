@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_inb_price_lists FOR sa.x_inb_price_lists;

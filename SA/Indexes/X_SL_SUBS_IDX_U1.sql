@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_sl_subs_idx_u1 ON sa.x_sl_subs(lid);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.cas_cas_role_cas_cas_role_ind ON sa.table_cas_cas_role(player2case,role_for2case,role_name);

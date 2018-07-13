@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_stgassign_v FOR sa.table_stgassign_v;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.udp_password_reset_seq TO PUBLIC;

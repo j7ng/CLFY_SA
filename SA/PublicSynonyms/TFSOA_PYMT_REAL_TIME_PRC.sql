@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tfsoa_pymt_real_time_prc FOR sa.tfsoa_pymt_real_time_prc;

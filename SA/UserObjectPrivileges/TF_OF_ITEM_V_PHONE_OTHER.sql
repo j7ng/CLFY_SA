@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.tf_of_item_v_phone_other TO dbit_mtoribiolopez;

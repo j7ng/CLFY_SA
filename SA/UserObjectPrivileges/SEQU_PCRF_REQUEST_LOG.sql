@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_pcrf_request_log TO PUBLIC;

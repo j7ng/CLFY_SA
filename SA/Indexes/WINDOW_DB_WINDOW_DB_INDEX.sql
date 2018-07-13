@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.window_db_window_db_index ON sa.table_window_db("ID",ver_clarify,ver_customer,locale);

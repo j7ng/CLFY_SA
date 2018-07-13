@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_dealer_comm_n2 ON sa.x_dealer_commissions(signup_confirm_code);

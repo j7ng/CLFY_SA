@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_crm_permissions FOR sa.x_crm_permissions;

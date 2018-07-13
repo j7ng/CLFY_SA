@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_campaign_codes_objindex ON sa.table_x_campaign_codes(objid);

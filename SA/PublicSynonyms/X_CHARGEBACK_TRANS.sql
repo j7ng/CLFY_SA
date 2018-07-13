@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_chargeback_trans FOR sa.x_chargeback_trans;

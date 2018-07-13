@@ -1,0 +1,4 @@
+CREATE OR REPLACE TYPE sa."IG_BUCKET_TAB"
+AS
+  TABLE OF ig_bucket;
+/

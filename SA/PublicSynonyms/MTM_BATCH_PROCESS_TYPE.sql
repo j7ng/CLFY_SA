@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_batch_process_type FOR sa.mtm_batch_process_type;

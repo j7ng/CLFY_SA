@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_zip_temp2 FOR sa.x_zip_temp2;

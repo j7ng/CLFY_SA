@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx1_b2b_promo_org ON sa.x_b2b_promo_org(x_commerce_id,x_promo_code);

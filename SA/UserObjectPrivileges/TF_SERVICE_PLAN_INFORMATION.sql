@@ -1,0 +1,12 @@
+GRANT EXECUTE ON sa.tf_service_plan_information TO cbo;
+GRANT EXECUTE ON sa.tf_service_plan_information TO clarify_administrator;
+GRANT EXECUTE ON sa.tf_service_plan_information TO clarify_user;
+GRANT EXECUTE ON sa.tf_service_plan_information TO corecbo;
+GRANT EXECUTE ON sa.tf_service_plan_information TO csrcbo;
+GRANT EXECUTE ON sa.tf_service_plan_information TO gw1;
+GRANT EXECUTE ON sa.tf_service_plan_information TO igate_batch;
+GRANT EXECUTE ON sa.tf_service_plan_information TO itds_user;
+GRANT EXECUTE ON sa.tf_service_plan_information TO role_sa_update;
+GRANT EXECUTE ON sa.tf_service_plan_information TO soacbo;
+GRANT EXECUTE ON sa.tf_service_plan_information TO w3ci;
+GRANT EXECUTE ON sa.tf_service_plan_information TO webcbo;

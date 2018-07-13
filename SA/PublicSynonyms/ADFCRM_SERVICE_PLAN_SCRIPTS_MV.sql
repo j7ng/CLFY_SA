@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_service_plan_scripts_mv FOR sa.adfcrm_service_plan_scripts_mv;

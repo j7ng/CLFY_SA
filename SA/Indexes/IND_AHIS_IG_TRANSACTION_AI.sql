@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_ahis_ig_transaction_ai ON sa.tstahis_ig_transaction(action_item_id);

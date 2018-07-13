@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.table_flash_dealers TO dbit_mtoribiolopez;

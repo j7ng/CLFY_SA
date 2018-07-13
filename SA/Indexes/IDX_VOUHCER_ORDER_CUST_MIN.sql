@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_vouhcer_order_cust_min ON sa.x_voucher_order_hdr(customer_min);

@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_referral_programs;

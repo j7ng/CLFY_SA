@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_task_history FOR sa.table_x_task_history;

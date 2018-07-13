@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_part_inst_old;

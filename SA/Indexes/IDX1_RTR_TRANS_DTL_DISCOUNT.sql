@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_rtr_trans_dtl_discount ON sa.x_rtr_trans_dtl_discount(rtr_trans_detail_objid);

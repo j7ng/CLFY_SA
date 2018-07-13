@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_job_activations_v FOR sa.x_job_activations_v;

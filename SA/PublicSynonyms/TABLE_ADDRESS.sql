@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_address FOR sa.table_address;

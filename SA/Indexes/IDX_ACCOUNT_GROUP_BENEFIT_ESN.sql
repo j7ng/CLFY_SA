@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_account_group_benefit_esn ON sa.x_account_group_benefit(part_num);

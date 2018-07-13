@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_rqst_skill TO PUBLIC;

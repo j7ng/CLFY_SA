@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_portout_winback_log TO PUBLIC;

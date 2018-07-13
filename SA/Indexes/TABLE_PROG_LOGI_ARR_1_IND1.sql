@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.table_prog_logi_arr_1_ind1 ON sa.table_prog_logic_array_1(objid,seq_num);

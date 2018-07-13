@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_head_shwitm FOR sa.table_head_shwitm;

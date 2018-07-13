@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM luts_line_scan FOR sa.luts_line_scan;

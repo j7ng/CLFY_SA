@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_hgbst_elm TO PUBLIC;

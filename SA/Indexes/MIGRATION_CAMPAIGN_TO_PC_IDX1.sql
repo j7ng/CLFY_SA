@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.migration_campaign_to_pc_idx1 ON sa.migration_campaign_to_pc(campaign_name,partclass,zipcode);

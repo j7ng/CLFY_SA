@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.reprocess_spr_failures TO dbit_kaborges;

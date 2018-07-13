@@ -1,0 +1,1 @@
+CREATE INDEX sa.indx_pymt_src ON sa.x_payment_source(pymt_src2web_user);

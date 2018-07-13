@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_privclass FOR sa.table_privclass;

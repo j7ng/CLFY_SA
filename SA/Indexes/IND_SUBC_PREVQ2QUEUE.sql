@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_subc_prevq2queue ON sa.table_subcase(subc_prevq2queue);

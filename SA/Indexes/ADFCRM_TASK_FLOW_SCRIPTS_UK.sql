@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.adfcrm_task_flow_scripts_uk ON sa.adfcrm_task_flow_scripts(task_id,step);

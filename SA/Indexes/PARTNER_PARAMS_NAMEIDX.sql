@@ -1,0 +1,1 @@
+CREATE INDEX sa.partner_params_nameidx ON sa.table_partner_params(param_name);

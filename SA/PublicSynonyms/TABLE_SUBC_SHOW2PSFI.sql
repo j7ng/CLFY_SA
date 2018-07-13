@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_subc_show2psfi FOR sa.table_subc_show2psfi;

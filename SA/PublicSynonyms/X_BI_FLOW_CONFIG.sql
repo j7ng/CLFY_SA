@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_bi_flow_config FOR sa.x_bi_flow_config;

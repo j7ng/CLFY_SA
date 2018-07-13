@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_rew_prog_mtm_sp ON sa.mtm_sp_reward_program(brand,source_system,reward_program_objid,service_plan_objid);

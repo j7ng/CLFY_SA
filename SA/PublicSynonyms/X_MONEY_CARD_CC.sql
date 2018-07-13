@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_money_card_cc FOR sa.x_money_card_cc;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.vzw_alt_575 TO dbit_mtoribiolopez;

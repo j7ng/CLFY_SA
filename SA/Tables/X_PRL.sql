@@ -1,0 +1,7 @@
+CREATE TABLE sa.x_prl (
+  "NAME" VARCHAR2(40 BYTE),
+  slot_seq VARCHAR2(10 BYTE),
+  "PARENT" VARCHAR2(40 BYTE),
+  parent_id VARCHAR2(30 BYTE)
+);
+ALTER TABLE sa.x_prl ADD SUPPLEMENTAL LOG GROUP dmtsora1389990646_0 ("NAME", "PARENT", parent_id, slot_seq) ALWAYS;

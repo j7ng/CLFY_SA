@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.price_factor_id_ind ON sa.table_price_factor(factor_id);

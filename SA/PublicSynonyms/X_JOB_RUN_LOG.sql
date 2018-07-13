@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_job_run_log FOR sa.x_job_run_log;

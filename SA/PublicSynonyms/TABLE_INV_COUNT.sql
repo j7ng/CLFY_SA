@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_inv_count FOR sa.table_inv_count;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_canceltosuspend_ndx3 ON sa.x_canceltosuspend(x_status,x_cancelto_suspend_date);

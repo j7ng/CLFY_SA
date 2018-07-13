@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_rp_extension_link ON sa.x_rp_extension_link(carrier_feature_objid,rp_extension_objid,profile_id);

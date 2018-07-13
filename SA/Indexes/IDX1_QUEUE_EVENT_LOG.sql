@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_queue_event_log ON sa.x_queue_event_log(queue_event_log_status);

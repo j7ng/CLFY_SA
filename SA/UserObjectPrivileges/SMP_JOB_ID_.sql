@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.smp_job_id_ TO PUBLIC;

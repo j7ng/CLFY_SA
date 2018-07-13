@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM repcat_log_sequence FOR sa.repcat_log_sequence;

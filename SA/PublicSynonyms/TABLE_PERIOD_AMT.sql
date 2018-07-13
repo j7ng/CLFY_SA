@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_period_amt FOR sa.table_period_amt;

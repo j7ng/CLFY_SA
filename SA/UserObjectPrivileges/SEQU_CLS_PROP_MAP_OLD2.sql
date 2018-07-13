@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_cls_prop_map_old2 TO PUBLIC;

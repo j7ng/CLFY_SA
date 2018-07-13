@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ubi_ele_glossary FOR sa.ubi_ele_glossary;

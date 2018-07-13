@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_customer_lease ON sa.x_customer_lease(application_req_num);

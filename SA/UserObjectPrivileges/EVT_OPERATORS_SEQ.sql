@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.evt_operators_seq TO PUBLIC;

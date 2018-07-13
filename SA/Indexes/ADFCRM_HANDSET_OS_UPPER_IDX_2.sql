@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_handset_os_upper_idx_2 ON sa.adfcrm_handset_os(operating_system,os_version);

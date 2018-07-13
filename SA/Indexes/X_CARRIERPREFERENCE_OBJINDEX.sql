@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_carrierpreference_objindex ON sa.table_x_carrierpreference(objid);

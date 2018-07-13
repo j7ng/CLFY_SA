@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_user_array_1 FOR sa.table_user_array_1;

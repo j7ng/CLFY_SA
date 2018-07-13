@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.usr_bus_role_objindex ON sa.table_usr_bus_role(objid);

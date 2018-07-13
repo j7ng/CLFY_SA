@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_ach_prog_trans2 ON sa.x_ach_prog_trans(ach_trans2x_purch_hdr);

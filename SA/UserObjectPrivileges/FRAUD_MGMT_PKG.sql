@@ -1,0 +1,9 @@
+GRANT EXECUTE ON sa.fraud_mgmt_pkg TO cbo;
+GRANT EXECUTE ON sa.fraud_mgmt_pkg TO clarify_administrator;
+GRANT EXECUTE ON sa.fraud_mgmt_pkg TO clarify_user;
+GRANT EXECUTE ON sa.fraud_mgmt_pkg TO corecbo;
+GRANT EXECUTE ON sa.fraud_mgmt_pkg TO csrcbo;
+GRANT EXECUTE ON sa.fraud_mgmt_pkg TO gw1;
+GRANT EXECUTE ON sa.fraud_mgmt_pkg TO role_sa_update;
+GRANT EXECUTE ON sa.fraud_mgmt_pkg TO soacbo;
+GRANT EXECUTE ON sa.fraud_mgmt_pkg TO webcbo;

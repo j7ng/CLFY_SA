@@ -1,0 +1,1 @@
+CREATE INDEX sa.ix1_x_bogo_tsp_id ON sa.x_bogo_tsp_id(door_type);

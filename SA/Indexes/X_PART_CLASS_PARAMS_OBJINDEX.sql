@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_part_class_params_objindex ON sa.table_x_part_class_params(objid);

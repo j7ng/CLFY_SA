@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_time_zone FOR sa.table_time_zone;

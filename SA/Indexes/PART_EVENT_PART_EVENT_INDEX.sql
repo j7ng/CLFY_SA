@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.part_event_part_event_index ON sa.table_part_event(rpt_time,rpt_event_gid,rpt_event_sid,instance_nm,part_event2site_part);

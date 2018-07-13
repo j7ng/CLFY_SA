@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.contact_role_objindex ON sa.table_contact_role(objid);

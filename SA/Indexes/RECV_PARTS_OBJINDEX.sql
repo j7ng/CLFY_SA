@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.recv_parts_objindex ON sa.table_recv_parts(objid);

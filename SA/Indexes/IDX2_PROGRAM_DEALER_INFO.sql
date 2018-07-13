@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_program_dealer_info ON sa.x_program_dealer_info(pcrf_subscriber_id);

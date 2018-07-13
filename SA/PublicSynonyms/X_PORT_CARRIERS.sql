@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_port_carriers FOR sa.x_port_carriers;

@@ -1,0 +1,17 @@
+GRANT DELETE ON sa.table_mobile_complete_handset TO role_sa_select;
+GRANT INSERT ON sa.table_mobile_complete_handset TO role_sa_select;
+GRANT SELECT ON sa.table_mobile_complete_handset TO cbo;
+GRANT SELECT ON sa.table_mobile_complete_handset TO clarify_administrator;
+GRANT SELECT ON sa.table_mobile_complete_handset TO clarify_user;
+GRANT SELECT ON sa.table_mobile_complete_handset TO corecbo;
+GRANT SELECT ON sa.table_mobile_complete_handset TO csrcbo;
+GRANT SELECT ON sa.table_mobile_complete_handset TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.table_mobile_complete_handset TO igate_batch;
+GRANT SELECT ON sa.table_mobile_complete_handset TO role_report_select;
+GRANT SELECT ON sa.table_mobile_complete_handset TO role_sa_select;
+GRANT SELECT ON sa.table_mobile_complete_handset TO role_sa_update;
+GRANT SELECT ON sa.table_mobile_complete_handset TO role_tf_select;
+GRANT SELECT ON sa.table_mobile_complete_handset TO select_role;
+GRANT SELECT ON sa.table_mobile_complete_handset TO soacbo;
+GRANT SELECT ON sa.table_mobile_complete_handset TO webcbo;
+GRANT UPDATE ON sa.table_mobile_complete_handset TO role_sa_select;

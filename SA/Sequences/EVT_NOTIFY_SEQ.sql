@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.evt_notify_seq;

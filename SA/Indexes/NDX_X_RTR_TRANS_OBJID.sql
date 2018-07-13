@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ndx_x_rtr_trans_objid ON sa.x_rtr_trans(objid);

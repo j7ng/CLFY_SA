@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx6_rtr_trans_detail ON sa.x_rtr_trans_detail(extract_flag);

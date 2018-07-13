@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx5_queue_event_log ON sa.x_queue_event_log(call_trans_objid);

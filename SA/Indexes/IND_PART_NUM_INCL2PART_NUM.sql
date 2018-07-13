@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_part_num_incl2part_num ON sa.mtm_mod_level4_mod_level5(part_num_incl2part_num);

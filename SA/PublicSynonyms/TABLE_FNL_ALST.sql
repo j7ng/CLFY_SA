@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_fnl_alst FOR sa.table_fnl_alst;

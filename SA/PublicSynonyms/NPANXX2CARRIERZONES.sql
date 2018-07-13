@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM npanxx2carrierzones FOR sa.npanxx2carrierzones;

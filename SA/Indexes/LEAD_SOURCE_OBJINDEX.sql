@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.lead_source_objindex ON sa.table_lead_source(objid);

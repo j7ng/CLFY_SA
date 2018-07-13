@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_seq_table FOR sa.x_seq_table;

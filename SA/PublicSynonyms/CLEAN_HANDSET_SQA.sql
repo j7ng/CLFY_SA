@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM clean_handset_sqa FOR sa.clean_handset_sqa;

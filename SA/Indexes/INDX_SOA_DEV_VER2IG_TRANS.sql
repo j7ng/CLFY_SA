@@ -1,0 +1,1 @@
+CREATE INDEX sa.indx_soa_dev_ver2ig_trans ON sa.x_soa_device_verification(x_soa_dev_ver2ig_transaction);

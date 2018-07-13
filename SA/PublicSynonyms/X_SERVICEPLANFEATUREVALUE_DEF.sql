@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_serviceplanfeaturevalue_def FOR sa.x_serviceplanfeaturevalue_def;

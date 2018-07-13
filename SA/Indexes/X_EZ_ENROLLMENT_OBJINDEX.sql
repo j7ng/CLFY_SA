@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_ez_enrollment_objindex ON sa.table_x_ez_enrollment(objid);

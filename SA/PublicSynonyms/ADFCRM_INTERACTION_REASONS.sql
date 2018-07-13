@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_interaction_reasons FOR sa.adfcrm_interaction_reasons;

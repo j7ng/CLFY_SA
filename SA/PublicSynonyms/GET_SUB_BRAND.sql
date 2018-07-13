@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM get_sub_brand FOR sa.get_sub_brand;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.csc_inst_part_objindex ON sa.table_csc_inst_part(objid);

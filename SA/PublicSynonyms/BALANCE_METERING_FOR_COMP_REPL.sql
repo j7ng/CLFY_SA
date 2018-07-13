@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM balance_metering_for_comp_repl FOR sa.balance_metering_for_comp_repl;

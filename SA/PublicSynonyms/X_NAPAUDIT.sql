@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_napaudit FOR sa.x_napaudit;

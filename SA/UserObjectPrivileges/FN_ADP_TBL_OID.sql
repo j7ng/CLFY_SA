@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.fn_adp_tbl_oid TO clarify_jobs_role;

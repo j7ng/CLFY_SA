@@ -1,0 +1,1 @@
+CREATE INDEX sa.idxx_x_payment_log_dt ON sa.x_payment_log(insert_date);

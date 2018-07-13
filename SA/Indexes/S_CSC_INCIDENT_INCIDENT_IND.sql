@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.s_csc_incident_incident_ind ON sa.table_csc_incident(server_id,s_requestor_id,local_ind);

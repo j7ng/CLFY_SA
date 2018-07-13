@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_mtm_permitted_esnstatus ON sa.x_mtm_permitted_esnstatus(program_param_objid,esn_status_objid);

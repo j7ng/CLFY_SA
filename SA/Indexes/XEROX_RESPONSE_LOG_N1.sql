@@ -1,0 +1,1 @@
+CREATE INDEX sa.xerox_response_log_n1 ON sa.xerox_response_log(subscriber_account_number);

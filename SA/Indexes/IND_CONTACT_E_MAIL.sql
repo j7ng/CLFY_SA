@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_contact_e_mail ON sa.table_contact(e_mail);

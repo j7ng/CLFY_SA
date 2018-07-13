@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.adfcrm_comp_repl_awop_idx1 ON sa.adfcrm_comp_repl_awop_reasons(objid);

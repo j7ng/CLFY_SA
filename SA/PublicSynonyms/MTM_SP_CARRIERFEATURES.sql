@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_sp_carrierfeatures FOR sa.mtm_sp_carrierfeatures;

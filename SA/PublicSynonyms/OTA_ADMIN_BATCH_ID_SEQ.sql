@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ota_admin_batch_id_seq FOR sa.ota_admin_batch_id_seq;

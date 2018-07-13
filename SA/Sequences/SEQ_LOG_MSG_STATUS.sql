@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.seq_log_msg_status;

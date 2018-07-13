@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_x_carrier34_x_scripts0 FOR sa.mtm_x_carrier34_x_scripts0;

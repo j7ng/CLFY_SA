@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_gethandsetinfo FOR sa.x_gethandsetinfo;

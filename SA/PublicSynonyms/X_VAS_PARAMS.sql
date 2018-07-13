@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_vas_params FOR sa.x_vas_params;

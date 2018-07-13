@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.part_trans_objindex ON sa.table_part_trans(objid);

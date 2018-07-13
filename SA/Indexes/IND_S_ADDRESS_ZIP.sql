@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_s_address_zip ON sa.table_address(s_address,zipcode);

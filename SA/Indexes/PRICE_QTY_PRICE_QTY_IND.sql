@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.price_qty_price_qty_ind ON sa.table_price_qty(priced_part2mod_level,context_part2mod_level,priced_qty,priced2vendor_part);

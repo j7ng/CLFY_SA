@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_enroll_promo_grp2esn FOR sa.x_enroll_promo_grp2esn;

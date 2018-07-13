@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_topp_err_codes_old2 TO PUBLIC;

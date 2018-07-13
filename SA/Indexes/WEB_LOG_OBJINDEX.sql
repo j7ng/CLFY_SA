@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.web_log_objindex ON sa.table_web_log(objid);

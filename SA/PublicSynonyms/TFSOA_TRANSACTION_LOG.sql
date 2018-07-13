@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tfsoa_transaction_log FOR sa.tfsoa_transaction_log;

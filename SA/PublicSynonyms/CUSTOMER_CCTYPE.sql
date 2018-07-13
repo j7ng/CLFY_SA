@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_cctype FOR sa.customer_cctype;

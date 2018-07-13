@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.trnd_inst_objindex ON sa.table_trnd_inst(objid);

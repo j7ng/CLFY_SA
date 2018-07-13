@@ -1,0 +1,23 @@
+CREATE TABLE sa.x_subscriber_enrollments_hist (
+  sub_enr_objid NUMBER NOT NULL,
+  pgm_enrolled_objid NUMBER,
+  x_esn VARCHAR2(30 BYTE),
+  enrollment_type VARCHAR2(40 BYTE),
+  enrolled_status VARCHAR2(30 BYTE),
+  enrolled_program VARCHAR2(30 BYTE),
+  enroll_rqst_channel VARCHAR2(30 BYTE),
+  enr_inception_promo VARCHAR2(30 BYTE),
+  enr_recurring_promo VARCHAR2(30 BYTE),
+  pay_src_objid NUMBER,
+  wu_objid NUMBER,
+  cust_name VARCHAR2(100 BYTE),
+  cust_address VARCHAR2(150 BYTE),
+  cust_email VARCHAR2(100 BYTE),
+  cust_ccexpd VARCHAR2(10 BYTE),
+  enroll_start_date DATE,
+  next_charge_date DATE,
+  bill_acct_num VARCHAR2(30 BYTE),
+  bill_grp_num VARCHAR2(30 BYTE),
+  updated_by VARCHAR2(30 BYTE),
+  change_date DATE
+);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_shopping_list_id TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_control_db FOR sa.table_control_db;

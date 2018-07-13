@@ -1,0 +1,13 @@
+GRANT SELECT ON sa.mtm_vas_handset TO cbo;
+GRANT SELECT ON sa.mtm_vas_handset TO clarify_administrator;
+GRANT SELECT ON sa.mtm_vas_handset TO clarify_user;
+GRANT SELECT ON sa.mtm_vas_handset TO corecbo;
+GRANT SELECT ON sa.mtm_vas_handset TO csrcbo;
+GRANT SELECT ON sa.mtm_vas_handset TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.mtm_vas_handset TO gw1;
+GRANT SELECT ON sa.mtm_vas_handset TO role_report_select;
+GRANT SELECT ON sa.mtm_vas_handset TO role_sa_select;
+GRANT SELECT ON sa.mtm_vas_handset TO role_sa_update;
+GRANT SELECT ON sa.mtm_vas_handset TO role_tf_select;
+GRANT SELECT ON sa.mtm_vas_handset TO soacbo;
+GRANT SELECT ON sa.mtm_vas_handset TO webcbo;

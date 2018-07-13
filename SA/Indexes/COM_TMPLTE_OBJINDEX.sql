@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.com_tmplte_objindex ON sa.table_com_tmplte(objid);

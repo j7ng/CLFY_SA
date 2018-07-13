@@ -1,0 +1,1 @@
+CREATE INDEX sa.ix4_bogo_configuration ON sa.x_bogo_configuration(appl_execution_id);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_call_trans ON sa.table_x_call_trans(x_service_id,x_min,x_transact_date,x_action_type);

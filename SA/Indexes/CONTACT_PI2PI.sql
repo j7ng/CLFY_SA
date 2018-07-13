@@ -1,0 +1,1 @@
+CREATE INDEX sa.contact_pi2pi ON sa.table_x_contact_part_inst(x_contact_part_inst2part_inst);

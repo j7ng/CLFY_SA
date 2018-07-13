@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.temp_load_esn_gold TO dbit_mtoribiolopez;

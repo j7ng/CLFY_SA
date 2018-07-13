@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_udp_user_brand_enable TO PUBLIC;

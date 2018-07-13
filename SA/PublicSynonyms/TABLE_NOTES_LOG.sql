@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_notes_log FOR sa.table_notes_log;

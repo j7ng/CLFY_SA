@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_anlys_rspns FOR sa.table_anlys_rspns;

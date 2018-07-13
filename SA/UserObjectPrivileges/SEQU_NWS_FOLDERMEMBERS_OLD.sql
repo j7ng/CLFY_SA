@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_nws_foldermembers_old TO PUBLIC;

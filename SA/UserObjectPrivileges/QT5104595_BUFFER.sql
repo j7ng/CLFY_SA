@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.qt5104595_buffer TO sa;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ix1_expire_acct_add_on_benefit ON sa.x_expire_acct_add_on_benefit("MIN");

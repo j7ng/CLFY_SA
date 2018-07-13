@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_purch_dtl_x_smp ON sa.table_x_purch_dtl(x_smp);

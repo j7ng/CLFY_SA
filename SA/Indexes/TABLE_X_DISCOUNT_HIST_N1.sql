@@ -1,0 +1,1 @@
+CREATE INDEX sa.table_x_discount_hist_n1 ON sa.table_x_discount_hist(x_esn);

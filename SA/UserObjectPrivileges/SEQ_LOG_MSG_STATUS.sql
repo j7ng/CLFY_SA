@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_log_msg_status TO PUBLIC;

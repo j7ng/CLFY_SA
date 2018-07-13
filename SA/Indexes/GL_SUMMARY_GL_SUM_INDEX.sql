@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.gl_summary_gl_sum_index ON sa.table_gl_summary(gl_summary2gl_sum_log,fm_summary2inv_locatn,to_summary2inv_locatn);

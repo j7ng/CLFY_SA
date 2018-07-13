@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_case54_part_event0 FOR sa.mtm_case54_part_event0;

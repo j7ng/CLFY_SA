@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_mtm_soltask_flows_hist FOR sa.adfcrm_mtm_soltask_flows_hist;

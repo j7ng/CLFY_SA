@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_table_shell_part_num ON sa.table_shell_part_num(shell_part_num_objid);

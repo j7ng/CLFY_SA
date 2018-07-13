@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.web_object_objindex ON sa.table_web_object(objid);

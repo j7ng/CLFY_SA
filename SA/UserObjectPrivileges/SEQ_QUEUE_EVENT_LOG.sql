@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_queue_event_log TO PUBLIC;

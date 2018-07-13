@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_vas_event_counter_1 ON sa.x_vas_event_counter(vas_event,vas_objectvalue);

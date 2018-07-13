@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_privatepreferences_i5417 ON sa.table_n_privatepreferences(n_name);

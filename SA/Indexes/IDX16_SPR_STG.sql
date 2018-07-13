@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx16_spr_stg ON sa.x_pageplus_spr_staging(rate_plan);

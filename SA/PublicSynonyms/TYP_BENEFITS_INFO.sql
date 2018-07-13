@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM typ_benefits_info FOR sa.typ_benefits_info;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.microsoft_pk_dtproperties ON sa.microsoftdtproperties("ID",property);

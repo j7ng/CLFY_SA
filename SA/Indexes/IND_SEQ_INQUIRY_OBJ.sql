@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_seq_inquiry_obj ON sa.table_seq_inquiry(objid);

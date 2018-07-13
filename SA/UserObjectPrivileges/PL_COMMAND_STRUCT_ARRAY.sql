@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.pl_command_struct_array TO clarify_user;

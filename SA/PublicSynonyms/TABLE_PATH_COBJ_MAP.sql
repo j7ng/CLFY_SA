@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_path_cobj_map FOR sa.table_path_cobj_map;

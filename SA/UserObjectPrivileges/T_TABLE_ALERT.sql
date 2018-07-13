@@ -1,0 +1,17 @@
+GRANT ALTER ON sa.t_table_alert TO clarify_administrator;
+GRANT DEBUG ON sa.t_table_alert TO clarify_administrator;
+GRANT DELETE ON sa.t_table_alert TO clarify_administrator;
+GRANT DELETE ON sa.t_table_alert TO clarify_user;
+GRANT FLASHBACK ON sa.t_table_alert TO clarify_administrator;
+GRANT INSERT ON sa.t_table_alert TO clarify_administrator;
+GRANT INSERT ON sa.t_table_alert TO clarify_user;
+GRANT ON COMMIT REFRESH ON sa.t_table_alert TO clarify_administrator;
+GRANT QUERY REWRITE ON sa.t_table_alert TO clarify_administrator;
+GRANT SELECT ON sa.t_table_alert TO clarify_administrator;
+GRANT SELECT ON sa.t_table_alert TO clarify_reporter;
+GRANT SELECT ON sa.t_table_alert TO clarify_user;
+GRANT SELECT ON sa.t_table_alert TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.t_table_alert TO role_tf_select;
+GRANT SELECT ON sa.t_table_alert TO select_role;
+GRANT UPDATE ON sa.t_table_alert TO clarify_administrator;
+GRANT UPDATE ON sa.t_table_alert TO clarify_user;

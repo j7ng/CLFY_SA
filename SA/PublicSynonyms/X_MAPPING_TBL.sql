@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_mapping_tbl FOR sa.x_mapping_tbl;

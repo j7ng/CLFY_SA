@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.fix_missing_contact_sweep TO dbit_mtoribiolopez;

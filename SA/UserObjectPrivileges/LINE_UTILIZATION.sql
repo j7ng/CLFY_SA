@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.line_utilization TO dbit_mtoribiolopez;

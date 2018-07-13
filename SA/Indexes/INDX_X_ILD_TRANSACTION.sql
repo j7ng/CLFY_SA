@@ -1,0 +1,1 @@
+CREATE INDEX sa.indx_x_ild_transaction ON sa.table_x_ild_transaction(x_esn);

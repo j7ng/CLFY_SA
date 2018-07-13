@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_cert FOR sa.x_cert;

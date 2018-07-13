@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_queue_event_log_status FOR sa.x_queue_event_log_status;

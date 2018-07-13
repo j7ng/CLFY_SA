@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_xsu_hmo_request_lid ON sa.xsu_hmo_request(x_safelink_id);

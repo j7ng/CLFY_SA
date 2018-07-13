@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM nap_c_choice FOR sa.nap_c_choice;

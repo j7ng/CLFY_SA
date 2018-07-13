@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_locale FOR sa.table_locale;

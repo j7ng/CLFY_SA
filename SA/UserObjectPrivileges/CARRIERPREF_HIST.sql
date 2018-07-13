@@ -1,0 +1,11 @@
+GRANT ALTER ON sa.carrierpref_hist TO toppapp;
+GRANT DELETE ON sa.carrierpref_hist TO toppapp;
+GRANT INDEX ON sa.carrierpref_hist TO toppapp;
+GRANT INSERT ON sa.carrierpref_hist TO toppapp;
+GRANT REFERENCES ON sa.carrierpref_hist TO toppapp;
+GRANT SELECT ON sa.carrierpref_hist TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.carrierpref_hist TO role_sa_select;
+GRANT SELECT ON sa.carrierpref_hist TO role_tf_select;
+GRANT SELECT ON sa.carrierpref_hist TO select_role;
+GRANT SELECT ON sa.carrierpref_hist TO toppapp;
+GRANT UPDATE ON sa.carrierpref_hist TO toppapp;

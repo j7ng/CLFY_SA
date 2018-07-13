@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_cf_throttle_status FOR sa.x_cf_throttle_status;

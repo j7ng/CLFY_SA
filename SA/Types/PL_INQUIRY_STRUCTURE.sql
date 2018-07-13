@@ -1,0 +1,14 @@
+CREATE OR REPLACE TYPE sa."PL_INQUIRY_STRUCTURE"                                                                          AS OBJECT
+(
+    FIRST_STRING        VARCHAR2(200),
+    SECOND_STRING       VARCHAR2(200),
+    THIRD_STRING        VARCHAR2(200),
+    FOURTH_STRING       VARCHAR2(200),
+    FIFTH_STRING        VARCHAR2(200),
+    SIXTH_STRING        VARCHAR2(200),
+    SEVENTH_STRING      VARCHAR2(200),
+    EIGHTH_STRING       VARCHAR2(200),
+    NINTH_STRING        VARCHAR2(200),
+    TENTH_STRING        VARCHAR2(200)
+)
+/

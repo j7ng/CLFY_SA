@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_carr_personality FOR sa.table_x_carr_personality;

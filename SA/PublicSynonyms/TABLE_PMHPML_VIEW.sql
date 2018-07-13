@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_pmhpml_view FOR sa.table_pmhpml_view;

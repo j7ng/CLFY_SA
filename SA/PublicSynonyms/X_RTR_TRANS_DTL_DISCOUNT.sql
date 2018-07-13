@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_rtr_trans_dtl_discount FOR sa.x_rtr_trans_dtl_discount;

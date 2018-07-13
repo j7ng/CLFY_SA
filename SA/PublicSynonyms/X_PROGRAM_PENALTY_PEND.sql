@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_program_penalty_pend FOR sa.x_program_penalty_pend;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_event_stats TO PUBLIC;

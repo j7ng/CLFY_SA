@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_device_recovery_code FOR sa.x_device_recovery_code;

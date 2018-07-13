@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_rp_ancillary_code FOR sa.x_rp_ancillary_code;

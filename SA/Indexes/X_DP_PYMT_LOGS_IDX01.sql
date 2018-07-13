@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_dp_pymt_logs_idx01 ON sa.x_dp_payment_logs(x_merchant_ref_number);

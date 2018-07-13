@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_cf_extension FOR sa.x_cf_extension;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.luts3 ON sa.luts_line_scan(npa,nxx);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_spr_transaction_log FOR sa.x_spr_transaction_log;

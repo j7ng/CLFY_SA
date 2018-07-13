@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.clear_tnumber_man TO role_sqa_tester;

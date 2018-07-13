@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_pending_redemption_objindex ON sa.table_x_pending_redemption(objid);

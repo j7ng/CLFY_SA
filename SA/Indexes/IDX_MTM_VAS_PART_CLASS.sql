@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_mtm_vas_part_class ON sa.mtm_vas_handset(part_class_objid);

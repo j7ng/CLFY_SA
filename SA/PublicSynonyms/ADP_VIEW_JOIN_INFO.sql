@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adp_view_join_info FOR sa.adp_view_join_info;

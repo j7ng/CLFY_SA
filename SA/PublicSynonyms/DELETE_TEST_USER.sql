@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM delete_test_user FOR sa.delete_test_user;

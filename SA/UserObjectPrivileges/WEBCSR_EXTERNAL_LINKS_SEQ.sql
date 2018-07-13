@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.webcsr_external_links_seq TO PUBLIC;

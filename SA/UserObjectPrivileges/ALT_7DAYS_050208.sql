@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.alt_7days_050208 TO dbit_mtoribiolopez;

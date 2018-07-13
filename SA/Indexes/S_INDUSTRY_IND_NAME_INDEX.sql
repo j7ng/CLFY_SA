@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.s_industry_ind_name_index ON sa.table_industry(s_name);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_features_update TO dbit_mtoribiolopez;

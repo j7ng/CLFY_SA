@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.bin_role_objindex ON sa.table_bin_role(objid);

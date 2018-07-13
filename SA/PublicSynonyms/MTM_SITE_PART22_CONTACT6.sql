@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_site_part22_contact6 FOR sa.mtm_site_part22_contact6;

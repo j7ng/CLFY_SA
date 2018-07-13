@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_rp_extension_config ON sa.x_rp_extension_config(profile_id);

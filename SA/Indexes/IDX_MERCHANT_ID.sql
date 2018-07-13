@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_merchant_id ON sa.x_biz_purch_hdr(x_merchant_id);

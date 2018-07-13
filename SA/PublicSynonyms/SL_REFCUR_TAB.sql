@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sl_refcur_tab FOR sa.sl_refcur_tab;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_gbst_lst TO PUBLIC;

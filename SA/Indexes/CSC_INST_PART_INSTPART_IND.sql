@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.csc_inst_part_instpart_ind ON sa.table_csc_inst_part(server_id,inst2csc_part_rev,"NAME");

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_pricing_hist TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_settlements_history3 ON sa.x_settlements_history(merchant_order);

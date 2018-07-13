@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_zero_out_max FOR sa.table_x_zero_out_max;

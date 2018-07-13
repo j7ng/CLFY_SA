@@ -1,0 +1,1 @@
+CREATE INDEX sa.table_x_pi_hist_idx_n1 ON sa.table_x_pi_hist(x_change_reason,x_part_inst_status);

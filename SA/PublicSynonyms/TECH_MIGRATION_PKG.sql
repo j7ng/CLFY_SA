@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tech_migration_pkg FOR sa.tech_migration_pkg;

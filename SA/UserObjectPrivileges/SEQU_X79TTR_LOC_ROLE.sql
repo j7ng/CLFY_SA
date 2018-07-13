@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x79ttr_loc_role TO PUBLIC;

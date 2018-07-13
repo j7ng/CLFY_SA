@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.paul_full_nxx_npa_list TO dbit_mtoribiolopez;

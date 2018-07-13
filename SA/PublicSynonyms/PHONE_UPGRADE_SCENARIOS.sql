@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM phone_upgrade_scenarios FOR sa.phone_upgrade_scenarios;

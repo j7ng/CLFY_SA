@@ -1,0 +1,1 @@
+CREATE INDEX sa.insert_timestamp_idx ON sa.x_process_order_extension(insert_timestamp);

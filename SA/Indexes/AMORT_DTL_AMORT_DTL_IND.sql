@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.amort_dtl_amort_dtl_ind ON sa.table_amort_dtl(prd_start_dt,last_gen_dt,amort_dtl2contr_itm,amort_dtl2contr_pr,detail2contr_schedule);

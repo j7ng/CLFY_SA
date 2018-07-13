@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_inventory_check FOR sa.adfcrm_inventory_check;

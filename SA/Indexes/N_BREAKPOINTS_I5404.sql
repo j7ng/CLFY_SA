@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_breakpoints_i5404 ON sa.table_n_breakpoints(n_brkpnt2user,n_brkpnt2n_functions,n_lineno);

@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.clean_total_wireless_device TO role_sqa_tester;

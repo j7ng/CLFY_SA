@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_ntfy_tmplt_mas FOR sa.x_ntfy_tmplt_mas;

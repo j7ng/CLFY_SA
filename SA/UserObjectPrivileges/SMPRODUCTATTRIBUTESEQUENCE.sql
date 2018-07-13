@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.smproductattributesequence TO PUBLIC;

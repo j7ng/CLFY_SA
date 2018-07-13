@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_not_certify_models_objindex ON sa.table_x_not_certify_models(objid);

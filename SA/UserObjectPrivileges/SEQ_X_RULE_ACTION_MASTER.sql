@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_rule_action_master TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pc_params_view FOR sa.pc_params_view;

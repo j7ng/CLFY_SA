@@ -1,0 +1,1 @@
+CREATE INDEX sa.ix3_x_bogo_tsp_id ON sa.x_bogo_tsp_id(dealer_id);

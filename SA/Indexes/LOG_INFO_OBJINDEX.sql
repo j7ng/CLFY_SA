@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.log_info_objindex ON sa.table_log_info(objid);

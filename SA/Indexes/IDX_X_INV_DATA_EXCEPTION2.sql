@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_inv_data_exception2 ON sa.x_inv_data_exception(x_process_date);

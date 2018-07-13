@@ -1,0 +1,11 @@
+GRANT EXECUTE ON sa.get_cc_flag TO cbo;
+GRANT EXECUTE ON sa.get_cc_flag TO clarify_administrator;
+GRANT EXECUTE ON sa.get_cc_flag TO clarify_user;
+GRANT EXECUTE ON sa.get_cc_flag TO corecbo;
+GRANT EXECUTE ON sa.get_cc_flag TO csrcbo;
+GRANT EXECUTE ON sa.get_cc_flag TO gw1;
+GRANT EXECUTE ON sa.get_cc_flag TO igate_batch;
+GRANT EXECUTE ON sa.get_cc_flag TO role_sa_update;
+GRANT EXECUTE ON sa.get_cc_flag TO soacbo;
+GRANT EXECUTE ON sa.get_cc_flag TO w3ci;
+GRANT EXECUTE ON sa.get_cc_flag TO webcbo;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_payment_real_time ON sa.x_payment_real_time(seq_id);

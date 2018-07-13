@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_sui_trans_esn_idx1 ON sa.adfcrm_sui_trans(esn,txn_date);

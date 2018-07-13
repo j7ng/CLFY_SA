@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM paper_active_log FOR sa.paper_active_log;

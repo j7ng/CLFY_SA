@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.pl_psms_code_structure TO clarify_user;

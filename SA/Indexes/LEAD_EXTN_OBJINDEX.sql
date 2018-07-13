@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.lead_extn_objindex ON sa.table_lead_extn(objid);

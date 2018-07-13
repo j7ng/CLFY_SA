@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_task_wip2wipbins ON sa.table_task(task_wip2wipbin);

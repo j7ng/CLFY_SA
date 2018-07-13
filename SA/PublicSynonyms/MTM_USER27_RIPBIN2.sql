@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_user27_ripbin2 FOR sa.mtm_user27_ripbin2;

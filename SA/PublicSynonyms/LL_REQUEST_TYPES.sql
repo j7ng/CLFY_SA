@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ll_request_types FOR sa.ll_request_types;

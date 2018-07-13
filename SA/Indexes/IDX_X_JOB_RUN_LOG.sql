@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_job_run_log ON sa.x_job_run_log(objid);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.pk1_wfm_min_promo_code ON sa.x_wfm_min_promo_code(promo_code);

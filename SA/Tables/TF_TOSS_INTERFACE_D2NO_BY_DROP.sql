@@ -1,0 +1,26 @@
+CREATE TABLE sa.tf_toss_interface_d2no_by_drop (
+  tf_part_num_parent VARCHAR2(100 BYTE) NOT NULL,
+  tf_part_num_transpose VARCHAR2(100 BYTE) NOT NULL,
+  toss_extract_flag VARCHAR2(100 BYTE) NOT NULL,
+  tf_serial_num VARCHAR2(100 BYTE) NOT NULL,
+  tf_part_type VARCHAR2(100 BYTE) NOT NULL,
+  tf_card_pin_num VARCHAR2(100 BYTE),
+  transceiver_num VARCHAR2(100 BYTE),
+  tf_manuf_location_code VARCHAR2(100 BYTE),
+  tf_manuf_location_name VARCHAR2(100 BYTE),
+  tf_ff_location_code VARCHAR2(100 BYTE),
+  tf_ret_location_code VARCHAR2(100 BYTE),
+  tf_order_num VARCHAR2(40 BYTE),
+  creation_date DATE NOT NULL,
+  created_by VARCHAR2(100 BYTE) NOT NULL,
+  ff_receive_date DATE,
+  retailer_ship_date DATE,
+  serial_invalid_date DATE,
+  serial_valid_insert_date DATE,
+  tf_po_num VARCHAR2(100 BYTE) NOT NULL,
+  toss_extract_date DATE,
+  toss_redemption_code VARCHAR2(100 BYTE),
+  last_update_date DATE NOT NULL,
+  last_updated_by VARCHAR2(100 BYTE) NOT NULL
+);
+ALTER TABLE sa.tf_toss_interface_d2no_by_drop ADD SUPPLEMENTAL LOG GROUP dmtsora53137704_0 (created_by, creation_date, ff_receive_date, last_updated_by, last_update_date, retailer_ship_date, serial_invalid_date, serial_valid_insert_date, tf_card_pin_num, tf_ff_location_code, tf_manuf_location_code, tf_manuf_location_name, tf_order_num, tf_part_num_parent, tf_part_num_transpose, tf_part_type, tf_po_num, tf_ret_location_code, tf_serial_num, toss_extract_date, toss_extract_flag, toss_redemption_code, transceiver_num) ALWAYS;

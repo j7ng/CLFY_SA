@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.web_filter_web_filter_ind ON sa.table_web_filter(web_filter2web_user,obj_type,title);

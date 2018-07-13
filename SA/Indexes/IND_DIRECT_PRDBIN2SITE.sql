@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_direct_prdbin2site ON sa.table_productbin(direct_prdbin2site,"NAME");

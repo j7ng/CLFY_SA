@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_privclass7_value_item2 FOR sa.mtm_privclass7_value_item2;

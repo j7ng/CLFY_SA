@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.bus_addr_role_bus_addr_index ON sa.table_bus_addr_role(role_name,focus_type,bus_addr_role2address,bus_addr_role2bus_org);

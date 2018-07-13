@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_purch_hdr_esn_objid_ind ON sa.table_x_purch_hdr(x_purch_hdr2esn);

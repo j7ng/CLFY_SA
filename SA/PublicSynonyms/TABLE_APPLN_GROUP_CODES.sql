@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_appln_group_codes FOR sa.table_appln_group_codes;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_payment_detail_staging ON sa.x_payment_detail_staging(insert_timestamp);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_crm_batch_file_temp TO dbit_mtoribiolopez;

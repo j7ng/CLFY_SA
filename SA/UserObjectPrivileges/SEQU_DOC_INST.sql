@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_doc_inst TO PUBLIC;

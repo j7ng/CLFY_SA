@@ -1,0 +1,1 @@
+CREATE INDEX sa.focus_index ON sa.table_transition(focus_type,focus_subtype);

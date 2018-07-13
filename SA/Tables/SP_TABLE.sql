@@ -1,0 +1,5 @@
+CREATE TABLE sa.sp_table (
+  "OWNER" VARCHAR2(10 BYTE),
+  owner_name VARCHAR2(60 BYTE)
+);
+ALTER TABLE sa.sp_table ADD SUPPLEMENTAL LOG GROUP dmtsora107024997_0 ("OWNER", owner_name) ALWAYS;

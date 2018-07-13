@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.mui_mui_role_mui_mui_role_ind ON sa.table_mui_mui_role(player2menu_item,role_for2menu_item,role_name);

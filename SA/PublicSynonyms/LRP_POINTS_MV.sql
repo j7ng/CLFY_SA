@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM lrp_points_mv FOR sa.lrp_points_mv;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_part_num22_x_ff_center2 FOR sa.mtm_part_num22_x_ff_center2;

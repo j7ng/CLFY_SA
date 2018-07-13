@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_point_trans_trans_date ON sa.table_x_point_trans(x_trans_date);

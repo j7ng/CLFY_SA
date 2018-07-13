@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.usr_bus_role_usrbus_role_ind ON sa.table_usr_bus_role(usr_bus_role2user,usr_bus_role2bus_org,role_name);

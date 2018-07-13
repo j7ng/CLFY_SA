@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_policy_rule_dealer ON sa.x_policy_rule_dealer(site_id,inactive_flag,policy_rule_config_objid);

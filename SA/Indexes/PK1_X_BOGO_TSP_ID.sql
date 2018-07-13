@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.pk1_x_bogo_tsp_id ON sa.x_bogo_tsp_id(tsp_id);

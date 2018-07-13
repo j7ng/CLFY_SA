@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.dataset_dataset_index ON sa.table_dataset(dataset_name);

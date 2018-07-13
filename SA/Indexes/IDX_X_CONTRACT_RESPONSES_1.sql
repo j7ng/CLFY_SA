@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_contract_responses_1 ON sa.x_contract_responses(x_status,x_status_date,x_action_code);

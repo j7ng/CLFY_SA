@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_e911_esn TO PUBLIC;

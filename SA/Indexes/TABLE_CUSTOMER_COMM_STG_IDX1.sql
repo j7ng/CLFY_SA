@@ -1,0 +1,1 @@
+CREATE INDEX sa.table_customer_comm_stg_idx1 ON sa.table_customer_comm_stg(brand,status);

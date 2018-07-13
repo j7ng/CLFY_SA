@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.template_objindex ON sa.table_template(objid);

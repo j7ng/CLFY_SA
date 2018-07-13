@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_x_alt_esn FOR sa.sequ_x_alt_esn;

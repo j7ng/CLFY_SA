@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_subc_email2subcase ON sa.table_email_log(subc_email2subcase);

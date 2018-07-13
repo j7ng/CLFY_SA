@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_dataset FOR sa.table_dataset;

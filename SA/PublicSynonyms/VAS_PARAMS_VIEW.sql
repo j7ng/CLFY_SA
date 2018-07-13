@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vas_params_view FOR sa.vas_params_view;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_privclass2value_item ON sa.mtm_privclass7_value_item2(privclass2value_item,value_item2privclass);

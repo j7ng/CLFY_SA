@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.fix_min_not_in_inv_sweep TO dbit_mtoribiolopez;

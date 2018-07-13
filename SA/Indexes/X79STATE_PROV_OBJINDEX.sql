@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79state_prov_objindex ON sa.table_x79state_prov(objid);

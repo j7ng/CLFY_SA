@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_service_provider_config ON sa.x_service_provider_config(brand_name);

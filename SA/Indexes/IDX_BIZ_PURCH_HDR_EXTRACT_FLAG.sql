@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_biz_purch_hdr_extract_flag ON sa.x_biz_purch_hdr(tf_extract_flag);

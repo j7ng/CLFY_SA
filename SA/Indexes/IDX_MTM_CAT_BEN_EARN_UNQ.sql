@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_mtm_cat_ben_earn_unq ON sa.x_mtm_catalog_benefit_earning(catalog_objid,benefit_earning_objid);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.tf_of_item_v_072407_idx ON sa.tf_of_item_v_072407(part_number);

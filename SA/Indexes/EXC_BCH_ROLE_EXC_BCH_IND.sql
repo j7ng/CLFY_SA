@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.exc_bch_role_exc_bch_ind ON sa.table_exc_bch_role(exc_bch_role2biz_cal_hdr,exc_bch_role2exchange,role_name);

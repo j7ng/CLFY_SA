@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.adfcrm_ticker_history_idx1 ON sa.adfcrm_ticker_history(objid);

@@ -1,0 +1,10 @@
+GRANT EXECUTE ON sa.sp_insert_error TO cbo;
+GRANT EXECUTE ON sa.sp_insert_error TO clarify_administrator;
+GRANT EXECUTE ON sa.sp_insert_error TO clarify_user;
+GRANT EXECUTE ON sa.sp_insert_error TO csrcbo;
+GRANT EXECUTE ON sa.sp_insert_error TO gw1;
+GRANT EXECUTE ON sa.sp_insert_error TO igate_batch;
+GRANT EXECUTE ON sa.sp_insert_error TO role_sa_update;
+GRANT EXECUTE ON sa.sp_insert_error TO soacbo;
+GRANT EXECUTE ON sa.sp_insert_error TO w3ci;
+GRANT EXECUTE ON sa.sp_insert_error TO webcbo;

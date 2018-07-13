@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM migration_flash_key_values FOR sa.migration_flash_key_values;

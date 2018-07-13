@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.load_road_hist_fun TO role_sa_update;

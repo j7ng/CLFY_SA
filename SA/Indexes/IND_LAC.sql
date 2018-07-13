@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_lac ON sa.table_x_lac(x_local_area_code,lac2personality);

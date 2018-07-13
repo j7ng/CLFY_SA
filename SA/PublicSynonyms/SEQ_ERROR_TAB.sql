@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM seq_error_tab FOR sa.seq_error_tab;

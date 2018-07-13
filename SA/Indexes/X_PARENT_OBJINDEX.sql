@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_parent_objindex ON sa.table_x_parent(objid);

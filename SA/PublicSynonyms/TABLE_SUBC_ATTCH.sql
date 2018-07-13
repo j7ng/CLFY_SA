@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_subc_attch FOR sa.table_subc_attch;

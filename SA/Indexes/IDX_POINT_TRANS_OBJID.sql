@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_point_trans_objid ON sa.table_x_point_trans(objid);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_server_stats FOR sa.table_server_stats;

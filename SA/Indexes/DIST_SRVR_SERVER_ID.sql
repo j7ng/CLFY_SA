@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.dist_srvr_server_id ON sa.table_dist_srvr(srvr_id);

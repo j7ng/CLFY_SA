@@ -1,0 +1,1 @@
+CREATE INDEX sa.mtm_x_freq2_x_pref_tech1_ix2 ON sa.mtm_x_frequency2_x_pref_tech1(x_pref_tech2x_frequency);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_sids2personality ON sa.table_x_sids(sids2personality);

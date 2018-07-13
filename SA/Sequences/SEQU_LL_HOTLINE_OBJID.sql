@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_ll_hotline_objid;

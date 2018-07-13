@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_alert2part_class FOR sa.mtm_alert2part_class;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_inv_charge_objindex ON sa.table_x_inv_charge(objid);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.table_x_alert_by_carrier_id1 ON sa.table_x_alert_by_carrier(status);

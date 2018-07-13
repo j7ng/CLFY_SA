@@ -1,0 +1,14 @@
+GRANT SELECT ON sa.partnum_dealer_matview TO cbo;
+GRANT SELECT ON sa.partnum_dealer_matview TO clarify_administrator;
+GRANT SELECT ON sa.partnum_dealer_matview TO clarify_reporter;
+GRANT SELECT ON sa.partnum_dealer_matview TO clarify_user;
+GRANT SELECT ON sa.partnum_dealer_matview TO corecbo;
+GRANT SELECT ON sa.partnum_dealer_matview TO csrcbo;
+GRANT SELECT ON sa.partnum_dealer_matview TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.partnum_dealer_matview TO gw1;
+GRANT SELECT ON sa.partnum_dealer_matview TO role_report_select;
+GRANT SELECT ON sa.partnum_dealer_matview TO role_sa_select;
+GRANT SELECT ON sa.partnum_dealer_matview TO role_sa_update;
+GRANT SELECT ON sa.partnum_dealer_matview TO role_tf_select;
+GRANT SELECT ON sa.partnum_dealer_matview TO soacbo;
+GRANT SELECT ON sa.partnum_dealer_matview TO webcbo;

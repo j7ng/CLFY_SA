@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_country FOR sa.table_country;

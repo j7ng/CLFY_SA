@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_asurion_warranty TO PUBLIC;

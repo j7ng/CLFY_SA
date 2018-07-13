@@ -1,0 +1,9 @@
+GRANT EXECUTE ON sa.create_tmo_port_out TO cbo;
+GRANT EXECUTE ON sa.create_tmo_port_out TO clarify_administrator;
+GRANT EXECUTE ON sa.create_tmo_port_out TO clarify_user;
+GRANT EXECUTE ON sa.create_tmo_port_out TO corecbo;
+GRANT EXECUTE ON sa.create_tmo_port_out TO csrcbo;
+GRANT EXECUTE ON sa.create_tmo_port_out TO gw1;
+GRANT EXECUTE ON sa.create_tmo_port_out TO report;
+GRANT EXECUTE ON sa.create_tmo_port_out TO soacbo;
+GRANT EXECUTE ON sa.create_tmo_port_out TO webcbo;

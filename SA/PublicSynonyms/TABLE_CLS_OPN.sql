@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_cls_opn FOR sa.table_cls_opn;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_purch_codes FOR sa.table_x_purch_codes;

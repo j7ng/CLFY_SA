@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_x_asurion_warranty_old2;

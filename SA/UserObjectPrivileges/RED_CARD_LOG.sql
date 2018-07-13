@@ -1,0 +1,9 @@
+GRANT DELETE ON sa.red_card_log TO role_sa_update;
+GRANT INSERT ON sa.red_card_log TO role_sa_update;
+GRANT SELECT ON sa.red_card_log TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.red_card_log TO role_sa_select;
+GRANT SELECT ON sa.red_card_log TO role_sa_update;
+GRANT SELECT ON sa.red_card_log TO role_tf_select;
+GRANT SELECT ON sa.red_card_log TO select_no_pin;
+GRANT SELECT ON sa.red_card_log TO select_role;
+GRANT UPDATE ON sa.red_card_log TO role_sa_update;

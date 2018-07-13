@@ -1,0 +1,1 @@
+CREATE INDEX sa.apex_zip2tech_error_log_ind1 ON sa.apex_zip2tech_error_log(assoc_bkp,db,log_date);

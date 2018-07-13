@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_lst_per_role FOR sa.table_lst_per_role;

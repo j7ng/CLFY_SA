@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.sqr_param_objindex ON sa.table_sqr_param(objid);

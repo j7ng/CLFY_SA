@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.choice_fld_objindex ON sa.table_choice_fld(objid);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.adfcrm_script_token_variables TO dbit_mtoribiolopez;

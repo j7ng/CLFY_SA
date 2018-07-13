@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_keystore_appid ON sa.x_keystore(x_appid);

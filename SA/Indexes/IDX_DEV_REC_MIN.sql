@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_dev_rec_min ON sa.x_device_recovery_code("MIN");

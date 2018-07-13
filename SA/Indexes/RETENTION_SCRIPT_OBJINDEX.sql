@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.retention_script_objindex ON sa.table_x_retention_script(objid);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_ship_loc_id ON sa.table_site(x_ship_loc_id);

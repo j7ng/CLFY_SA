@@ -1,0 +1,23 @@
+CREATE TABLE sa.rec_pymnt_staging_tbl (
+  objid NUMBER NOT NULL,
+  x_rqst_source VARCHAR2(20 BYTE),
+  x_rqst_type VARCHAR2(20 BYTE),
+  x_rqst_date DATE,
+  x_rec_pymnt_stg2prg_enrolled NUMBER,
+  x_rec_pymnt_stg2prg_purch_hdr NUMBER,
+  x_rec_pymnt_stg2prg_gencode NUMBER,
+  x_rec_pymnt_stg2x_cc_red_inv NUMBER,
+  x_flow_id VARCHAR2(50 BYTE),
+  x_flow VARCHAR2(50 BYTE),
+  x_milestone VARCHAR2(50 BYTE),
+  x_flow_status VARCHAR2(50 BYTE),
+  x_milestone_status VARCHAR2(50 BYTE),
+  x_error_code VARCHAR2(50 BYTE),
+  x_error_msg VARCHAR2(500 BYTE),
+  x_status VARCHAR2(50 BYTE),
+  insert_timestamp DATE DEFAULT SYSDATE,
+  update_timestamp DATE DEFAULT SYSDATE,
+  created_by VARCHAR2(30 BYTE),
+  updated_by VARCHAR2(30 BYTE),
+  CONSTRAINT pk_rec_pymnt_staging_tbl PRIMARY KEY (objid)
+);

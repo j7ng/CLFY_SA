@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_verify_tech FOR sa.adfcrm_verify_tech;

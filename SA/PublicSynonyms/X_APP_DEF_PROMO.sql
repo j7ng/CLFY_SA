@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_app_def_promo FOR sa.x_app_def_promo;

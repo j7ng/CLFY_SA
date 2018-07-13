@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.contr_inst_contr_inst_index ON sa.table_contr_inst(contr_inst2contr_itm,install_prod2site_part);

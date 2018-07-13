@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_preval_pdtl_objid ON sa.x_pre_val_purch_dtl(objid);

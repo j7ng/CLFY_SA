@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.lit_req_lit_req_ind ON sa.table_lit_req(lit_req_id);

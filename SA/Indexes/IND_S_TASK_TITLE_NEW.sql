@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_s_task_title_new ON sa.table_task(s_title);

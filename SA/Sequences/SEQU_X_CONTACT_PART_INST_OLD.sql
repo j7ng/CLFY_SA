@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_x_contact_part_inst_old;

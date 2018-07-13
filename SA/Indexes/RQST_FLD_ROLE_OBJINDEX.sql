@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.rqst_fld_role_objindex ON sa.table_rqst_fld_role(objid);

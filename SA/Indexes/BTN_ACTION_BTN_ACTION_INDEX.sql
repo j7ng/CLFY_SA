@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.btn_action_btn_action_index ON sa.table_btn_action(platform,execution_order,btn_action2control_db);

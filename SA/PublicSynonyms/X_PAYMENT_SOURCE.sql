@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_payment_source FOR sa.x_payment_source;

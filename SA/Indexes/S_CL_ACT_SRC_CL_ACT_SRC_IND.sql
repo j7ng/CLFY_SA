@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.s_cl_act_src_cl_act_src_ind ON sa.table_cl_act_src(s_module_name);

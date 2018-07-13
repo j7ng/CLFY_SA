@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_fraud_key_values;

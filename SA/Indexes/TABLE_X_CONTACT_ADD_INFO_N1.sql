@@ -1,0 +1,1 @@
+CREATE INDEX sa.table_x_contact_add_info_n1 ON sa.table_x_contact_add_info(x_last_update_date);

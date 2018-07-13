@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_featurevalue_def FOR sa.sequ_featurevalue_def;

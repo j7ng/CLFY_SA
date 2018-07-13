@@ -1,0 +1,9 @@
+GRANT EXECUTE ON sa.service_deactivation_code TO cbo;
+GRANT EXECUTE ON sa.service_deactivation_code TO corecbo;
+GRANT EXECUTE ON sa.service_deactivation_code TO csrcbo;
+GRANT EXECUTE ON sa.service_deactivation_code TO itquser_data;
+GRANT EXECUTE ON sa.service_deactivation_code TO jtong;
+GRANT EXECUTE ON sa.service_deactivation_code TO mobapp_data;
+GRANT EXECUTE ON sa.service_deactivation_code TO report;
+GRANT EXECUTE ON sa.service_deactivation_code TO soacbo;
+GRANT EXECUTE ON sa.service_deactivation_code TO webcbo;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.part_stats_objindex ON sa.table_part_stats(objid);

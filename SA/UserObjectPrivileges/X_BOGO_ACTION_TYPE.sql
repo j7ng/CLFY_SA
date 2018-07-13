@@ -1,0 +1,16 @@
+GRANT SELECT ON sa.x_bogo_action_type TO cbo;
+GRANT SELECT ON sa.x_bogo_action_type TO clarify_administrator;
+GRANT SELECT ON sa.x_bogo_action_type TO clarify_user;
+GRANT SELECT ON sa.x_bogo_action_type TO csrcbo;
+GRANT SELECT ON sa.x_bogo_action_type TO dbbu_oartigas;
+GRANT SELECT ON sa.x_bogo_action_type TO gw1;
+GRANT SELECT ON sa.x_bogo_action_type TO igate_batch;
+GRANT SELECT ON sa.x_bogo_action_type TO role_carrier_ops;
+GRANT SELECT ON sa.x_bogo_action_type TO role_report_select;
+GRANT SELECT ON sa.x_bogo_action_type TO role_sa_select;
+GRANT SELECT ON sa.x_bogo_action_type TO role_sa_update;
+GRANT SELECT ON sa.x_bogo_action_type TO role_tf_select;
+GRANT SELECT ON sa.x_bogo_action_type TO select_role;
+GRANT SELECT ON sa.x_bogo_action_type TO soacbo;
+GRANT SELECT ON sa.x_bogo_action_type TO w3ci;
+GRANT SELECT ON sa.x_bogo_action_type TO webcbo;

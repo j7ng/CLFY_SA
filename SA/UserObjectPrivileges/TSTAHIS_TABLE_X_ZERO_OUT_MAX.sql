@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.tstahis_table_x_zero_out_max TO dbit_mtoribiolopez;

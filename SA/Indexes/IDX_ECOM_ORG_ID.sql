@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_ecom_org_id ON sa.x_biz_purch_hdr(ecom_org_id);

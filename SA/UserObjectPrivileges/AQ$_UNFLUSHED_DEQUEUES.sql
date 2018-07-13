@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.aq$_unflushed_dequeues TO sa;

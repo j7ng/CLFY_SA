@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_ota_batch_detail_idx ON sa.x_ota_batch_detail(batchdetailid);

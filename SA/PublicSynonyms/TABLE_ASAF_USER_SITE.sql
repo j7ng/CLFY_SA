@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_asaf_user_site FOR sa.table_asaf_user_site;

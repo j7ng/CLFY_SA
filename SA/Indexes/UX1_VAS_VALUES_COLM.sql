@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ux1_vas_values_colm ON sa.x_vas_values(vas_param_value,vas_params_objid,vas_programs_objid);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_swb_order_type FOR sa.table_swb_order_type;

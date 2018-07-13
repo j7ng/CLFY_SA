@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_trans_gl_sum FOR sa.table_trans_gl_sum;

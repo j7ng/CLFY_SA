@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_program_purch_hdr_new4 ON sa.x_program_purch_hdr(prog_hdr2web_user,x_rqst_date,x_payment_type);

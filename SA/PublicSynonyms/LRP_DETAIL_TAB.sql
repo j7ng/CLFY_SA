@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM lrp_detail_tab FOR sa.lrp_detail_tab;

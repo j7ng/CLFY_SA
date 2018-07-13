@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_republik_cancel_request FOR sa.x_republik_cancel_request;

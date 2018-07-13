@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_employee_no ON sa.table_employee(employee_no);

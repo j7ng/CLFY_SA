@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.script_notindev TO dbit_mtoribiolopez;

@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.seq_handset_msrp_tiers;

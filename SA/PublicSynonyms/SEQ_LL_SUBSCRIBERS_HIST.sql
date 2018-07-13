@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM seq_ll_subscribers_hist FOR sa.seq_ll_subscribers_hist;

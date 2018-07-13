@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.fin_accnt_objindex ON sa.table_fin_accnt(objid);

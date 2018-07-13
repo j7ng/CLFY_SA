@@ -1,0 +1,13 @@
+GRANT SELECT ON sa.x_subscriber_enrollments_hist TO cbo;
+GRANT SELECT ON sa.x_subscriber_enrollments_hist TO clarify_administrator;
+GRANT SELECT ON sa.x_subscriber_enrollments_hist TO clarify_user;
+GRANT SELECT ON sa.x_subscriber_enrollments_hist TO corecbo;
+GRANT SELECT ON sa.x_subscriber_enrollments_hist TO csrcbo;
+GRANT SELECT ON sa.x_subscriber_enrollments_hist TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_subscriber_enrollments_hist TO gw1;
+GRANT SELECT ON sa.x_subscriber_enrollments_hist TO role_report_select;
+GRANT SELECT ON sa.x_subscriber_enrollments_hist TO role_sa_select;
+GRANT SELECT ON sa.x_subscriber_enrollments_hist TO role_sa_update;
+GRANT SELECT ON sa.x_subscriber_enrollments_hist TO role_tf_select;
+GRANT SELECT ON sa.x_subscriber_enrollments_hist TO soacbo;
+GRANT SELECT ON sa.x_subscriber_enrollments_hist TO webcbo;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_task_flow_scripts_hist FOR sa.adfcrm_task_flow_scripts_hist;

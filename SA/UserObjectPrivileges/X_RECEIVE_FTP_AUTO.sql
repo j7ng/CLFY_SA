@@ -1,0 +1,9 @@
+GRANT DELETE ON sa.x_receive_ftp_auto TO role_tracfone_custom;
+GRANT INSERT ON sa.x_receive_ftp_auto TO role_tracfone_custom;
+GRANT SELECT ON sa.x_receive_ftp_auto TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_receive_ftp_auto TO role_report_select;
+GRANT SELECT ON sa.x_receive_ftp_auto TO role_sa_select;
+GRANT SELECT ON sa.x_receive_ftp_auto TO role_tf_select;
+GRANT SELECT ON sa.x_receive_ftp_auto TO role_tracfone_custom;
+GRANT SELECT ON sa.x_receive_ftp_auto TO select_role;
+GRANT UPDATE ON sa.x_receive_ftp_auto TO role_tracfone_custom;

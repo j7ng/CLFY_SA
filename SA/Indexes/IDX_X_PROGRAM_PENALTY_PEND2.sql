@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_program_penalty_pend2 ON sa.x_program_penalty_pend(penal_pend2prog_enroll,x_penalty_status);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_run_contact ON sa.table_scr_run(scr_run2contact);

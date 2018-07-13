@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_case_site_time ON sa.table_case(site_time);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_c_sched_pd_amt FOR sa.table_c_sched_pd_amt;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.track_x_case_conf_hdr TO dbit_mtoribiolopez;

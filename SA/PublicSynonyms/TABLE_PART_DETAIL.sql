@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_part_detail FOR sa.table_part_detail;

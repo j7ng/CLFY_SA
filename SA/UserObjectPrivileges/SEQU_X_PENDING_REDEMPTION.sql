@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_pending_redemption TO PUBLIC;

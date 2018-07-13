@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_comp_threshold FOR sa.adfcrm_comp_threshold;

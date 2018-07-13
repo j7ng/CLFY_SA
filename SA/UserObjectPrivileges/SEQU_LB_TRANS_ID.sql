@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_lb_trans_id TO PUBLIC;

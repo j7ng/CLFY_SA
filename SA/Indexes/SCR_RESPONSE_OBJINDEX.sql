@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.scr_response_objindex ON sa.table_scr_response(objid);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.page_class_i5474 ON sa.table_page_class("NAME");

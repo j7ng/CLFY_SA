@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_case_notes2case ON sa.table_notes_log(case_notes2case);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_sl_deenroll_flag FOR sa.x_sl_deenroll_flag;

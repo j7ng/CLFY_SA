@@ -1,0 +1,1 @@
+CREATE INDEX sa.carrierzones_ratecenter ON sa.carrierzones(rate_cente);

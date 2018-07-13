@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.user_touch_objindex ON sa.table_user_touch(objid);

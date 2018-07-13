@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_lrp_points ON sa.lrp_points_mv(vas_service_id);

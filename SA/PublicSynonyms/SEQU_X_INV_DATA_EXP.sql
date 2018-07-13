@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_x_inv_data_exp FOR sa.sequ_x_inv_data_exp;

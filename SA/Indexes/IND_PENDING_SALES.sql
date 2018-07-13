@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_pending_sales ON sa.sn_pending_warrany_sales(serial_number);

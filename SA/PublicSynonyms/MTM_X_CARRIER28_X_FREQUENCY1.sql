@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_x_carrier28_x_frequency1 FOR sa.mtm_x_carrier28_x_frequency1;

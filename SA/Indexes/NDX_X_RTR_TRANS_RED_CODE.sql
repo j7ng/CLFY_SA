@@ -1,0 +1,1 @@
+CREATE INDEX sa.ndx_x_rtr_trans_red_code ON sa.x_rtr_trans(tf_red_code);

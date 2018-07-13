@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.industry_objindex ON sa.table_industry(objid);

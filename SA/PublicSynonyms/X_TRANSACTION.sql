@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_transaction FOR sa.x_transaction;

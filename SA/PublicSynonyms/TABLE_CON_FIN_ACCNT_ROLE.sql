@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_con_fin_accnt_role FOR sa.table_con_fin_accnt_role;

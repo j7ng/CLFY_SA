@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_mtm_case_hdr_dtl_objindex ON sa.table_x_mtm_case_hdr_dtl(objid);

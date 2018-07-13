@@ -1,0 +1,1 @@
+CREATE INDEX sa.value_item_value2control_db ON sa.table_value_item(value2control_db);

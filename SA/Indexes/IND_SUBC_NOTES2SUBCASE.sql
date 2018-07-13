@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_subc_notes2subcase ON sa.table_notes_log(subc_notes2subcase);

@@ -1,0 +1,22 @@
+CREATE TABLE sa.x_user_acct_mgt_stg (
+  call_center VARCHAR2(100 BYTE),
+  login_name VARCHAR2(30 BYTE),
+  first_name VARCHAR2(40 BYTE),
+  last_name VARCHAR2(40 BYTE),
+  pin VARCHAR2(10 BYTE),
+  status VARCHAR2(300 BYTE),
+  new_priv_class VARCHAR2(40 BYTE),
+  new_sec_grp VARCHAR2(40 BYTE),
+  insert_date DATE DEFAULT SYSDATE,
+  update_date DATE,
+  updated_by VARCHAR2(50 BYTE),
+  "ROLE" VARCHAR2(100 BYTE),
+  sd_type VARCHAR2(10 BYTE),
+  sd_number NUMBER,
+  old_priv_class VARCHAR2(300 BYTE),
+  old_sec_group VARCHAR2(300 BYTE),
+  new_acct CHAR,
+  change_acct CHAR,
+  reset_acct CHAR,
+  terminate_acct CHAR
+);

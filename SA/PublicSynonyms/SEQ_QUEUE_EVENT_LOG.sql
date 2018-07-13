@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM seq_queue_event_log FOR sa.seq_queue_event_log;

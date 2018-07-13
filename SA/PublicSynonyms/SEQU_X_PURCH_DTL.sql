@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_x_purch_dtl FOR sa.sequ_x_purch_dtl;

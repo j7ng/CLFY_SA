@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.ext_sims TO dbit_mtoribiolopez;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_case_dispatch_conf ON sa.table_x_case_dispatch_conf(dispatch2conf_hdr);

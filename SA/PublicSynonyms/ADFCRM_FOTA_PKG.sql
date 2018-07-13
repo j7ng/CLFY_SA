@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_fota_pkg FOR sa.adfcrm_fota_pkg;

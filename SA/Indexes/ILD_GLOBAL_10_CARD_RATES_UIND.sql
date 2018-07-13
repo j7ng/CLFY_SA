@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ild_global_10_card_rates_uind ON sa.ild_global_10_card_rates(x_country_english,x_org_id);

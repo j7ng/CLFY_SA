@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_rqst_queue FOR sa.table_rqst_queue;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adp_sch_info FOR sa.adp_sch_info;

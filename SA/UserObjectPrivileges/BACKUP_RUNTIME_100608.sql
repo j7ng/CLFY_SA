@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.backup_runtime_100608 TO dbit_mtoribiolopez;

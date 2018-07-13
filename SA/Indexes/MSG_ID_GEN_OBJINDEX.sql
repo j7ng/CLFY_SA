@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.msg_id_gen_objindex ON sa.table_msg_id_gen(objid);

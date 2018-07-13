@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_hgbst_show_array_1 FOR sa.table_hgbst_show_array_1;

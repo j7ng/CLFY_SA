@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_spr_transaction_log TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_cc_num_busorg_idx ON sa.table_x_credit_card(x_customer_cc_number,x_credit_card2bus_org);

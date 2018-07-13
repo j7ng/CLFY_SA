@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_x79ttr_loc_role;

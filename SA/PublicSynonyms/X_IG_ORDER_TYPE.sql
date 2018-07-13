@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_ig_order_type FOR sa.x_ig_order_type;

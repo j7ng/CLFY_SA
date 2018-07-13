@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx6_pcrf_transaction ON sa.x_pcrf_transaction("GROUP_ID");

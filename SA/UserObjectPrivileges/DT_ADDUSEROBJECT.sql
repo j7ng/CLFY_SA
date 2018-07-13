@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.dt_adduserobject TO role_sa_update;

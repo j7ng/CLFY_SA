@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM hppbyop_models_view FOR sa.hppbyop_models_view;

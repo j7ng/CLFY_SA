@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_change_request_id TO PUBLIC;

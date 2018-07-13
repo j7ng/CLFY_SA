@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_policy_rule_parent ON sa.x_policy_rule_parent(parent_name,inactive_flag,policy_rule_config_objid);

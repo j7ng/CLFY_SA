@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM red_card_pin_tab FOR sa.red_card_pin_tab;

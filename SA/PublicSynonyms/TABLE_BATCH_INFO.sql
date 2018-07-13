@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_batch_info FOR sa.table_batch_info;

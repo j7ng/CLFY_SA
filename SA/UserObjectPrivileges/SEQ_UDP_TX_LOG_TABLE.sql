@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_udp_tx_log_table TO PUBLIC;

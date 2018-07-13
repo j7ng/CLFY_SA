@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.value_map_objindex ON sa.table_value_map(objid);

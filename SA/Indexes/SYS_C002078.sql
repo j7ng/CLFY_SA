@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.sys_c002078 ON sa.smsharedoracleconfiguration_s(namedobject_id_sequenceid_);

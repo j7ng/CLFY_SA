@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tfsoa_batch_process_trig FOR sa.tfsoa_batch_process_trig;

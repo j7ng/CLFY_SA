@@ -1,0 +1,1 @@
+CREATE INDEX sa.ux10_spr_spr ON sa.x_pageplus_spr_staging(pcrf_esn);

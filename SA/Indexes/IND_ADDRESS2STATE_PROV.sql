@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_address2state_prov ON sa.table_address(address2state_prov);

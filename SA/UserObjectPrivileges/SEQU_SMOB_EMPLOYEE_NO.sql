@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_smob_employee_no TO PUBLIC;

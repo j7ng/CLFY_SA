@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.part_num_title_index ON sa.table_part_num(part_number,domain);

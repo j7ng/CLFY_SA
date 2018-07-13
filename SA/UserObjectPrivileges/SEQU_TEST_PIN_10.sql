@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_test_pin_10 TO dbit_mtoribiolopez;

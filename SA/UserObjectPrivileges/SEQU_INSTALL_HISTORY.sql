@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_install_history TO PUBLIC;

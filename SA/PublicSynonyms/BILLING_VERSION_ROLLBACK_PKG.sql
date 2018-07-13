@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_version_rollback_pkg FOR sa.billing_version_rollback_pkg;

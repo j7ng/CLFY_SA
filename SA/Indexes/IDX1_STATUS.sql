@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_status ON sa.x_vas_subscriptions(status);

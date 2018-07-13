@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_cont_add_info_busorg_idx ON sa.table_x_contact_add_info(add_info2contact,add_info2bus_org);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_task_notes2task ON sa.table_notes_log(task_notes2task);

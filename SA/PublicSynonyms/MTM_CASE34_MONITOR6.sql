@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_case34_monitor6 FOR sa.mtm_case34_monitor6;

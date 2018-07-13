@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx4_table_x_bundle ON sa.table_x_bundle(x_created_date);

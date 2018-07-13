@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_red_code_ndx ON sa.table_x_red_card(x_red_code);

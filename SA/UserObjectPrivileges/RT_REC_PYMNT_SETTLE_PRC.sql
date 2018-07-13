@@ -1,0 +1,10 @@
+GRANT EXECUTE ON sa.rt_rec_pymnt_settle_prc TO cbo;
+GRANT EXECUTE ON sa.rt_rec_pymnt_settle_prc TO clarify_administrator;
+GRANT EXECUTE ON sa.rt_rec_pymnt_settle_prc TO clarify_user;
+GRANT EXECUTE ON sa.rt_rec_pymnt_settle_prc TO csrcbo;
+GRANT EXECUTE ON sa.rt_rec_pymnt_settle_prc TO gw1;
+GRANT EXECUTE ON sa.rt_rec_pymnt_settle_prc TO igate_batch;
+GRANT EXECUTE ON sa.rt_rec_pymnt_settle_prc TO role_sa_update;
+GRANT EXECUTE ON sa.rt_rec_pymnt_settle_prc TO soacbo;
+GRANT EXECUTE ON sa.rt_rec_pymnt_settle_prc TO w3ci;
+GRANT EXECUTE ON sa.rt_rec_pymnt_settle_prc TO webcbo;

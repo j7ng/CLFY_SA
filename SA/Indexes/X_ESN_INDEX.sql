@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_esn_index ON sa.archive_x_autoclose_case(x_esn);

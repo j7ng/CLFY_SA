@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.exchange_objindex ON sa.table_exchange(objid);

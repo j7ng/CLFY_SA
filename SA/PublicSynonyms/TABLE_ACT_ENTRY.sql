@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_act_entry FOR sa.table_act_entry;

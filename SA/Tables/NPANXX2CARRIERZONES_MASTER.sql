@@ -1,0 +1,23 @@
+CREATE TABLE sa.npanxx2carrierzones_master (
+  npa VARCHAR2(5 BYTE),
+  nxx VARCHAR2(5 BYTE),
+  carrier_id FLOAT,
+  carrier_name VARCHAR2(255 BYTE),
+  lead_time FLOAT,
+  target_level FLOAT,
+  ratecenter VARCHAR2(15 BYTE),
+  carrier_id_description VARCHAR2(255 BYTE),
+  county VARCHAR2(50 BYTE),
+  "SID" VARCHAR2(10 BYTE),
+  technology CHAR(2 BYTE),
+  marketid FLOAT,
+  mrkt_area VARCHAR2(33 BYTE),
+  bta_mkt_number VARCHAR2(4 BYTE),
+  bta_mkt_name VARCHAR2(100 BYTE),
+  frequency1 NUMBER,
+  frequency2 NUMBER,
+  gsm_tech VARCHAR2(20 BYTE),
+  cdma_tech VARCHAR2(20 BYTE),
+  tdma_tech VARCHAR2(20 BYTE),
+  mnc VARCHAR2(5 BYTE)
+);

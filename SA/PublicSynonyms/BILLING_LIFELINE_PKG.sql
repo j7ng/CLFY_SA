@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_lifeline_pkg FOR sa.billing_lifeline_pkg;

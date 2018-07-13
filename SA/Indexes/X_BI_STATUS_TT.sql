@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_bi_status_tt ON sa.x_bi_notification_stg(status,insert_timestamp);

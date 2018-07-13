@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_recv_prob FOR sa.table_recv_prob;

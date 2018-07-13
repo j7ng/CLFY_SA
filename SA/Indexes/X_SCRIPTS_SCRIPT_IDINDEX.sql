@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_scripts_script_idindex ON sa.table_x_scripts(x_script_id);

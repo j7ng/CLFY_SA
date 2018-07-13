@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_qry_case_view FOR sa.table_x_qry_case_view;

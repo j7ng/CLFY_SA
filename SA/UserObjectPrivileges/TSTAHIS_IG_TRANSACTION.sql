@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.tstahis_ig_transaction TO dbit_mtoribiolopez;

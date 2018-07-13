@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_cmit2oltsk FOR sa.table_cmit2oltsk;

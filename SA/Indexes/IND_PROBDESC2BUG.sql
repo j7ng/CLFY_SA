@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_probdesc2bug ON sa.mtm_probdesc12_bug28(probdesc2bug);

@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_esn_ber_place_holder;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_carrier_broadcast_sids_tmp FOR sa.x_carrier_broadcast_sids_tmp;

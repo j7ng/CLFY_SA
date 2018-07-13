@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_flow_seq TO PUBLIC;

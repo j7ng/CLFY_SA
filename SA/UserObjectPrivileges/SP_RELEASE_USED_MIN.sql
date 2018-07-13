@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.sp_release_used_min TO role_sa_update;

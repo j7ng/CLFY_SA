@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_user_stg_u1 ON sa.x_user_stg(last_name,first_name);

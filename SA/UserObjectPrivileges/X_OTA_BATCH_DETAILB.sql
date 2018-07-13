@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_ota_batch_detailb TO dbit_mtoribiolopez;

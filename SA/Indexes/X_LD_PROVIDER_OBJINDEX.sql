@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_ld_provider_objindex ON sa.table_x_ld_provider(objid);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ota_trans_pkg FOR sa.ota_trans_pkg;

@@ -1,0 +1,17 @@
+GRANT DELETE ON sa.table_mobile_complete_tutorial TO role_sa_select;
+GRANT INSERT ON sa.table_mobile_complete_tutorial TO role_sa_select;
+GRANT SELECT ON sa.table_mobile_complete_tutorial TO cbo;
+GRANT SELECT ON sa.table_mobile_complete_tutorial TO clarify_administrator;
+GRANT SELECT ON sa.table_mobile_complete_tutorial TO clarify_user;
+GRANT SELECT ON sa.table_mobile_complete_tutorial TO corecbo;
+GRANT SELECT ON sa.table_mobile_complete_tutorial TO csrcbo;
+GRANT SELECT ON sa.table_mobile_complete_tutorial TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.table_mobile_complete_tutorial TO igate_batch;
+GRANT SELECT ON sa.table_mobile_complete_tutorial TO role_report_select;
+GRANT SELECT ON sa.table_mobile_complete_tutorial TO role_sa_select;
+GRANT SELECT ON sa.table_mobile_complete_tutorial TO role_sa_update;
+GRANT SELECT ON sa.table_mobile_complete_tutorial TO role_tf_select;
+GRANT SELECT ON sa.table_mobile_complete_tutorial TO select_role;
+GRANT SELECT ON sa.table_mobile_complete_tutorial TO soacbo;
+GRANT SELECT ON sa.table_mobile_complete_tutorial TO webcbo;
+GRANT UPDATE ON sa.table_mobile_complete_tutorial TO role_sa_select;

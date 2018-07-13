@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_esn_ndx1 ON sa.table_x_psms_outbox(x_esn);

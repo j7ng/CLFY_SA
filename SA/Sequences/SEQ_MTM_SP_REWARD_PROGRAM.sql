@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.seq_mtm_sp_reward_program;

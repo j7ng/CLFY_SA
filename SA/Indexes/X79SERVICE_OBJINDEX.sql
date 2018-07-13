@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79service_objindex ON sa.table_x79service(objid);

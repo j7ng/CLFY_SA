@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.indx_mtm_pc_x_spf_value_def ON sa.mtm_partclass_x_spf_value_def(part_class_id,spfeaturevalue_def_id);

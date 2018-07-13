@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_red_card_n1 ON sa.table_x_red_card(x_red_date);

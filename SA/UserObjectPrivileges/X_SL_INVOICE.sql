@@ -1,0 +1,11 @@
+GRANT DELETE ON sa.x_sl_invoice TO clarify_user;
+GRANT INSERT ON sa.x_sl_invoice TO clarify_user;
+GRANT INSERT ON sa.x_sl_invoice TO role_sa_update;
+GRANT SELECT ON sa.x_sl_invoice TO clarify_user;
+GRANT SELECT ON sa.x_sl_invoice TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_sl_invoice TO role_sa_select;
+GRANT SELECT ON sa.x_sl_invoice TO role_sa_update;
+GRANT SELECT ON sa.x_sl_invoice TO role_tf_select;
+GRANT SELECT ON sa.x_sl_invoice TO select_role;
+GRANT UPDATE ON sa.x_sl_invoice TO clarify_user;
+GRANT UPDATE ON sa.x_sl_invoice TO role_sa_update;

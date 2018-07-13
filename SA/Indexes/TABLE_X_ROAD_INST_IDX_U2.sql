@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.table_x_road_inst_idx_u2 ON sa.table_x_road_inst(part_serial_no);

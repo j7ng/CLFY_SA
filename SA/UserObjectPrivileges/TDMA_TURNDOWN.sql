@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.tdma_turndown TO dbit_mtoribiolopez;

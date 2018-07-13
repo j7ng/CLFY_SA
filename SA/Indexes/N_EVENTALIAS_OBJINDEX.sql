@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_eventalias_objindex ON sa.table_n_eventalias(objid);

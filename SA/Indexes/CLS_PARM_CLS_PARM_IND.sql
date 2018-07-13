@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.cls_parm_cls_parm_ind ON sa.table_cls_parm(parm_name,parm2cls_opn);

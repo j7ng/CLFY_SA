@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.monitor_objindex ON sa.table_monitor(objid);

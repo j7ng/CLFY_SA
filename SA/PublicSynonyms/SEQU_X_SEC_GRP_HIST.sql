@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_x_sec_grp_hist FOR sa.sequ_x_sec_grp_hist;

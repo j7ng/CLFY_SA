@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.seq_tstahis_ig_transaction CACHE 5;

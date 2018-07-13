@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_spr_inquiry_log ON sa.x_spr_inquiry_log(esn);

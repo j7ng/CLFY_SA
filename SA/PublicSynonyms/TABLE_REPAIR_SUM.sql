@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_repair_sum FOR sa.table_repair_sum;

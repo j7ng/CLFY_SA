@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.pay_means_paymns_ind ON sa.table_pay_means(id_number,means_type,cc_type,pay_means2bus_org);

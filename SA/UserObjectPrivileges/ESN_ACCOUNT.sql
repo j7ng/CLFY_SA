@@ -1,0 +1,10 @@
+GRANT EXECUTE ON sa.esn_account TO cbo;
+GRANT EXECUTE ON sa.esn_account TO clarify_administrator;
+GRANT EXECUTE ON sa.esn_account TO clarify_user;
+GRANT EXECUTE ON sa.esn_account TO csrcbo;
+GRANT EXECUTE ON sa.esn_account TO gw1;
+GRANT EXECUTE ON sa.esn_account TO igate_batch;
+GRANT EXECUTE ON sa.esn_account TO role_sa_update;
+GRANT EXECUTE ON sa.esn_account TO soacbo;
+GRANT EXECUTE ON sa.esn_account TO w3ci;
+GRANT EXECUTE ON sa.esn_account TO webcbo;

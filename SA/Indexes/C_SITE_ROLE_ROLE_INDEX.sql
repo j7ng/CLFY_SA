@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.c_site_role_role_index ON sa.table_c_site_role(role_name,c_site_role2contr_itm,c_site_role2site);

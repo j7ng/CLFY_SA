@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_act_deact_hist FOR sa.table_x_act_deact_hist;

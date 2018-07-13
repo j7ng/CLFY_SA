@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx14_spr_stg ON sa.x_pageplus_spr_staging(wf_mac_id);

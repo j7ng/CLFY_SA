@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_plan_switch_allowed FOR sa.adfcrm_plan_switch_allowed;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_cmconrid ON sa.mvcm(con_rowid);

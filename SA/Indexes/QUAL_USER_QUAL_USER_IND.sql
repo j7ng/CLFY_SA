@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.qual_user_qual_user_ind ON sa.table_qual_user(qual_user2qualifier,qual_user2user);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM scripts_pkg FOR sa.scripts_pkg;

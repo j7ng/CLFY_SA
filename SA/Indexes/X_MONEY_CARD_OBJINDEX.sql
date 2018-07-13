@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_money_card_objindex ON sa.x_money_card_cc(objid);

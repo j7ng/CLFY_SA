@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_rate_plan_change_migr_stat ON sa.x_rate_plan_change_migr(x_status);

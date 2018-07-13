@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_pend_red_det2pend_red ON sa.x_pending_redemption_det(pend_red_det2pend_red);

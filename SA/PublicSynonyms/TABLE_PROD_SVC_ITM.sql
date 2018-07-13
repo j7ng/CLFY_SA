@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_prod_svc_itm FOR sa.table_prod_svc_itm;

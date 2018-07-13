@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.response_level_objindex ON sa.table_response_level(objid);

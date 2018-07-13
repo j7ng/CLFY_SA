@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_vendor_part FOR sa.table_vendor_part;

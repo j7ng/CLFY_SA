@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.tf_toss_interface_cards_inv TO dbit_mtoribiolopez;

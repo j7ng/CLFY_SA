@@ -1,0 +1,11 @@
+GRANT SELECT ON sa.table_affiliated_partners TO cbo;
+GRANT SELECT ON sa.table_affiliated_partners TO clarify_administrator;
+GRANT SELECT ON sa.table_affiliated_partners TO clarify_user;
+GRANT SELECT ON sa.table_affiliated_partners TO csrcbo;
+GRANT SELECT ON sa.table_affiliated_partners TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.table_affiliated_partners TO gw1;
+GRANT SELECT ON sa.table_affiliated_partners TO igate_batch;
+GRANT SELECT ON sa.table_affiliated_partners TO role_sa_update;
+GRANT SELECT ON sa.table_affiliated_partners TO soacbo;
+GRANT SELECT ON sa.table_affiliated_partners TO w3ci;
+GRANT SELECT ON sa.table_affiliated_partners TO webcbo;

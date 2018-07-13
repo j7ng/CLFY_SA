@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.life_cycle_objindex ON sa.table_life_cycle(objid);

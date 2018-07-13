@@ -1,0 +1,1 @@
+CREATE INDEX sa.n0310 ON sa.table_config_itm("NAME");

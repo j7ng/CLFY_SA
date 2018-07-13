@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_rate_plan FOR sa.x_rate_plan;

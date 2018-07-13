@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.rsrc_rsrc_ind ON sa.table_rsrc(focus_type,focus_lowid);

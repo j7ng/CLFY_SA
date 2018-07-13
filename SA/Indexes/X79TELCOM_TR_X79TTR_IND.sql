@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79telcom_tr_x79ttr_ind ON sa.table_x79telcom_tr(cust_ttr_num,server_id);

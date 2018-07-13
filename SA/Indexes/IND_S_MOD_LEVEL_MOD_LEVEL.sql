@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_s_mod_level_mod_level ON sa.table_mod_level(s_mod_level);

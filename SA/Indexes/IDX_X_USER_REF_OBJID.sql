@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_user_ref_objid ON sa.x_user_referrers(objid);

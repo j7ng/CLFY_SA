@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_billing_log FOR sa.x_billing_log;

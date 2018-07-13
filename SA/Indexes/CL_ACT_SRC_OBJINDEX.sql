@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.cl_act_src_objindex ON sa.table_cl_act_src(objid);

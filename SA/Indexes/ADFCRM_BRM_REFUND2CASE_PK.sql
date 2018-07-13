@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.adfcrm_brm_refund2case_pk ON sa.adfcrm_brm_refund2case(objid);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.module_objindex ON sa.table_module(objid);

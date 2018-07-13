@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_table_pin_options TO PUBLIC;

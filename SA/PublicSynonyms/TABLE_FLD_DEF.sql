@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_fld_def FOR sa.table_fld_def;

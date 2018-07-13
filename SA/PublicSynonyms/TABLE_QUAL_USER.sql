@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_qual_user FOR sa.table_qual_user;

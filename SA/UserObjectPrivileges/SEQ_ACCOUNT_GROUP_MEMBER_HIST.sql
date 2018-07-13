@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_account_group_member_hist TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM igate FOR sa.igate;

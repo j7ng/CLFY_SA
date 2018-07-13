@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_acct_team FOR sa.table_acct_team;

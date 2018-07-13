@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_cmcn_email TO PUBLIC;

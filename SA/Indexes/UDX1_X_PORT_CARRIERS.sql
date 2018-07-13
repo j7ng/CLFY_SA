@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.udx1_x_port_carriers ON sa.x_port_carriers(carrier_name,phone_type,port_type);

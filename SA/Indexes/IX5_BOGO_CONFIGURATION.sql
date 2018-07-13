@@ -1,0 +1,1 @@
+CREATE INDEX sa.ix5_bogo_configuration ON sa.x_bogo_configuration(bogo_status);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_commhistory_pkg FOR sa.adfcrm_commhistory_pkg;

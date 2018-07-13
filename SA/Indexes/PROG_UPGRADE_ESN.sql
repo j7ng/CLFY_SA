@@ -1,0 +1,1 @@
+CREATE INDEX sa.prog_upgrade_esn ON sa.x_program_upgrade(x_esn,x_replacement_esn);

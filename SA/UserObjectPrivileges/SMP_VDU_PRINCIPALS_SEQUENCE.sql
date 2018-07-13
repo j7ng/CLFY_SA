@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.smp_vdu_principals_sequence TO PUBLIC;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_dealer_commissions TO PUBLIC;

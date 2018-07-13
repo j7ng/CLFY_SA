@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sl_invoicing FOR sa.sl_invoicing;

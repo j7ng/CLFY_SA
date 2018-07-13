@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_proc_fc_data TO PUBLIC;

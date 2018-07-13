@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_carrier_name ON sa.table_x_carrier(x_mkt_submkt_name);

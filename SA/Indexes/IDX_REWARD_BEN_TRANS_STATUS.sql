@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_reward_ben_trans_status ON sa.x_reward_benefit_transaction(transaction_status);

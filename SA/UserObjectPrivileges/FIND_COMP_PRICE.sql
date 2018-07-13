@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.find_comp_price TO cbo;

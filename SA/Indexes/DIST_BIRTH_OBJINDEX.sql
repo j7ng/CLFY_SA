@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.dist_birth_objindex ON sa.table_dist_birth(objid);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.dig_esns_with_no_line TO dbit_mtoribiolopez;

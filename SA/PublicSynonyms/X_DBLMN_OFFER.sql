@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_dblmn_offer FOR sa.x_dblmn_offer;

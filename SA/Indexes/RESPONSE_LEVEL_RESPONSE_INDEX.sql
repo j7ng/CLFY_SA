@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.response_level_response_index ON sa.table_response_level(response2entitlement,distance,distance_unit);

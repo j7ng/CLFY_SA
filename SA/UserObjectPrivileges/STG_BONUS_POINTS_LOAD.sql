@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.stg_bonus_points_load TO dbit_mtoribiolopez;

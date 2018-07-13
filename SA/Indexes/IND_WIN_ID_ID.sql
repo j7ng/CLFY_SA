@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_win_id_id ON sa.table_db_geom(win_id,"ID");

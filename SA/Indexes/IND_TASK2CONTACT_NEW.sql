@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_task2contact_new ON sa.table_task(task2contact);

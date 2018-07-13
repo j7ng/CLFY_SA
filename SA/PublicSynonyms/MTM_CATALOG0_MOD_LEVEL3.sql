@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_catalog0_mod_level3 FOR sa.mtm_catalog0_mod_level3;

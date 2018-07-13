@@ -1,0 +1,18 @@
+CREATE OR REPLACE PROCEDURE sa."GET_TICKET"
+
+(
+
+  PARAM1 IN VARCHAR2
+
+, PARAM2 OUT VARCHAR2
+
+) AS
+
+BEGIN
+
+select max(ID_number) into PARAM2  from sa.Table_Case where X_ESN = PARAM1;
+
+
+
+END GET_TICKET;
+/

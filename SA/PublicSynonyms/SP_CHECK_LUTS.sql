@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sp_check_luts FOR sa.sp_check_luts;

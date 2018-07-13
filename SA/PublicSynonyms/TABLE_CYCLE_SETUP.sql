@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_cycle_setup FOR sa.table_cycle_setup;

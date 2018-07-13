@@ -1,0 +1,1 @@
+CREATE INDEX sa.ig_status_error_message_idx ON sa.ig_status_error_message(objid,x_error_code,x_error_group,x_error_criteria);

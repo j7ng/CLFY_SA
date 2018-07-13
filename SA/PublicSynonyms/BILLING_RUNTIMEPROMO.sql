@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_runtimepromo FOR sa.billing_runtimepromo;

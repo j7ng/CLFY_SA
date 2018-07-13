@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM load_road_hist_fun FOR sa.load_road_hist_fun;

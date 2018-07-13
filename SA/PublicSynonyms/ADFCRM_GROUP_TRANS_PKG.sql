@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_group_trans_pkg FOR sa.adfcrm_group_trans_pkg;

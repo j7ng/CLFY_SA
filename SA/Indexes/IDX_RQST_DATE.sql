@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_rqst_date ON sa.x_biz_purch_hdr(x_rqst_date);

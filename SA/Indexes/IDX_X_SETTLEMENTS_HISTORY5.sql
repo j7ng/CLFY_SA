@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_settlements_history5 ON sa.x_settlements_history(auth_date);

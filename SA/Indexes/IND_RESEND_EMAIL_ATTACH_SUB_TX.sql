@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_resend_email_attach_sub_tx ON sa.x_resend_email_with_attachment(subject_text);

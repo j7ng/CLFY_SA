@@ -1,0 +1,9 @@
+GRANT DELETE ON sa.paul_line_scan TO role_sa_update;
+GRANT INSERT ON sa.paul_line_scan TO role_sa_update;
+GRANT SELECT ON sa.paul_line_scan TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.paul_line_scan TO role_sa_select;
+GRANT SELECT ON sa.paul_line_scan TO role_sa_update;
+GRANT SELECT ON sa.paul_line_scan TO role_tf_select;
+GRANT SELECT ON sa.paul_line_scan TO select_no_pin;
+GRANT SELECT ON sa.paul_line_scan TO select_role;
+GRANT UPDATE ON sa.paul_line_scan TO role_sa_update;

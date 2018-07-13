@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.prtkp_cat_objindex ON sa.table_prtkp_cat(objid);

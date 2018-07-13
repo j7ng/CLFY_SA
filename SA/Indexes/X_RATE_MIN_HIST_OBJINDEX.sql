@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_rate_min_hist_objindex ON sa.table_x_rate_min_hist(objid);

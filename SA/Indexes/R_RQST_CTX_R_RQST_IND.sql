@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.r_rqst_ctx_r_rqst_ind ON sa.table_r_rqst_ctx(r_rqst_ctx2r_rqst,"NAME");

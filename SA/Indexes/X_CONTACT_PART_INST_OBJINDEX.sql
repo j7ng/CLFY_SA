@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_contact_part_inst_objindex ON sa.table_x_contact_part_inst(objid);

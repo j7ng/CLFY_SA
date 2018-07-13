@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_zip_code_objindex ON sa.table_x_zip_code(objid);

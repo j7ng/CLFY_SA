@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_republik_order_hdr FOR sa.x_republik_order_hdr;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.web_lease_objindex ON sa.table_web_lease(objid);

@@ -1,0 +1,13 @@
+GRANT EXECUTE ON sa.byop_sms_send_list TO cbo;
+GRANT EXECUTE ON sa.byop_sms_send_list TO clarify_administrator;
+GRANT EXECUTE ON sa.byop_sms_send_list TO clarify_user;
+GRANT EXECUTE ON sa.byop_sms_send_list TO corecbo;
+GRANT EXECUTE ON sa.byop_sms_send_list TO csrcbo;
+GRANT EXECUTE ON sa.byop_sms_send_list TO gw1;
+GRANT EXECUTE ON sa.byop_sms_send_list TO PUBLIC;
+GRANT EXECUTE ON sa.byop_sms_send_list TO role_report_select;
+GRANT EXECUTE ON sa.byop_sms_send_list TO role_sa_select;
+GRANT EXECUTE ON sa.byop_sms_send_list TO role_sa_update;
+GRANT EXECUTE ON sa.byop_sms_send_list TO role_tf_select;
+GRANT EXECUTE ON sa.byop_sms_send_list TO soacbo;
+GRANT EXECUTE ON sa.byop_sms_send_list TO webcbo;

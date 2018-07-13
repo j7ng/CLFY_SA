@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_opp_rol_itm TO PUBLIC;

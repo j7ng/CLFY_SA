@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_score_card_dealer_view_road TO dbit_mtoribiolopez;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM audses$ FOR sa.audses$;

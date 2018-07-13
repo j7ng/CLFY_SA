@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_prtnum_kp FOR sa.table_prtnum_kp;

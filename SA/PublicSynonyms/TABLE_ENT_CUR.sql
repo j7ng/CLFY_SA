@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_ent_cur FOR sa.table_ent_cur;

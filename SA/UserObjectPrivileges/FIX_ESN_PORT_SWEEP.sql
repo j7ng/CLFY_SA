@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.fix_esn_port_sweep TO dbit_mtoribiolopez;

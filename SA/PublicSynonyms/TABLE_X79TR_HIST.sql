@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x79tr_hist FOR sa.table_x79tr_hist;

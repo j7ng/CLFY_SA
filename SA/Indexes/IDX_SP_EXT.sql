@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_sp_ext ON sa.x_service_plan_ext(sp_objid);

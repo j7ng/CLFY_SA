@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_site_part_old2 TO PUBLIC;

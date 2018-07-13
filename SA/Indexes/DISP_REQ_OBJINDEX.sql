@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.disp_req_objindex ON sa.table_disp_req(objid);

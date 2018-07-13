@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_rew_prog_enrol_esn ON sa.x_reward_program_enrollment(esn);

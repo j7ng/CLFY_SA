@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.indx_x_byop_objid ON sa.table_x_byop(objid);

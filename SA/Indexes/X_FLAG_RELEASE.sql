@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_flag_release ON sa.release4(flag);

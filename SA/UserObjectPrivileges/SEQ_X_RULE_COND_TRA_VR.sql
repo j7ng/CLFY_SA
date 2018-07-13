@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_rule_cond_tra_vr TO PUBLIC;

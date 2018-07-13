@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_table_x_ot_rim;

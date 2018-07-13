@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_item2opportunity ON sa.table_frcst_itm(item2opportunity,close_date);

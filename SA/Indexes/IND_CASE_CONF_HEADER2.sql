@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_case_conf_header2 ON sa.table_x_case_conf_hdr(s_x_case_type,s_x_title);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_safelink_plan_state FOR sa.x_safelink_plan_state;

@@ -1,0 +1,5 @@
+CREATE TABLE sa.att_esn (
+  mdn VARCHAR2(30 BYTE),
+  esn VARCHAR2(30 BYTE)
+);
+ALTER TABLE sa.att_esn ADD SUPPLEMENTAL LOG GROUP dmtsora2098572324_0 (esn, mdn) ALWAYS;

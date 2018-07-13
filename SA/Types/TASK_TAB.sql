@@ -1,0 +1,2 @@
+CREATE OR REPLACE TYPE sa."TASK_TAB" IS TABLE OF task_type;
+/

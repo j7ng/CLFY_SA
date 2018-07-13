@@ -1,0 +1,1 @@
+CREATE INDEX sa.pk1_bogo_configuration ON sa.x_bogo_configuration(objid);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.smp_vdu_privilege_pkey ON sa.smp_vdu_privilege_table(principal_oid,privilege_string,object_oid);

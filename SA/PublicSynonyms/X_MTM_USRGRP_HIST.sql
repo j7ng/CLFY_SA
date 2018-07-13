@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_mtm_usrgrp_hist FOR sa.x_mtm_usrgrp_hist;

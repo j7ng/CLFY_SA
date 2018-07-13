@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_policy_rule_service_plan FOR sa.x_policy_rule_service_plan;

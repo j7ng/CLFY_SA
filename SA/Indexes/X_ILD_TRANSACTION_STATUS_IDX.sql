@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_ild_transaction_status_idx ON sa.table_x_ild_transaction(x_ild_status);

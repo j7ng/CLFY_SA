@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.s_cycle_count_cycle_count_ind ON sa.table_cycle_count(s_ct_name);

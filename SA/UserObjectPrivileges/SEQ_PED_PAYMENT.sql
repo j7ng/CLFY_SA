@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_ped_payment TO PUBLIC;

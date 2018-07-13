@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_table_x_exch_shipping_dtl FOR sa.sequ_table_x_exch_shipping_dtl;

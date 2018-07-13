@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_ver_control FOR sa.table_ver_control;

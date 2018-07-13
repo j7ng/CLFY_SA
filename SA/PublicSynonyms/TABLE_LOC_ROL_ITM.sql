@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_loc_rol_itm FOR sa.table_loc_rol_itm;

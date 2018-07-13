@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_defect_list_ndx1 ON sa.x_defect_list(esn);

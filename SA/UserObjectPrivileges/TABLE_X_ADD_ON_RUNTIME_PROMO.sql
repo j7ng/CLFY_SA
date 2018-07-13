@@ -1,0 +1,10 @@
+GRANT SELECT ON sa.table_x_add_on_runtime_promo TO cbo;
+GRANT SELECT ON sa.table_x_add_on_runtime_promo TO clarify_administrator;
+GRANT SELECT ON sa.table_x_add_on_runtime_promo TO clarify_user;
+GRANT SELECT ON sa.table_x_add_on_runtime_promo TO csrcbo;
+GRANT SELECT ON sa.table_x_add_on_runtime_promo TO gw1;
+GRANT SELECT ON sa.table_x_add_on_runtime_promo TO igate_batch;
+GRANT SELECT ON sa.table_x_add_on_runtime_promo TO role_sa_update;
+GRANT SELECT ON sa.table_x_add_on_runtime_promo TO soacbo;
+GRANT SELECT ON sa.table_x_add_on_runtime_promo TO w3ci;
+GRANT SELECT ON sa.table_x_add_on_runtime_promo TO webcbo;

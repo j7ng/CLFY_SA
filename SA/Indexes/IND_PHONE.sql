@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_phone ON sa.table_contact(phone);

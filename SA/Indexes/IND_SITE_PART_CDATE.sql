@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_site_part_cdate ON sa.table_site_part(cmmtmnt_end_dt);

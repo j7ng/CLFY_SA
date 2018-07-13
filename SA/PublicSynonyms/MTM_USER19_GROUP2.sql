@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_user19_group2 FOR sa.mtm_user19_group2;

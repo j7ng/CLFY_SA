@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx4_process_order_workflow ON sa.x_process_order_workflow(insert_timestamp);

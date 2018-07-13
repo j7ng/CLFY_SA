@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_pcrf_failed_trans_log TO PUBLIC;

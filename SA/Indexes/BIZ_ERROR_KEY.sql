@@ -1,0 +1,1 @@
+CREATE INDEX sa.biz_error_key ON sa.biz_error_table(error_key);

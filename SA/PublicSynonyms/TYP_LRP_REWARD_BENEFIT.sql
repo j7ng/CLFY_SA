@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM typ_lrp_reward_benefit FOR sa.typ_lrp_reward_benefit;

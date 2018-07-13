@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_act_message_objindex ON sa.table_x_act_message(objid);

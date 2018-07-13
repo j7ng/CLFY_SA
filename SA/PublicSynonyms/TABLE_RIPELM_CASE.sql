@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_ripelm_case FOR sa.table_ripelm_case;

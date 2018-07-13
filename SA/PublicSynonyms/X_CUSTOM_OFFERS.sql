@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_custom_offers FOR sa.x_custom_offers;

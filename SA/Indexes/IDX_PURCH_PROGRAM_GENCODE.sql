@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_purch_program_gencode ON sa.x_program_gencode(gencode2prog_purch_hdr);

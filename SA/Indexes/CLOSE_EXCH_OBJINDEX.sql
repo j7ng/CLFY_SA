@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.close_exch_objindex ON sa.table_close_exch(objid);

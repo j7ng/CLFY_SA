@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.pay_means_objindex ON sa.table_pay_means(objid);

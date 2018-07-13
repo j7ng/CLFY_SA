@@ -1,0 +1,1 @@
+CREATE INDEX sa.query_elm_filterset ON sa.table_query_elm(query_elm2filterset);

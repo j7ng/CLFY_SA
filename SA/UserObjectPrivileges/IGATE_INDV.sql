@@ -1,0 +1,10 @@
+GRANT EXECUTE ON sa.igate_indv TO cbo;
+GRANT EXECUTE ON sa.igate_indv TO clarify_user;
+GRANT EXECUTE ON sa.igate_indv TO corecbo;
+GRANT EXECUTE ON sa.igate_indv TO csrcbo;
+GRANT EXECUTE ON sa.igate_indv TO gw1;
+GRANT EXECUTE ON sa.igate_indv TO igate_batch;
+GRANT EXECUTE ON sa.igate_indv TO igateapps;
+GRANT EXECUTE ON sa.igate_indv TO role_tf_iut;
+GRANT EXECUTE ON sa.igate_indv TO soacbo;
+GRANT EXECUTE ON sa.igate_indv TO webcbo;

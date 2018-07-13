@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_lb_media_lib TO PUBLIC;

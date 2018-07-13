@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.safe_noflash TO dbit_mtoribiolopez;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_part_inst_objid_u10 ON sa.table_part_inst(objid);

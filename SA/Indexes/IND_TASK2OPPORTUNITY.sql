@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_task2opportunity ON sa.table_task(sm_task2opportunity);

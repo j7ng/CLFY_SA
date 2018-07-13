@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_customer_email ON sa.x_biz_purch_hdr(x_customer_email);

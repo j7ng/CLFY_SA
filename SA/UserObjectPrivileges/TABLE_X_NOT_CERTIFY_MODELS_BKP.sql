@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.table_x_not_certify_models_bkp TO dbit_mtoribiolopez;

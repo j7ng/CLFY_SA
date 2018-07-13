@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM object_grant FOR sa.object_grant;

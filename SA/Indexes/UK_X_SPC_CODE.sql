@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.uk_x_spc_code ON sa.x_spc_code(esn);

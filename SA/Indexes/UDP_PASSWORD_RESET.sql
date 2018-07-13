@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.udp_password_reset ON sa.udp_password_reset(s_login_name);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_wipbin FOR sa.table_wipbin;

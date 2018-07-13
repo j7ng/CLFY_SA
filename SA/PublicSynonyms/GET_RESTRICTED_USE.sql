@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM get_restricted_use FOR sa.get_restricted_use;

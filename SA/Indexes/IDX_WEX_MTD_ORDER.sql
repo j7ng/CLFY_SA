@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_wex_mtd_order ON sa.wex_shipping_mtd(bp_order);

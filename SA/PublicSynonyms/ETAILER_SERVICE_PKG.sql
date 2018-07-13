@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM etailer_service_pkg FOR sa.etailer_service_pkg;

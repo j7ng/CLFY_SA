@@ -1,0 +1,1 @@
+GRANT EXECUTE ON apex_040000.apex_mig_projects_update TO sa;

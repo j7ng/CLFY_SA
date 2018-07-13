@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.dig_no_click_plan_temp1 TO dbit_mtoribiolopez;

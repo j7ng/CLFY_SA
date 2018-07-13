@@ -1,0 +1,15 @@
+CREATE OR REPLACE PROCEDURE sa."GET_NEW_ESN"
+(
+
+  P3 IN VARCHAR2
+
+, P4 OUT VARCHAR2
+
+) AS
+
+BEGIN
+
+P4:= sa.get_test_esn(P3);
+
+END GET_NEW_ESN;
+/

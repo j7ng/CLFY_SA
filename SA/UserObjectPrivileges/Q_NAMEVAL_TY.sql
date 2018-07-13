@@ -1,0 +1,11 @@
+GRANT EXECUTE ON sa.q_nameval_ty TO cbo;
+GRANT EXECUTE ON sa.q_nameval_ty TO clarify_administrator;
+GRANT EXECUTE ON sa.q_nameval_ty TO clarify_user;
+GRANT EXECUTE ON sa.q_nameval_ty TO csrcbo;
+GRANT EXECUTE ON sa.q_nameval_ty TO gw1;
+GRANT EXECUTE ON sa.q_nameval_ty TO igate_batch;
+GRANT EXECUTE ON sa.q_nameval_ty TO itds_user;
+GRANT EXECUTE ON sa.q_nameval_ty TO role_sa_update;
+GRANT EXECUTE ON sa.q_nameval_ty TO soacbo;
+GRANT EXECUTE ON sa.q_nameval_ty TO w3ci;
+GRANT EXECUTE ON sa.q_nameval_ty TO webcbo;

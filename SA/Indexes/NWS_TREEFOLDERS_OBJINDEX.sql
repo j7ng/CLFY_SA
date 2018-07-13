@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.nws_treefolders_objindex ON sa.table_nws_treefolders(objid);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.close_bug_objindex ON sa.table_close_bug(objid);

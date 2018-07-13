@@ -1,0 +1,1 @@
+CREATE INDEX sa.process_date_idx ON sa.rtc_process_log(process_date);

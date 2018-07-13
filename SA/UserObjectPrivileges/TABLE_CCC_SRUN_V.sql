@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.table_ccc_srun_v TO dbit_mtoribiolopez;

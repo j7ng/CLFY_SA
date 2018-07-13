@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_search_limits TO PUBLIC;

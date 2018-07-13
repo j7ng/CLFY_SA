@@ -1,0 +1,1 @@
+CREATE INDEX sa.ix1_mtm_prog_safelink ON sa.mtm_program_safelink(program_param_objid);

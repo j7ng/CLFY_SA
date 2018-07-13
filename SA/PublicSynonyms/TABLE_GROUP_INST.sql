@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_group_inst FOR sa.table_group_inst;

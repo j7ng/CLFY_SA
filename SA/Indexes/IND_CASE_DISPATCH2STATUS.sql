@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_case_dispatch2status ON sa.table_x_case_dispatch_conf(status2gbst_elm);

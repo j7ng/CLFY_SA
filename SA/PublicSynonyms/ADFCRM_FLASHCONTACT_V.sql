@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_flashcontact_v FOR sa.adfcrm_flashcontact_v;

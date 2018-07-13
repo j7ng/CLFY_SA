@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_psms_template_ind2 ON sa.table_x_psms_template(x_command,x_ild_type);

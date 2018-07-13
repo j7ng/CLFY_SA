@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_lic_count_old2 TO PUBLIC;

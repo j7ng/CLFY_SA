@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_add_esn_to_acc FOR sa.adfcrm_add_esn_to_acc;

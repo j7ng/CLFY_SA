@@ -1,0 +1,25 @@
+CREATE TABLE sa.x_monitor_archive (
+  x_monitor_id NUMBER(38) NOT NULL,
+  x_date_mvt DATE,
+  x_phone VARCHAR2(30 BYTE) NOT NULL,
+  x_esn VARCHAR2(30 BYTE),
+  x_cust_id VARCHAR2(80 BYTE) NOT NULL,
+  x_carrier_id CHAR(10 BYTE),
+  x_dealer_id VARCHAR2(80 BYTE),
+  x_action VARCHAR2(1 BYTE) NOT NULL,
+  x_action_type_id NUMBER(5),
+  x_reason_code VARCHAR2(30 BYTE),
+  x_ig_status VARCHAR2(20 BYTE),
+  x_ig_error VARCHAR2(80 BYTE),
+  x_pin VARCHAR2(20 BYTE),
+  x_manufacturer VARCHAR2(30 BYTE),
+  x_initial_act_date DATE,
+  x_end_user VARCHAR2(65 BYTE),
+  x_islocked VARCHAR2(1 BYTE),
+  x_locked_by VARCHAR2(20 BYTE),
+  x_line_worked VARCHAR2(1 BYTE),
+  x_line_worked_by VARCHAR2(30 BYTE),
+  x_line_worked_date DATE,
+  x_fax_filename VARCHAR2(20 BYTE)
+);
+ALTER TABLE sa.x_monitor_archive ADD SUPPLEMENTAL LOG GROUP dmtsora22531798_0 (x_action, x_action_type_id, x_carrier_id, x_cust_id, x_date_mvt, x_dealer_id, x_end_user, x_esn, x_fax_filename, x_ig_error, x_ig_status, x_initial_act_date, x_islocked, x_line_worked, x_line_worked_by, x_line_worked_date, x_locked_by, x_manufacturer, x_monitor_id, x_phone, x_pin, x_reason_code) ALWAYS;

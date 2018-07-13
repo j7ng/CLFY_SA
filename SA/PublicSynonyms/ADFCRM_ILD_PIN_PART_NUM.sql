@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_ild_pin_part_num FOR sa.adfcrm_ild_pin_part_num;

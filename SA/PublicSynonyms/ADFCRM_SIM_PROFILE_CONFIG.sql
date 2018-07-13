@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_sim_profile_config FOR sa.adfcrm_sim_profile_config;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ota_pend_stg FOR sa.ota_pend_stg;

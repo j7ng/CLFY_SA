@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_vas_programs ON sa.vas_programs_mv(auto_pay_program_objid);

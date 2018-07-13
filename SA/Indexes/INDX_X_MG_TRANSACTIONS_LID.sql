@@ -1,0 +1,1 @@
+CREATE INDEX sa.indx_x_mg_transactions_lid ON sa.x_mg_transactions(x_lid);

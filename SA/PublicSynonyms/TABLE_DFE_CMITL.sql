@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_dfe_cmitl FOR sa.table_dfe_cmitl;

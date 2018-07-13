@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_web_case_res_objindex ON sa.table_x_web_case_resolution(objid);

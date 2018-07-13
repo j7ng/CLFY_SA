@@ -1,0 +1,1 @@
+GRANT SELECT ON apex_040000.apex_application_nav_bar TO sa;

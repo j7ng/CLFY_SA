@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_red_card ON sa.table_x_red_card(x_smp,x_red_code,red_card2call_trans);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_sqr_param FOR sa.table_sqr_param;

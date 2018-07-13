@@ -1,0 +1,1 @@
+GRANT EXECUTE ON apex_040000.apex_admin TO sa;

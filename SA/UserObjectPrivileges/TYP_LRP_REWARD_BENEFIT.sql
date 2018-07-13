@@ -1,0 +1,11 @@
+GRANT EXECUTE ON sa.typ_lrp_reward_benefit TO cbo;
+GRANT EXECUTE ON sa.typ_lrp_reward_benefit TO clarify_administrator;
+GRANT EXECUTE ON sa.typ_lrp_reward_benefit TO clarify_user;
+GRANT EXECUTE ON sa.typ_lrp_reward_benefit TO csrcbo;
+GRANT EXECUTE ON sa.typ_lrp_reward_benefit TO gw1;
+GRANT EXECUTE ON sa.typ_lrp_reward_benefit TO igate_batch;
+GRANT EXECUTE ON sa.typ_lrp_reward_benefit TO itds_user;
+GRANT EXECUTE ON sa.typ_lrp_reward_benefit TO role_sa_update;
+GRANT EXECUTE ON sa.typ_lrp_reward_benefit TO soacbo;
+GRANT EXECUTE ON sa.typ_lrp_reward_benefit TO w3ci;
+GRANT EXECUTE ON sa.typ_lrp_reward_benefit TO webcbo;

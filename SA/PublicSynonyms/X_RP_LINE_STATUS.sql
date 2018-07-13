@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_rp_line_status FOR sa.x_rp_line_status;

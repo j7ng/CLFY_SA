@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.mvcm TO dbit_mtoribiolopez;

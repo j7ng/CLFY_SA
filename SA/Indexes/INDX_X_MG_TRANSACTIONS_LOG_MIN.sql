@@ -1,0 +1,1 @@
+CREATE INDEX sa.indx_x_mg_transactions_log_min ON sa.x_mg_transactions_log(x_min);

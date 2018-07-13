@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_bus_bus_role TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM job_type FOR sa.job_type;

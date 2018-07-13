@@ -1,0 +1,1 @@
+CREATE INDEX sa.migration_campaign_urls_idx1 ON sa.migration_campaign_urls(campaign_name,display_url,campaign_url);

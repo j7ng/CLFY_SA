@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_list_sub_dfe FOR sa.table_list_sub_dfe;

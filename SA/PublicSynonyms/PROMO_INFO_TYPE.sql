@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM promo_info_type FOR sa.promo_info_type;

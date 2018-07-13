@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_store_details FOR sa.table_store_details;

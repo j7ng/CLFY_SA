@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.act_rule_name_objindex ON sa.table_act_rule_name(objid);

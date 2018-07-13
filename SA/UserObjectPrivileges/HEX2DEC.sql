@@ -1,0 +1,11 @@
+GRANT EXECUTE ON sa.hex2dec TO cbo;
+GRANT EXECUTE ON sa.hex2dec TO clarify_administrator;
+GRANT EXECUTE ON sa.hex2dec TO clarify_user;
+GRANT EXECUTE ON sa.hex2dec TO corecbo;
+GRANT EXECUTE ON sa.hex2dec TO csrcbo;
+GRANT EXECUTE ON sa.hex2dec TO digadmin;
+GRANT EXECUTE ON sa.hex2dec TO report;
+GRANT EXECUTE ON sa.hex2dec TO role_carrier_ops;
+GRANT EXECUTE ON sa.hex2dec TO role_sa_update;
+GRANT EXECUTE ON sa.hex2dec TO soacbo;
+GRANT EXECUTE ON sa.hex2dec TO webcbo;

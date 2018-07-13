@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.temp_contact_seq TO PUBLIC;

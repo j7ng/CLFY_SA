@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM seq_mtm_sp_reward_program FOR sa.seq_mtm_sp_reward_program;

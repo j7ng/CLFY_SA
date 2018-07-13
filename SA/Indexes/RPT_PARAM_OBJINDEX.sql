@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.rpt_param_objindex ON sa.table_rpt_param(objid);

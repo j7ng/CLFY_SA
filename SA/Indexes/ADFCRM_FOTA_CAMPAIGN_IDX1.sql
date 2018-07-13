@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_fota_campaign_idx1 ON sa.adfcrm_fota_campaign(objid,campaign_name,vendor);

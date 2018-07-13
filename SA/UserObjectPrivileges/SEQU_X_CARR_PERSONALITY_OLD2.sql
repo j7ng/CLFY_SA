@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_carr_personality_old2 TO PUBLIC;

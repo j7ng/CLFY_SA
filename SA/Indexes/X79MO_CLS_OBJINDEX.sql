@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79mo_cls_objindex ON sa.table_x79mo_cls(objid);

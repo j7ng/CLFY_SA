@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_ntfy_lang_mas FOR sa.x_ntfy_lang_mas;

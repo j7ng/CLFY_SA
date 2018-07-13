@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.uk1_product_config ON sa.x_product_config(brand_name,service_plan_group,device_type,parent_name,source_system);

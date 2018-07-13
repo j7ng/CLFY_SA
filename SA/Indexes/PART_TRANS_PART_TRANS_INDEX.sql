@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.part_trans_part_trans_index ON sa.table_part_trans(transaction_id);

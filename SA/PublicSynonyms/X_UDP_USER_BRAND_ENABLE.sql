@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_udp_user_brand_enable FOR sa.x_udp_user_brand_enable;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_site_svc_appt FOR sa.table_site_svc_appt;

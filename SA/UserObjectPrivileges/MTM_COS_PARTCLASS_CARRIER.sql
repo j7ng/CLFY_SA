@@ -1,0 +1,16 @@
+GRANT DELETE ON sa.mtm_cos_partclass_carrier TO cbo;
+GRANT DELETE ON sa.mtm_cos_partclass_carrier TO clarify_user;
+GRANT DELETE ON sa.mtm_cos_partclass_carrier TO role_sa_update;
+GRANT INSERT ON sa.mtm_cos_partclass_carrier TO cbo;
+GRANT INSERT ON sa.mtm_cos_partclass_carrier TO clarify_user;
+GRANT INSERT ON sa.mtm_cos_partclass_carrier TO role_sa_update;
+GRANT SELECT ON sa.mtm_cos_partclass_carrier TO cbo;
+GRANT SELECT ON sa.mtm_cos_partclass_carrier TO clarify_user;
+GRANT SELECT ON sa.mtm_cos_partclass_carrier TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.mtm_cos_partclass_carrier TO role_sa_select;
+GRANT SELECT ON sa.mtm_cos_partclass_carrier TO role_sa_update;
+GRANT SELECT ON sa.mtm_cos_partclass_carrier TO role_tf_select;
+GRANT SELECT ON sa.mtm_cos_partclass_carrier TO w3ci;
+GRANT UPDATE ON sa.mtm_cos_partclass_carrier TO cbo;
+GRANT UPDATE ON sa.mtm_cos_partclass_carrier TO clarify_user;
+GRANT UPDATE ON sa.mtm_cos_partclass_carrier TO role_sa_update;

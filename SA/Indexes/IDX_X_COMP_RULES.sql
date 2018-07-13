@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_comp_rules ON sa.x_comp_rules(reason,detail);

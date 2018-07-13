@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_state_prov FOR sa.table_state_prov;

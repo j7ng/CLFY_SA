@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_task_set FOR sa.table_task_set;

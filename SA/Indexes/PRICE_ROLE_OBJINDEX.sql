@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.price_role_objindex ON sa.table_price_role(objid);

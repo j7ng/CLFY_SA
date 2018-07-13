@@ -1,0 +1,1 @@
+CREATE INDEX sa.case_exch_options_idx2 ON sa.table_x_case_exch_options(source2conf_hdr,x_exch_type);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_get_child_site FOR sa.table_get_child_site;

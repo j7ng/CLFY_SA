@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_part_request_ndx ON sa.table_x_part_request(x_part_serial_no);

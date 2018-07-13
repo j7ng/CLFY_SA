@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx09_pcrf_trans_low_prty ON sa.x_pcrf_trans_low_prty(subscriber_id,order_type,pcrf_status_code,insert_timestamp);

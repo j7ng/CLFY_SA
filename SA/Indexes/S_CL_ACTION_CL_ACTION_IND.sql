@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.s_cl_action_cl_action_ind ON sa.table_cl_action(cl_action2cl_rule,s_title);

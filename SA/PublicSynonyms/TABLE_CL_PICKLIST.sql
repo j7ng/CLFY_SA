@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_cl_picklist FOR sa.table_cl_picklist;

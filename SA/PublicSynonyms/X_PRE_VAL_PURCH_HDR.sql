@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_pre_val_purch_hdr FOR sa.x_pre_val_purch_hdr;

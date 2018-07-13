@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.s_exchange_exch_index ON sa.table_exchange(partner2site,s_ref_id,exchange2case);

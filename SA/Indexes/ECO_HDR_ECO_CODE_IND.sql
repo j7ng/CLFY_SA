@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.eco_hdr_eco_code_ind ON sa.table_eco_hdr(eco_code);

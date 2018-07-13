@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_mod_level FOR sa.sequ_mod_level;

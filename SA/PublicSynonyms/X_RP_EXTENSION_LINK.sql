@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_rp_extension_link FOR sa.x_rp_extension_link;

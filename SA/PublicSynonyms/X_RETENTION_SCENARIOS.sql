@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_retention_scenarios FOR sa.x_retention_scenarios;

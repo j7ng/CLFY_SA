@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_bug_bug_role TO PUBLIC;

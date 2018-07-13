@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.axfprops_objindex ON sa.table_axfprops(objid);

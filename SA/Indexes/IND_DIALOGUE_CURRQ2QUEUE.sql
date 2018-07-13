@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_dialogue_currq2queue ON sa.table_dialogue(dialogue_currq2queue);

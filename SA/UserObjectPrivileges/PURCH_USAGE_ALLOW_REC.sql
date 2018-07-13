@@ -1,0 +1,12 @@
+GRANT EXECUTE ON sa.purch_usage_allow_rec TO cbo;
+GRANT EXECUTE ON sa.purch_usage_allow_rec TO clarify_administrator;
+GRANT EXECUTE ON sa.purch_usage_allow_rec TO clarify_user;
+GRANT EXECUTE ON sa.purch_usage_allow_rec TO corecbo;
+GRANT EXECUTE ON sa.purch_usage_allow_rec TO csrcbo;
+GRANT EXECUTE ON sa.purch_usage_allow_rec TO gw1;
+GRANT EXECUTE ON sa.purch_usage_allow_rec TO igate_batch;
+GRANT EXECUTE ON sa.purch_usage_allow_rec TO itds_user;
+GRANT EXECUTE ON sa.purch_usage_allow_rec TO role_sa_update;
+GRANT EXECUTE ON sa.purch_usage_allow_rec TO soacbo;
+GRANT EXECUTE ON sa.purch_usage_allow_rec TO w3ci;
+GRANT EXECUTE ON sa.purch_usage_allow_rec TO webcbo;

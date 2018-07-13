@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.posa_kmart_161_pkg TO role_sa_update;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_default_preload_objindex ON sa.table_x_default_preload(objid);

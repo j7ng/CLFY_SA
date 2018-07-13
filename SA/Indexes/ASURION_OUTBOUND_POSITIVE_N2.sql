@@ -1,0 +1,1 @@
+CREATE INDEX sa.asurion_outbound_positive_n2 ON sa.asurion_outbound_positive(acct_num);

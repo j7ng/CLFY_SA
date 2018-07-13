@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_sub_enrl_pay_src_objid ON sa.x_subscriber_enrollments(pay_src_objid);

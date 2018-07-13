@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_supp_person_off2site ON sa.table_employee(supp_person_off2site);

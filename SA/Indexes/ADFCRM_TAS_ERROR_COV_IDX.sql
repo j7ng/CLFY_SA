@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.adfcrm_tas_error_cov_idx ON sa.adfcrm_tas_error(session_id,login_name);

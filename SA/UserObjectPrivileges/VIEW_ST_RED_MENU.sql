@@ -1,0 +1,9 @@
+GRANT SELECT ON sa.view_st_red_menu TO cbo;
+GRANT SELECT ON sa.view_st_red_menu TO corecbo;
+GRANT SELECT ON sa.view_st_red_menu TO csrcbo;
+GRANT SELECT ON sa.view_st_red_menu TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.view_st_red_menu TO role_sa_select;
+GRANT SELECT ON sa.view_st_red_menu TO role_tf_select;
+GRANT SELECT ON sa.view_st_red_menu TO select_role;
+GRANT SELECT ON sa.view_st_red_menu TO soacbo;
+GRANT SELECT ON sa.view_st_red_menu TO webcbo;

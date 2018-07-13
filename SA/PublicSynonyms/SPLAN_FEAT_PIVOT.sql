@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM splan_feat_pivot FOR sa.splan_feat_pivot;

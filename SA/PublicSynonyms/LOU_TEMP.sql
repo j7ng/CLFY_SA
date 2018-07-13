@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM lou_temp FOR sa.lou_temp;

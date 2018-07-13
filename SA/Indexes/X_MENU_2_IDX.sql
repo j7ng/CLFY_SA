@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_menu_2_idx ON sa.x_menu_2(brand_name,manufpartclass,channel,"CATEGORY",mkey,lang);

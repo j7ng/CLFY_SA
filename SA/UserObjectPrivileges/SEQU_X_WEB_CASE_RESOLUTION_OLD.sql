@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_web_case_resolution_old TO PUBLIC;

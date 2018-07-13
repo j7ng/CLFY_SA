@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_service_login_idx ON sa.adfcrm_service_login(login_name);

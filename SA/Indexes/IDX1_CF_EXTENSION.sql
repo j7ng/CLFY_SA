@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_cf_extension ON sa.x_cf_extension(line_status_code,throttle_status_code);

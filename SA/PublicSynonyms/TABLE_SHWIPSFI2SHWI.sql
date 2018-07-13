@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_shwipsfi2shwi FOR sa.table_shwipsfi2shwi;

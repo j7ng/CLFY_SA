@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM return_item_tbl FOR sa.return_item_tbl;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.smrunsequence TO PUBLIC;

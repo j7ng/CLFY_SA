@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_inv_role2inv_locatn ON sa.table_inv_role(inv_role2inv_locatn,inv_role2site,role_name);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_mtm_program_combine FOR sa.x_mtm_program_combine;

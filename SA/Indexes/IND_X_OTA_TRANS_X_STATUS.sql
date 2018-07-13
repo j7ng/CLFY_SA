@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_x_ota_trans_x_status ON sa.table_x_ota_transaction(x_status);

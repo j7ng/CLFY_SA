@@ -1,0 +1,1 @@
+GRANT EXECUTE ON nap.sp_find_old_min TO sa;

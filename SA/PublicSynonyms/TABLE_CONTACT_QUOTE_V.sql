@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_contact_quote_v FOR sa.table_contact_quote_v;

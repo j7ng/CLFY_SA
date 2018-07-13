@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_cntn_subs_esn ON sa.centene_net10_subs(x_esn);

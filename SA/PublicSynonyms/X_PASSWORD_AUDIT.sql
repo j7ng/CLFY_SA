@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_password_audit FOR sa.x_password_audit;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_dealer2x_promotion ON sa.table_site(dealer2x_promotion);

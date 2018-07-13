@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.adfcrm_fota_camp_members_idx ON sa.adfcrm_fota_camp_members(objid);

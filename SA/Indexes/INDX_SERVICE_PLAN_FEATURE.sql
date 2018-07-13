@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.indx_service_plan_feature ON sa.x_service_plan_feature(objid);

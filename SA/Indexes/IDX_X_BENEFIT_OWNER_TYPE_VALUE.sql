@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_benefit_owner_type_value ON sa.table_x_benefits(x_benefit_owner_type,x_benefit_owner_value);

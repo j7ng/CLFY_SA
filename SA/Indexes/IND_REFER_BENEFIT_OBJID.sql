@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_refer_benefit_objid ON sa.x_sl_referral_benefits_plan(objid);

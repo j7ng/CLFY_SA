@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_metrics_enroll_webuser ON sa.x_metrics_enroll_attempt(enroll_atp2web_user);

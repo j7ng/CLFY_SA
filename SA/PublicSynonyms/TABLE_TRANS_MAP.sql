@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_trans_map FOR sa.table_trans_map;

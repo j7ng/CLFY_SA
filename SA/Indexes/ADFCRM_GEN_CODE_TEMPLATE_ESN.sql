@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_gen_code_template_esn ON sa.adfcrm_gen_code_template(esn);

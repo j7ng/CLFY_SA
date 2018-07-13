@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.site_part_objindex ON sa.table_site_part(objid);

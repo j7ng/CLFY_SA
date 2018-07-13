@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_ahis_table_part_inst_esn ON sa.tstahis_table_part_inst(part_serial_no);

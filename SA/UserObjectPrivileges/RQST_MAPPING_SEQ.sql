@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.rqst_mapping_seq TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tf_pymt_db_return_type FOR sa.tf_pymt_db_return_type;

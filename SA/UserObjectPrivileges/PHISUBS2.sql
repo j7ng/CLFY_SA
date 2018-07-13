@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.phisubs2 TO dbit_mtoribiolopez;

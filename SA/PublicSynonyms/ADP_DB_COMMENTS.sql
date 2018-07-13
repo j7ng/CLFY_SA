@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adp_db_comments FOR sa.adp_db_comments;

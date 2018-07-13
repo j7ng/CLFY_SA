@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.inv_locatn_objindex ON sa.table_inv_locatn(objid);

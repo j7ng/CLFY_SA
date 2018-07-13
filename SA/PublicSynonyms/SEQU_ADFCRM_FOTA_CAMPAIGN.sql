@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_adfcrm_fota_campaign FOR sa.sequ_adfcrm_fota_campaign;

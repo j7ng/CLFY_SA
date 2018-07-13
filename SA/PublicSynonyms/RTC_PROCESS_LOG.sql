@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rtc_process_log FOR sa.rtc_process_log;

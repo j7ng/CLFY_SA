@@ -1,0 +1,1 @@
+CREATE INDEX sa.open_orders_indx11 ON sa.open_orders(report_date);

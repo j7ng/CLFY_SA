@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM data_config_mapping_log FOR sa.data_config_mapping_log;

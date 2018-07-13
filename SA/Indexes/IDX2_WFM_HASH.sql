@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_wfm_hash ON sa.x_wfm_hash(ban);

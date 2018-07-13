@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_program_purch_hdr ON sa.x_program_purch_hdr(objid);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_portout_winback_log ON sa.x_portout_winback_log(esn);

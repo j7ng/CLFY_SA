@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_part_request_status ON sa.table_x_part_request(x_status);

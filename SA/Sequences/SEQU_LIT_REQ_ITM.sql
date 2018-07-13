@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_lit_req_itm;

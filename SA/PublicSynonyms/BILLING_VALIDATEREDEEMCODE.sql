@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_validateredeemcode FOR sa.billing_validateredeemcode;

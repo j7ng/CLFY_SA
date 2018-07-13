@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_employee_hist FOR sa.x_employee_hist;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.employee_objindex ON sa.table_employee(objid);

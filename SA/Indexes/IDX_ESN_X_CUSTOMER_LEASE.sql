@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_esn_x_customer_lease ON sa.x_customer_lease(x_esn);

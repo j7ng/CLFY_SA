@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_program_upgrade ON sa.x_program_upgrade(objid);

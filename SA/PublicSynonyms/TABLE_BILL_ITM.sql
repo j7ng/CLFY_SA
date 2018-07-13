@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_bill_itm FOR sa.table_bill_itm;

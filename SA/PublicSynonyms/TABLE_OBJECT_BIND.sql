@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_object_bind FOR sa.table_object_bind;

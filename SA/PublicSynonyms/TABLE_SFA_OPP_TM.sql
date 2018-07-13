@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_sfa_opp_tm FOR sa.table_sfa_opp_tm;

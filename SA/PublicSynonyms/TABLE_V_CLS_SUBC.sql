@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_v_cls_subc FOR sa.table_v_cls_subc;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_ticker_history_idx3 ON sa.adfcrm_ticker_history(display_ticker);

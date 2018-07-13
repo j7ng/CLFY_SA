@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_com_tmplte_old2 TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79tr_number_x79trnum_ind ON sa.table_x79tr_number(server_id,tr_rpt_id);

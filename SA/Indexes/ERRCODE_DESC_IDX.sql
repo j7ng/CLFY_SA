@@ -1,0 +1,1 @@
+CREATE INDEX sa.errcode_desc_idx ON sa.error_code(error_description);

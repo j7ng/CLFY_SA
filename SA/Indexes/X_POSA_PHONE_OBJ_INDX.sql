@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_posa_phone_obj_indx ON sa.x_posa_phone(objid);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_resend_email_with_attach TO PUBLIC;

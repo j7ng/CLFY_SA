@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.time_log_objindex ON sa.table_time_log(objid);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM get_ild_card_info_prc FOR sa.get_ild_card_info_prc;

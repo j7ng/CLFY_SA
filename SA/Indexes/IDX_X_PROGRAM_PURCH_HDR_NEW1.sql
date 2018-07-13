@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_program_purch_hdr_new1 ON sa.x_program_purch_hdr(x_rqst_date);

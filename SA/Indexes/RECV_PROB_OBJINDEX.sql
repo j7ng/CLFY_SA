@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.recv_prob_objindex ON sa.table_recv_prob(objid);

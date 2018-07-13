@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_zero_out_max_esn_idx ON sa.table_x_zero_out_max(x_esn);

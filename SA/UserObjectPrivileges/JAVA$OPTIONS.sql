@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.java$options TO dbit_mtoribiolopez;

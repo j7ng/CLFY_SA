@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.billing_chargebackcase TO clarify_billing;

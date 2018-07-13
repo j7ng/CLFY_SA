@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_partner_name ON sa.table_affiliated_partners(partner_name);

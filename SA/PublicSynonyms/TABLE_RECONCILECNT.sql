@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_reconcilecnt FOR sa.table_reconcilecnt;

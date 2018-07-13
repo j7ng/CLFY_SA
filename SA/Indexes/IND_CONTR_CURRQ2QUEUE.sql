@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_contr_currq2queue ON sa.table_contract(contr_currq2queue);

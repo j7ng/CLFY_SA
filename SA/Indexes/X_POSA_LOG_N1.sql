@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_posa_log_n1 ON sa.x_posa_log(x_serial_num);

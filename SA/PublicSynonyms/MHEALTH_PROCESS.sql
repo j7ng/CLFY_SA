@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mhealth_process FOR sa.mhealth_process;

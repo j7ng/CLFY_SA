@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_campaign_codes FOR sa.table_x_campaign_codes;

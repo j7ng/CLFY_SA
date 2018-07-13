@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_itemtypesex_i5438 ON sa.table_n_itemtypesex(n_itemtypeid);

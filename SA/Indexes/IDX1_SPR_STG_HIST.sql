@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_spr_stg_hist ON sa.x_pageplus_spr_staging_hist(pcrf_mdn);

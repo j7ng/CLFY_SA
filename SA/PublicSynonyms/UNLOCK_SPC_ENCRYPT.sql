@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM unlock_spc_encrypt FOR sa.unlock_spc_encrypt;

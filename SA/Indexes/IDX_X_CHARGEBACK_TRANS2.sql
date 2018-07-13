@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_chargeback_trans2 ON sa.x_chargeback_trans(x_status);

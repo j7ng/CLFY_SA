@@ -1,0 +1,14 @@
+GRANT SELECT ON sa.splan_feat_pivot TO cbo;
+GRANT SELECT ON sa.splan_feat_pivot TO clarify_administrator;
+GRANT SELECT ON sa.splan_feat_pivot TO clarify_user;
+GRANT SELECT ON sa.splan_feat_pivot TO csrcbo;
+GRANT SELECT ON sa.splan_feat_pivot TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.splan_feat_pivot TO gw1;
+GRANT SELECT ON sa.splan_feat_pivot TO igate_batch;
+GRANT SELECT ON sa.splan_feat_pivot TO role_report_select;
+GRANT SELECT ON sa.splan_feat_pivot TO role_sa_select;
+GRANT SELECT ON sa.splan_feat_pivot TO role_sa_update;
+GRANT SELECT ON sa.splan_feat_pivot TO role_tf_select;
+GRANT SELECT ON sa.splan_feat_pivot TO soacbo;
+GRANT SELECT ON sa.splan_feat_pivot TO w3ci;
+GRANT SELECT ON sa.splan_feat_pivot TO webcbo;

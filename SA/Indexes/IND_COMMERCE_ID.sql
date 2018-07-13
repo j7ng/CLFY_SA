@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_commerce_id ON sa.table_site(x_commerce_id);

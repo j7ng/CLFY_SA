@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.phone_upgrade_benefits_uk1 ON sa.phone_upgrade_benefits("ACTION",service_plan_group,brand_name,from_balance_metering,to_balance_metering);

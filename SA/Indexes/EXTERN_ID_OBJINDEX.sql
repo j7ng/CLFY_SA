@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.extern_id_objindex ON sa.table_extern_id(objid);

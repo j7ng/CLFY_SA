@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM sa.x_luts_exceptions FOR toppapp.x_luts_exceptions;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx4_pcrf_request_log ON sa.x_pcrf_request_log(esn);

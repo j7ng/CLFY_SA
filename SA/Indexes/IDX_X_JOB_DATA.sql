@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_job_data ON sa.x_job_data(job_data_id);

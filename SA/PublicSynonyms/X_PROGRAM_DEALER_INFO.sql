@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_program_dealer_info FOR sa.x_program_dealer_info;

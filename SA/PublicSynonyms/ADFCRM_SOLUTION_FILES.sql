@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_solution_files FOR sa.adfcrm_solution_files;

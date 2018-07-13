@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_voucher_order_orderid ON sa.x_voucher_order_hdr(order_id);

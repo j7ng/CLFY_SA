@@ -1,0 +1,1 @@
+CREATE INDEX sa.ix_receive_esn ON sa.x_receive_ftp_auto(esn);

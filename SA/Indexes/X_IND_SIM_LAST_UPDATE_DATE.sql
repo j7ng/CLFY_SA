@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_ind_sim_last_update_date ON sa.table_x_sim_inv(x_last_update_date);

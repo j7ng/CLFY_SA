@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_rtc_event FOR sa.sequ_rtc_event;

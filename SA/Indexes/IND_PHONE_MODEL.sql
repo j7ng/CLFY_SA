@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_phone_model ON sa.mvcm(phone_model);

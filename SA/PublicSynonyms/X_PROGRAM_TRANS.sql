@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_program_trans FOR sa.x_program_trans;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79act_dur_objindex ON sa.table_x79act_dur(objid);

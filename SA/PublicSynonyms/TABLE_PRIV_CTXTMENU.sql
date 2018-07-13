@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_priv_ctxtmenu FOR sa.table_priv_ctxtmenu;

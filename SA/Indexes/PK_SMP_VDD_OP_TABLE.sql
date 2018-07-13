@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.pk_smp_vdd_op_table ON sa.smp_vdd_operations_table(sequence_num);

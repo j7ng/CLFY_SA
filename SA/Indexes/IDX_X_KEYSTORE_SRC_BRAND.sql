@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_keystore_src_brand ON sa.x_keystore(x_source_system,x_brand_name);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.smp_vdu_principals_pkey ON sa.smp_vdu_principals_table("TYPE",principal_name);

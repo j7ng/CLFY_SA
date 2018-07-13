@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_rule_admin_pkg FOR sa.billing_rule_admin_pkg;

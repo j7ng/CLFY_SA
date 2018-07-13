@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx4_rtr_trans_detail ON sa.x_rtr_trans_detail(serial_num);

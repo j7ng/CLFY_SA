@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_x_class_exch_options;

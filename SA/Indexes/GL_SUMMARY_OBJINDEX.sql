@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.gl_summary_objindex ON sa.table_gl_summary(objid);

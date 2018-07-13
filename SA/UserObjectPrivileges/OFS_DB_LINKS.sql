@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.ofs_db_links TO dbit_mtoribiolopez;

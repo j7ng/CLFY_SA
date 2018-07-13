@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.x_sales_order_seq;

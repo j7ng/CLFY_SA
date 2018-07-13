@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_partnum_hist_part ON sa.x_part_num_hist(part_number,domain);

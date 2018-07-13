@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM purch_usage_allow FOR sa.purch_usage_allow;

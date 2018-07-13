@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_branded_trans FOR sa.sequ_branded_trans;

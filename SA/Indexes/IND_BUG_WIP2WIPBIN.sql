@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_bug_wip2wipbin ON sa.table_bug(bug_wip2wipbin);

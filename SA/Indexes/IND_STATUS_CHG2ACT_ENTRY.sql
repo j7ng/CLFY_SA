@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_status_chg2act_entry ON sa.table_status_chg(status_chg2act_entry);

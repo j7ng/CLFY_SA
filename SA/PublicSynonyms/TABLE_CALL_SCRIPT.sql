@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_call_script FOR sa.table_call_script;

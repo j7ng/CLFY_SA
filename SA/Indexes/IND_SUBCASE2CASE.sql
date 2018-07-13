@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_subcase2case ON sa.table_subcase(subcase2case);

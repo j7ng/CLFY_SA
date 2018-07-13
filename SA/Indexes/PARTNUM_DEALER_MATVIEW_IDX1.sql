@@ -1,0 +1,1 @@
+CREATE INDEX sa.partnum_dealer_matview_idx1 ON sa.partnum_dealer_matview(cust_account_id);

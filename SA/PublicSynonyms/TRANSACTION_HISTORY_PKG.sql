@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM transaction_history_pkg FOR sa.transaction_history_pkg;

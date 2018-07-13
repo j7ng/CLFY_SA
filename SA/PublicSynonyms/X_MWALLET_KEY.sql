@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_mwallet_key FOR sa.x_mwallet_key;

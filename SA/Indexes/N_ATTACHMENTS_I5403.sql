@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_attachments_i5403 ON sa.table_n_attachments(n_itemid,n_itemtypeid,n_description);

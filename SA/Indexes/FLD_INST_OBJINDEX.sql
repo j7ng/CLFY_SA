@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.fld_inst_objindex ON sa.table_fld_inst(objid);

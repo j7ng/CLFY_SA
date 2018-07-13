@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_tmobile_redemption_logs FOR sa.x_tmobile_redemption_logs;

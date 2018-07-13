@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_cert_his TO dbit_mtoribiolopez;

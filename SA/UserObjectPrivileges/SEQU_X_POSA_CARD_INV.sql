@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_posa_card_inv TO PUBLIC;

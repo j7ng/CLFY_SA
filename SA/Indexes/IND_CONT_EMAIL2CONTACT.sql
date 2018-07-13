@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_cont_email2contact ON sa.table_email_log(cont_email2contact);

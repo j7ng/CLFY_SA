@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.con_csc_role_conscc_role_ind ON sa.table_con_csc_role(csc_role2contact,con_role2contr_schedule,role_name);

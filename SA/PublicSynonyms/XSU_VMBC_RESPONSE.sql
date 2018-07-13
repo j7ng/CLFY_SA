@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM xsu_vmbc_response FOR sa.xsu_vmbc_response;

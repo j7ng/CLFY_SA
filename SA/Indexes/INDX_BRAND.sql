@@ -1,0 +1,1 @@
+CREATE INDEX sa.indx_brand ON sa.legacy_web_chk_csrf_url(brand);

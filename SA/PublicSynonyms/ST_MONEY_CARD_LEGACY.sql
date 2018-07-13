@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM st_money_card_legacy FOR sa.st_money_card_legacy;

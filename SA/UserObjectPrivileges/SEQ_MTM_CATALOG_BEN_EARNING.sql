@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_mtm_catalog_ben_earning TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.value_item_objindex ON sa.table_value_item(objid);

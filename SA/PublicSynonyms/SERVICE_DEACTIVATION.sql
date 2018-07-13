@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM service_deactivation FOR sa.service_deactivation;

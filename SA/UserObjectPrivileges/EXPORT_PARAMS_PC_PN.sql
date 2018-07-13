@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.export_params_pc_pn TO script_manager;

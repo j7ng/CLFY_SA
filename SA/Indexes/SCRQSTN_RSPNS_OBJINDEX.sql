@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.scrqstn_rspns_objindex ON sa.table_scrqstn_rspns(objid);

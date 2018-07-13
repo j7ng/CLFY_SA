@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_getpaymentdetails FOR sa.billing_getpaymentdetails;

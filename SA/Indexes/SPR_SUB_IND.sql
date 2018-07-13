@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.spr_sub_ind ON sa.x_subscriber_spr(pcrf_subscriber_id);

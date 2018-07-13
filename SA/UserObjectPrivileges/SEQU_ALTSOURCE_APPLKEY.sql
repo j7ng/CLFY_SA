@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_altsource_applkey TO PUBLIC;

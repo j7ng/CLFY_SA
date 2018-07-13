@@ -1,0 +1,1 @@
+CREATE BITMAP INDEX sa.subpart_ind ON sa.smob_extra_data3(sub_part);

@@ -1,0 +1,10 @@
+GRANT SELECT ON sa.released_phone_models TO cbo;
+GRANT SELECT ON sa.released_phone_models TO corecbo;
+GRANT SELECT ON sa.released_phone_models TO csrcbo;
+GRANT SELECT ON sa.released_phone_models TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.released_phone_models TO role_sa_select;
+GRANT SELECT ON sa.released_phone_models TO role_sa_update;
+GRANT SELECT ON sa.released_phone_models TO role_tf_select;
+GRANT SELECT ON sa.released_phone_models TO select_role;
+GRANT SELECT ON sa.released_phone_models TO soacbo;
+GRANT SELECT ON sa.released_phone_models TO webcbo;

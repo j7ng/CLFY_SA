@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_deactprotect FOR sa.billing_deactprotect;

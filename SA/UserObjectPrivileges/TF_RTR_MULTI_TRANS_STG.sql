@@ -1,0 +1,11 @@
+GRANT SELECT ON sa.tf_rtr_multi_trans_stg TO cbo;
+GRANT SELECT ON sa.tf_rtr_multi_trans_stg TO clarify_administrator;
+GRANT SELECT ON sa.tf_rtr_multi_trans_stg TO clarify_user;
+GRANT SELECT ON sa.tf_rtr_multi_trans_stg TO csrcbo;
+GRANT SELECT ON sa.tf_rtr_multi_trans_stg TO etladmin;
+GRANT SELECT ON sa.tf_rtr_multi_trans_stg TO igate_batch;
+GRANT SELECT ON sa.tf_rtr_multi_trans_stg TO role_gw1_select;
+GRANT SELECT ON sa.tf_rtr_multi_trans_stg TO role_tf_select;
+GRANT SELECT ON sa.tf_rtr_multi_trans_stg TO soacbo;
+GRANT SELECT ON sa.tf_rtr_multi_trans_stg TO w3ci;
+GRANT SELECT ON sa.tf_rtr_multi_trans_stg TO webcbo;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.loc_rol_itm_objindex ON sa.table_loc_rol_itm(objid);

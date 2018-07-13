@@ -1,0 +1,9 @@
+CREATE OR REPLACE TRIGGER sa.TRG_X_SERVICE_END_DT
+    BEFORE INSERT OR UPDATE
+    ON sa.TABLE_X_OTA_ACK     FOR EACH ROW
+BEGIN
+    IF :new.X_SERVICE_END_DT < to_date('01/01/0003','MM/DD/YYYY') then
+            :new.X_SERVICE_END_DT := to_date('01/01/1753','MM/DD/YYYY');
+    END IF;
+end;
+/

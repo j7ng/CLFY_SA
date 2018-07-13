@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_prop_name TO PUBLIC;

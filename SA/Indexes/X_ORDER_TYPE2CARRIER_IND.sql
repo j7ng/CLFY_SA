@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_order_type2carrier_ind ON sa.table_x_order_type(x_order_type2x_carrier);

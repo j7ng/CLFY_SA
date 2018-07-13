@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM redemption_history_view FOR sa.redemption_history_view;

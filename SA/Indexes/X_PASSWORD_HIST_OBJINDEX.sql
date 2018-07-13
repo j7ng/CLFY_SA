@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_password_hist_objindex ON sa.table_x_password_hist(objid);

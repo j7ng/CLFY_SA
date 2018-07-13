@@ -1,0 +1,1 @@
+CREATE INDEX sa.rd5447 ON sa.table_new_receipts(receipt_date);

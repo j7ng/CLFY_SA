@@ -1,0 +1,1 @@
+CREATE INDEX sa.indx_logon_time_xp ON sa.x_program_parameters_his(logon_time,dt);

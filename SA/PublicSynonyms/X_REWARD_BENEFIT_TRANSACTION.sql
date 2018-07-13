@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_reward_benefit_transaction FOR sa.x_reward_benefit_transaction;

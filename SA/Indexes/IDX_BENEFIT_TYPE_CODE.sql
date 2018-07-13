@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_benefit_type_code ON sa.x_reward_benefit_type(benefit_type_code);

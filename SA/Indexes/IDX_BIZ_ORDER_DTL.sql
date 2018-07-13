@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_biz_order_dtl ON sa.x_biz_order_dtl(x_vendor_id);

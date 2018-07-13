@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.svc_rqst_objindex ON sa.table_svc_rqst(objid);

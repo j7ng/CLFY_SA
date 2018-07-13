@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_disptchfe2case ON sa.table_disptchfe(disptchfe2case);

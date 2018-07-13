@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sp_rpk_paymentech_inbound FOR sa.sp_rpk_paymentech_inbound;

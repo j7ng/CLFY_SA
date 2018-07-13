@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_sec_threshold_types FOR sa.table_sec_threshold_types;

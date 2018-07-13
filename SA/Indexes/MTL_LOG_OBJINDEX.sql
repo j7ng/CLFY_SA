@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.mtl_log_objindex ON sa.table_mtl_log(objid);

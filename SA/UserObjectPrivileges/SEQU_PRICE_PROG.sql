@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_price_prog TO PUBLIC;

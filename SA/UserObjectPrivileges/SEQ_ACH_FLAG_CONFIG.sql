@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_ach_flag_config TO PUBLIC;

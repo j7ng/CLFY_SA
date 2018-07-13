@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_promotion_addl_info_srce FOR sa.x_promotion_addl_info_srce;

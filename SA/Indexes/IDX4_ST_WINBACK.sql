@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx4_st_winback ON sa.st_winback(update_timestamp);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_pinst2pml2shwgrp FOR sa.table_pinst2pml2shwgrp;

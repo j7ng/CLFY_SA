@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_inv_bin7_count_setup0 FOR sa.mtm_inv_bin7_count_setup0;

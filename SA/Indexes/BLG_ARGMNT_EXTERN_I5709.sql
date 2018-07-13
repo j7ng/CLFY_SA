@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.blg_argmnt_extern_i5709 ON sa.table_blg_argmnt_extern(ext_ref,ext_src);

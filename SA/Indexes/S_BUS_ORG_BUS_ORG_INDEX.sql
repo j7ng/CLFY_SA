@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.s_bus_org_bus_org_index ON sa.table_bus_org(s_org_id);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.dataset_objindex ON sa.table_dataset(objid);

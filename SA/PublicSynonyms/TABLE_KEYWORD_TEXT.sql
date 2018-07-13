@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_keyword_text FOR sa.table_keyword_text;

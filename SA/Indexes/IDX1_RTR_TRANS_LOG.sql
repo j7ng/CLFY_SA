@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_rtr_trans_log ON sa.x_rtr_trans_log(rtr_remote_trans_id,rtr_vendor_name);

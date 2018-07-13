@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_policy_mapping_config TO PUBLIC;

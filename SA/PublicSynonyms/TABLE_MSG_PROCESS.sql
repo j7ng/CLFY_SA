@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_msg_process FOR sa.table_msg_process;

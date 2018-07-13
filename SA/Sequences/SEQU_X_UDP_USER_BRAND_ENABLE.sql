@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_x_udp_user_brand_enable;

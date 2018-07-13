@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_wfm_hash ON sa.x_wfm_hash(web_user_objid);

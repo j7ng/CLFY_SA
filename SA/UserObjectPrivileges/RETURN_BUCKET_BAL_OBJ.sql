@@ -1,0 +1,9 @@
+GRANT EXECUTE ON sa.return_bucket_bal_obj TO cbo;
+GRANT EXECUTE ON sa.return_bucket_bal_obj TO clarify_administrator;
+GRANT EXECUTE ON sa.return_bucket_bal_obj TO clarify_user;
+GRANT EXECUTE ON sa.return_bucket_bal_obj TO csrcbo;
+GRANT EXECUTE ON sa.return_bucket_bal_obj TO gw1;
+GRANT EXECUTE ON sa.return_bucket_bal_obj TO report;
+GRANT EXECUTE ON sa.return_bucket_bal_obj TO role_sa_update;
+GRANT EXECUTE ON sa.return_bucket_bal_obj TO soacbo;
+GRANT EXECUTE ON sa.return_bucket_bal_obj TO webcbo;

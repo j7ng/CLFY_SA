@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.view_inv_bin TO dbit_mtoribiolopez;

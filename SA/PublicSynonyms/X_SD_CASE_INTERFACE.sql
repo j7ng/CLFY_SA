@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_sd_case_interface FOR sa.x_sd_case_interface;

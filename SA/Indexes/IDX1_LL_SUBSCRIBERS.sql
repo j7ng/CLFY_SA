@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_ll_subscribers ON sa.ll_subscribers(current_esn);

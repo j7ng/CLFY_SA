@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_partnum_hist_obj ON sa.x_part_num_hist(objid);

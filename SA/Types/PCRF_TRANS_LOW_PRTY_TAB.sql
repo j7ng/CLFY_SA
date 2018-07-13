@@ -1,0 +1,2 @@
+CREATE OR REPLACE TYPE sa."PCRF_TRANS_LOW_PRTY_TAB" AS TABLE OF pcrf_trans_low_prty_type;
+/

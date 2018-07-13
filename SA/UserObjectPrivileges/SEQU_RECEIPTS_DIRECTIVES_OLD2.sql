@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_receipts_directives_old2 TO PUBLIC;

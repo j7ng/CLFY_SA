@@ -1,0 +1,1 @@
+CREATE BITMAP INDEX sa.ind_case_type_bm ON sa.mvcm(case_type);

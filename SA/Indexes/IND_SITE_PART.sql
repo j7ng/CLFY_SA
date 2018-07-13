@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_site_part ON sa.table_site_part(x_service_id,x_min,install_date);

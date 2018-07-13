@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.smlogmessagesequence TO PUBLIC;

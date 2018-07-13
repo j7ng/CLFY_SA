@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.get_test_esn_imsi TO role_sqa_tester;

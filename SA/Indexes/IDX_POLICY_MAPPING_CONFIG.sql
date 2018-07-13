@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_policy_mapping_config ON sa.x_policy_mapping_config(update_cos);

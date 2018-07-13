@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_config_itm FOR sa.table_config_itm;

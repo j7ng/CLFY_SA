@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_brm_awop_repl_prc FOR sa.adfcrm_brm_awop_repl_prc;

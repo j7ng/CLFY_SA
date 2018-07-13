@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_subc_onsite2subcase ON sa.table_onsite_log(subc_onsite2subcase);

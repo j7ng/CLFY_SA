@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_holiday_grp TO PUBLIC;

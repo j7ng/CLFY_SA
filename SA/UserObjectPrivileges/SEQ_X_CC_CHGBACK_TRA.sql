@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_cc_chgback_tra TO PUBLIC;

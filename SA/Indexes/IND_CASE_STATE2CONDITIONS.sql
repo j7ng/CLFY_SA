@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_case_state2conditions ON sa.table_case(case_state2condition);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_time_bomb FOR sa.sequ_time_bomb;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.nrw_ruletemplates_objindex ON sa.table_nrw_ruletemplates(objid);

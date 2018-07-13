@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM seq_x_rew_ben_usg_id FOR sa.seq_x_rew_ben_usg_id;

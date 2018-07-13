@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.price_inst_price_inst_ind ON sa.table_price_inst(price_inst2price_prog,price_inst2part_num,price_inst2part_info,price_inst2price_qty,effective_date);

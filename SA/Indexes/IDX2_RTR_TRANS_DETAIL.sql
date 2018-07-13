@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_rtr_trans_detail ON sa.x_rtr_trans_detail(esn);

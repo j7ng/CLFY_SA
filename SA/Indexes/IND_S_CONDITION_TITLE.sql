@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_s_condition_title ON sa.table_condition(s_title);

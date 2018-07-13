@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.csc_solution_solution_ind ON sa.table_csc_solution(server_id,solution_id);

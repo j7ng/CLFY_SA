@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_pergencodes FOR sa.adfcrm_pergencodes;

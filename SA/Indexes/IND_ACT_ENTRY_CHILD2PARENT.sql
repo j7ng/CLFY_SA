@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_act_entry_child2parent ON sa.table_act_entry(act_entry_child2parent);

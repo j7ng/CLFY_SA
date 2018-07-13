@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_inv_bin FOR sa.table_inv_bin;

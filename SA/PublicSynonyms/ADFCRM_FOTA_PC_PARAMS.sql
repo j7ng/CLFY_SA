@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_fota_pc_params FOR sa.adfcrm_fota_pc_params;

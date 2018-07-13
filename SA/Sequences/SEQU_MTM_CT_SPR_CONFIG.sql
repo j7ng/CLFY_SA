@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_mtm_ct_spr_config;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_x_case_type ON sa.table_case(x_case_type);

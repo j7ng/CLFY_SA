@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_subc_stat_chg2subcase ON sa.table_status_chg(subc_stat_chg2subcase);

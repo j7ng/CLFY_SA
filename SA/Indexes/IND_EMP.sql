@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_emp ON sa.table_employee(first_name,last_name,e_mail);

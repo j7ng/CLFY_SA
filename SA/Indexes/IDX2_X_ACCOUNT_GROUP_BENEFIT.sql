@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_x_account_group_benefit ON sa.x_account_group_benefit(call_trans_id);

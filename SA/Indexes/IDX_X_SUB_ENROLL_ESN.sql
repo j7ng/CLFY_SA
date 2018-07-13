@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_sub_enroll_esn ON sa.x_subscriber_enrollments(x_esn);

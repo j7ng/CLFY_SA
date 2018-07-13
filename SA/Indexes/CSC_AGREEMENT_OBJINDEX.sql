@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.csc_agreement_objindex ON sa.table_csc_agreement(objid);

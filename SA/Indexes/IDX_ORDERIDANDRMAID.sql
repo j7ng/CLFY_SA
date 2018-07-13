@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_orderidandrmaid ON sa.x_return_log_hdr(order_id,rma_id);

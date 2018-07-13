@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_onsite_select FOR sa.table_onsite_select;

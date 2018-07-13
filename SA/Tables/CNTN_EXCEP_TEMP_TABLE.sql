@@ -1,0 +1,5 @@
+CREATE GLOBAL TEMPORARY TABLE sa.cntn_excep_temp_table (
+  esn VARCHAR2(30 BYTE),
+  exception_text VARCHAR2(100 BYTE)
+)
+ON COMMIT PRESERVE ROWS;

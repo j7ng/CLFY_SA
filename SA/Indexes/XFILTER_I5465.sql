@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.xfilter_i5465 ON sa.table_xfilter("NAME");

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_partner_tran_pk ON sa.x_partner_transaction_log(objid);

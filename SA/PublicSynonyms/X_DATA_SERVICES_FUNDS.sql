@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_data_services_funds FOR sa.x_data_services_funds;

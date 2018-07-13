@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_campaign4_call_script0 FOR sa.mtm_campaign4_call_script0;

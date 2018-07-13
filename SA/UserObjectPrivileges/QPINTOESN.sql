@@ -1,0 +1,11 @@
+GRANT EXECUTE ON sa.qpintoesn TO cbo;
+GRANT EXECUTE ON sa.qpintoesn TO clarify_administrator;
+GRANT EXECUTE ON sa.qpintoesn TO clarify_user;
+GRANT EXECUTE ON sa.qpintoesn TO corecbo;
+GRANT EXECUTE ON sa.qpintoesn TO csrcbo;
+GRANT EXECUTE ON sa.qpintoesn TO gw1;
+GRANT EXECUTE ON sa.qpintoesn TO report;
+GRANT EXECUTE ON sa.qpintoesn TO role_sa_update;
+GRANT EXECUTE ON sa.qpintoesn TO rrp;
+GRANT EXECUTE ON sa.qpintoesn TO soacbo;
+GRANT EXECUTE ON sa.qpintoesn TO webcbo;

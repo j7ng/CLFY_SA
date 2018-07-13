@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_expire_acc_group_benefit;

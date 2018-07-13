@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_fld_def TO PUBLIC;

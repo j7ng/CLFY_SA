@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.control_db_objindex ON sa.table_control_db(objid);

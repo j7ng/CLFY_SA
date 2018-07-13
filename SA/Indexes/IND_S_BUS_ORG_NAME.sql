@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_s_bus_org_name ON sa.table_bus_org(s_name);

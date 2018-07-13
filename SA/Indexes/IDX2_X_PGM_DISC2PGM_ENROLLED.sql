@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_x_pgm_disc2pgm_enrolled ON sa.x_program_discount_hist(pgm_discount2pgm_enrolled);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_sfa_target FOR sa.table_sfa_target;

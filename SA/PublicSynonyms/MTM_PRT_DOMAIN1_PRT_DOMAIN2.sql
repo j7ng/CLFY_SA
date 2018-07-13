@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_prt_domain1_prt_domain2 FOR sa.mtm_prt_domain1_prt_domain2;

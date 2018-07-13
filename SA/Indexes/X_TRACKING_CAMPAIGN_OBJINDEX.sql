@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_tracking_campaign_objindex ON sa.table_x_tracking_campaign(objid);

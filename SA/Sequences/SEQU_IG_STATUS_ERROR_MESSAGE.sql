@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_ig_status_error_message;

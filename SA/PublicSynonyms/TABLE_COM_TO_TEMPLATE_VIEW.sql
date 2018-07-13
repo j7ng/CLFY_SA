@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_com_to_template_view FOR sa.table_com_to_template_view;

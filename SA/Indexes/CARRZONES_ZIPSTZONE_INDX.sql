@@ -1,0 +1,1 @@
+CREATE INDEX sa.carrzones_zipstzone_indx ON sa.carrierzones(zip,st,"ZONE");

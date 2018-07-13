@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_process_date ON sa.x_biz_purch_hdr(x_process_date);

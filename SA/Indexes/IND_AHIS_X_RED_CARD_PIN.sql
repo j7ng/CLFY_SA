@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_ahis_x_red_card_pin ON sa.tstahis_table_x_red_card(x_red_code);

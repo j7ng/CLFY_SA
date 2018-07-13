@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_mui_mui_role TO PUBLIC;

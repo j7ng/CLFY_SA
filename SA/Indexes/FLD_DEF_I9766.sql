@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.fld_def_i9766 ON sa.table_fld_def(fld_name);

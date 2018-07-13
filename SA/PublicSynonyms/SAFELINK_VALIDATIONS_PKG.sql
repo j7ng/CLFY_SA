@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM safelink_validations_pkg FOR sa.safelink_validations_pkg;

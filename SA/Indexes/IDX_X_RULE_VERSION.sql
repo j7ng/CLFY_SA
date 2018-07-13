@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_rule_version ON sa.x_rule_version(objid);

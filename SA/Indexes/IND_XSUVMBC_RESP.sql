@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_xsuvmbc_resp ON sa.xsu_vmbc_response(responseto);

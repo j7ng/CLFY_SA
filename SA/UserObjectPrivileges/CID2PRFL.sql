@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.cid2prfl TO dbit_mtoribiolopez;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_denominations FOR sa.x_denominations;

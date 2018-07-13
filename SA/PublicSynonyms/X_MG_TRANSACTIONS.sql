@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_mg_transactions FOR sa.x_mg_transactions;

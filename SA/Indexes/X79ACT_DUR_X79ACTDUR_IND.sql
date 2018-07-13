@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79act_dur_x79actdur_ind ON sa.table_x79act_dur(server_id,dur2x79telcom_tr,activity_type,billable);

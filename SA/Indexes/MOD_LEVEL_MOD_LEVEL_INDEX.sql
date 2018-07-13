@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.mod_level_mod_level_index ON sa.table_mod_level(part_info2part_num,mod_level);

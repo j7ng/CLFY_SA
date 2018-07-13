@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.xfilterset_i5467 ON sa.table_xfilterset(xfiltersets2xfilter,xfilterset2user,"TYPE","NAME");

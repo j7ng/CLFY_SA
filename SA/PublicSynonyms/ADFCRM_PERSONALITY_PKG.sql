@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_personality_pkg FOR sa.adfcrm_personality_pkg;

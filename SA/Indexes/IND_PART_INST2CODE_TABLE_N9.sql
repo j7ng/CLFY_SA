@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_part_inst2code_table_n9 ON sa.table_part_inst(status2x_code_table);

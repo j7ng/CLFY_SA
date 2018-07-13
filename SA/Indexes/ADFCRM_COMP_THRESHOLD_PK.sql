@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.adfcrm_comp_threshold_pk ON sa.adfcrm_comp_threshold(privclass_objid,comp_level,comp_type,comp_units);

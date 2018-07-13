@@ -1,0 +1,1 @@
+CREATE INDEX sa.ix3_bogo_configuration ON sa.x_bogo_configuration(card_pin_part_class);

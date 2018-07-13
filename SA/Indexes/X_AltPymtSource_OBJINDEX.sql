@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa."X_AltPymtSource_OBJINDEX" ON sa.table_x_altpymtsource(objid);

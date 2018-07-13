@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.seq_apn_config_mapping;

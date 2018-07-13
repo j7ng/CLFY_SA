@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM seq_reward_catalog FOR sa.seq_reward_catalog;

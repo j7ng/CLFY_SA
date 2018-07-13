@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.btestdata TO dbit_mtoribiolopez;

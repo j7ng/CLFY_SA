@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_web_case_resolution FOR sa.table_x_web_case_resolution;

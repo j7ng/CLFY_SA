@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM q_payload_t FOR sa.q_payload_t;

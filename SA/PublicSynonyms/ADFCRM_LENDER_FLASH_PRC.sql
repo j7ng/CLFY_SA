@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_lender_flash_prc FOR sa.adfcrm_lender_flash_prc;

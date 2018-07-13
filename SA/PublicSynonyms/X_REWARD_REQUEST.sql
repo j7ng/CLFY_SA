@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_reward_request FOR sa.x_reward_request;

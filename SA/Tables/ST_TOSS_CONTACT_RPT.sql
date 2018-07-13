@@ -1,0 +1,20 @@
+CREATE TABLE sa.st_toss_contact_rpt (
+  contact_objid NUMBER,
+  cust_id VARCHAR2(80 BYTE),
+  email VARCHAR2(80 BYTE),
+  first_name VARCHAR2(30 BYTE),
+  last_name VARCHAR2(30 BYTE),
+  phone VARCHAR2(20 BYTE),
+  html_ok NUMBER,
+  email_status NUMBER,
+  date_of_birth DATE,
+  pin VARCHAR2(6 BYTE),
+  do_not_email NUMBER,
+  do_not_phone NUMBER,
+  do_not_sms NUMBER,
+  do_not_mail NUMBER,
+  product_line VARCHAR2(40 BYTE),
+  bus_objid NUMBER,
+  update_stamp DATE,
+  last_update_date DATE
+);

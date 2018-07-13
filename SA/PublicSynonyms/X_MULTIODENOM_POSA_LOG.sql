@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_multiodenom_posa_log FOR sa.x_multiodenom_posa_log;

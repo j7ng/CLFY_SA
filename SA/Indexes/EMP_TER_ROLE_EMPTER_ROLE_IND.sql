@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.emp_ter_role_empter_role_ind ON sa.table_emp_ter_role(role_name,emp_ter_role2territory,emp_ter_role2employee);

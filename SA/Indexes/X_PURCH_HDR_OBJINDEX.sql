@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_purch_hdr_objindex ON sa.table_x_purch_hdr(objid);

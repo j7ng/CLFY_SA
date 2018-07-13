@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_thresh_threshtype FOR sa.mtm_thresh_threshtype;

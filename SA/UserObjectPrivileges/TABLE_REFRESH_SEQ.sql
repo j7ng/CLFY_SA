@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.table_refresh_seq TO dbit_mtoribiolopez;

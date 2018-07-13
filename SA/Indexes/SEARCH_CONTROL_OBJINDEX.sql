@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.search_control_objindex ON sa.table_search_control(objid);

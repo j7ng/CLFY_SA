@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.batch_info_objindex ON sa.table_batch_info(objid);

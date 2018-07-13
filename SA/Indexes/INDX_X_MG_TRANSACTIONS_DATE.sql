@@ -1,0 +1,1 @@
+CREATE INDEX sa.indx_x_mg_transactions_date ON sa.x_mg_transactions(x_date_trans);

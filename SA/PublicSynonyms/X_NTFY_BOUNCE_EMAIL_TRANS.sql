@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_ntfy_bounce_email_trans FOR sa.x_ntfy_bounce_email_trans;

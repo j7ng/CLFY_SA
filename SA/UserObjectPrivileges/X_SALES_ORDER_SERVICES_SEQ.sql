@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_sales_order_services_seq TO PUBLIC;

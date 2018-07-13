@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.dbautl_x_program_paramts_hist TO dbit_mtoribiolopez;

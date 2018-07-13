@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM seq_part_vend FOR sa.seq_part_vend;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.num_scheme_name_index ON sa.table_num_scheme_base("NAME");

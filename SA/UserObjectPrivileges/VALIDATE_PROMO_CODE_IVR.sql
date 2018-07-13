@@ -1,0 +1,11 @@
+GRANT EXECUTE ON sa.validate_promo_code_ivr TO cbo;
+GRANT EXECUTE ON sa.validate_promo_code_ivr TO clarify_administrator;
+GRANT EXECUTE ON sa.validate_promo_code_ivr TO clarify_user;
+GRANT EXECUTE ON sa.validate_promo_code_ivr TO corecbo;
+GRANT EXECUTE ON sa.validate_promo_code_ivr TO csrcbo;
+GRANT EXECUTE ON sa.validate_promo_code_ivr TO gw1;
+GRANT EXECUTE ON sa.validate_promo_code_ivr TO igate_batch;
+GRANT EXECUTE ON sa.validate_promo_code_ivr TO role_sa_update;
+GRANT EXECUTE ON sa.validate_promo_code_ivr TO soacbo;
+GRANT EXECUTE ON sa.validate_promo_code_ivr TO w3ci;
+GRANT EXECUTE ON sa.validate_promo_code_ivr TO webcbo;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_queued_cbo_service FOR sa.table_queued_cbo_service;

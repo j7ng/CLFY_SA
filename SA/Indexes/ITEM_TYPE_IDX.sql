@@ -1,0 +1,1 @@
+CREATE INDEX sa.item_type_idx ON sa.x_biz_order_dtl(x_item_type);

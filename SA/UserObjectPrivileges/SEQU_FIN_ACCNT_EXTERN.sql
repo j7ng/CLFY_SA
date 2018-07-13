@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_fin_accnt_extern TO PUBLIC;

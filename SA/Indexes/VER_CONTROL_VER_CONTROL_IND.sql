@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ver_control_ver_control_ind ON sa.table_ver_control(node_id,"TYPE","NAME");

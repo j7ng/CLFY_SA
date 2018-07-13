@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_wipbin4_employee7 FOR sa.mtm_wipbin4_employee7;

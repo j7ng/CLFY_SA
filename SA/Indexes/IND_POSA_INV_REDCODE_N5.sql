@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_posa_inv_redcode_n5 ON sa.table_x_posa_card_inv(x_red_code);

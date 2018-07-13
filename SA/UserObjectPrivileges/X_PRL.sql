@@ -1,0 +1,12 @@
+GRANT DELETE ON sa.x_prl TO toppapp;
+GRANT INSERT ON sa.x_prl TO toppapp;
+GRANT SELECT ON sa.x_prl TO cbo;
+GRANT SELECT ON sa.x_prl TO corecbo;
+GRANT SELECT ON sa.x_prl TO csrcbo;
+GRANT SELECT ON sa.x_prl TO db_psi;
+GRANT SELECT ON sa.x_prl TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_prl TO role_carrier_ops;
+GRANT SELECT ON sa.x_prl TO soacbo;
+GRANT SELECT ON sa.x_prl TO toppapp;
+GRANT SELECT ON sa.x_prl TO webcbo;
+GRANT UPDATE ON sa.x_prl TO toppapp;

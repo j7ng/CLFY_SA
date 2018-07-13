@@ -1,0 +1,16 @@
+GRANT DEBUG ON sa.sp_taxes TO corecbo;
+GRANT EXECUTE ON sa.sp_taxes TO cbo;
+GRANT EXECUTE ON sa.sp_taxes TO clarify_administrator;
+GRANT EXECUTE ON sa.sp_taxes TO clarify_reporter;
+GRANT EXECUTE ON sa.sp_taxes TO clarify_user;
+GRANT EXECUTE ON sa.sp_taxes TO corecbo;
+GRANT EXECUTE ON sa.sp_taxes TO csrcbo;
+GRANT EXECUTE ON sa.sp_taxes TO gw1;
+GRANT EXECUTE ON sa.sp_taxes TO itquser_data;
+GRANT EXECUTE ON sa.sp_taxes TO report;
+GRANT EXECUTE ON sa.sp_taxes TO role_clarify_custom;
+GRANT EXECUTE ON sa.sp_taxes TO role_sa_select;
+GRANT EXECUTE ON sa.sp_taxes TO role_sa_update;
+GRANT EXECUTE ON sa.sp_taxes TO role_web_report;
+GRANT EXECUTE ON sa.sp_taxes TO soacbo;
+GRANT EXECUTE ON sa.sp_taxes TO webcbo;

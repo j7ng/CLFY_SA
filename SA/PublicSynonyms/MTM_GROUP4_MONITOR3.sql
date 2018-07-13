@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_group4_monitor3 FOR sa.mtm_group4_monitor3;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_con_opp_view FOR sa.table_con_opp_view;

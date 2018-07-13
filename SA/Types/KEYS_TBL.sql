@@ -1,0 +1,2 @@
+CREATE OR REPLACE TYPE sa.Keys_Tbl AS TABLE OF Keys_Obj;
+/

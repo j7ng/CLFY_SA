@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_mtm_sp_reward_program TO PUBLIC;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_rc_config_old2 TO PUBLIC;

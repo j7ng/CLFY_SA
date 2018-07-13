@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vas_subscriptions_id_tab FOR sa.vas_subscriptions_id_tab;

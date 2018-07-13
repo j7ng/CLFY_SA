@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.s_x79alias_x79alias_ind ON sa.table_x79alias(server_id,alias2x79service,s_alias);

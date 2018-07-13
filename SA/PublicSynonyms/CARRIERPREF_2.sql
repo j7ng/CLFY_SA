@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM carrierpref_2 FOR sa.carrierpref_2;

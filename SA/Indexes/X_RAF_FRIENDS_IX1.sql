@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_raf_friends_ix1 ON sa.x_raf_friends(customer_esn);

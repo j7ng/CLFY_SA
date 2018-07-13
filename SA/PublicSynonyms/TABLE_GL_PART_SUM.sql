@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_gl_part_sum FOR sa.table_gl_part_sum;

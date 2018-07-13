@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79person_objindex ON sa.table_x79person(objid);

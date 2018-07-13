@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.win_locale_info_objindex ON sa.table_win_locale_info(objid);

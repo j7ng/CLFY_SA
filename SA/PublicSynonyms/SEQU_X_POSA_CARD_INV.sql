@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_x_posa_card_inv FOR sa.sequ_x_posa_card_inv;

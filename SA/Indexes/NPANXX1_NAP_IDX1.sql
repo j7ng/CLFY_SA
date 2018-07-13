@@ -1,0 +1,1 @@
+CREATE INDEX sa.npanxx1_nap_idx1 ON sa.npanxx2carrierzones(npa,nxx,"STATE","ZONE","SID",marketid,carrier_id);

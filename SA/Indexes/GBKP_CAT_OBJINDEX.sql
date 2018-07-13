@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.gbkp_cat_objindex ON sa.table_gbkp_cat(objid);

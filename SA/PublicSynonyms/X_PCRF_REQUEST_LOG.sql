@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_pcrf_request_log FOR sa.x_pcrf_request_log;

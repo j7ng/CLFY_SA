@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_s_address_city ON sa.table_address(s_city,s_state);

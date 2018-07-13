@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_raf_email_template FOR sa.x_raf_email_template;

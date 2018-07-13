@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.map_path_path_index ON sa.table_map_path(fm_focus_type,to_focus_type,branch_no,map_path2trans_map);

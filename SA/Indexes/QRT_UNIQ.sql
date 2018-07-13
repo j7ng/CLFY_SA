@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.qrt_uniq ON sa.queue_routing_tbl(source_type,source_tbl,source_status,step_complete);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.entitlement_entitle_ind ON sa.table_entitlement(service2mod_level);

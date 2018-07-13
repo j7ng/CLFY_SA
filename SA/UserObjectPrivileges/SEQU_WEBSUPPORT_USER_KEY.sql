@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_websupport_user_key TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_config_mgr FOR sa.table_config_mgr;

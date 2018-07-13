@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.seq_adfcrm_group_trans_temp;

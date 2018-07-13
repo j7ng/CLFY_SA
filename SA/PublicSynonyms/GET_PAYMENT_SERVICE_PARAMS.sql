@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM get_payment_service_params FOR sa.get_payment_service_params;

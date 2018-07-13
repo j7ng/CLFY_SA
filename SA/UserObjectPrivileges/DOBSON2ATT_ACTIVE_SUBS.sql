@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.dobson2att_active_subs TO dbit_mtoribiolopez;

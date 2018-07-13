@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.queue_cc_objindex ON sa.table_queue_cc(objid);

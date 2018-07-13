@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.csc_contact_contact_ind ON sa.table_csc_contact(server_id,role_name,contact2csc_org,contact2csc_person);

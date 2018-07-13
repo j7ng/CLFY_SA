@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx3_x_imei_mismatch_hist ON sa.x_imei_mismatch_hist("MIN");

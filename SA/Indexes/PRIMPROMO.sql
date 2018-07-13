@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.primpromo ON sa.x_promo_ivr_options(x_script,x_op_order);

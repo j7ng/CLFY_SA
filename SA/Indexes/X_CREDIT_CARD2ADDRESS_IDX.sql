@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_credit_card2address_idx ON sa.table_x_credit_card(x_credit_card2address);

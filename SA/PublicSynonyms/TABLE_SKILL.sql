@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_skill FOR sa.table_skill;

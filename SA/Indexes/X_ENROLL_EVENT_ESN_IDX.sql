@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_enroll_event_esn_idx ON sa.x_enroll_event_log(x_esn);

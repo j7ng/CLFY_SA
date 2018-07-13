@@ -1,0 +1,1 @@
+GRANT EXECUTE ON report.get_bp_access_days TO sa;

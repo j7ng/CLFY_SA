@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_promotion_objindex ON sa.table_x_promotion_srce(objid);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.config_mgr_objindex ON sa.table_config_mgr(objid);

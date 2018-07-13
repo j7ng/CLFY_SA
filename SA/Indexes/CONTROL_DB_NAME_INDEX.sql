@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.control_db_name_index ON sa.table_control_db("NAME",control2window_db);

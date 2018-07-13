@@ -1,0 +1,1 @@
+CREATE INDEX sa.table_x_cai_log_by_user_idx ON sa.table_x_cai_log(add_info2user);

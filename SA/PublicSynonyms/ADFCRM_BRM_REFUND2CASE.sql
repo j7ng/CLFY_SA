@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_brm_refund2case FOR sa.adfcrm_brm_refund2case;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM seq_process_order FOR sa.seq_process_order;

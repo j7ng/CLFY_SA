@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_crm_permissions TO dbit_mtoribiolopez;

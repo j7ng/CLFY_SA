@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_vas_values_obj ON sa.x_vas_values(objid);

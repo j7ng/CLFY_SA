@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x79tr_txt TO PUBLIC;

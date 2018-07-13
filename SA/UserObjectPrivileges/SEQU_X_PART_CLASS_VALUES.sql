@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_part_class_values TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_resend_email_attach_objid ON sa.x_resend_email_with_attachment(objid);

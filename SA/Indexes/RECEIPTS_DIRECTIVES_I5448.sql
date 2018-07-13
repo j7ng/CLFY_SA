@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.receipts_directives_i5448 ON sa.table_receipts_directives(table_name,obj_to_view_path);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_republik_refund FOR sa.x_republik_refund;

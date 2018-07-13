@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.commit_log_objindex ON sa.table_commit_log(objid);

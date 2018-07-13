@@ -1,0 +1,1 @@
+CREATE INDEX sa.red2_22_sp_objid ON sa.red2_22(sp_objid);

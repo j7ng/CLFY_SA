@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_table_case_x_case2task ON sa.table_case(x_case2task);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.mail_list_objindex ON sa.table_mail_list(objid);

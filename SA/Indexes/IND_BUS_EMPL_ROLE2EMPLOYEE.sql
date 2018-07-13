@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_bus_empl_role2employee ON sa.table_bus_empl_role(bus_empl_role2employee,bus_empl_role2bus_org,role_name);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_contact_part_inst_old2 TO PUBLIC;

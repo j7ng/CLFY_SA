@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM apex_hotline_req_data FOR sa.apex_hotline_req_data;

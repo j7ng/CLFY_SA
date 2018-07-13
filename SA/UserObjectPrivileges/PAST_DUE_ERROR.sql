@@ -1,0 +1,9 @@
+GRANT DELETE ON sa.past_due_error TO role_sa_update;
+GRANT INSERT ON sa.past_due_error TO role_sa_update;
+GRANT SELECT ON sa.past_due_error TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.past_due_error TO role_sa_select;
+GRANT SELECT ON sa.past_due_error TO role_sa_update;
+GRANT SELECT ON sa.past_due_error TO role_tf_select;
+GRANT SELECT ON sa.past_due_error TO select_no_pin;
+GRANT SELECT ON sa.past_due_error TO select_role;
+GRANT UPDATE ON sa.past_due_error TO role_sa_update;

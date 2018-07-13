@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.csc_country_objindex ON sa.table_csc_country(objid);

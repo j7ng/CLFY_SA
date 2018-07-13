@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_opp2part_num ON sa.mtm_part_num4_opportunity18(opp2part_num);

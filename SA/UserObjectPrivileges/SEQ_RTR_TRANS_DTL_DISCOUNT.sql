@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_rtr_trans_dtl_discount TO PUBLIC;

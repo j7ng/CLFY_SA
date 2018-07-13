@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM part_number_type_tbl FOR sa.part_number_type_tbl;

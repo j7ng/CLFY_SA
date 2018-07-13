@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_cf_line_status_desc ON sa.x_cf_line_status(description);

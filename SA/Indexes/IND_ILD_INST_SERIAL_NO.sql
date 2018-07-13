@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_ild_inst_serial_no ON sa.table_x_ild_inst(x_part_serial_no);

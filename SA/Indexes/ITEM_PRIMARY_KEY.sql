@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.item_primary_key ON sa.item(ordid,itemid);

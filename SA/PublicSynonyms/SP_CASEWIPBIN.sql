@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sp_casewipbin FOR sa.sp_casewipbin;

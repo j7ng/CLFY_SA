@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_function FOR sa.table_function;

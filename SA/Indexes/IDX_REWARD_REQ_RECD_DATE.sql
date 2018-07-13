@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_reward_req_recd_date ON sa.x_reward_request(request_received_date);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.byop_sms_stg_idx4 ON sa.byop_sms_stg(carrier_id,sent_date,insert_date);

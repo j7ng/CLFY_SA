@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM alert_by_carrier_to_pc FOR sa.alert_by_carrier_to_pc;

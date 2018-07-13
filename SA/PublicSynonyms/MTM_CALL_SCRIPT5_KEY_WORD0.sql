@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_call_script5_key_word0 FOR sa.mtm_call_script5_key_word0;

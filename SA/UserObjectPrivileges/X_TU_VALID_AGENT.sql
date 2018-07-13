@@ -1,0 +1,1 @@
+GRANT SELECT ON toppapp.x_tu_valid_agent TO sa;

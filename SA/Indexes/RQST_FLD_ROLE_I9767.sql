@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.rqst_fld_role_i9767 ON sa.table_rqst_fld_role("TYPE",rqst_fld_role2fld_def,rqst_fld_role2rqst_def);

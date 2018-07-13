@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.map_field_field_index ON sa.table_map_field(map_field2map_path,trans_fldname);

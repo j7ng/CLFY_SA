@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.migration_campaign_uk1 ON sa.migration_campaign(campaign_name);

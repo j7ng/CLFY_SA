@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79service_x79srvc_ind ON sa.table_x79service(server_id,service_id);

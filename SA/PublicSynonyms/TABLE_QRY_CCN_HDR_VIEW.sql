@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_qry_ccn_hdr_view FOR sa.table_qry_ccn_hdr_view;

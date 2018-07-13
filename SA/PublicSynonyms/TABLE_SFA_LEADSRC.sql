@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_sfa_leadsrc FOR sa.table_sfa_leadsrc;

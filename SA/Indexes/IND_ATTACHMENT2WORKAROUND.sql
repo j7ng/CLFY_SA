@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_attachment2workaround ON sa.table_doc_inst(attachment2workaround);

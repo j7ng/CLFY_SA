@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM smartpay_ord_log_dtl_rec_tab FOR sa.smartpay_ord_log_dtl_rec_tab;

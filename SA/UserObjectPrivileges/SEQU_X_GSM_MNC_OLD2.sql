@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_gsm_mnc_old2 TO PUBLIC;

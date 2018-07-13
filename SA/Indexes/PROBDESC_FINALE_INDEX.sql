@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.probdesc_finale_index ON sa.table_probdesc(id_number);

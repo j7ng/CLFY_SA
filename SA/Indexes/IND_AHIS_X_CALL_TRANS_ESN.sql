@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_ahis_x_call_trans_esn ON sa.tstahis_table_x_call_trans(x_service_id);

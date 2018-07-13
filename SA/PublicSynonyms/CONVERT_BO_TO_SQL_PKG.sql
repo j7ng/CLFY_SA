@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM convert_bo_to_sql_pkg FOR sa.convert_bo_to_sql_pkg;

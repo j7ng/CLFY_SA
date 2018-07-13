@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_enroll_promo_extra_objid ON sa.x_enroll_promo_extra(objid);

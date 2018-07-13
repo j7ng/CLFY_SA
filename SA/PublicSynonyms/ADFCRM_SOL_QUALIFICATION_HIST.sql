@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_sol_qualification_hist FOR sa.adfcrm_sol_qualification_hist;

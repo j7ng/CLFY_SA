@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_rollup_old TO PUBLIC;

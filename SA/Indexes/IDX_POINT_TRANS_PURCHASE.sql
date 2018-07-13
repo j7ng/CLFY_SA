@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_point_trans_purchase ON sa.table_x_point_trans(point_trans2purchase_objid);

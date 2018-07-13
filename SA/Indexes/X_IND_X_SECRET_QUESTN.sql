@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_ind_x_secret_questn ON sa.table_web_user(x_secret_questn);

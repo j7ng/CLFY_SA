@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_order_status_ecomm ON sa.order_status_ecomm(objid);

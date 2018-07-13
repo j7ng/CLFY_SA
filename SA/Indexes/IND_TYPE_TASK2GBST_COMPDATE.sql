@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_type_task2gbst_compdate ON sa.table_task(type_task2gbst_elm,comp_date);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_part_script_objindex ON sa.table_x_part_script(objid);

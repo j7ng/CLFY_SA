@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_program_penalty_pend ON sa.x_program_penalty_pend(objid);

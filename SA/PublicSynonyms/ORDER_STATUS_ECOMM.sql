@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM order_status_ecomm FOR sa.order_status_ecomm;

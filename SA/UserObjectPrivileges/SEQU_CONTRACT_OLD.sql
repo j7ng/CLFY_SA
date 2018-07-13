@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_contract_old TO PUBLIC;

@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.sp_check_exchanges TO role_sa_update;

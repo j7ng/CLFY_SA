@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_promotion_code_ind ON sa.table_x_promotion_srce(x_promo_code);

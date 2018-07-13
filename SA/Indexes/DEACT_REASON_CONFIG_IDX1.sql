@@ -1,0 +1,1 @@
+CREATE INDEX sa.deact_reason_config_idx1 ON sa.x_deact_reason_config(min_status_code);

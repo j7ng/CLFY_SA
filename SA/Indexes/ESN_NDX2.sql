@@ -1,0 +1,1 @@
+CREATE INDEX sa.esn_ndx2 ON sa.table_x_webcsr_log(x_esn);

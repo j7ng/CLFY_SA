@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_seq_inquiry_esn ON sa.table_seq_inquiry(esn);

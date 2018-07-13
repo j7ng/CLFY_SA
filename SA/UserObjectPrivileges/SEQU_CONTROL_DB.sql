@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_control_db TO PUBLIC;

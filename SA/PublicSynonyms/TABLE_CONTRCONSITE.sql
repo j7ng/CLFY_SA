@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_contrconsite FOR sa.table_contrconsite;

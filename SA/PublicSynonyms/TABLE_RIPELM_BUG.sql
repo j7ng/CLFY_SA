@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_ripelm_bug FOR sa.table_ripelm_bug;

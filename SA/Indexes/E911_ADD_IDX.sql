@@ -1,0 +1,1 @@
+CREATE INDEX sa.e911_add_idx ON sa.table_address(address2e911);

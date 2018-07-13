@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.ofs_table_price_stg TO dbit_mtoribiolopez;

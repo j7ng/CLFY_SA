@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adp_view_field_info FOR sa.adp_view_field_info;

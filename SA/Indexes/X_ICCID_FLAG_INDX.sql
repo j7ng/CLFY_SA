@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_iccid_flag_indx ON sa.x_load_iccid_stg(insert_flag);

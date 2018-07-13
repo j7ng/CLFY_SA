@@ -1,0 +1,1 @@
+CREATE INDEX sa.indx2_featurevalue_def ON sa.x_serviceplanfeaturevalue_def(table_type);

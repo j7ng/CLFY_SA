@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_menu_item TO PUBLIC;

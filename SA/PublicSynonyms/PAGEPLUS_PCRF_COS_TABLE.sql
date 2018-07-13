@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pageplus_pcrf_cos_table FOR sa.pageplus_pcrf_cos_table;

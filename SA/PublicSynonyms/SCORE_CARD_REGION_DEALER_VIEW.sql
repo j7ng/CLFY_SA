@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM score_card_region_dealer_view FOR sa.score_card_region_dealer_view;

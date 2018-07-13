@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_user_referrers_trig TO PUBLIC;

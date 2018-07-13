@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_sitprt_cf FOR sa.table_sitprt_cf;

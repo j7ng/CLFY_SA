@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_queued_cbo_service_pk ON sa.table_queued_cbo_service(objid);

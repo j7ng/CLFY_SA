@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_bb_vendor FOR sa.x_bb_vendor;

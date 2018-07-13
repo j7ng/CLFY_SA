@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx3_order_status_ecomm ON sa.order_status_ecomm(last_update_date);

@@ -1,0 +1,15 @@
+GRANT EXECUTE ON sa.send_mail TO apps_select;
+GRANT EXECUTE ON sa.send_mail TO cbo;
+GRANT EXECUTE ON sa.send_mail TO clarify_user;
+GRANT EXECUTE ON sa.send_mail TO corecbo;
+GRANT EXECUTE ON sa.send_mail TO csrcbo;
+GRANT EXECUTE ON sa.send_mail TO gw1;
+GRANT EXECUTE ON sa.send_mail TO igate_batch;
+GRANT EXECUTE ON sa.send_mail TO igateapps;
+GRANT EXECUTE ON sa.send_mail TO iut;
+GRANT EXECUTE ON sa.send_mail TO posaapp;
+GRANT EXECUTE ON sa.send_mail TO posadirectapps;
+GRANT EXECUTE ON sa.send_mail TO role_sa_update;
+GRANT EXECUTE ON sa.send_mail TO soacbo;
+GRANT EXECUTE ON sa.send_mail TO toppapp;
+GRANT EXECUTE ON sa.send_mail TO webcbo;

@@ -1,0 +1,15 @@
+GRANT INSERT ON sa.mtm_affpart_prog_promo TO cbo;
+GRANT INSERT ON sa.mtm_affpart_prog_promo TO corecbo;
+GRANT INSERT ON sa.mtm_affpart_prog_promo TO csrcbo;
+GRANT INSERT ON sa.mtm_affpart_prog_promo TO soacbo;
+GRANT INSERT ON sa.mtm_affpart_prog_promo TO webcbo;
+GRANT SELECT ON sa.mtm_affpart_prog_promo TO cbo;
+GRANT SELECT ON sa.mtm_affpart_prog_promo TO corecbo;
+GRANT SELECT ON sa.mtm_affpart_prog_promo TO csrcbo;
+GRANT SELECT ON sa.mtm_affpart_prog_promo TO soacbo;
+GRANT SELECT ON sa.mtm_affpart_prog_promo TO webcbo;
+GRANT UPDATE ON sa.mtm_affpart_prog_promo TO cbo;
+GRANT UPDATE ON sa.mtm_affpart_prog_promo TO corecbo;
+GRANT UPDATE ON sa.mtm_affpart_prog_promo TO csrcbo;
+GRANT UPDATE ON sa.mtm_affpart_prog_promo TO soacbo;
+GRANT UPDATE ON sa.mtm_affpart_prog_promo TO webcbo;

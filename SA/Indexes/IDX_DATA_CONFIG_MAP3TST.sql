@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_data_config_map3tst ON sa.data_config_mapping_0613_tst(x_rate_plan,x_part_class_objid,x_parent_id);

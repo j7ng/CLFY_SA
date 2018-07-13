@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_x_shipping_master_2 ON sa.table_x_shipping_master(x_zip_code,x_weight);

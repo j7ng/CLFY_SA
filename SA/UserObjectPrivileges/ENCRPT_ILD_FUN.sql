@@ -1,0 +1,1 @@
+GRANT EXECUTE ON "SYSTEM".encrpt_ild_fun TO sa;

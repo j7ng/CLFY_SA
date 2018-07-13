@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_voucher_order_date ON sa.x_voucher_order_hdr(x_order_date);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_bundle_program_promo TO PUBLIC;

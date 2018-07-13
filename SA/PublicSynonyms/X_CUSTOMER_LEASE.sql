@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_customer_lease FOR sa.x_customer_lease;

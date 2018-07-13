@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_activity_log_ndx3 ON sa.adfcrm_activity_log(log_date,flow_name);

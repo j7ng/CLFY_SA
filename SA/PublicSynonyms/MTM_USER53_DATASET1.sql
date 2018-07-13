@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_user53_dataset1 FOR sa.mtm_user53_dataset1;

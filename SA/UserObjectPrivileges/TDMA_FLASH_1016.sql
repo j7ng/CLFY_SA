@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.tdma_flash_1016 TO dbit_mtoribiolopez;

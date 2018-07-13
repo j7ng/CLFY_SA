@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.tmp_cc_trans_failed TO dbit_mtoribiolopez;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_ahis_table_task_obj ON sa.tstahis_table_task(task_hist2task);

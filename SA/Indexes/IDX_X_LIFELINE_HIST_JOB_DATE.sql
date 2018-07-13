@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_lifeline_hist_job_date ON sa.x_lifeline_hist_job(x_start_date);

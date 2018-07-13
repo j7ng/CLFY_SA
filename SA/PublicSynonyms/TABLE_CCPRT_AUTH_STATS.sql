@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_ccprt_auth_stats FOR sa.table_ccprt_auth_stats;

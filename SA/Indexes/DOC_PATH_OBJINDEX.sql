@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.doc_path_objindex ON sa.table_doc_path(objid);

@@ -1,0 +1,15 @@
+GRANT EXECUTE ON sa.billing_inserts_pkg TO cbo;
+GRANT EXECUTE ON sa.billing_inserts_pkg TO clarify_administrator;
+GRANT EXECUTE ON sa.billing_inserts_pkg TO clarify_billing;
+GRANT EXECUTE ON sa.billing_inserts_pkg TO clarify_reporter;
+GRANT EXECUTE ON sa.billing_inserts_pkg TO clarify_user;
+GRANT EXECUTE ON sa.billing_inserts_pkg TO corecbo;
+GRANT EXECUTE ON sa.billing_inserts_pkg TO csrcbo;
+GRANT EXECUTE ON sa.billing_inserts_pkg TO gw1;
+GRANT EXECUTE ON sa.billing_inserts_pkg TO itquser_data;
+GRANT EXECUTE ON sa.billing_inserts_pkg TO role_clarify_custom;
+GRANT EXECUTE ON sa.billing_inserts_pkg TO role_sa_update;
+GRANT EXECUTE ON sa.billing_inserts_pkg TO role_web_report;
+GRANT EXECUTE ON sa.billing_inserts_pkg TO select_no_pin;
+GRANT EXECUTE ON sa.billing_inserts_pkg TO soacbo;
+GRANT EXECUTE ON sa.billing_inserts_pkg TO webcbo;

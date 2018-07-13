@@ -1,0 +1,17 @@
+GRANT DELETE ON sa.view_inv_role TO corecbo;
+GRANT DELETE ON sa.view_inv_role TO gw1;
+GRANT DELETE ON sa.view_inv_role TO igate_batch;
+GRANT DELETE ON sa.view_inv_role TO soacbo;
+GRANT INSERT ON sa.view_inv_role TO corecbo;
+GRANT INSERT ON sa.view_inv_role TO gw1;
+GRANT INSERT ON sa.view_inv_role TO igate_batch;
+GRANT INSERT ON sa.view_inv_role TO soacbo;
+GRANT SELECT ON sa.view_inv_role TO corecbo;
+GRANT SELECT ON sa.view_inv_role TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.view_inv_role TO gw1;
+GRANT SELECT ON sa.view_inv_role TO igate_batch;
+GRANT SELECT ON sa.view_inv_role TO soacbo;
+GRANT UPDATE ON sa.view_inv_role TO corecbo;
+GRANT UPDATE ON sa.view_inv_role TO gw1;
+GRANT UPDATE ON sa.view_inv_role TO igate_batch;
+GRANT UPDATE ON sa.view_inv_role TO soacbo;

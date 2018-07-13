@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ben_earnings_rule FOR sa.ben_earnings_rule;

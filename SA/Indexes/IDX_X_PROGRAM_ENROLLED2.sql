@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_program_enrolled2 ON sa.x_program_enrolled(pgm_enroll2pgm_group);

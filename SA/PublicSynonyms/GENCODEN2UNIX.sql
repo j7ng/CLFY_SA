@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM gencoden2unix FOR sa.gencoden2unix;

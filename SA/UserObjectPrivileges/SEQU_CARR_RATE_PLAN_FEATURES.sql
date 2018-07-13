@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_carr_rate_plan_features TO PUBLIC;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_adfcrm_brm_refund2case TO PUBLIC;

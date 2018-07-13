@@ -1,0 +1,1 @@
+CREATE INDEX sa.ndx_thrtl_2 ON sa.table_x_throttle(x_esn);

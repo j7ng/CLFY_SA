@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_posa_objid_indx ON sa.x_posa_log(objid);

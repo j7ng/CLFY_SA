@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_toss_interface_v FOR sa.adfcrm_toss_interface_v;

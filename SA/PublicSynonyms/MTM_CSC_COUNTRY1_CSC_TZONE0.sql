@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_csc_country1_csc_tzone0 FOR sa.mtm_csc_country1_csc_tzone0;

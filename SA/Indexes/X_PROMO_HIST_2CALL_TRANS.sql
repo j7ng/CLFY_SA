@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_promo_hist_2call_trans ON sa.table_x_promo_hist(promo_hist2x_call_trans);

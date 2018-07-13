@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_mtm_par2par_ordertyp ON sa.mtm_parent2parent_ordertype(srce_parent_id,trgt_parent_id,x_order_type);

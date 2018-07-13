@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_disposition_codes_objindex ON sa.table_x_disposition_codes(objid);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_email_log FOR sa.table_email_log;

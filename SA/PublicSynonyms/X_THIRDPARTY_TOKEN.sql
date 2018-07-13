@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_thirdparty_token FOR sa.x_thirdparty_token;

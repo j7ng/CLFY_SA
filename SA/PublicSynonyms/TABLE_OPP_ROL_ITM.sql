@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_opp_rol_itm FOR sa.table_opp_rol_itm;

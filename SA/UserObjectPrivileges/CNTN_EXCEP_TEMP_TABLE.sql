@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.cntn_excep_temp_table TO dbit_mtoribiolopez;

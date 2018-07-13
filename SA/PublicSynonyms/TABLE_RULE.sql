@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_rule FOR sa.table_rule;

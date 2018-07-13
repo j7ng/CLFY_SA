@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_privclass8_web_object0 FOR sa.mtm_privclass8_web_object0;

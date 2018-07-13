@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM byop_service_pkg FOR sa.byop_service_pkg;

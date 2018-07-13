@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_carrier_group_id TO PUBLIC;

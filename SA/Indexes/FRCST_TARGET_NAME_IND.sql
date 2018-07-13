@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.frcst_target_name_ind ON sa.table_frcst_target("NAME");

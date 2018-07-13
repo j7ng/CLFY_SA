@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_road_ftp TO PUBLIC;

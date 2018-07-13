@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_payment_staging_tbl TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.reject_msg_objindex ON sa.table_reject_msg(objid);

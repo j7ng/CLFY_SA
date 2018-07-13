@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_commit_log_old2 TO PUBLIC;

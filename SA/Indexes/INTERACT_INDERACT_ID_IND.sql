@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.interact_inderact_id_ind ON sa.table_interact(interact_id);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_voucher_order_dtl FOR sa.x_voucher_order_dtl;

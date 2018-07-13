@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_mtm_program_msrp_uk ON sa.x_mtm_program_msrp(pgm_msrp2handset_msrp_tier,pgm_msrp2pgm_parameter);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_reb_esn_ref_idx ON sa.x_rebate_referral_info(coupon_ref_no,esn,esn_referred);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.error_date_idx ON sa.error_table(error_date);

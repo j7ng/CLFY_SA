@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.smp_vdm_paging_crr_id_seq TO PUBLIC;

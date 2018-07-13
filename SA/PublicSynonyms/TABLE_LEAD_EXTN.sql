@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_lead_extn FOR sa.table_lead_extn;

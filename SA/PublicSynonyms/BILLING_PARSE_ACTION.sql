@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_parse_action FOR sa.billing_parse_action;

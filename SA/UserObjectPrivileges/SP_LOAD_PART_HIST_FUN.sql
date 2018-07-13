@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.sp_load_part_hist_fun TO role_sa_update;

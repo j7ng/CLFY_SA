@@ -1,0 +1,9 @@
+GRANT EXECUTE ON sa.send_tracking_email TO cbo;
+GRANT EXECUTE ON sa.send_tracking_email TO clarify_user;
+GRANT EXECUTE ON sa.send_tracking_email TO corecbo;
+GRANT EXECUTE ON sa.send_tracking_email TO csrcbo;
+GRANT EXECUTE ON sa.send_tracking_email TO role_sa_update;
+GRANT EXECUTE ON sa.send_tracking_email TO role_sqa_tester;
+GRANT EXECUTE ON sa.send_tracking_email TO role_sqa_update;
+GRANT EXECUTE ON sa.send_tracking_email TO soacbo;
+GRANT EXECUTE ON sa.send_tracking_email TO webcbo;

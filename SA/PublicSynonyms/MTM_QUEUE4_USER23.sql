@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_queue4_user23 FOR sa.mtm_queue4_user23;

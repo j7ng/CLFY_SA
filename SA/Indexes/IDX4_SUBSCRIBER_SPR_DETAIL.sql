@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx4_subscriber_spr_detail ON sa.x_subscriber_spr_detail(update_timestamp);

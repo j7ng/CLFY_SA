@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.referral_events;

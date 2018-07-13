@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_stg_lrp_adhoc_load FOR sa.x_stg_lrp_adhoc_load;

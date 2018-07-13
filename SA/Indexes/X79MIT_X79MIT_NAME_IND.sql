@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79mit_x79mit_name_ind ON sa.table_x79mit(server_id,"NAME");

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_subscriber_action FOR sa.x_subscriber_action;

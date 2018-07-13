@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_account ON sa.table_x_account(x_acct_num,account2x_carrier);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.jf_status_smp_idx ON sa.jf_status4340_cr4341(part_serial_no);

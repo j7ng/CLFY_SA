@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.prog_membership_id ON sa.x_program_membership(x_membership_id);

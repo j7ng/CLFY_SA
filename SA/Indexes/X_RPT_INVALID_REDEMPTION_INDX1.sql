@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_rpt_invalid_redemption_indx1 ON sa.x_rpt_invalid_redemption(card_smp);

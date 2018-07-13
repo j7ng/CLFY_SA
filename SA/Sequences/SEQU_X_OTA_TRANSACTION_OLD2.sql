@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_x_ota_transaction_old2;

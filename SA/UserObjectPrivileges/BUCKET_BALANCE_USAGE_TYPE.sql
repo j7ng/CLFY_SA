@@ -1,0 +1,9 @@
+GRANT EXECUTE ON sa.bucket_balance_usage_type TO cbo;
+GRANT EXECUTE ON sa.bucket_balance_usage_type TO clarify_administrator;
+GRANT EXECUTE ON sa.bucket_balance_usage_type TO clarify_user;
+GRANT EXECUTE ON sa.bucket_balance_usage_type TO csrcbo;
+GRANT EXECUTE ON sa.bucket_balance_usage_type TO gw1;
+GRANT EXECUTE ON sa.bucket_balance_usage_type TO report;
+GRANT EXECUTE ON sa.bucket_balance_usage_type TO role_sa_update;
+GRANT EXECUTE ON sa.bucket_balance_usage_type TO soacbo;
+GRANT EXECUTE ON sa.bucket_balance_usage_type TO webcbo;

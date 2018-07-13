@@ -1,0 +1,10 @@
+GRANT SELECT ON sa.x_reset_sim_inv TO cbo;
+GRANT SELECT ON sa.x_reset_sim_inv TO clarify_administrator;
+GRANT SELECT ON sa.x_reset_sim_inv TO clarify_user;
+GRANT SELECT ON sa.x_reset_sim_inv TO csrcbo;
+GRANT SELECT ON sa.x_reset_sim_inv TO gw1;
+GRANT SELECT ON sa.x_reset_sim_inv TO igate_batch;
+GRANT SELECT ON sa.x_reset_sim_inv TO role_sa_update;
+GRANT SELECT ON sa.x_reset_sim_inv TO soacbo;
+GRANT SELECT ON sa.x_reset_sim_inv TO w3ci;
+GRANT SELECT ON sa.x_reset_sim_inv TO webcbo;

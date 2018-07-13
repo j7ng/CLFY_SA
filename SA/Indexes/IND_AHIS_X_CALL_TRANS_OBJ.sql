@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_ahis_x_call_trans_obj ON sa.tstahis_table_x_call_trans(x_call_trans_hist2x_call_trans);

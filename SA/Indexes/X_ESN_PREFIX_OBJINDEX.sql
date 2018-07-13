@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_esn_prefix_objindex ON sa.table_x_esn_prefix(objid);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.gsm_serial_no_seq TO dbit_mtoribiolopez;

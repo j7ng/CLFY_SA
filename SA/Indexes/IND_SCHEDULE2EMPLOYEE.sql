@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_schedule2employee ON sa.table_schedule(schedule2employee);

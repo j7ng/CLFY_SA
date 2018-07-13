@@ -1,0 +1,1 @@
+CREATE INDEX sa.table_x_carrier_err_codes_ix1 ON sa.table_x_carrier_err_codes(x_car_er2x_carrier);

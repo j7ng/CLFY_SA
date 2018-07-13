@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.x_enroll_promo_extra_seq;

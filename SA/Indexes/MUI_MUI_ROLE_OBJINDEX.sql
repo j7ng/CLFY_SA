@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.mui_mui_role_objindex ON sa.table_mui_mui_role(objid);

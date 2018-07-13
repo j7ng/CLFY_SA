@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.fix_cp_switchbased_sweep TO dbit_mtoribiolopez;

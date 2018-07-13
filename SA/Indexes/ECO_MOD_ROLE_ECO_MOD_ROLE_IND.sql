@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.eco_mod_role_eco_mod_role_ind ON sa.table_eco_mod_role(role_name,eco_mod_role2eco_hdr,applies2mod_level);

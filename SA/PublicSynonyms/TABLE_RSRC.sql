@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_rsrc FOR sa.table_rsrc;

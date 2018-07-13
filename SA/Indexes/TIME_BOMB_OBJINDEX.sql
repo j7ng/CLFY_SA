@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.time_bomb_objindex ON sa.table_time_bomb(objid);

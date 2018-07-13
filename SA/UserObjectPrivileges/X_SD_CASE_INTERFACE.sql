@@ -1,0 +1,9 @@
+GRANT DELETE ON sa.x_sd_case_interface TO role_sa_update;
+GRANT DELETE ON sa.x_sd_case_interface TO sdclfy_if;
+GRANT INSERT ON sa.x_sd_case_interface TO role_sa_update;
+GRANT INSERT ON sa.x_sd_case_interface TO sdclfy_if;
+GRANT SELECT ON sa.x_sd_case_interface TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_sd_case_interface TO role_sa_select;
+GRANT SELECT ON sa.x_sd_case_interface TO sdclfy_if;
+GRANT UPDATE ON sa.x_sd_case_interface TO role_sa_update;
+GRANT UPDATE ON sa.x_sd_case_interface TO sdclfy_if;

@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.seq_tstahis_contact CACHE 5;

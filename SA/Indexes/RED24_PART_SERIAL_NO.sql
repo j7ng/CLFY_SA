@@ -1,0 +1,1 @@
+CREATE INDEX sa.red24_part_serial_no ON sa.red24(cellpi_part_serial_no);

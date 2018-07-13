@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_tf_notification_evnt TO PUBLIC;

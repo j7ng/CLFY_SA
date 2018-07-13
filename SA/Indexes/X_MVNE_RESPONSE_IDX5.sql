@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_mvne_response_idx5 ON sa.x_mvne_response(x_transaction_id);

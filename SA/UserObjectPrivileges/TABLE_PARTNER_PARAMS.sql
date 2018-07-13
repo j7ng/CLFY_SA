@@ -1,0 +1,13 @@
+GRANT SELECT ON sa.table_partner_params TO cbo;
+GRANT SELECT ON sa.table_partner_params TO clarify_administrator;
+GRANT SELECT ON sa.table_partner_params TO clarify_user;
+GRANT SELECT ON sa.table_partner_params TO corecbo;
+GRANT SELECT ON sa.table_partner_params TO csrcbo;
+GRANT SELECT ON sa.table_partner_params TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.table_partner_params TO gw1;
+GRANT SELECT ON sa.table_partner_params TO role_report_select;
+GRANT SELECT ON sa.table_partner_params TO role_sa_select;
+GRANT SELECT ON sa.table_partner_params TO role_sa_update;
+GRANT SELECT ON sa.table_partner_params TO role_tf_select;
+GRANT SELECT ON sa.table_partner_params TO soacbo;
+GRANT SELECT ON sa.table_partner_params TO webcbo;

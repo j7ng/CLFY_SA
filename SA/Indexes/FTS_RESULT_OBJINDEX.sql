@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.fts_result_objindex ON sa.table_fts_result(objid);

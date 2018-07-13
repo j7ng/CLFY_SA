@@ -1,0 +1,1 @@
+CREATE INDEX sa.i_x_pi_hist2part_inst ON sa.table_x_pi_hist(x_pi_hist2part_inst);

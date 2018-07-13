@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_choice_fld FOR sa.table_choice_fld;

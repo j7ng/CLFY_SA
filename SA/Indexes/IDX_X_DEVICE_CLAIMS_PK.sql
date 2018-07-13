@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_device_claims_pk ON sa.x_device_claims(objid);

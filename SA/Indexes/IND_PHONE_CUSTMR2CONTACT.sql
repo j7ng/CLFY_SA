@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_phone_custmr2contact ON sa.table_phone_log(phone_custmr2contact);

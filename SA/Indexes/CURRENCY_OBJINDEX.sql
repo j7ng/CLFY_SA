@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.currency_objindex ON sa.table_currency(objid);

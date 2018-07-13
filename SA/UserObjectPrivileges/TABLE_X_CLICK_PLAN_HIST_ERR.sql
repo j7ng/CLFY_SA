@@ -1,0 +1,13 @@
+GRANT DELETE ON sa.table_x_click_plan_hist_err TO role_clarify_custom;
+GRANT DELETE ON sa.table_x_click_plan_hist_err TO role_sa_update;
+GRANT INSERT ON sa.table_x_click_plan_hist_err TO role_clarify_custom;
+GRANT INSERT ON sa.table_x_click_plan_hist_err TO role_sa_update;
+GRANT SELECT ON sa.table_x_click_plan_hist_err TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.table_x_click_plan_hist_err TO role_clarify_custom;
+GRANT SELECT ON sa.table_x_click_plan_hist_err TO role_sa_select;
+GRANT SELECT ON sa.table_x_click_plan_hist_err TO role_sa_update;
+GRANT SELECT ON sa.table_x_click_plan_hist_err TO role_tf_select;
+GRANT SELECT ON sa.table_x_click_plan_hist_err TO select_no_pin;
+GRANT SELECT ON sa.table_x_click_plan_hist_err TO select_role;
+GRANT UPDATE ON sa.table_x_click_plan_hist_err TO role_clarify_custom;
+GRANT UPDATE ON sa.table_x_click_plan_hist_err TO role_sa_update;

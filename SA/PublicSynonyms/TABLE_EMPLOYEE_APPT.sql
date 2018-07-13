@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_employee_appt FOR sa.table_employee_appt;

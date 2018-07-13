@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_rol_child2territory ON sa.table_ter_rol_itm(rol_child2territory,rol_parent2territory);

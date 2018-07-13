@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM get_ildpin_bycontact_prc FOR sa.get_ildpin_bycontact_prc;

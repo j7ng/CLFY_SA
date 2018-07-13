@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_oppanly_v FOR sa.table_oppanly_v;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_store_id ON sa.simout_log(store_id);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_atou ON sa.adp_tbl_oid_unused(type_id,min_obj);

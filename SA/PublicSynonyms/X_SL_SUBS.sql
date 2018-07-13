@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_sl_subs FOR sa.x_sl_subs;

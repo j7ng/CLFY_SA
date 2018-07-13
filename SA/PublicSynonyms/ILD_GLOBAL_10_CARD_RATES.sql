@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ild_global_10_card_rates FOR sa.ild_global_10_card_rates;

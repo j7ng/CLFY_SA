@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_pi_hist_msid ON sa.table_x_pi_hist(x_msid);

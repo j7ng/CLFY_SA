@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_offer_info TO PUBLIC;

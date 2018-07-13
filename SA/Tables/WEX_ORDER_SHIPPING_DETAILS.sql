@@ -1,0 +1,21 @@
+CREATE TABLE sa.wex_order_shipping_details (
+  order_date DATE,
+  ship_date DATE,
+  order_time VARCHAR2(20 BYTE),
+  item_code VARCHAR2(50 BYTE),
+  description VARCHAR2(250 BYTE),
+  shipment VARCHAR2(50 BYTE),
+  site VARCHAR2(20 BYTE),
+  class_type VARCHAR2(50 BYTE),
+  cust_code VARCHAR2(50 BYTE),
+  ship_to VARCHAR2(50 BYTE),
+  tf_order_no VARCHAR2(30 BYTE),
+  ship_to_po VARCHAR2(30 BYTE),
+  qty VARCHAR2(20 BYTE),
+  serial_num VARCHAR2(50 BYTE),
+  via VARCHAR2(50 BYTE),
+  tracking_no VARCHAR2(50 BYTE),
+  bp_order VARCHAR2(20 BYTE),
+  line_no VARCHAR2(20 BYTE),
+  creation_date DATE
+);

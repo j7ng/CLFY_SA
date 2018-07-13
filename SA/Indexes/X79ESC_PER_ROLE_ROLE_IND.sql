@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79esc_per_role_role_ind ON sa.table_x79esc_per_role(server_id,role_name,esc_per2x79person,esc_per2x79escal);

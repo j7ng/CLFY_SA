@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.s_x79person_x79person_ind ON sa.table_x79person(server_id,s_name,phone);

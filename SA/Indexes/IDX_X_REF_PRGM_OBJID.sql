@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_ref_prgm_objid ON sa.x_referral_programs(objid);

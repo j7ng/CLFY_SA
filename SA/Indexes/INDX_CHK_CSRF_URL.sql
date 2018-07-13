@@ -1,0 +1,1 @@
+CREATE INDEX sa.indx_chk_csrf_url ON sa.legacy_web_chk_csrf_url(chk_csrf_url);

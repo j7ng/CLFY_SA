@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx3_sm_web_accounts ON sa.x_sm_web_accounts(esn_contact_objid);

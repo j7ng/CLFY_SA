@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_e_addr TO PUBLIC;

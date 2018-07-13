@@ -1,0 +1,9 @@
+GRANT EXECUTE ON sa.bi_mtg_src_tab TO cbo;
+GRANT EXECUTE ON sa.bi_mtg_src_tab TO clarify_administrator;
+GRANT EXECUTE ON sa.bi_mtg_src_tab TO clarify_user;
+GRANT EXECUTE ON sa.bi_mtg_src_tab TO csrcbo;
+GRANT EXECUTE ON sa.bi_mtg_src_tab TO gw1;
+GRANT EXECUTE ON sa.bi_mtg_src_tab TO report;
+GRANT EXECUTE ON sa.bi_mtg_src_tab TO role_sa_update;
+GRANT EXECUTE ON sa.bi_mtg_src_tab TO soacbo;
+GRANT EXECUTE ON sa.bi_mtg_src_tab TO webcbo;

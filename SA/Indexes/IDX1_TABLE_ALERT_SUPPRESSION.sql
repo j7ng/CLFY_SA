@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx1_table_alert_suppression ON sa.table_alert_suppression(x_esn,alert_objid);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM payment_service_params_obj FOR sa.payment_service_params_obj;

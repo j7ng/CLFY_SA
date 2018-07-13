@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_r7_inv_v ON sa.tf_of_r7_inv_v(x_bundle_code);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_reward_point_values_comp1 ON sa.x_reward_point_values(bus_org_objid,x_point_category);

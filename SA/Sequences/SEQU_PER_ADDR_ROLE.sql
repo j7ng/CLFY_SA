@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_per_addr_role;

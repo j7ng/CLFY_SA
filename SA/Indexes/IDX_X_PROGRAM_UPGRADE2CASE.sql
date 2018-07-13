@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_program_upgrade2case ON sa.x_program_upgrade(pgm_upgrade2case);

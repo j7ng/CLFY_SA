@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_switchbased_transaction FOR sa.x_switchbased_transaction;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_mtm_program_handset ON sa.x_mtm_program_handset(program_param_objid,part_class_objid);

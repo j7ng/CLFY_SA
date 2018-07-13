@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x79ttr_loc_role FOR sa.table_x79ttr_loc_role;

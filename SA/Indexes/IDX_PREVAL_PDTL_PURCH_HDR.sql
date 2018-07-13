@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_preval_pdtl_purch_hdr ON sa.x_pre_val_purch_dtl(x_preval_pur_dtl2pre_purch_hdr);

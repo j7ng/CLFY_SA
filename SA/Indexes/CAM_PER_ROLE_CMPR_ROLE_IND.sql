@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.cam_per_role_cmpr_role_ind ON sa.table_cam_per_role(cam_role2campaign,cam_role2person,role_name);

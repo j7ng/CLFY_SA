@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_point_account_esn ON sa.table_x_point_account(x_esn);

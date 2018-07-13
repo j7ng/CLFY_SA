@@ -1,0 +1,3 @@
+CREATE OR REPLACE TYPE sa.phone_cart_OBJECT
+AS TABLE OF phone_cart_TYPE
+/

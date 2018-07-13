@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.rc_config_rc_config_index ON sa.table_rc_config("NAME");

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_gb_kp TO PUBLIC;

@@ -1,0 +1,14 @@
+GRANT DELETE ON sa.x_score_card_region TO role_sa_update;
+GRANT DELETE ON sa.x_score_card_region TO role_tracfone_custom;
+GRANT INSERT ON sa.x_score_card_region TO role_sa_update;
+GRANT INSERT ON sa.x_score_card_region TO role_tracfone_custom;
+GRANT SELECT ON sa.x_score_card_region TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_score_card_region TO role_report_update;
+GRANT SELECT ON sa.x_score_card_region TO role_sa_select;
+GRANT SELECT ON sa.x_score_card_region TO role_sa_update;
+GRANT SELECT ON sa.x_score_card_region TO role_tf_select;
+GRANT SELECT ON sa.x_score_card_region TO role_tracfone_custom;
+GRANT SELECT ON sa.x_score_card_region TO select_no_pin;
+GRANT SELECT ON sa.x_score_card_region TO select_role;
+GRANT UPDATE ON sa.x_score_card_region TO role_sa_update;
+GRANT UPDATE ON sa.x_score_card_region TO role_tracfone_custom;

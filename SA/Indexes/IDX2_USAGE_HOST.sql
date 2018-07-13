@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_usage_host ON sa.x_usage_host(short_name);

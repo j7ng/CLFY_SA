@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_owner2web_user ON sa.table_web_lease(owner2web_user);

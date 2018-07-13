@@ -1,0 +1,1 @@
+CREATE INDEX sa.open_orders_indx4 ON sa.open_orders(id_number);

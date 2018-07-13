@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_currency_view FOR sa.table_currency_view;

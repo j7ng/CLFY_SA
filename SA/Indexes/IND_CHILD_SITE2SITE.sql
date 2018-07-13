@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_child_site2site ON sa.table_site(child_site2site);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.msg_id_gen_msg_id_gen_ind ON sa.table_msg_id_gen(msg_hdl_id);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.tf_of_item_v_phone_nor_n1 ON sa.tf_of_item_v_phone_other(part_number);

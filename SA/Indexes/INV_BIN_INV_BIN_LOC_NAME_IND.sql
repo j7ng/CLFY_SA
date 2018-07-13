@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.inv_bin_inv_bin_loc_name_ind ON sa.table_inv_bin(bin_name,location_name,id_number);

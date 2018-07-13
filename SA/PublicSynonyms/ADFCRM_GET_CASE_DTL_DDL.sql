@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_get_case_dtl_ddl FOR sa.adfcrm_get_case_dtl_ddl;

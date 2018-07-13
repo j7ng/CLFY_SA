@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_wipbin2employee ON sa.mtm_wipbin4_employee7(wipbin2employee);

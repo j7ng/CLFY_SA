@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_bi_stg_objid ON sa.x_bi_notification_stg(objid);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM get_brm_applicable_flag FOR sa.get_brm_applicable_flag;

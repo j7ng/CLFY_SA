@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.adfcrm_ticker_history_seq TO PUBLIC;

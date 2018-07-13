@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_menu_bkp TO dbit_mtoribiolopez;

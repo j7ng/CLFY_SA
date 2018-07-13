@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_rate_plan FOR sa.sequ_rate_plan;

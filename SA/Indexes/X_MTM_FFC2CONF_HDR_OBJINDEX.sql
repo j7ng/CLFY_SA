@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_mtm_ffc2conf_hdr_objindex ON sa.table_x_mtm_ffc2conf_hdr(objid);

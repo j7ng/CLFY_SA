@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_rule_create_trans ON sa.x_rule_create_trans(objid);

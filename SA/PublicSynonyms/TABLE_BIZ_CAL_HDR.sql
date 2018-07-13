@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_biz_cal_hdr FOR sa.table_biz_cal_hdr;

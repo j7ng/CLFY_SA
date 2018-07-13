@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_seq_inquiry TO PUBLIC;

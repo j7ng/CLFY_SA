@@ -1,0 +1,1 @@
+CREATE INDEX sa.red2_12_part_serial_no ON sa.red2_12(esnpi_part_serial_no);

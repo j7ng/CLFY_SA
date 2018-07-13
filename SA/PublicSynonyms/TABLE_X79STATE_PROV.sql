@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x79state_prov FOR sa.table_x79state_prov;

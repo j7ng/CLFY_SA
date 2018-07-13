@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_tmo_zip_ngp FOR sa.x_tmo_zip_ngp;

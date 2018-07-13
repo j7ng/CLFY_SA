@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_partnumber ON sa.x_return_log_dtl(part_number);

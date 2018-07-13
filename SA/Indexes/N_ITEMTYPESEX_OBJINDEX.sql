@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_itemtypesex_objindex ON sa.table_n_itemtypesex(objid);

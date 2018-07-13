@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_x_rtr_trans FOR sa.sequ_x_rtr_trans;

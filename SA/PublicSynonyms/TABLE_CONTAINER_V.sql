@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_container_v FOR sa.table_container_v;

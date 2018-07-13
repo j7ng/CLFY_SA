@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_cmcaserid ON sa.mvcm(case_rowid);

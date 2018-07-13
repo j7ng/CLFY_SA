@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_fin_accnt FOR sa.table_fin_accnt;

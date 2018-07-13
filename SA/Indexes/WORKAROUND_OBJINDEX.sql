@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.workaround_objindex ON sa.table_workaround(objid);

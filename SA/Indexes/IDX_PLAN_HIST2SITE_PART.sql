@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_plan_hist2site_part ON sa.x_service_plan_hist(plan_hist2site_part);

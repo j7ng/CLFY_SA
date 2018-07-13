@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.price_inst_objindex ON sa.table_price_inst(objid);

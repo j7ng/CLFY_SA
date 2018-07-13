@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.adfcrm_toss_interface2_v TO dbit_mtoribiolopez;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.holiday_objindex ON sa.table_holiday(objid);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM scripts_content FOR sa.scripts_content;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_daylight_hr FOR sa.table_daylight_hr;

@@ -1,0 +1,11 @@
+CREATE OR REPLACE TRIGGER sa.TRg_X_EXTERNAL_ACCOUNT_vmbc
+before insert on sa.XSU_VMBC_REQUEST
+for each row
+BEGIN
+  IF :new.EXTERNAL_ACCOUNT IS NOT NULL THEN
+    :new.EXTERNAL_ACCOUNT :=substr( :new.EXTERNAL_ACCOUNT,1,4)||to_char(sysdate, 'YYYYMMDD')||round(dbms_random.value(100000000, 999999999)) ;
+  END IF;
+ EXCEPTION WHEN OTHERS THEN
+  raise_application_error(-200120,SUBSTR('Error in updating EXTERNAL_ACCOUNT on SA.XSU_VMBC_REQUEST '||SQLERRM,1,255));
+END;
+/

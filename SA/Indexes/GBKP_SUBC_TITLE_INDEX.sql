@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.gbkp_subc_title_index ON sa.table_gbkp_subc(unique_title);

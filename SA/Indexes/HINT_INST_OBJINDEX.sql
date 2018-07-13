@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.hint_inst_objindex ON sa.table_hint_inst(objid);

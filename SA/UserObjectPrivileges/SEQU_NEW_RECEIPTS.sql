@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_new_receipts TO PUBLIC;

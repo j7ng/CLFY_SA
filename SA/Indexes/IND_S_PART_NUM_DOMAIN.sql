@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_s_part_num_domain ON sa.table_part_num(s_domain);

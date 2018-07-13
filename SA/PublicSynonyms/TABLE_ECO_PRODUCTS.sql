@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_eco_products FOR sa.table_eco_products;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_messagebroker_audit TO dbit_mtoribiolopez;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_part_num14_x_frequency0 FOR sa.mtm_part_num14_x_frequency0;

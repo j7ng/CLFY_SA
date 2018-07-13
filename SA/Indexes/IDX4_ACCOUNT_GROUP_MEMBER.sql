@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx4_account_group_member ON sa.x_account_group_member(esn,UPPER("STATUS"));

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM portal_view FOR sa.portal_view;

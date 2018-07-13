@@ -1,0 +1,1 @@
+CREATE INDEX sa.service_plan_feat_idx6 ON sa.service_plan_feat_pivot_mv(root_plan);

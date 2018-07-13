@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_product_allowed_sl_ppe FOR sa.f_product_allowed_sl_ppe;

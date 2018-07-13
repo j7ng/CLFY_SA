@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_cc_parms_old2 TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_s_interact_agent ON sa.table_interact(s_agent);

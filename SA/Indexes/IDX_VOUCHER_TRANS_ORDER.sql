@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_voucher_trans_order ON sa.table_x_voucher_transactions(voucher_trans2order);

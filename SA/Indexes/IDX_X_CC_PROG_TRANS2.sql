@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_cc_prog_trans2 ON sa.x_cc_prog_trans(x_cc_trans2x_purch_hdr);

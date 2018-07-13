@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.seq_x_case_detail_hist;

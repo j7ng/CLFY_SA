@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM typ_reward_request_obj FOR sa.typ_reward_request_obj;

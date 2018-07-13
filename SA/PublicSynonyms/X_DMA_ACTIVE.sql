@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_dma_active FOR sa.x_dma_active;

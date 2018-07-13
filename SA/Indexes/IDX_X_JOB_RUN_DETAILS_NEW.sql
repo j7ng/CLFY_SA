@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_job_run_details_new ON sa.x_job_run_details(run_details2job_master,x_end_time);

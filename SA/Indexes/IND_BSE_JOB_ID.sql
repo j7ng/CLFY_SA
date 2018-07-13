@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_bse_job_id ON sa.batch_step_execution(job_execution_id);

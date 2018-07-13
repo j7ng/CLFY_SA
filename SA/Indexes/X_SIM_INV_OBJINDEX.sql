@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_sim_inv_objindex ON sa.table_x_sim_inv(objid);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_rtr_trans_dtl_discount ON sa.x_rtr_trans_dtl_discount(insert_timestamp);

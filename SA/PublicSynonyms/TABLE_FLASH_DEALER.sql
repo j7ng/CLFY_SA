@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_flash_dealer FOR sa.table_flash_dealers;

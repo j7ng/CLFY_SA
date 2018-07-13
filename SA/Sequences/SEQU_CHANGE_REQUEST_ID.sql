@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_change_request_id;

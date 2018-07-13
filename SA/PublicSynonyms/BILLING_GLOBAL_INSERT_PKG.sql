@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_global_insert_pkg FOR sa.billing_global_insert_pkg;

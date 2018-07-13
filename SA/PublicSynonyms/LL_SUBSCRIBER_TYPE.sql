@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ll_subscriber_type FOR sa.ll_subscriber_type;

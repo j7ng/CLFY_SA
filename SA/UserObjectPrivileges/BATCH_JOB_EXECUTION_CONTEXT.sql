@@ -1,0 +1,15 @@
+GRANT INSERT ON sa.batch_job_execution_context TO cbo;
+GRANT INSERT ON sa.batch_job_execution_context TO corecbo;
+GRANT INSERT ON sa.batch_job_execution_context TO csrcbo;
+GRANT INSERT ON sa.batch_job_execution_context TO soacbo;
+GRANT INSERT ON sa.batch_job_execution_context TO webcbo;
+GRANT SELECT ON sa.batch_job_execution_context TO cbo;
+GRANT SELECT ON sa.batch_job_execution_context TO corecbo;
+GRANT SELECT ON sa.batch_job_execution_context TO csrcbo;
+GRANT SELECT ON sa.batch_job_execution_context TO soacbo;
+GRANT SELECT ON sa.batch_job_execution_context TO webcbo;
+GRANT UPDATE ON sa.batch_job_execution_context TO cbo;
+GRANT UPDATE ON sa.batch_job_execution_context TO corecbo;
+GRANT UPDATE ON sa.batch_job_execution_context TO csrcbo;
+GRANT UPDATE ON sa.batch_job_execution_context TO soacbo;
+GRANT UPDATE ON sa.batch_job_execution_context TO webcbo;

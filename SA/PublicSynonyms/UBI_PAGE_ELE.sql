@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ubi_page_ele FOR sa.ubi_page_ele;

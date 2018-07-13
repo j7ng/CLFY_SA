@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_mwallet_key TO PUBLIC;

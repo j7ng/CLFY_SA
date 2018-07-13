@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.dobson2att_migration TO dbit_mtoribiolopez;

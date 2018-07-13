@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_program_safelink FOR sa.mtm_program_safelink;

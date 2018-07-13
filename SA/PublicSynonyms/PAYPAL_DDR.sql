@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM paypal_ddr FOR sa.paypal_ddr;

@@ -1,0 +1,9 @@
+GRANT EXECUTE ON sa.customer_info TO cbo;
+GRANT EXECUTE ON sa.customer_info TO clarify_administrator;
+GRANT EXECUTE ON sa.customer_info TO clarify_user;
+GRANT EXECUTE ON sa.customer_info TO csrcbo;
+GRANT EXECUTE ON sa.customer_info TO gw1;
+GRANT EXECUTE ON sa.customer_info TO igate_batch;
+GRANT EXECUTE ON sa.customer_info TO report;
+GRANT EXECUTE ON sa.customer_info TO soacbo;
+GRANT EXECUTE ON sa.customer_info TO webcbo;

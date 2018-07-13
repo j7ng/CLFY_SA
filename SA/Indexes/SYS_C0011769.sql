@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.sys_c0011769 ON sa.x_raf_blast_info(blast_id);

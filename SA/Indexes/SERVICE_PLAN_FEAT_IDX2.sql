@@ -1,0 +1,1 @@
+CREATE INDEX sa.service_plan_feat_idx2 ON sa.service_plan_feat_pivot_mv(mkt_name);

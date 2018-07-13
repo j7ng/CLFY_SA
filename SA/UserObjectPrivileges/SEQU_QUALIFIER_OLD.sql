@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_qualifier_old TO PUBLIC;

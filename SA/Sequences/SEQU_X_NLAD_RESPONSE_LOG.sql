@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_x_nlad_response_log;

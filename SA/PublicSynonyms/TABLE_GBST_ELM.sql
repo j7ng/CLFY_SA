@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_gbst_elm FOR sa.table_gbst_elm;

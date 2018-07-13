@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_keystore FOR sa.x_keystore;

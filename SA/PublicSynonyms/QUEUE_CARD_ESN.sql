@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM queue_card_esn FOR sa.queue_card_esn;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ter_rol_itm_objindex ON sa.table_ter_rol_itm(objid);

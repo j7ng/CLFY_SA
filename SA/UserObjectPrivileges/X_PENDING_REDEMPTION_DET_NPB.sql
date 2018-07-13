@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_pending_redemption_det_npb TO dbit_mtoribiolopez;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_cos_partclass_carrier FOR sa.mtm_cos_partclass_carrier;

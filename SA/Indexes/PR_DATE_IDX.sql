@@ -1,0 +1,1 @@
+CREATE INDEX sa.pr_date_idx ON sa.table_x_part_request(x_date_process);

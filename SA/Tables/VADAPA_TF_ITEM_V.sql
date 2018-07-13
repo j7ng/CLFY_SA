@@ -1,0 +1,22 @@
+CREATE TABLE sa.vadapa_tf_item_v (
+  item_id NUMBER NOT NULL,
+  part_number VARCHAR2(40 BYTE),
+  description VARCHAR2(240 BYTE),
+  sub_type VARCHAR2(40 BYTE),
+  card_type VARCHAR2(40 BYTE),
+  domain VARCHAR2(150 BYTE),
+  part_subtype VARCHAR2(40 BYTE),
+  redeem_days VARCHAR2(150 BYTE),
+  redeem_units VARCHAR2(150 BYTE),
+  technology VARCHAR2(150 BYTE),
+  frequency VARCHAR2(150 BYTE),
+  programming_flag VARCHAR2(150 BYTE),
+  dll VARCHAR2(150 BYTE),
+  upc VARCHAR2(25 BYTE),
+  republik_product_code VARCHAR2(150 BYTE),
+  source_system VARCHAR2(150 BYTE),
+  part_assignment VARCHAR2(9 BYTE),
+  item_last_update_date DATE NOT NULL,
+  cat_last_update_date DATE NOT NULL,
+  rlt_last_update_date DATE
+);

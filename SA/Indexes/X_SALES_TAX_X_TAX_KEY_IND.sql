@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_sales_tax_x_tax_key_ind ON sa.table_x_sales_tax(x_zipcode,x_city,x_county,x_state,x_eff_dt);

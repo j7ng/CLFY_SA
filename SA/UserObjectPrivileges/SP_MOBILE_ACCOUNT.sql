@@ -1,0 +1,15 @@
+GRANT EXECUTE ON sa.sp_mobile_account TO cbo;
+GRANT EXECUTE ON sa.sp_mobile_account TO clarify_administrator;
+GRANT EXECUTE ON sa.sp_mobile_account TO clarify_user;
+GRANT EXECUTE ON sa.sp_mobile_account TO corecbo;
+GRANT EXECUTE ON sa.sp_mobile_account TO csrcbo;
+GRANT EXECUTE ON sa.sp_mobile_account TO gw1;
+GRANT EXECUTE ON sa.sp_mobile_account TO igate_batch;
+GRANT EXECUTE ON sa.sp_mobile_account TO report;
+GRANT EXECUTE ON sa.sp_mobile_account TO role_report_select;
+GRANT EXECUTE ON sa.sp_mobile_account TO role_sa_select;
+GRANT EXECUTE ON sa.sp_mobile_account TO role_sa_update;
+GRANT EXECUTE ON sa.sp_mobile_account TO role_tf_select;
+GRANT EXECUTE ON sa.sp_mobile_account TO soacbo;
+GRANT EXECUTE ON sa.sp_mobile_account TO w3ci;
+GRANT EXECUTE ON sa.sp_mobile_account TO webcbo;

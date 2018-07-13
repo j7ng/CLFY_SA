@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_sp_ord_log_hdr_upd_time ON sa.smartpay_order_log_hdr(update_timestamp);

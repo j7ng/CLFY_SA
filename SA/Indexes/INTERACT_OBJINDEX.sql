@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.interact_objindex ON sa.table_interact(objid);

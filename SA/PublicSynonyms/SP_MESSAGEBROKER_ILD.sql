@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sp_messagebroker_ild FOR sa.sp_messagebroker_ild;

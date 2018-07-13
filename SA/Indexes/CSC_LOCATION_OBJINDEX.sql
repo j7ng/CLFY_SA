@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.csc_location_objindex ON sa.table_csc_location(objid);

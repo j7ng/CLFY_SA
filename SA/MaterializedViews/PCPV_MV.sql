@@ -1,0 +1,5 @@
+CREATE MATERIALIZED VIEW sa.pcpv_mv (pc_objid,part_class,activation_alert_title,ar_capable,apn_request,balance_metering,available_online,bluetooth,bus_org,custom_411,data_capable,data_speed,default_click_id,device_id_english,device_id_spanish,device_type,display_description,dll,extd_warranty,factory_click_id,factory_short_code,firmware,fm_radio,frequency_1,frequency_2,ild_type,initial_motricity_conversion,manufacturer,meid_phone,model_type,motricity_denomination,mp3player,multi_call,non_ppe,operating_system,ota_allowed,phone_gen,ppe_configuration,preloaded_click_id,preloaded_data_config,prl_instructions,product_selection,release_date,restricted_use,skip_sms,skip_vm,subsidy_cost,sub_source_system,technology,unlimited_plan,apply_def_activation_promo,has_wifi_calling,apn_source_type,sub_brand,send_welcome_sms,cbo_legacy_flag,block_triple_min_conv,volte,att_wifi_calling)
+ORGANIZATION HEAP 
+REFRESH COMPLETE START WITH TO_DATE('2018-7-14 1:0:0', 'yyyy-mm-dd hh24:mi:ss') NEXT TRUNC(SYSDATE)+ 1 + 01/24 
+AS SELECT *
+FROM   sa.pcpv;

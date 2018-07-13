@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_queued_cbo_service_3 ON sa.table_queued_cbo_service(action_item_id);

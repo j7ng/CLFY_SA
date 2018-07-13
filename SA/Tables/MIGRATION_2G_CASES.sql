@@ -1,0 +1,20 @@
+CREATE TABLE sa.migration_2g_cases (
+  source_file VARCHAR2(100 BYTE),
+  esn VARCHAR2(30 BYTE),
+  job_cat VARCHAR2(30 BYTE),
+  exchange_type VARCHAR2(30 BYTE),
+  part_request_num VARCHAR2(30 BYTE),
+  case_id VARCHAR2(30 BYTE),
+  alert_tas_text VARCHAR2(4000 BYTE),
+  alert_web_text_en VARCHAR2(2000 BYTE),
+  alert_web_text_es VARCHAR2(2000 BYTE),
+  sms_msg VARCHAR2(100 BYTE),
+  ivr_scpt_id VARCHAR2(10 BYTE),
+  temp NUMBER,
+  alert_objid NUMBER,
+  esn_objid NUMBER,
+  alert_days NUMBER,
+  alert_title VARCHAR2(80 BYTE),
+  case_type VARCHAR2(30 BYTE),
+  case_title VARCHAR2(80 BYTE)
+);

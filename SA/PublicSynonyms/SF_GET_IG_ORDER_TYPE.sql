@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sf_get_ig_order_type FOR sa.sf_get_ig_order_type;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_biz_purch_hdr_esn ON sa.x_biz_purch_hdr(x_esn);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.prt_prt_role_prt_prt_role_ind ON sa.table_prt_prt_role(player2site_part,role_for2site_part,role_name);

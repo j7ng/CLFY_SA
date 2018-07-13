@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_account_group_member_esn ON sa.x_account_group_member(esn);

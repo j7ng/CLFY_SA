@@ -1,0 +1,1 @@
+CREATE INDEX sa.sp_status_exp_dt_idx ON sa.table_site_part(NVL("PART_STATUS",'Obsolete'),NVL("X_EXPIRE_DT",TO_DATE('1753-01-01 00:00:00', 'yyyy-mm-dd hh24:mi:ss')));

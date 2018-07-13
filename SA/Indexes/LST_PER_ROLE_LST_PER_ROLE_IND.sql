@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.lst_per_role_lst_per_role_ind ON sa.table_lst_per_role(per_role2mail_list,list_role2person,role_name);

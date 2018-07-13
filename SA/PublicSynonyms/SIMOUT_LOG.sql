@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM simout_log FOR sa.simout_log;

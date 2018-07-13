@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_amigo_pers_objindex ON sa.table_x_amigo_pers(objid);

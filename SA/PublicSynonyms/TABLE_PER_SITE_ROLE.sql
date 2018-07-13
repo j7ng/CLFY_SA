@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_per_site_role FOR sa.table_per_site_role;

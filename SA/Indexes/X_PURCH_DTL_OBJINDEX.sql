@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_purch_dtl_objindex ON sa.table_x_purch_dtl(objid);

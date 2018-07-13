@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_order_type_old TO PUBLIC;

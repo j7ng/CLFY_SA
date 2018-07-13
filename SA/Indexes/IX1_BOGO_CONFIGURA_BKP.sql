@@ -1,0 +1,1 @@
+CREATE INDEX sa.ix1_bogo_configura_bkp ON sa.x_bogo_configuration_bkp(brand,part_class,dealer_id,eligible_service_plan,channel,action_type);

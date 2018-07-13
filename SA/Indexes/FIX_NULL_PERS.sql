@@ -1,0 +1,1 @@
+CREATE INDEX sa.fix_null_pers ON sa.table_part_inst(NVL("PART_INST2X_PERS",(-1)),x_part_inst_status);

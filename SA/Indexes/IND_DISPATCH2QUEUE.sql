@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_dispatch2queue ON sa.table_x_case_dispatch_conf(dispatch2queue);

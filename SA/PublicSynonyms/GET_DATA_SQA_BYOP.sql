@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM get_data_sqa_byop FOR sa.get_data_sqa_byop;

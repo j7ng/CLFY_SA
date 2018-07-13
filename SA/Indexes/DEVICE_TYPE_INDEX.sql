@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.device_type_index ON sa.table_device(type_id,ver_clarify,ver_customer);

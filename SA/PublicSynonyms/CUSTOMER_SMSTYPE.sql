@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_smstype FOR sa.customer_smstype;

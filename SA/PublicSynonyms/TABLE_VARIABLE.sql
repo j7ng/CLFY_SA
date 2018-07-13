@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_variable FOR sa.table_variable;

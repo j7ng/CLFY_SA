@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_billing_log_new ON sa.x_billing_log(x_log_date,x_log_category);

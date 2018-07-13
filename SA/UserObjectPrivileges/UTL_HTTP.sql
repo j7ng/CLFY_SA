@@ -1,0 +1,1 @@
+GRANT EXECUTE ON nap.utl_http TO sa;

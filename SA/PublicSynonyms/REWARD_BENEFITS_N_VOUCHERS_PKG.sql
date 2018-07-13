@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM reward_benefits_n_vouchers_pkg FOR sa.reward_benefits_n_vouchers_pkg;

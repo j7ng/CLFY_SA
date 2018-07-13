@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_republik_800_url FOR sa.x_republik_800_url;

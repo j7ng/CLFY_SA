@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_commit_log FOR sa.table_commit_log;

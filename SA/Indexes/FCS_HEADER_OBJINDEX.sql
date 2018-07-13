@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.fcs_header_objindex ON sa.table_fcs_header(objid);

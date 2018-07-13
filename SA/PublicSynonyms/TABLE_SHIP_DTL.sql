@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_ship_dtl FOR sa.table_ship_dtl;

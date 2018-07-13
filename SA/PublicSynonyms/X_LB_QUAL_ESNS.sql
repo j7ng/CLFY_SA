@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_lb_qual_esns FOR sa.x_lb_qual_esns;

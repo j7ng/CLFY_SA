@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_fraud_key_values TO PUBLIC;

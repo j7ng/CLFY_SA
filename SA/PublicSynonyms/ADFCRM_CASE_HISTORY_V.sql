@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_case_history_v FOR sa.adfcrm_case_history_v;

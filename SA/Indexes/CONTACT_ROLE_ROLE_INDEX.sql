@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.contact_role_role_index ON sa.table_contact_role(contact_role2contact,contact_role2site,role_name);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_attribute_i5468 ON sa.table_n_attribute(n_name);

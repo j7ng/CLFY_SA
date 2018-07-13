@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.stage_assign_objindex ON sa.table_stage_assign(objid);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.s_productbin_name_ind ON sa.table_productbin(parent_type,parent_id,s_name);

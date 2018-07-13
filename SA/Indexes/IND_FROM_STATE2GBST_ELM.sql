@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_from_state2gbst_elm ON sa.table_transition(from_state2gbst_elm,to_state2gbst_elm);

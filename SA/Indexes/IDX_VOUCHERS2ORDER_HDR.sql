@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_vouchers2order_hdr ON sa.table_x_vouchers(x_vouchers2order_hdr);

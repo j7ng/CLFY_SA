@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.map_field_objindex ON sa.table_map_field(objid);

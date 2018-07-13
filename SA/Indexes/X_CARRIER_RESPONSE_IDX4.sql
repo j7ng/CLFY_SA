@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_carrier_response_idx4 ON sa.x_carrier_response(x_load_status);

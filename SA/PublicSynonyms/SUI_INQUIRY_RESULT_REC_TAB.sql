@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sui_inquiry_result_rec_tab FOR sa.sui_inquiry_result_rec_tab;

@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.seq_table_x_mobile_info;

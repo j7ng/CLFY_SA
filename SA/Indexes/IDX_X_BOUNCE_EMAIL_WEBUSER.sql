@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_bounce_email_webuser ON sa.x_ntfy_bounce_email_trans(x_ntfy2web_user,x_alert_disp_flag);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_acd FOR sa.table_acd;

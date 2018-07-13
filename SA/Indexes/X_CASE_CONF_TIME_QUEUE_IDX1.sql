@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_case_conf_time_queue_idx1 ON sa.table_x_case_conf_time_queue(time_queue2conf_hdr,hours_open,time_queue2queue);

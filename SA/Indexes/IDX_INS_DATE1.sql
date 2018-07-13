@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_ins_date1 ON sa.x_service_plan_hist(x_insert_date);

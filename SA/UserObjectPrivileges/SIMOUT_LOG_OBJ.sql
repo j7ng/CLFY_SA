@@ -1,0 +1,14 @@
+GRANT EXECUTE ON sa.simout_log_obj TO cbo;
+GRANT EXECUTE ON sa.simout_log_obj TO clarify_administrator;
+GRANT EXECUTE ON sa.simout_log_obj TO clarify_user;
+GRANT EXECUTE ON sa.simout_log_obj TO corecbo;
+GRANT EXECUTE ON sa.simout_log_obj TO csrcbo;
+GRANT EXECUTE ON sa.simout_log_obj TO gw1;
+GRANT EXECUTE ON sa.simout_log_obj TO report;
+GRANT EXECUTE ON sa.simout_log_obj TO role_report_select;
+GRANT EXECUTE ON sa.simout_log_obj TO role_sa_select;
+GRANT EXECUTE ON sa.simout_log_obj TO role_sa_update;
+GRANT EXECUTE ON sa.simout_log_obj TO role_tf_select;
+GRANT EXECUTE ON sa.simout_log_obj TO rrp;
+GRANT EXECUTE ON sa.simout_log_obj TO soacbo;
+GRANT EXECUTE ON sa.simout_log_obj TO webcbo;

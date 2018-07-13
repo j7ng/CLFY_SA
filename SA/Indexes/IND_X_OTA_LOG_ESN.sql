@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_x_ota_log_esn ON sa.x_ota_refill_training_log(x_esn);

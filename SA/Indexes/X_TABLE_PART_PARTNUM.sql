@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_table_part_partnum ON sa.table_x_part_script(part_script2part_num);

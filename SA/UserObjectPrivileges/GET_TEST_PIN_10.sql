@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.get_test_pin_10 TO PUBLIC;

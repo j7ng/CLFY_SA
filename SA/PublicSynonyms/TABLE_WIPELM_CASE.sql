@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_wipelm_case FOR sa.table_wipelm_case;

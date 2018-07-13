@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.options_objindex ON sa.table_options(objid);

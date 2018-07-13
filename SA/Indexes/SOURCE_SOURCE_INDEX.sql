@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.source_source_index ON sa.table_source(source2behavior,sequence_num);

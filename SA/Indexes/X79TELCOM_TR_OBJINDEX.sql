@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79telcom_tr_objindex ON sa.table_x79telcom_tr(objid);

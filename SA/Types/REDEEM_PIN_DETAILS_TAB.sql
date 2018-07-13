@@ -1,0 +1,2 @@
+CREATE OR REPLACE TYPE sa."REDEEM_PIN_DETAILS_TAB" AS TABLE OF sa.redeem_pin_details_type;
+/

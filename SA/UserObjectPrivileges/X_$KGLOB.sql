@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.x_$kglob TO sa;

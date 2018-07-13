@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_mtm_case_hdr_dtl FOR sa.table_x_mtm_case_hdr_dtl;

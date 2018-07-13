@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.primmar ON sa.x_promo_marketing(x_score);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.xsu_solix_request_idx_acc ON sa.xsu_solix_request(batchdate,"ACCOUNT");

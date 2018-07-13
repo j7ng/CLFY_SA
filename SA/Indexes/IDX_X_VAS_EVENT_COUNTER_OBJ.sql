@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_vas_event_counter_obj ON sa.x_vas_event_counter(objid);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_cntn_p2p_pn_objid ON sa.centene_net10_phone2plan(part_num_objid);

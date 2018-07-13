@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_update_contact_info FOR sa.x_update_contact_info;

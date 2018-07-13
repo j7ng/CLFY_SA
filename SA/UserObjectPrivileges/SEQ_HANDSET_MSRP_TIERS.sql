@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_handset_msrp_tiers TO PUBLIC;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_frcst_target_old TO PUBLIC;

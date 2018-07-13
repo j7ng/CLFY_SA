@@ -1,0 +1,1 @@
+CREATE INDEX sa.tf_of_item_v_cards_newc_n1 ON sa.tf_of_item_v_cards_newc(part_number);

@@ -1,0 +1,2 @@
+CREATE OR REPLACE TYPE sa."BI_MTG_TRANS_TAB" AS TABLE OF sa.bi_mtg_trans_type;
+/

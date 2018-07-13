@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.auth_stats_objindex ON sa.table_auth_stats(objid);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_mtm_prog_promogroup ON sa.x_mtm_program_promogroup(program_param_objid,promo_group_objid);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM smartpay_ord_log_hdr_rec_type FOR sa.smartpay_ord_log_hdr_rec_type;

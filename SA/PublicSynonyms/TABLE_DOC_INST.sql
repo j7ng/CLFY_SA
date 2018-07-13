@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_doc_inst FOR sa.table_doc_inst;

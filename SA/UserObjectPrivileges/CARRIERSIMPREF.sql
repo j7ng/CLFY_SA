@@ -1,0 +1,15 @@
+GRANT DELETE ON sa.carriersimpref TO clarify_administrator;
+GRANT DELETE ON sa.carriersimpref TO clarify_user;
+GRANT INSERT ON sa.carriersimpref TO clarify_administrator;
+GRANT INSERT ON sa.carriersimpref TO clarify_user;
+GRANT SELECT ON sa.carriersimpref TO clarify_administrator;
+GRANT SELECT ON sa.carriersimpref TO clarify_user;
+GRANT SELECT ON sa.carriersimpref TO dbbu_gigutierrez;
+GRANT SELECT ON sa.carriersimpref TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.carriersimpref TO ofs_apps;
+GRANT SELECT ON sa.carriersimpref TO role_carrier_ops;
+GRANT SELECT ON sa.carriersimpref TO role_sa_select;
+GRANT SELECT ON sa.carriersimpref TO role_tf_select;
+GRANT SELECT ON sa.carriersimpref TO select_role;
+GRANT UPDATE ON sa.carriersimpref TO clarify_administrator;
+GRANT UPDATE ON sa.carriersimpref TO clarify_user;

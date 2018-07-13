@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_ord_interface_creation_dt ON sa.temp_tf_order_interface(creation_date);

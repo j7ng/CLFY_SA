@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_txve_ti ON sa.table_x_validate_emp(token_id);

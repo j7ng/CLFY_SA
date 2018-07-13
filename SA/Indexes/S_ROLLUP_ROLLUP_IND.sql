@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.s_rollup_rollup_ind ON sa.table_rollup(s_name);

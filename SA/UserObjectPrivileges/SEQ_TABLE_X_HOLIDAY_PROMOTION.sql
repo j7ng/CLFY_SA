@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_table_x_holiday_promotion TO PUBLIC;

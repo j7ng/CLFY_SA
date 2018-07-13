@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.entitlement_objindex ON sa.table_entitlement(objid);

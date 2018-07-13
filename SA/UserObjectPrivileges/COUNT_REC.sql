@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.count_rec TO dbit_mtoribiolopez;

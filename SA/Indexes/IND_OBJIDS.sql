@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_objids ON sa.mtm_x_carrier27_x_scr0(carrier2x_scr,x_scr2x_carrier);

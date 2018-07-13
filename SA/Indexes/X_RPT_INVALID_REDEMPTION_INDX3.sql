@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_rpt_invalid_redemption_indx3 ON sa.x_rpt_invalid_redemption(valid_dealer);

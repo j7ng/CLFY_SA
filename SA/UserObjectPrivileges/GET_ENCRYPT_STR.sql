@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.get_encrypt_str TO gw1;

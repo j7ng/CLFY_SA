@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.ota_admin_batch_id_seq TO PUBLIC;

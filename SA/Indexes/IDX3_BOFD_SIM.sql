@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx3_bofd_sim ON sa.x_biz_order_fulfill_dtl(sim);

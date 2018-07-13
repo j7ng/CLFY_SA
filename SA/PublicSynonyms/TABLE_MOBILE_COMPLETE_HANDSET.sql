@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_mobile_complete_handset FOR sa.table_mobile_complete_handset;

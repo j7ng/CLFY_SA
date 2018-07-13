@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_policy_rule_part_class ON sa.x_policy_rule_part_class(part_class_objid,inactive_flag,policy_rule_config_objid);

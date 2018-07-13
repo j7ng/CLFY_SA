@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.batch_info_batch_info_ind ON sa.table_batch_info(detail_id,inst_objid,serial_no,mod_objid);

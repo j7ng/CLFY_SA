@@ -1,0 +1,1 @@
+CREATE INDEX sa.open_orders_indx3 ON sa.open_orders(warehouse);

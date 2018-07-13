@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_objid ON sa.x_sl_currentvals(objid);

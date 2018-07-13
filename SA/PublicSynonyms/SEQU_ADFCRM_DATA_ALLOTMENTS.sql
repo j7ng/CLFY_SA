@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_adfcrm_data_allotments FOR sa.sequ_adfcrm_data_allotments;

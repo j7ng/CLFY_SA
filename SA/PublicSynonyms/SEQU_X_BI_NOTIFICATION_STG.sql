@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_x_bi_notification_stg FOR sa.sequ_x_bi_notification_stg;

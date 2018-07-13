@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_messagebroker FOR sa.f_messagebroker;

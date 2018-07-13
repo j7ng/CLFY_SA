@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.lit_req_itm_objindex ON sa.table_lit_req_itm(objid);

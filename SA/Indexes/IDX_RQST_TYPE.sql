@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_rqst_type ON sa.x_biz_purch_hdr(x_rqst_type);

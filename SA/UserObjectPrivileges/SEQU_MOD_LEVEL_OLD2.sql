@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_mod_level_old2 TO PUBLIC;

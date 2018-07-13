@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_n_tablealias_old TO PUBLIC;

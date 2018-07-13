@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sp_simout_fraud_check FOR sa.sp_simout_fraud_check;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tfsoa_get_services_pkg FOR sa.tfsoa_get_services_pkg;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.user_touch_i5464 ON sa.table_user_touch(touched_by2user,source_type,source_lowid);

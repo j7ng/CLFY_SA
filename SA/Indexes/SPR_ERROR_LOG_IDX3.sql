@@ -1,0 +1,1 @@
+CREATE INDEX sa.spr_error_log_idx3 ON sa.x_spr_error_log(call_trans_objid);

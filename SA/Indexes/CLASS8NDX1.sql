@@ -1,0 +1,1 @@
+CREATE INDEX sa.class8ndx1 ON sa.mtm_part_class8_x_zipcode_obs(x_zipcode2part_class);

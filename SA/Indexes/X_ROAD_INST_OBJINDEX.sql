@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_road_inst_objindex ON sa.table_x_road_inst(objid);

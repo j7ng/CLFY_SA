@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.tab_account_select TO dbit_mtoribiolopez;

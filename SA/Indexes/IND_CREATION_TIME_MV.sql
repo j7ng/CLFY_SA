@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_creation_time_mv ON sa.mvcm(creation_time);

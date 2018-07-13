@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_pec_parallel_pkg FOR sa.billing_pec_parallel_pkg;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_sol_qualif_hist_idx1 ON sa.adfcrm_sol_qualification_hist(changed_date,solution_id,class_param_name,class_param_value,change_type);

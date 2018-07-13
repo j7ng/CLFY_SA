@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_soaprocess_instanceid ON sa.tf_soaprocess_activity_info(instanceid);

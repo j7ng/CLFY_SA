@@ -1,0 +1,3 @@
+CREATE OR REPLACE TYPE sa."PROCESS_ORDER_TYPE_TAB" FORCE
+  AS TABLE OF process_order_type;
+/

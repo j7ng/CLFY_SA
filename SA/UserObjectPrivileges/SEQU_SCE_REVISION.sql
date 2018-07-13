@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_sce_revision TO PUBLIC;

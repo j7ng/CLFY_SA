@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_rsc_rqt_scr FOR sa.table_rsc_rqt_scr;

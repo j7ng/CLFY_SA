@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.alert_alert_index ON sa.table_alert(title,alert2contact,alert2site,alert2contract,alert2bus_org);

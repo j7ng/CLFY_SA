@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.inbound_cards_inv_prc TO itquser_data;

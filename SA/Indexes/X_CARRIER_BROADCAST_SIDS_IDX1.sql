@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_carrier_broadcast_sids_idx1 ON sa.x_carrier_broadcast_sids(x_cell_mkt_num,x_parent_id,x_sid);

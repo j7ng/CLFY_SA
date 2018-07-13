@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_xfilter_old TO PUBLIC;

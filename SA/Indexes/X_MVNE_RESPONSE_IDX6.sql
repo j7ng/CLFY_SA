@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_mvne_response_idx6 ON sa.x_mvne_response(x_batch_id);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_sids ON sa.table_x_sids(x_sid,x_sid_type,sids2personality);

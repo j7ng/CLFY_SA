@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.exch_cat_objindex ON sa.table_exch_cat(objid);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_x_esns ON sa.table_case(x_esn);

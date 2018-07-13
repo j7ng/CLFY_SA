@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_employee FOR sa.table_employee;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_mtm_pgcodes2partclass FOR sa.adfcrm_mtm_pgcodes2partclass;

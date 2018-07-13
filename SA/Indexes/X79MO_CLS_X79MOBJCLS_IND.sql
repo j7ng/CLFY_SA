@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79mo_cls_x79mobjcls_ind ON sa.table_x79mo_cls(server_id,class_id);

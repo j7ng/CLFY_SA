@@ -1,0 +1,1 @@
+CREATE INDEX sa.carrierzones_stzonecounty ON sa.carrierzones(st,"ZONE");

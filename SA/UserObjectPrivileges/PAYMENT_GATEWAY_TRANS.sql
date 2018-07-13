@@ -1,0 +1,12 @@
+GRANT DELETE ON sa.payment_gateway_trans TO corecbo;
+GRANT DELETE ON sa.payment_gateway_trans TO soacbo;
+GRANT DELETE ON sa.payment_gateway_trans TO webcbo;
+GRANT INSERT ON sa.payment_gateway_trans TO corecbo;
+GRANT INSERT ON sa.payment_gateway_trans TO soacbo;
+GRANT INSERT ON sa.payment_gateway_trans TO webcbo;
+GRANT SELECT ON sa.payment_gateway_trans TO corecbo;
+GRANT SELECT ON sa.payment_gateway_trans TO soacbo;
+GRANT SELECT ON sa.payment_gateway_trans TO webcbo;
+GRANT UPDATE ON sa.payment_gateway_trans TO corecbo;
+GRANT UPDATE ON sa.payment_gateway_trans TO soacbo;
+GRANT UPDATE ON sa.payment_gateway_trans TO webcbo;

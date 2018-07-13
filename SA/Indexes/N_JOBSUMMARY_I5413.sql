@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_jobsummary_i5413 ON sa.table_n_jobsummary(n_salesmechanixid);

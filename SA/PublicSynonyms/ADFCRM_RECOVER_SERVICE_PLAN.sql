@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_recover_service_plan FOR sa.adfcrm_recover_service_plan;

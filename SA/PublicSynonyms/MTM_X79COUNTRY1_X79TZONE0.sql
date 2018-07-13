@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_x79country1_x79tzone0 FOR sa.mtm_x79country1_x79tzone0;

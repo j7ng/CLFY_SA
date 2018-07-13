@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_enroll_promo_grp2esn_hist TO PUBLIC;

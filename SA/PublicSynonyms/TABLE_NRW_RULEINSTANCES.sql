@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_nrw_ruleinstances FOR sa.table_nrw_ruleinstances;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.vendor_part_vendor_part_ind ON sa.table_vendor_part(vendor_part2mod_level,vendor_part2site,role_name);

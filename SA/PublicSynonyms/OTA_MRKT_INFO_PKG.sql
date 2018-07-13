@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ota_mrkt_info_pkg FOR sa.ota_mrkt_info_pkg;

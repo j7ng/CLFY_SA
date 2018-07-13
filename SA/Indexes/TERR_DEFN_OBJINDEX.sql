@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.terr_defn_objindex ON sa.table_terr_defn(objid);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_create_sim_exch_case FOR sa.adfcrm_create_sim_exch_case;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.country_name_index ON sa.table_country("NAME");

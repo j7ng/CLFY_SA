@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM is_splan_swapped FOR sa.is_splan_swapped;

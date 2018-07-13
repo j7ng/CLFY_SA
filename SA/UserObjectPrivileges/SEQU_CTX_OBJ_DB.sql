@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_ctx_obj_db TO PUBLIC;

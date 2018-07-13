@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_s_wipbin_title ON sa.table_wipbin(s_title);

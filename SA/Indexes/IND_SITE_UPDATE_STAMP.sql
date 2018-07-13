@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_site_update_stamp ON sa.table_site(update_stamp);

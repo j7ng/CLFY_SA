@@ -1,0 +1,1 @@
+CREATE INDEX sa.c2ct5406 ON sa.table_n_categories(n_cats2n_categorytrees);

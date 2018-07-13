@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_purch_hdr_cc_purch_hdr_ind ON sa.table_x_purch_hdr(x_merchant_ref_number);

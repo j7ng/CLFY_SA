@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_busorg_quote_v FOR sa.table_busorg_quote_v;

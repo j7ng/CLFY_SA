@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_csc_revision FOR sa.table_csc_revision;

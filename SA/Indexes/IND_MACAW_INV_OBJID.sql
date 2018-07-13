@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_macaw_inv_objid ON sa.tf_macaw_inv_interface(objid);

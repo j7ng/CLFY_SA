@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_enroll_event_log FOR sa.x_enroll_event_log;

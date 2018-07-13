@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_fts_result FOR sa.table_fts_result;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx5_x_imei_mismatch_hist ON sa.x_imei_mismatch_hist(objid);

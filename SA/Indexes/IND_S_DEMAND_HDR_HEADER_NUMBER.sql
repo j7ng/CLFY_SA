@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_s_demand_hdr_header_number ON sa.table_demand_hdr(s_header_number);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.esn_ofs_hist_stg TO dbit_mtoribiolopez;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_service_order_stage_esn ON sa.x_service_order_stage(esn);

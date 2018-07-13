@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM seq_pageplus_addon_benefit FOR sa.seq_pageplus_addon_benefit;

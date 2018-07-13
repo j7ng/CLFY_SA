@@ -1,0 +1,1 @@
+CREATE INDEX sa.indx_x_parent_logon_time ON sa.table_x_parent_his(logon_time,dt);

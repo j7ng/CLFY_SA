@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM seq_x_benefits FOR sa.seq_x_benefits;

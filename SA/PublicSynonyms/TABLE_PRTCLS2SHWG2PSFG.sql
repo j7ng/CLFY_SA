@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_prtcls2shwg2psfg FOR sa.table_prtcls2shwg2psfg;

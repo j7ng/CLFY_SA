@@ -1,0 +1,1 @@
+CREATE INDEX sa.indx_part_num ON sa.ff_daily_inventory(part_number);

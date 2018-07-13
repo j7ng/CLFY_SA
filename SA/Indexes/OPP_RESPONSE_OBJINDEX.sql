@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.opp_response_objindex ON sa.table_opp_response(objid);

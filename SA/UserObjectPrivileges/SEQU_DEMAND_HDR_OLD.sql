@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_demand_hdr_old TO PUBLIC;

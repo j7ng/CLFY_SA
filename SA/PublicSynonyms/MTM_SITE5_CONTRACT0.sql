@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_site5_contract0 FOR sa.mtm_site5_contract0;

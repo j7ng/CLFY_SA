@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.st_toss_contact_org_seq;

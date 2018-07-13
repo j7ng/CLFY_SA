@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_process_order_detail TO PUBLIC;

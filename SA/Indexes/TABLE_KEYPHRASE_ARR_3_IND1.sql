@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.table_keyphrase_arr_3_ind1 ON sa.table_keyphrase_array_3(objid,seq_num);

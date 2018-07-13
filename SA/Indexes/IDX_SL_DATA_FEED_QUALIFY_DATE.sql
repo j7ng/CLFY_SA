@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_sl_data_feed_qualify_date ON sa.safelink_data_feed(qualify_date);

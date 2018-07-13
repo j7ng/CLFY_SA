@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_contr_wip2wipbin ON sa.table_contract(contr_wip2wipbin);

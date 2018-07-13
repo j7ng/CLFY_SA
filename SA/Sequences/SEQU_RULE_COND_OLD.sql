@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_rule_cond_old;

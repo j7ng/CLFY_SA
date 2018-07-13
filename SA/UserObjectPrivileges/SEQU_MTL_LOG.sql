@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_mtl_log TO PUBLIC;

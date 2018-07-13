@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_promo_grp_objindex ON sa.x_promotion_group_dtl(objid);

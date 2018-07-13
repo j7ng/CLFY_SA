@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_paymentsimulator FOR sa.billing_paymentsimulator;

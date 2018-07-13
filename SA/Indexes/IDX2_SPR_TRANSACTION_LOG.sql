@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_spr_transaction_log ON sa.x_spr_transaction_log(esn);

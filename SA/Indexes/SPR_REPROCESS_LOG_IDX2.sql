@@ -1,0 +1,1 @@
+CREATE INDEX sa.spr_reprocess_log_idx2 ON sa.x_spr_reprocess_log("MIN");

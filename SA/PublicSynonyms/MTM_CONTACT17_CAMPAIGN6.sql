@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_contact17_campaign6 FOR sa.mtm_contact17_campaign6;

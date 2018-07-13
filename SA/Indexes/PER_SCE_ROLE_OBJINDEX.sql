@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.per_sce_role_objindex ON sa.table_per_sce_role(objid);

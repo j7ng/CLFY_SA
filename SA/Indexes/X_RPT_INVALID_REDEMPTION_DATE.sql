@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_rpt_invalid_redemption_date ON sa.x_rpt_invalid_redemption(redemption_date);

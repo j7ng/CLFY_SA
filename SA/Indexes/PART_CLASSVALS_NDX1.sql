@@ -1,0 +1,1 @@
+CREATE INDEX sa.part_classvals_ndx1 ON sa.table_x_part_class_values(value2part_class,value2class_param);

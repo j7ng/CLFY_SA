@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM get_next_sales_order_id FOR sa.get_next_sales_order_id;

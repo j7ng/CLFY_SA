@@ -1,0 +1,13 @@
+GRANT SELECT ON sa.x_program_transfers TO cbo;
+GRANT SELECT ON sa.x_program_transfers TO clarify_administrator;
+GRANT SELECT ON sa.x_program_transfers TO clarify_user;
+GRANT SELECT ON sa.x_program_transfers TO corecbo;
+GRANT SELECT ON sa.x_program_transfers TO csrcbo;
+GRANT SELECT ON sa.x_program_transfers TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_program_transfers TO gw1;
+GRANT SELECT ON sa.x_program_transfers TO role_report_select;
+GRANT SELECT ON sa.x_program_transfers TO role_sa_select;
+GRANT SELECT ON sa.x_program_transfers TO role_sa_update;
+GRANT SELECT ON sa.x_program_transfers TO role_tf_select;
+GRANT SELECT ON sa.x_program_transfers TO soacbo;
+GRANT SELECT ON sa.x_program_transfers TO webcbo;

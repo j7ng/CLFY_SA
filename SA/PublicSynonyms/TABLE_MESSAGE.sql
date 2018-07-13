@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_message FOR sa.table_message;

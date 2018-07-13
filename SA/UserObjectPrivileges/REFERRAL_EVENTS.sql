@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.referral_events TO PUBLIC;

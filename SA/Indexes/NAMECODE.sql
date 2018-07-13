@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.namecode ON sa.x_clarify_codes(program_name,clfy_code,"ACTIVE");

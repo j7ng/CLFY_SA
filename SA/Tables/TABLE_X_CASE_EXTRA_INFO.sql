@@ -1,0 +1,28 @@
+CREATE TABLE sa.table_x_case_extra_info (
+  objid NUMBER,
+  x_issue VARCHAR2(80 BYTE),
+  x_inbound VARCHAR2(80 BYTE),
+  x_outbound VARCHAR2(80 BYTE),
+  x_signal VARCHAR2(30 BYTE),
+  x_scan VARCHAR2(30 BYTE),
+  x_promo_code VARCHAR2(10 BYTE),
+  x_master_sid VARCHAR2(10 BYTE),
+  x_prl_soc VARCHAR2(10 BYTE),
+  x_time_tank VARCHAR2(10 BYTE),
+  x_tt_units NUMBER,
+  x_fraud_id VARCHAR2(255 BYTE),
+  x_wrong_esn VARCHAR2(30 BYTE),
+  x_ttest_seq NUMBER,
+  x_sys_seq NUMBER,
+  x_channel VARCHAR2(10 BYTE),
+  x_phone_due_date DATE,
+  x_sys_phone_date DATE,
+  x_super_login VARCHAR2(30 BYTE),
+  x_extra_info2x_case NUMBER,
+  x_cust_units_claim NUMBER,
+  x_fraud_units NUMBER,
+  x_vm_password VARCHAR2(30 BYTE),
+  x_courier VARCHAR2(40 BYTE),
+  x_reason VARCHAR2(80 BYTE)
+);
+ALTER TABLE sa.table_x_case_extra_info ADD SUPPLEMENTAL LOG GROUP dmtsora672209236_0 (objid, x_channel, x_courier, x_cust_units_claim, x_extra_info2x_case, x_fraud_id, x_fraud_units, x_inbound, x_issue, x_master_sid, x_outbound, x_phone_due_date, x_prl_soc, x_promo_code, x_reason, x_scan, x_signal, x_super_login, x_sys_phone_date, x_sys_seq, x_time_tank, x_ttest_seq, x_tt_units, x_vm_password, x_wrong_esn) ALWAYS;

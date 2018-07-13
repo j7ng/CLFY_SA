@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_status_chg_old2;

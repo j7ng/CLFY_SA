@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.tf_of_item_v_cards_inv TO dbit_mtoribiolopez;

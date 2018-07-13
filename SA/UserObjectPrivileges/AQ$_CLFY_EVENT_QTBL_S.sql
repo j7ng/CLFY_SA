@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.aq$_clfy_event_qtbl_s TO dbit_mtoribiolopez;

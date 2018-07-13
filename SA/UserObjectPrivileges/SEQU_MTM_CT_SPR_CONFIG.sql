@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_mtm_ct_spr_config TO PUBLIC;

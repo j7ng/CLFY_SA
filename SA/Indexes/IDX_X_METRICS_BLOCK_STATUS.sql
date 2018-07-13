@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_metrics_block_status ON sa.x_metrics_block_status(objid);

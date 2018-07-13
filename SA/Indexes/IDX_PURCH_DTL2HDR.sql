@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_purch_dtl2hdr ON sa.x_biz_purch_dtl(biz_purch_dtl2biz_purch_hdr);

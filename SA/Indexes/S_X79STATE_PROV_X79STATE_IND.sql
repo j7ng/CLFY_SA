@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.s_x79state_prov_x79state_ind ON sa.table_x79state_prov(server_id,state_prov2x79country,s_name);

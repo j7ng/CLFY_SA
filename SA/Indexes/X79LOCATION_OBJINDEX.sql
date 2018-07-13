@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79location_objindex ON sa.table_x79location(objid);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.cwp4 TO dbit_mtoribiolopez;

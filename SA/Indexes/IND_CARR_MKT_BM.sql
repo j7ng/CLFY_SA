@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_carr_mkt_bm ON sa.mvcm(carrier_mkt_name);

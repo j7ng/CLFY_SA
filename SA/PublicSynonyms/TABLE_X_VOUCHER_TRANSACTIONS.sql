@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_voucher_transactions FOR sa.table_x_voucher_transactions;

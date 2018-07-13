@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_metrics_rule_engine_call ON sa.x_metrics_rule_engine_call(objid);

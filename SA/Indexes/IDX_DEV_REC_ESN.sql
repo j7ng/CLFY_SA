@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_dev_rec_esn ON sa.x_device_recovery_code(esn);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.spr_reprocess_log_seq TO PUBLIC;

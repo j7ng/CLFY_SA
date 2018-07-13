@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_part2ff_center_hist FOR sa.adfcrm_part2ff_center_hist;

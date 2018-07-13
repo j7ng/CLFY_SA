@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_program_claims_pk ON sa.x_program_claims(objid);

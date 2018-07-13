@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_sales_order_seq TO PUBLIC;

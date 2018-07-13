@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_choice_fld_old2 TO PUBLIC;

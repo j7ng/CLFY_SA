@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.s_qualifier_name_ind ON sa.table_qualifier(s_name);

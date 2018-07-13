@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_x_b2b_promo_org;

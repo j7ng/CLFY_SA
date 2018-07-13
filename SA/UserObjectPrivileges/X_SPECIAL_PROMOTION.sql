@@ -1,0 +1,10 @@
+GRANT SELECT ON sa.x_special_promotion TO cbo;
+GRANT SELECT ON sa.x_special_promotion TO clarify_administrator;
+GRANT SELECT ON sa.x_special_promotion TO clarify_user;
+GRANT SELECT ON sa.x_special_promotion TO csrcbo;
+GRANT SELECT ON sa.x_special_promotion TO gw1;
+GRANT SELECT ON sa.x_special_promotion TO igate_batch;
+GRANT SELECT ON sa.x_special_promotion TO role_sa_update;
+GRANT SELECT ON sa.x_special_promotion TO soacbo;
+GRANT SELECT ON sa.x_special_promotion TO w3ci;
+GRANT SELECT ON sa.x_special_promotion TO webcbo;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ubi_page_ele_idx ON sa.ubi_page_ele(config_objid);

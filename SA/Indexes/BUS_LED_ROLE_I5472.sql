@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.bus_led_role_i5472 ON sa.table_bus_led_role(led_role2lead,bus_led_role2bus_org,role_name);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_time_zone TO PUBLIC;

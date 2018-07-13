@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_v_part_bin FOR sa.table_v_part_bin;

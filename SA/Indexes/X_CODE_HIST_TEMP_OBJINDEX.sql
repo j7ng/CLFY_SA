@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_code_hist_temp_objindex ON sa.table_x_code_hist_temp(objid);

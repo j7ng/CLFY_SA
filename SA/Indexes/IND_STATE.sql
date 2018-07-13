@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_state ON sa.table_state_prov("NAME");

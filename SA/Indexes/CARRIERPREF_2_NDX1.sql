@@ -1,0 +1,1 @@
+CREATE INDEX sa.carrierpref_2_ndx1 ON sa.carrierpref(st,county,carrier_id);

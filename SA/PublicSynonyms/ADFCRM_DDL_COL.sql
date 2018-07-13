@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_ddl_col FOR sa.adfcrm_ddl_col;

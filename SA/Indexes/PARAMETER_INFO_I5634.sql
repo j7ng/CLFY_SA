@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.parameter_info_i5634 ON sa.table_parameter_info(parameter_name,parameter_info2report_info);

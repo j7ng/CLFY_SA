@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.evt_notify_seq TO PUBLIC;

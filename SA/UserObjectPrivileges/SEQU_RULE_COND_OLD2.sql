@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_rule_cond_old2 TO PUBLIC;

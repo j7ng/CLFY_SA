@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_x_mtm_ffc2conf_hdr_2 ON sa.table_x_mtm_ffc2conf_hdr(mtm_ffc2ff_center,mtm_ffc2conf_hdr);

@@ -1,0 +1,2 @@
+CREATE OR REPLACE TYPE sa."PAYMENT_SOURCE_DETAIL_TAB" IS TABLE OF payment_source_detail_type;
+/

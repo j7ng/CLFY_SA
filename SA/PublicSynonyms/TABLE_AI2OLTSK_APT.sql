@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_ai2oltsk_apt FOR sa.table_ai2oltsk_apt;

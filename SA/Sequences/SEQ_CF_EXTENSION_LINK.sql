@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.seq_cf_extension_link;

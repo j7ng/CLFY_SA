@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_pending_redemption_det FOR sa.x_pending_redemption_det;

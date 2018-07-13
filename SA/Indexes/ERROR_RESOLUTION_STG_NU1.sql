@@ -1,0 +1,1 @@
+CREATE INDEX sa.error_resolution_stg_nu1 ON sa.error_resolution_stg(invoked_by);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_part_num12_x_carrier26 FOR sa.mtm_part_num12_x_carrier26;

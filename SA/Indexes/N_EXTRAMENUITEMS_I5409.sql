@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_extramenuitems_i5409 ON sa.table_n_extramenuitems(n_menuname,n_menutext,n_sequencenumber);

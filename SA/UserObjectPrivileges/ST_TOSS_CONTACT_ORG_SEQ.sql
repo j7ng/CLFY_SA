@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.st_toss_contact_org_seq TO PUBLIC;

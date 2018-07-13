@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM posaradioshack FOR sa.posaradioshack;

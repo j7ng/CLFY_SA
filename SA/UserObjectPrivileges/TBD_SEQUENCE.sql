@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.tbd_sequence TO dbit_mtoribiolopez;

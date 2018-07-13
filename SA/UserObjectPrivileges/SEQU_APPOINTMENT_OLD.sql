@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_appointment_old TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM plan_list_tbl FOR sa.plan_list_tbl;

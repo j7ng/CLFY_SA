@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_job FOR sa.table_job;

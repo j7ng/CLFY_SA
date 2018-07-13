@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.uk2_process_order ON sa.x_process_order(brm_trans_id);

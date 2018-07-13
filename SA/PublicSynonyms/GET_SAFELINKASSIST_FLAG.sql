@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM get_safelinkassist_flag FOR sa.get_safelinkassist_flag;

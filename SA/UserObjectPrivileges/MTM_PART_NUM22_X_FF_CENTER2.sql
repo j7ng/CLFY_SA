@@ -1,0 +1,18 @@
+GRANT ALTER ON sa.mtm_part_num22_x_ff_center2 TO clarify_administrator;
+GRANT DEBUG ON sa.mtm_part_num22_x_ff_center2 TO clarify_administrator;
+GRANT DELETE ON sa.mtm_part_num22_x_ff_center2 TO clarify_administrator;
+GRANT DELETE ON sa.mtm_part_num22_x_ff_center2 TO clarify_user;
+GRANT FLASHBACK ON sa.mtm_part_num22_x_ff_center2 TO clarify_administrator;
+GRANT INSERT ON sa.mtm_part_num22_x_ff_center2 TO clarify_administrator;
+GRANT INSERT ON sa.mtm_part_num22_x_ff_center2 TO clarify_user;
+GRANT ON COMMIT REFRESH ON sa.mtm_part_num22_x_ff_center2 TO clarify_administrator;
+GRANT QUERY REWRITE ON sa.mtm_part_num22_x_ff_center2 TO clarify_administrator;
+GRANT SELECT ON sa.mtm_part_num22_x_ff_center2 TO clarify_administrator;
+GRANT SELECT ON sa.mtm_part_num22_x_ff_center2 TO clarify_reporter;
+GRANT SELECT ON sa.mtm_part_num22_x_ff_center2 TO clarify_user;
+GRANT SELECT ON sa.mtm_part_num22_x_ff_center2 TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.mtm_part_num22_x_ff_center2 TO ofs_apps;
+GRANT SELECT ON sa.mtm_part_num22_x_ff_center2 TO role_tf_select;
+GRANT SELECT ON sa.mtm_part_num22_x_ff_center2 TO select_role;
+GRANT UPDATE ON sa.mtm_part_num22_x_ff_center2 TO clarify_administrator;
+GRANT UPDATE ON sa.mtm_part_num22_x_ff_center2 TO clarify_user;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_service_transaction_log ON sa.x_service_transaction_log(esn);

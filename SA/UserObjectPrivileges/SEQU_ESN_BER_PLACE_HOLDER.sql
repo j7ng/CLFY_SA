@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_esn_ber_place_holder TO PUBLIC;

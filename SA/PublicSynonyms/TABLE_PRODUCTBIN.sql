@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_productbin FOR sa.table_productbin;

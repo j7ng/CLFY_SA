@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM seq_x_job_run_details FOR sa.seq_x_job_run_details;

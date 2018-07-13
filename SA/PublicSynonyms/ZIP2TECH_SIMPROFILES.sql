@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM zip2tech_simprofiles FOR sa.zip2tech_simprofiles;

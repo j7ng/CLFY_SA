@@ -1,0 +1,17 @@
+GRANT EXECUTE ON sa.billing_payment_recon_pkg TO cbo;
+GRANT EXECUTE ON sa.billing_payment_recon_pkg TO clarify_administrator;
+GRANT EXECUTE ON sa.billing_payment_recon_pkg TO clarify_billing;
+GRANT EXECUTE ON sa.billing_payment_recon_pkg TO clarify_reporter;
+GRANT EXECUTE ON sa.billing_payment_recon_pkg TO clarify_user;
+GRANT EXECUTE ON sa.billing_payment_recon_pkg TO corecbo;
+GRANT EXECUTE ON sa.billing_payment_recon_pkg TO csrcbo;
+GRANT EXECUTE ON sa.billing_payment_recon_pkg TO javadev;
+GRANT EXECUTE ON sa.billing_payment_recon_pkg TO report;
+GRANT EXECUTE ON sa.billing_payment_recon_pkg TO role_clarify_custom;
+GRANT EXECUTE ON sa.billing_payment_recon_pkg TO role_crmteam_update;
+GRANT EXECUTE ON sa.billing_payment_recon_pkg TO role_sa_select;
+GRANT EXECUTE ON sa.billing_payment_recon_pkg TO role_sa_update;
+GRANT EXECUTE ON sa.billing_payment_recon_pkg TO role_web_report;
+GRANT EXECUTE ON sa.billing_payment_recon_pkg TO select_no_pin;
+GRANT EXECUTE ON sa.billing_payment_recon_pkg TO soacbo;
+GRANT EXECUTE ON sa.billing_payment_recon_pkg TO webcbo;

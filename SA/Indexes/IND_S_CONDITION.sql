@@ -1,0 +1,1 @@
+CREATE BITMAP INDEX sa.ind_s_condition ON sa.mvcm(s_condition);

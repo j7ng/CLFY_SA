@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.query_elm_objindex ON sa.table_query_elm(objid);

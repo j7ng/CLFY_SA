@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_type ON sa.table_site("TYPE");

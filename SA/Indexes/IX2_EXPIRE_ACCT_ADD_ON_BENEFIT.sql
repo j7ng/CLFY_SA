@@ -1,0 +1,1 @@
+CREATE INDEX sa.ix2_expire_acct_add_on_benefit ON sa.x_expire_acct_add_on_benefit(insert_timestamp);

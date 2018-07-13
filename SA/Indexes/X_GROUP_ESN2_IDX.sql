@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_group_esn2_idx ON sa.table_x_group2esn(groupesn2part_inst);

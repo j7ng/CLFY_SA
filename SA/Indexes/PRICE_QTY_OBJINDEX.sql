@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.price_qty_objindex ON sa.table_price_qty(objid);

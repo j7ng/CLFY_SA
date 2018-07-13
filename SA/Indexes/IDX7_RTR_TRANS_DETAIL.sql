@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx7_rtr_trans_detail ON sa.x_rtr_trans_detail(insert_timestamp);

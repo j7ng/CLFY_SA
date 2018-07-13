@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.contr_itm_objindex ON sa.table_contr_itm(objid);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_rpt_output TO PUBLIC;

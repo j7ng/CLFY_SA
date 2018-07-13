@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_mtm_program_technology ON sa.x_mtm_program_technology(program_param_objid,x_technology);

@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_user_referrers_trig;

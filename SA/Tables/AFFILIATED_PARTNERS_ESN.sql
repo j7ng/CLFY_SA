@@ -1,0 +1,4 @@
+CREATE GLOBAL TEMPORARY TABLE sa.affiliated_partners_esn (
+  x_esn NUMBER
+)
+ON COMMIT PRESERVE ROWS;

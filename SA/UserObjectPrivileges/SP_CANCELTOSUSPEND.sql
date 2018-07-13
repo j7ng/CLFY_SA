@@ -1,0 +1,11 @@
+GRANT EXECUTE ON sa.sp_canceltosuspend TO cbo;
+GRANT EXECUTE ON sa.sp_canceltosuspend TO clarify_administrator;
+GRANT EXECUTE ON sa.sp_canceltosuspend TO clarify_reporter;
+GRANT EXECUTE ON sa.sp_canceltosuspend TO clarify_user;
+GRANT EXECUTE ON sa.sp_canceltosuspend TO corecbo;
+GRANT EXECUTE ON sa.sp_canceltosuspend TO csrcbo;
+GRANT EXECUTE ON sa.sp_canceltosuspend TO role_clarify_custom;
+GRANT EXECUTE ON sa.sp_canceltosuspend TO role_sa_select;
+GRANT EXECUTE ON sa.sp_canceltosuspend TO role_sa_update;
+GRANT EXECUTE ON sa.sp_canceltosuspend TO soacbo;
+GRANT EXECUTE ON sa.sp_canceltosuspend TO webcbo;

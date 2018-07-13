@@ -1,0 +1,1 @@
+CREATE INDEX sa.ix1_mtm_bogo_bi_info ON sa.mtm_bogo_bi_info(esn,transaction_dt);

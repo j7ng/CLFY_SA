@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.new_receipts_i5447 ON sa.table_new_receipts(receipt_date,lowid_of_obj_recvd,lowid_of_obj_to_view);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ix2_mtm_bogo_bi_info ON sa.mtm_bogo_bi_info(original_red_code);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_contrconpart FOR sa.table_contrconpart;

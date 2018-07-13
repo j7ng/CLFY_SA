@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_showip2psfi FOR sa.table_showip2psfi;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.mod_display_objindex ON sa.table_mod_display(objid);

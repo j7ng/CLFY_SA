@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.table_x_cai_log_seq;

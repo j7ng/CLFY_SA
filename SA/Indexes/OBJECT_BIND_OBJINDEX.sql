@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.object_bind_objindex ON sa.table_object_bind(objid);

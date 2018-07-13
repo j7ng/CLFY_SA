@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_part_num4_opportunity18 FOR sa.mtm_part_num4_opportunity18;

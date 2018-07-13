@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_list_struct FOR sa.table_list_struct;

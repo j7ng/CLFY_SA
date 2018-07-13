@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_valid_npa_nxx_ndx1 ON sa.x_valid_npa_nxx(npanxx);

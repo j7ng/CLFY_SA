@@ -1,0 +1,27 @@
+CREATE TABLE sa.table_x_asurion_warranty (
+  objid NUMBER,
+  dev NUMBER,
+  x_serial_number VARCHAR2(30 BYTE),
+  x_policy_number VARCHAR2(20 BYTE),
+  x_activation_date DATE,
+  x_type VARCHAR2(1 BYTE),
+  x_transaction_id VARCHAR2(15 BYTE),
+  x_amount NUMBER(19,2),
+  x_wireless_num VARCHAR2(10 BYTE),
+  x_last_name VARCHAR2(35 BYTE),
+  x_first_name VARCHAR2(35 BYTE),
+  x_enroll_date DATE,
+  x_exp_date DATE,
+  x_cancel_date DATE,
+  x_state VARCHAR2(40 BYTE),
+  x_zip VARCHAR2(20 BYTE),
+  x_aid VARCHAR2(20 BYTE),
+  x_model_num VARCHAR2(30 BYTE),
+  x_manufacturer VARCHAR2(255 BYTE),
+  x_address1 VARCHAR2(200 BYTE),
+  x_address2 VARCHAR2(200 BYTE),
+  x_city VARCHAR2(30 BYTE),
+  x_email VARCHAR2(80 BYTE),
+  x_extd_warr2contact NUMBER
+);
+ALTER TABLE sa.table_x_asurion_warranty ADD SUPPLEMENTAL LOG GROUP dmtsora1571742079_0 (dev, objid, x_activation_date, x_address1, x_address2, x_aid, x_amount, x_cancel_date, x_city, x_email, x_enroll_date, x_exp_date, x_extd_warr2contact, x_first_name, x_last_name, x_manufacturer, x_model_num, x_policy_number, x_serial_number, x_state, x_transaction_id, x_type, x_wireless_num, x_zip) ALWAYS;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_cbo_error_insert FOR sa.adfcrm_cbo_error_insert;

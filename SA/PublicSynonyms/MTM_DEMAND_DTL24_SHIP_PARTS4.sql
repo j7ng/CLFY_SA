@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_demand_dtl24_ship_parts4 FOR sa.mtm_demand_dtl24_ship_parts4;

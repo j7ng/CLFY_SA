@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.demand_dtl_objindex ON sa.table_demand_dtl(objid);

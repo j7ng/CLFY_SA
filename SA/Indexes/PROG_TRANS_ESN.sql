@@ -1,0 +1,1 @@
+CREATE INDEX sa.prog_trans_esn ON sa.x_program_trans(x_esn);

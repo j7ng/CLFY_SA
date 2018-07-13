@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM xxtf_e911_tax_recon_tbl FOR sa.xxtf_e911_tax_recon_tbl;

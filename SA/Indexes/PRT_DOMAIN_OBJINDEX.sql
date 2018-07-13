@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.prt_domain_objindex ON sa.table_prt_domain(objid);

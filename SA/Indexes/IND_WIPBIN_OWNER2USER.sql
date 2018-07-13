@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_wipbin_owner2user ON sa.table_wipbin(wipbin_owner2user);

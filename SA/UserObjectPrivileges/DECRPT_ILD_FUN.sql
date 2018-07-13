@@ -1,0 +1,1 @@
+GRANT EXECUTE ON "SYSTEM".decrpt_ild_fun TO sa;

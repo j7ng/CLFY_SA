@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_rtr_trans_detail ON sa.x_rtr_trans_detail(rtr_trans_header_objid);

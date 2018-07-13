@@ -1,0 +1,1 @@
+CREATE INDEX sa.i_call_trans_date ON sa.table_x_call_trans(x_transact_date,x_result);

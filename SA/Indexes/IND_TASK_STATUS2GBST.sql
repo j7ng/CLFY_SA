@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_task_status2gbst ON sa.table_task(task_sts2gbst_elm);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_wfm_hash FOR sa.x_wfm_hash;

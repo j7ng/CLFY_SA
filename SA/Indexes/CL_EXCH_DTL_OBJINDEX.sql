@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.cl_exch_dtl_objindex ON sa.table_cl_exch_dtl(objid);

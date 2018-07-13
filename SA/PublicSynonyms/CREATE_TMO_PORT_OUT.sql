@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM create_tmo_port_out FOR sa.create_tmo_port_out;

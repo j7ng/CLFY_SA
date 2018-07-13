@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM carrier_rate_plan_feature_type FOR sa.carrier_rate_plan_feature_type;

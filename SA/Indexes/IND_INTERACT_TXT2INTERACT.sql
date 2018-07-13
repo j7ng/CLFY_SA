@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_interact_txt2interact ON sa.table_interact_txt(interact_txt2interact);

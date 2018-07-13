@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_pending_red2esn_ind ON sa.table_x_pending_redemption(pend_redemption2esn);

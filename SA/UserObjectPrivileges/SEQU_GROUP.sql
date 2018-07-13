@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_group TO PUBLIC;

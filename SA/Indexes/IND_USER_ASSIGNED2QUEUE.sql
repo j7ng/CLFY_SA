@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_user_assigned2queue ON sa.mtm_queue4_user23(user_assigned2queue);

@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.evt_operators_seq;

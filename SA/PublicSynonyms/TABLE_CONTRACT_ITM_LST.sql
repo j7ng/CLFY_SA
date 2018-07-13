@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_contract_itm_lst FOR sa.table_contract_itm_lst;

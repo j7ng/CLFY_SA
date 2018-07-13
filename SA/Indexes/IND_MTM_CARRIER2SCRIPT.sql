@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_mtm_carrier2script ON sa.mtm_x_carrier34_x_scripts0(script2carrier);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_sl_referral_benefits_plan TO PUBLIC;

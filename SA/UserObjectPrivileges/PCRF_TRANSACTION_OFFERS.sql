@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.pcrf_transaction_offers TO dbit_mtoribiolopez;

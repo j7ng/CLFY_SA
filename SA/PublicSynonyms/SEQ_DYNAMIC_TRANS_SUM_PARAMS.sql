@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM seq_dynamic_trans_sum_params FOR sa.seq_dynamic_trans_sum_params;

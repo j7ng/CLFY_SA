@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.jt_seq;

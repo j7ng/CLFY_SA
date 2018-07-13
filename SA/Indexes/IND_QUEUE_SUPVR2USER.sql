@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_queue_supvr2user ON sa.mtm_queue5_user24(queue_supvr2user);

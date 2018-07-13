@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_seq_table ON sa.x_seq_table(objid);

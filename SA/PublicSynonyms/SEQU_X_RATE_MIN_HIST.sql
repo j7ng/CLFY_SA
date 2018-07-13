@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_x_rate_min_hist FOR sa.sequ_x_rate_min_hist;

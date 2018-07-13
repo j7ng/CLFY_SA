@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.stage_task_stage_task_ind ON sa.table_stage_task(appl_id,task_id);

@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.seq_account_group_member_hist;

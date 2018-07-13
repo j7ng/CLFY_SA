@@ -1,0 +1,1 @@
+CREATE INDEX sa.migration_flash_key_values_1 ON sa.migration_flash_key_values(brand,"ACTION",has_microsite_url,hot_or_cold,phone_status,position);

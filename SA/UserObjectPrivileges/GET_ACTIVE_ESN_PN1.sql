@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.get_active_esn_pn1 TO jtong;

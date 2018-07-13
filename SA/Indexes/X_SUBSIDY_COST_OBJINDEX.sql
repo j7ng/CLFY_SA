@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_subsidy_cost_objindex ON sa.table_x_subsidy_cost(objid);

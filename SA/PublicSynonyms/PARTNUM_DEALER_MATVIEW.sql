@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM partnum_dealer_matview FOR sa.partnum_dealer_matview;

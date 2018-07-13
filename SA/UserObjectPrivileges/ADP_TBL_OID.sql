@@ -1,0 +1,13 @@
+GRANT DELETE ON sa.adp_tbl_oid TO clarify_administrator;
+GRANT DELETE ON sa.adp_tbl_oid TO clarify_user;
+GRANT INSERT ON sa.adp_tbl_oid TO clarify_administrator;
+GRANT INSERT ON sa.adp_tbl_oid TO clarify_user;
+GRANT INSERT ON sa.adp_tbl_oid TO role_etrust_admin;
+GRANT SELECT ON sa.adp_tbl_oid TO clarify_administrator;
+GRANT SELECT ON sa.adp_tbl_oid TO clarify_reporter;
+GRANT SELECT ON sa.adp_tbl_oid TO clarify_user;
+GRANT SELECT ON sa.adp_tbl_oid TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.adp_tbl_oid TO role_etrust_admin;
+GRANT UPDATE ON sa.adp_tbl_oid TO clarify_administrator;
+GRANT UPDATE ON sa.adp_tbl_oid TO clarify_user;
+GRANT UPDATE ON sa.adp_tbl_oid TO role_etrust_admin;

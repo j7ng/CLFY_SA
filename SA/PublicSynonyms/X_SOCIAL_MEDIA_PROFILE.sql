@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_social_media_profile FOR sa.x_social_media_profile;

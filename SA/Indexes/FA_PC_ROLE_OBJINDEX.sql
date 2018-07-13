@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.fa_pc_role_objindex ON sa.table_fa_pc_role(objid);

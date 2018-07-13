@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.opportunity_objindex ON sa.table_opportunity(objid);

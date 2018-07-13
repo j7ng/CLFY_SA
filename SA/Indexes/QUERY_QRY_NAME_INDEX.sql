@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.query_qry_name_index ON sa.table_query(query2user,obj_type,title);

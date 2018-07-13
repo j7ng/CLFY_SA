@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_cc_objid ON sa.temp_pci_migrate(credit_card_objid);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_grp_member_hist_esn ON sa.x_account_group_member_hist(esn);

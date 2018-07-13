@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_value_map FOR sa.table_value_map;

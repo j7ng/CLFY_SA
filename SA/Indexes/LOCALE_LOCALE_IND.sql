@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.locale_locale_ind ON sa.table_locale(win32_lcid);

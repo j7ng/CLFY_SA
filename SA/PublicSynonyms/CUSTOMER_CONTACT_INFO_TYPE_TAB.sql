@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_contact_info_type_tab FOR sa.customer_contact_info_type_tab;

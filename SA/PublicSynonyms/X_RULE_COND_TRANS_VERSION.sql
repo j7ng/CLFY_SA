@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_rule_cond_trans_version FOR sa.x_rule_cond_trans_version;

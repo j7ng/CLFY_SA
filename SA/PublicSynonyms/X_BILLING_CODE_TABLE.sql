@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_billing_code_table FOR sa.x_billing_code_table;

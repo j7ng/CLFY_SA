@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.readonly_objindex ON sa.table_readonly(objid);

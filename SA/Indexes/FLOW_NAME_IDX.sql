@@ -1,0 +1,1 @@
+CREATE INDEX sa.flow_name_idx ON sa.adfcrm_activity_log(flow_name);

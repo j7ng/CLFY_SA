@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_billing_code_table TO PUBLIC;

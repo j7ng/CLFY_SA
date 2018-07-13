@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_dtl_curq2queue ON sa.table_demand_dtl(demand_dtl_curq2queue);

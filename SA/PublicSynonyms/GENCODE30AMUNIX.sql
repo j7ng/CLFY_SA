@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM gencode30amunix FOR sa.gencode30amunix;

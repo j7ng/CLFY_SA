@@ -1,0 +1,11 @@
+GRANT SELECT ON sa.table_x_validate_emp TO cbo;
+GRANT SELECT ON sa.table_x_validate_emp TO clarify_administrator;
+GRANT SELECT ON sa.table_x_validate_emp TO clarify_user;
+GRANT SELECT ON sa.table_x_validate_emp TO csrcbo;
+GRANT SELECT ON sa.table_x_validate_emp TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.table_x_validate_emp TO gw1;
+GRANT SELECT ON sa.table_x_validate_emp TO igate_batch;
+GRANT SELECT ON sa.table_x_validate_emp TO role_sa_update;
+GRANT SELECT ON sa.table_x_validate_emp TO soacbo;
+GRANT SELECT ON sa.table_x_validate_emp TO w3ci;
+GRANT SELECT ON sa.table_x_validate_emp TO webcbo;

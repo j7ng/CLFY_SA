@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_monitor9_bug20 FOR sa.mtm_monitor9_bug20;

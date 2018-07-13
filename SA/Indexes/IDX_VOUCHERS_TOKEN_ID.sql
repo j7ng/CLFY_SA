@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_vouchers_token_id ON sa.table_x_vouchers(x_token_id);

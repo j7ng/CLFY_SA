@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_tas_error FOR sa.adfcrm_tas_error;

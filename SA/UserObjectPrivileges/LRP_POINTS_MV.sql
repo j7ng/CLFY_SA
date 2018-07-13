@@ -1,0 +1,13 @@
+GRANT SELECT ON sa.lrp_points_mv TO cbo;
+GRANT SELECT ON sa.lrp_points_mv TO clarify_administrator;
+GRANT SELECT ON sa.lrp_points_mv TO clarify_user;
+GRANT SELECT ON sa.lrp_points_mv TO csrcbo;
+GRANT SELECT ON sa.lrp_points_mv TO gw1;
+GRANT SELECT ON sa.lrp_points_mv TO igate_batch;
+GRANT SELECT ON sa.lrp_points_mv TO role_report_select;
+GRANT SELECT ON sa.lrp_points_mv TO role_sa_select;
+GRANT SELECT ON sa.lrp_points_mv TO role_sa_update;
+GRANT SELECT ON sa.lrp_points_mv TO role_tf_select;
+GRANT SELECT ON sa.lrp_points_mv TO soacbo;
+GRANT SELECT ON sa.lrp_points_mv TO w3ci;
+GRANT SELECT ON sa.lrp_points_mv TO webcbo;

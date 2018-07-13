@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_site_sup_prog FOR sa.table_site_sup_prog;

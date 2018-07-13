@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.table_x_cai_log_seq TO PUBLIC;

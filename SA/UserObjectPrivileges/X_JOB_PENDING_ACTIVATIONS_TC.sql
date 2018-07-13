@@ -1,0 +1,9 @@
+GRANT SELECT ON sa.x_job_pending_activations_tc TO cbo;
+GRANT SELECT ON sa.x_job_pending_activations_tc TO clarify_reporter;
+GRANT SELECT ON sa.x_job_pending_activations_tc TO corecbo;
+GRANT SELECT ON sa.x_job_pending_activations_tc TO csrcbo;
+GRANT SELECT ON sa.x_job_pending_activations_tc TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_job_pending_activations_tc TO role_sa_select;
+GRANT SELECT ON sa.x_job_pending_activations_tc TO role_tf_select;
+GRANT SELECT ON sa.x_job_pending_activations_tc TO soacbo;
+GRANT SELECT ON sa.x_job_pending_activations_tc TO webcbo;

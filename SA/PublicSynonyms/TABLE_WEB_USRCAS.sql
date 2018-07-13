@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_web_usrcas FOR sa.table_web_usrcas;

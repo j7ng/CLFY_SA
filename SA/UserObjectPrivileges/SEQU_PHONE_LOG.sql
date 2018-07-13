@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_phone_log TO PUBLIC;

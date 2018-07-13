@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_phbx_scoring_transaction TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM centene_net10_subs FOR sa.centene_net10_subs;

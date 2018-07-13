@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.pk_x_ota_batch_esn ON sa.x_ota_batch_esn(batch_id,esn);

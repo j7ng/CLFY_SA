@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_queue_info FOR sa.table_queue_info;

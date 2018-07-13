@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_hdr2web_user ON sa.x_biz_purch_hdr(prog_hdr2web_user);

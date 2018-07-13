@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_mc_esn_cc_promo_idx ON sa.x_money_card_cc(x_esn,x_money_card2creditcard,x_money_card2promo_grpdtl,x_money_card2promotion);

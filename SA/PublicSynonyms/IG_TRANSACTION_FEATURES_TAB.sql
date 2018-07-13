@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ig_transaction_features_tab FOR sa.ig_transaction_features_tab;

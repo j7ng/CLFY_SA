@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_shipping_info FOR sa.x_shipping_info;

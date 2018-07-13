@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_getprogramstatus FOR sa.billing_getprogramstatus;

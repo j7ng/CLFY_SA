@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.release6_indx ON sa.release6(objid,flag);

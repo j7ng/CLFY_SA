@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_retrn_info FOR sa.table_retrn_info;

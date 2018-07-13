@@ -1,0 +1,1 @@
+CREATE INDEX sa.table_x_zip_code_zip ON sa.table_x_zip_code(x_zip);

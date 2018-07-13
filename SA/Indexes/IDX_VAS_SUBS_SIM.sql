@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_vas_subs_sim ON sa.x_vas_subscriptions(vas_sim);

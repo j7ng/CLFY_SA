@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_prg_enrolled_script_mv FOR sa.adfcrm_prg_enrolled_script_mv;

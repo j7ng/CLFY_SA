@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM reward_service_info_obj FOR sa.reward_service_info_obj;

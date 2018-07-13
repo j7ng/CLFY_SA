@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_contact_role FOR sa.sequ_contact_role;

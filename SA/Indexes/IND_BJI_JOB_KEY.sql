@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_bji_job_key ON sa.batch_job_instance(job_key);

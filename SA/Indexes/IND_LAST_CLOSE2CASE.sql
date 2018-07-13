@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_last_close2case ON sa.table_close_case(last_close2case);

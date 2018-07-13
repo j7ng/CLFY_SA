@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_subscriber_spr_detail ON sa.x_subscriber_spr_detail(add_on_offer_id);

@@ -1,0 +1,1 @@
+GRANT EXECUTE ON report.get_bp_units TO sa;

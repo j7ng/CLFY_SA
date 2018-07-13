@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM posa_swp_loc_seq FOR sa.posa_swp_loc_seq;

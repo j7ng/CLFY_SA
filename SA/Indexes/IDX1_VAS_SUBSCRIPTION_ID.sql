@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_vas_subscription_id ON sa.x_vas_subscriptions(vas_subscription_id);

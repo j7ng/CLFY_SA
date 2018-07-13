@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.seq_queued_cbo_service;

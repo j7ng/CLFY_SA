@@ -1,0 +1,2 @@
+CREATE OR REPLACE TYPE sa."BUCKET_BALANCE_USAGE_TAB" AS TABLE OF sa.bucket_balance_usage_type;
+/

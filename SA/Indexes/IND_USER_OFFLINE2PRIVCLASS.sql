@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_user_offline2privclass ON sa.table_user(offline2privclass);

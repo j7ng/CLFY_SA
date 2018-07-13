@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_payment_source ON sa.x_payment_source(objid);

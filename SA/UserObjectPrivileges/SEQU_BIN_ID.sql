@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_bin_id TO PUBLIC;

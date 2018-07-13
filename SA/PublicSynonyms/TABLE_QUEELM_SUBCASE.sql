@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_queelm_subcase FOR sa.table_queelm_subcase;

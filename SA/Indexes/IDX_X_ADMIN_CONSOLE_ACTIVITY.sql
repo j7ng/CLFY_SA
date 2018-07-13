@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_admin_console_activity ON sa.x_admin_console_activity(objid);

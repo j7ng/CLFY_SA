@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM biz_refund_dtl_rec FOR sa.biz_refund_dtl_rec;

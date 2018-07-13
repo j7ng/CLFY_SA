@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_purch_hdr_x_esn_ind ON sa.table_x_purch_hdr(x_esn);

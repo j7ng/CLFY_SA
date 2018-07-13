@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_bill_itm TO PUBLIC;

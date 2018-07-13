@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.nws_properties_objindex ON sa.table_nws_properties(objid);

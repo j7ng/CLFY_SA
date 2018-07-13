@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_rew_ben_usg_id TO PUBLIC;

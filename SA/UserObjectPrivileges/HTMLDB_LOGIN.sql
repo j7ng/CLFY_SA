@@ -1,0 +1,1 @@
+GRANT EXECUTE ON apex_040000.htmldb_login TO sa;

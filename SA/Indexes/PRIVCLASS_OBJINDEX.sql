@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.privclass_objindex ON sa.table_privclass(objid);

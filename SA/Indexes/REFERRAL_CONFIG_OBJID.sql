@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.referral_config_objid ON sa.table_x_referral_config(objid);

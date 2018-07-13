@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.indx_x_pend_payment ON sa.x_pending_payment(x_pend_pay_id);

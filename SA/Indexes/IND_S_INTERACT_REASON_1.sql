@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_s_interact_reason_1 ON sa.table_interact(s_reason_1,s_reason_2,s_reason_3);

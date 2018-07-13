@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_canenroll FOR sa.billing_canenroll;

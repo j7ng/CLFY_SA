@@ -1,0 +1,9 @@
+GRANT DELETE ON sa.x_express_consent TO clarify_administrator;
+GRANT DELETE ON sa.x_express_consent TO clarify_user;
+GRANT INSERT ON sa.x_express_consent TO clarify_administrator;
+GRANT INSERT ON sa.x_express_consent TO clarify_user;
+GRANT SELECT ON sa.x_express_consent TO clarify_administrator;
+GRANT SELECT ON sa.x_express_consent TO clarify_user;
+GRANT SELECT ON sa.x_express_consent TO dbit_mtoribiolopez;
+GRANT UPDATE ON sa.x_express_consent TO clarify_administrator;
+GRANT UPDATE ON sa.x_express_consent TO clarify_user;

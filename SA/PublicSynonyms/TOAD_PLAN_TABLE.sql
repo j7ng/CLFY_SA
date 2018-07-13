@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM toad_plan_table FOR sa.toad_plan_table;

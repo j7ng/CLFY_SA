@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_rbpl_status ON sa.x_reward_bonus_points_load(status);

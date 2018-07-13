@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_topp_errors_view FOR sa.table_x_topp_errors_view;

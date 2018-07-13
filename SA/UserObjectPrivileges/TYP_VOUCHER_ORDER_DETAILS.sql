@@ -1,0 +1,13 @@
+GRANT EXECUTE ON sa.typ_voucher_order_details TO cbo;
+GRANT EXECUTE ON sa.typ_voucher_order_details TO clarify_administrator;
+GRANT EXECUTE ON sa.typ_voucher_order_details TO clarify_user;
+GRANT EXECUTE ON sa.typ_voucher_order_details TO corecbo;
+GRANT EXECUTE ON sa.typ_voucher_order_details TO csrcbo;
+GRANT EXECUTE ON sa.typ_voucher_order_details TO gw1;
+GRANT EXECUTE ON sa.typ_voucher_order_details TO report;
+GRANT EXECUTE ON sa.typ_voucher_order_details TO role_report_select;
+GRANT EXECUTE ON sa.typ_voucher_order_details TO role_sa_select;
+GRANT EXECUTE ON sa.typ_voucher_order_details TO role_sa_update;
+GRANT EXECUTE ON sa.typ_voucher_order_details TO role_tf_select;
+GRANT EXECUTE ON sa.typ_voucher_order_details TO soacbo;
+GRANT EXECUTE ON sa.typ_voucher_order_details TO webcbo;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vas_program_details_type FOR sa.vas_program_details_type;

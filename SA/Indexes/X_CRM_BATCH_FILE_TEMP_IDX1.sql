@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_crm_batch_file_temp_idx1 ON sa.x_crm_batch_file_temp(rec_type,app_user,esn);

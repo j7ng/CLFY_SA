@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.click_proc TO role_sa_update;

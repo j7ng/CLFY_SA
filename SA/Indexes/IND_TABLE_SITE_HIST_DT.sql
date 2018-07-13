@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_table_site_hist_dt ON sa.table_site_hist(dt);

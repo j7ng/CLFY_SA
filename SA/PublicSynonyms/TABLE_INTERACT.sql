@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_interact FOR sa.table_interact;

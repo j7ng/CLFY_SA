@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_tag_id TO PUBLIC;

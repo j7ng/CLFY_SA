@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_mtm_program_msrp_pk ON sa.x_mtm_program_msrp(objid);

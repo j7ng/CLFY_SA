@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_program_web_user_his ON sa.x_program_web_user_his(objid);

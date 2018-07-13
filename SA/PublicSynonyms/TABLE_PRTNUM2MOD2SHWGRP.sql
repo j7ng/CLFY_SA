@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_prtnum2mod2shwgrp FOR sa.table_prtnum2mod2shwgrp;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.s_install_history_i5488 ON sa.table_install_history(s_product,"VERSION");

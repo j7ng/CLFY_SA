@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_policy_rule_dealer;

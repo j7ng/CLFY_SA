@@ -1,0 +1,1 @@
+CREATE INDEX sa.inx_creditcard2cert ON sa.table_x_credit_card(creditcard2cert);

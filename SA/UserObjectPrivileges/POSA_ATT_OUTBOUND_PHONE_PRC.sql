@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.posa_att_outbound_phone_prc TO role_sa_update;

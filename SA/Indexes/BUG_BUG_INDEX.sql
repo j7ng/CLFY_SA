@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.bug_bug_index ON sa.table_bug(id_number);

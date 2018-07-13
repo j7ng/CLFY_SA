@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.adfcrm_data_allotments_idx ON sa.adfcrm_data_allotments(objid);

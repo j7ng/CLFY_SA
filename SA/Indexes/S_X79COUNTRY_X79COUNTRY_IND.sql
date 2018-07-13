@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.s_x79country_x79country_ind ON sa.table_x79country(server_id,s_name);

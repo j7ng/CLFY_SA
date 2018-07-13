@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.seq_x_device_recovery_code;

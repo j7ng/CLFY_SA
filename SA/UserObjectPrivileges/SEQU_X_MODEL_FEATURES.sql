@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_model_features TO PUBLIC;

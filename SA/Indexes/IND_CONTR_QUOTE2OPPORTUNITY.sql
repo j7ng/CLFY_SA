@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_contr_quote2opportunity ON sa.table_contract(contr_quote2opportunity);

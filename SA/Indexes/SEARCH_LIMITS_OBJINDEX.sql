@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.search_limits_objindex ON sa.table_search_limits(objid);

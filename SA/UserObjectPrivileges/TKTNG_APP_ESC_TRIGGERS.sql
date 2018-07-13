@@ -1,0 +1,10 @@
+GRANT DEBUG ON sa.tktng_app_esc_triggers TO script_manager;
+GRANT DELETE ON sa.tktng_app_esc_triggers TO script_manager;
+GRANT FLASHBACK ON sa.tktng_app_esc_triggers TO script_manager;
+GRANT INSERT ON sa.tktng_app_esc_triggers TO script_manager;
+GRANT ON COMMIT REFRESH ON sa.tktng_app_esc_triggers TO script_manager;
+GRANT QUERY REWRITE ON sa.tktng_app_esc_triggers TO script_manager;
+GRANT REFERENCES ON sa.tktng_app_esc_triggers TO script_manager;
+GRANT SELECT ON sa.tktng_app_esc_triggers TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.tktng_app_esc_triggers TO script_manager;
+GRANT UPDATE ON sa.tktng_app_esc_triggers TO script_manager;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_job_err_insert_dt ON sa.x_job_errors(x_insert_date);

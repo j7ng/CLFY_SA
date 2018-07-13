@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.con_pym_role_objindex ON sa.table_con_pym_role(objid);

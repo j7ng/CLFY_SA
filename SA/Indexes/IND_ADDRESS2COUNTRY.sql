@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_address2country ON sa.table_address(address2country);

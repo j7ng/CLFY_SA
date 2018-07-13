@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_daylight_hr_old2;

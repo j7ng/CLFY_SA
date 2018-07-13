@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_partner_params TO PUBLIC;

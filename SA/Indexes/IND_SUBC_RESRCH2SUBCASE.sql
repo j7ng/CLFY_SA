@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_subc_resrch2subcase ON sa.table_resrch_log(subc_resrch2subcase);

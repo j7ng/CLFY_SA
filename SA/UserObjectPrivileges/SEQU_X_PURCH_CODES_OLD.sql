@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_purch_codes_old TO PUBLIC;

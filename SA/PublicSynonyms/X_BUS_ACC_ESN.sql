@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_bus_acc_esn FOR sa.x_bus_acc_esn;

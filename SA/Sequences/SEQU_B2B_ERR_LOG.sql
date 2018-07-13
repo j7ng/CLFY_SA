@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_b2b_err_log;

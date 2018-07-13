@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.fix_tmin_sweep TO dbit_mtoribiolopez;

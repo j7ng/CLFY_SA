@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_x_mtm_usrgrp_hist;

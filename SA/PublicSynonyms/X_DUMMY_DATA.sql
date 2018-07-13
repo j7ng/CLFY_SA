@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_dummy_data FOR sa.x_dummy_data;

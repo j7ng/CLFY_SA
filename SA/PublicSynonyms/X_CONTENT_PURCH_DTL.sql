@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_content_purch_dtl FOR sa.x_content_purch_dtl;

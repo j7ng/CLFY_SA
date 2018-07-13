@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_ota_acknowledgement_objindex ON sa.table_x_ota_ack(objid);

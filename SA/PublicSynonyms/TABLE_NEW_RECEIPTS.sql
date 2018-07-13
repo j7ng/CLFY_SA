@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_new_receipts FOR sa.table_new_receipts;

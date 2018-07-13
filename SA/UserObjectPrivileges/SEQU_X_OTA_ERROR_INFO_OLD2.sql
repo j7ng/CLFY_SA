@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_ota_error_info_old2 TO PUBLIC;

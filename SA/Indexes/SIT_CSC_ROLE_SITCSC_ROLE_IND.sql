@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.sit_csc_role_sitcsc_role_ind ON sa.table_sit_csc_role(csc_role2site,sit_role2contr_schedule,role_name);

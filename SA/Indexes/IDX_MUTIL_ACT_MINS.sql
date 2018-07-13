@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_mutil_act_mins ON sa.x_multi_active_mins(x_service_id,x_min,call_trans_objid);

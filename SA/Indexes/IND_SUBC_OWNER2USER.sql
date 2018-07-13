@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_subc_owner2user ON sa.table_subcase(subc_owner2user,subc_wip2wipbin);

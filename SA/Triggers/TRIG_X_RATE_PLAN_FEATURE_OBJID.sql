@@ -1,0 +1,18 @@
+CREATE OR REPLACE trigger sa.TRIG_X_RATE_PLAN_FEATURE_OBJID
+before insert on sa.CARRIER_RATE_PLAN_FEATURES FOR EACH ROW
+DECLARE
+
+begin
+
+
+
+IF :new.OBJID IS NULL THEN
+     SELECT sa.SEQU_CARR_RATE_PLAN_FEATURES.NEXTVAL
+       INTO :new.objid
+       FROM dual;
+END IF;
+
+
+
+END;
+/

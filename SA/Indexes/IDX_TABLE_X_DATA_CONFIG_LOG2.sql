@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_table_x_data_config_log2 ON sa.table_x_data_config_log(objid);

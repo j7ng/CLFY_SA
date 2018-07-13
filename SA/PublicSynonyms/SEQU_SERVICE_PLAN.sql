@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_service_plan FOR sa.sequ_service_plan;

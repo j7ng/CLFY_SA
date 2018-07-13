@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.seq_ach_flag_config;

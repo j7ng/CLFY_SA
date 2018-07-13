@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vas_subscriptions_id_type FOR sa.vas_subscriptions_id_type;

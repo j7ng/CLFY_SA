@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_keyword_text TO PUBLIC;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_b2b_err_log TO PUBLIC;

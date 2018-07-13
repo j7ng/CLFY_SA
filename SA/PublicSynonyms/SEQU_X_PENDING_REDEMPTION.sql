@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_x_pending_redemption FOR sa.sequ_x_pending_redemption;

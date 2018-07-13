@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.clfy_uq ON sa.brm_catalog_mapping(clfy_pc);

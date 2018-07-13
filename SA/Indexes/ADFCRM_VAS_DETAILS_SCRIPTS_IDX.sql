@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_vas_details_scripts_idx ON sa.adfcrm_vas_details_scripts_mv(vas_service_id,x_language);

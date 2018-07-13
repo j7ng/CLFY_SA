@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.install_history_objindex ON sa.table_install_history(objid);

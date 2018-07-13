@@ -1,0 +1,1 @@
+CREATE INDEX sa.npanxx2carrierzones_n1 ON sa.npanxx2carrierzones(carrier_id);

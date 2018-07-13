@@ -1,0 +1,15 @@
+GRANT INSERT ON sa.batch_step_execution TO cbo;
+GRANT INSERT ON sa.batch_step_execution TO corecbo;
+GRANT INSERT ON sa.batch_step_execution TO csrcbo;
+GRANT INSERT ON sa.batch_step_execution TO soacbo;
+GRANT INSERT ON sa.batch_step_execution TO webcbo;
+GRANT SELECT ON sa.batch_step_execution TO cbo;
+GRANT SELECT ON sa.batch_step_execution TO corecbo;
+GRANT SELECT ON sa.batch_step_execution TO csrcbo;
+GRANT SELECT ON sa.batch_step_execution TO soacbo;
+GRANT SELECT ON sa.batch_step_execution TO webcbo;
+GRANT UPDATE ON sa.batch_step_execution TO cbo;
+GRANT UPDATE ON sa.batch_step_execution TO corecbo;
+GRANT UPDATE ON sa.batch_step_execution TO csrcbo;
+GRANT UPDATE ON sa.batch_step_execution TO soacbo;
+GRANT UPDATE ON sa.batch_step_execution TO webcbo;

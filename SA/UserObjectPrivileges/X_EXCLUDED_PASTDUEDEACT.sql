@@ -1,0 +1,11 @@
+GRANT DELETE ON sa.x_excluded_pastduedeact TO clarify_user;
+GRANT DELETE ON sa.x_excluded_pastduedeact TO role_clarify_custom;
+GRANT INSERT ON sa.x_excluded_pastduedeact TO clarify_user;
+GRANT INSERT ON sa.x_excluded_pastduedeact TO role_clarify_custom;
+GRANT SELECT ON sa.x_excluded_pastduedeact TO clarify_user;
+GRANT SELECT ON sa.x_excluded_pastduedeact TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_excluded_pastduedeact TO role_clarify_custom;
+GRANT SELECT ON sa.x_excluded_pastduedeact TO role_tf_select;
+GRANT SELECT ON sa.x_excluded_pastduedeact TO select_role;
+GRANT UPDATE ON sa.x_excluded_pastduedeact TO clarify_user;
+GRANT UPDATE ON sa.x_excluded_pastduedeact TO role_clarify_custom;

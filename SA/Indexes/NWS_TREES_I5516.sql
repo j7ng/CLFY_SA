@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.nws_trees_i5516 ON sa.table_nws_trees(n_treename,n_itemtypeid,n_itemid);

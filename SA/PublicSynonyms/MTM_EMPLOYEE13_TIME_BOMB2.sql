@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_employee13_time_bomb2 FOR sa.mtm_employee13_time_bomb2;

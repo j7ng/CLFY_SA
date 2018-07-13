@@ -1,0 +1,11 @@
+GRANT EXECUTE ON sa.enrich_events TO cbo;
+GRANT EXECUTE ON sa.enrich_events TO clarify_administrator;
+GRANT EXECUTE ON sa.enrich_events TO clarify_user;
+GRANT EXECUTE ON sa.enrich_events TO csrcbo;
+GRANT EXECUTE ON sa.enrich_events TO gw1;
+GRANT EXECUTE ON sa.enrich_events TO igate_batch;
+GRANT EXECUTE ON sa.enrich_events TO itds_user;
+GRANT EXECUTE ON sa.enrich_events TO role_sa_update;
+GRANT EXECUTE ON sa.enrich_events TO soacbo;
+GRANT EXECUTE ON sa.enrich_events TO w3ci;
+GRANT EXECUTE ON sa.enrich_events TO webcbo;

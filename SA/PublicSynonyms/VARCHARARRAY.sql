@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM varchararray FOR sa.varchararray;

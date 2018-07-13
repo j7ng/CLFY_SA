@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.prt_domain_name_index ON sa.table_prt_domain("NAME");

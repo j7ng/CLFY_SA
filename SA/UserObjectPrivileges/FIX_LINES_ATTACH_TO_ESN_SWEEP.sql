@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.fix_lines_attach_to_esn_sweep TO dbit_mtoribiolopez;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_autopay_details FOR sa.table_x_autopay_details;

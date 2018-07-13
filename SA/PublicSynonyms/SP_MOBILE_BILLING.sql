@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sp_mobile_billing FOR sa.sp_mobile_billing;

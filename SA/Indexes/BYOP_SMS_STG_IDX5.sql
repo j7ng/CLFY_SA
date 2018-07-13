@@ -1,0 +1,1 @@
+CREATE INDEX sa.byop_sms_stg_idx5 ON sa.byop_sms_stg(sent_date,status);

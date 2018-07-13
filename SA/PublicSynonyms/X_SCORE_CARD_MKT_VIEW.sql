@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_score_card_mkt_view FOR sa.x_score_card_mkt_view;

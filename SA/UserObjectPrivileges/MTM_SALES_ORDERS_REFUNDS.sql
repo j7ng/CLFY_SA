@@ -1,0 +1,12 @@
+GRANT DELETE ON sa.mtm_sales_orders_refunds TO clarify_administrator;
+GRANT DELETE ON sa.mtm_sales_orders_refunds TO clarify_user;
+GRANT INSERT ON sa.mtm_sales_orders_refunds TO clarify_administrator;
+GRANT INSERT ON sa.mtm_sales_orders_refunds TO clarify_user;
+GRANT SELECT ON sa.mtm_sales_orders_refunds TO clarify_administrator;
+GRANT SELECT ON sa.mtm_sales_orders_refunds TO clarify_user;
+GRANT SELECT ON sa.mtm_sales_orders_refunds TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.mtm_sales_orders_refunds TO role_sa_select;
+GRANT SELECT ON sa.mtm_sales_orders_refunds TO role_tf_select;
+GRANT SELECT ON sa.mtm_sales_orders_refunds TO select_role;
+GRANT UPDATE ON sa.mtm_sales_orders_refunds TO clarify_administrator;
+GRANT UPDATE ON sa.mtm_sales_orders_refunds TO clarify_user;

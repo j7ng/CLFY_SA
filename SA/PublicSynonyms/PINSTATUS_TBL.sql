@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pinstatus_tbl FOR sa.pinstatus_tbl;

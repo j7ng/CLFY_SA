@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.sp_import_prc TO script_manager;

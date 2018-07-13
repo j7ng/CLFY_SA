@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_plan_id TO PUBLIC;

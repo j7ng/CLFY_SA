@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.address_objindex ON sa.table_address(objid);

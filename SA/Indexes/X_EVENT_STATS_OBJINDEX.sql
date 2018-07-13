@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_event_stats_objindex ON sa.table_x_event_stats(objid);

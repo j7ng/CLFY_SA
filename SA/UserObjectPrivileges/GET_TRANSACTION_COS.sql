@@ -1,0 +1,12 @@
+GRANT EXECUTE ON sa.get_transaction_cos TO cbo;
+GRANT EXECUTE ON sa.get_transaction_cos TO clarify_administrator;
+GRANT EXECUTE ON sa.get_transaction_cos TO clarify_user;
+GRANT EXECUTE ON sa.get_transaction_cos TO corecbo;
+GRANT EXECUTE ON sa.get_transaction_cos TO csrcbo;
+GRANT EXECUTE ON sa.get_transaction_cos TO gw1;
+GRANT EXECUTE ON sa.get_transaction_cos TO igate_batch;
+GRANT EXECUTE ON sa.get_transaction_cos TO itds_user;
+GRANT EXECUTE ON sa.get_transaction_cos TO role_sa_update;
+GRANT EXECUTE ON sa.get_transaction_cos TO soacbo;
+GRANT EXECUTE ON sa.get_transaction_cos TO w3ci;
+GRANT EXECUTE ON sa.get_transaction_cos TO webcbo;

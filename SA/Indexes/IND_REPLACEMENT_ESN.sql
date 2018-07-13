@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_replacement_esn ON sa.table_x_alt_esn(x_replacement_esn);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM part_num_list_tab FOR sa.part_num_list_tab;

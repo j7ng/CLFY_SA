@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_mtm_ret_flow_scn_action FOR sa.x_mtm_ret_flow_scn_action;

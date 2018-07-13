@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_contr_to_cont FOR sa.table_contr_to_cont;

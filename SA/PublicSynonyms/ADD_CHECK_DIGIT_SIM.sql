@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM add_check_digit_sim FOR sa.add_check_digit_sim;

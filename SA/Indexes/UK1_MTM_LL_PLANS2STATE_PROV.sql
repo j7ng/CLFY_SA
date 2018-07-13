@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.uk1_mtm_ll_plans2state_prov ON sa.mtm_ll_plans2state_prov(plan_id,state_code);

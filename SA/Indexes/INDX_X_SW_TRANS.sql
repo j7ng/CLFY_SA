@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.indx_x_sw_trans ON sa.x_switchbased_transaction(objid);

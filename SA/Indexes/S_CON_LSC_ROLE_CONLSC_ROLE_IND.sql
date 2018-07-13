@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.s_con_lsc_role_conlsc_role_ind ON sa.table_con_lsc_role(s_role_name,con_lsc2contact,con_lsc2lead_source);

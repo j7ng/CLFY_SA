@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_s_productbin_loc_path ON sa.table_productbin(s_loc_path);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.dbautl_part_cls_value_hist TO dbit_mtoribiolopez;

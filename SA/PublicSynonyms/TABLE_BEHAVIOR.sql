@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_behavior FOR sa.table_behavior;

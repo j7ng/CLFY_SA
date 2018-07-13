@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.time_zone_objindex ON sa.table_time_zone(objid);

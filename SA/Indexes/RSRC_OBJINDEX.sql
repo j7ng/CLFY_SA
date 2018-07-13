@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.rsrc_objindex ON sa.table_rsrc(objid);

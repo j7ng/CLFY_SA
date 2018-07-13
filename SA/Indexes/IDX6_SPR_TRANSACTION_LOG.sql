@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx6_spr_transaction_log ON sa.x_spr_transaction_log(insert_timestamp);

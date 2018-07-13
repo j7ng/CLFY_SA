@@ -1,0 +1,12 @@
+GRANT EXECUTE ON sa.t_web_acc_grp_row TO cbo;
+GRANT EXECUTE ON sa.t_web_acc_grp_row TO clarify_administrator;
+GRANT EXECUTE ON sa.t_web_acc_grp_row TO clarify_user;
+GRANT EXECUTE ON sa.t_web_acc_grp_row TO csrcbo;
+GRANT EXECUTE ON sa.t_web_acc_grp_row TO gw1;
+GRANT EXECUTE ON sa.t_web_acc_grp_row TO igate_batch;
+GRANT EXECUTE ON sa.t_web_acc_grp_row TO role_report_select;
+GRANT EXECUTE ON sa.t_web_acc_grp_row TO role_sa_select;
+GRANT EXECUTE ON sa.t_web_acc_grp_row TO role_sa_update;
+GRANT EXECUTE ON sa.t_web_acc_grp_row TO role_tf_select;
+GRANT EXECUTE ON sa.t_web_acc_grp_row TO soacbo;
+GRANT EXECUTE ON sa.t_web_acc_grp_row TO webcbo;

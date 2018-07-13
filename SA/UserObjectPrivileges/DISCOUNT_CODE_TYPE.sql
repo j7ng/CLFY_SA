@@ -1,0 +1,9 @@
+GRANT EXECUTE ON sa.discount_code_type TO cbo;
+GRANT EXECUTE ON sa.discount_code_type TO clarify_administrator;
+GRANT EXECUTE ON sa.discount_code_type TO clarify_user;
+GRANT EXECUTE ON sa.discount_code_type TO csrcbo;
+GRANT EXECUTE ON sa.discount_code_type TO gw1;
+GRANT EXECUTE ON sa.discount_code_type TO report;
+GRANT EXECUTE ON sa.discount_code_type TO soacbo;
+GRANT EXECUTE ON sa.discount_code_type TO webcbo;
+GRANT EXECUTE ON sa.discount_code_type TO wfmmig;

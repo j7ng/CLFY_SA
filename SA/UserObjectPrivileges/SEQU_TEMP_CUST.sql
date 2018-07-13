@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_temp_cust TO PUBLIC;

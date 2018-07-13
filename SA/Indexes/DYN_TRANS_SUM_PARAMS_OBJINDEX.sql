@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.dyn_trans_sum_params_objindex ON sa.dynamic_trans_sum_params(objid);

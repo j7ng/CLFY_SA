@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_functions_i5410 ON sa.table_n_functions(n_itemid,n_itemtypeid,n_functionname);

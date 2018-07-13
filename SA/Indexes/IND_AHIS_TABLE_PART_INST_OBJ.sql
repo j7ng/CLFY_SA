@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_ahis_table_part_inst_obj ON sa.tstahis_table_part_inst(part_inst_hist2part_inst);

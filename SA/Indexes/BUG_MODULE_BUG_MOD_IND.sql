@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.bug_module_bug_mod_ind ON sa.table_bug_module(title,bug_module2bug);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_spr_inquiry_log_pk2 ON sa.x_spr_inquiry_log(objid,update_timestamp);

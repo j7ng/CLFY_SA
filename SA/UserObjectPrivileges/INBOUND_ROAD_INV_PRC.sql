@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.inbound_road_inv_prc TO role_sa_update;

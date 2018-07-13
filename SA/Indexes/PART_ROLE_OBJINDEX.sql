@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.part_role_objindex ON sa.table_part_role(objid);

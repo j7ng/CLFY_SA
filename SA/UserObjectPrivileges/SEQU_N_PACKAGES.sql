@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_n_packages TO PUBLIC;

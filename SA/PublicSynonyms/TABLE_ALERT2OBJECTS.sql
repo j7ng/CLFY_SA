@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_alert2objects FOR sa.table_alert2objects;

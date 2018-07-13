@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.create$java$lob$table TO dbit_mtoribiolopez;

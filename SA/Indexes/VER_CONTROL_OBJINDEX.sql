@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ver_control_objindex ON sa.table_ver_control(objid);

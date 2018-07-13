@@ -1,0 +1,13 @@
+GRANT EXECUTE ON sa.handset_imgs TO apps_select;
+GRANT EXECUTE ON sa.handset_imgs TO cbo;
+GRANT EXECUTE ON sa.handset_imgs TO corecbo;
+GRANT EXECUTE ON sa.handset_imgs TO csrcbo;
+GRANT EXECUTE ON sa.handset_imgs TO gw1;
+GRANT EXECUTE ON sa.handset_imgs TO igate_batch;
+GRANT EXECUTE ON sa.handset_imgs TO igateapps;
+GRANT EXECUTE ON sa.handset_imgs TO iut;
+GRANT EXECUTE ON sa.handset_imgs TO posaapp;
+GRANT EXECUTE ON sa.handset_imgs TO posadirectapps;
+GRANT EXECUTE ON sa.handset_imgs TO soacbo;
+GRANT EXECUTE ON sa.handset_imgs TO toppapp;
+GRANT EXECUTE ON sa.handset_imgs TO webcbo;

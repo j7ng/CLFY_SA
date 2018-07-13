@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_part_qty2part_incl ON sa.table_part_qty(part_qty2part_incl,part_qty2part_info);

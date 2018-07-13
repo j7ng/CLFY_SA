@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_job_run_details_sttime ON sa.x_job_run_details(x_start_time);

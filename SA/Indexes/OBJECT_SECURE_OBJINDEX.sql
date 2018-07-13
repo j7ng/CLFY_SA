@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.object_secure_objindex ON sa.table_object_secure(objid);

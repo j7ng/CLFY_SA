@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_part_qty_view FOR sa.table_part_qty_view;

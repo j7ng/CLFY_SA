@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_employee_old TO PUBLIC;

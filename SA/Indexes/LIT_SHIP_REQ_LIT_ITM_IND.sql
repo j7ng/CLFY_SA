@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.lit_ship_req_lit_itm_ind ON sa.table_lit_ship_req(last_name,first_name,phone,lit_ship_req2lit_req,lit_ship_req2lead,lit_ship2contact_role);

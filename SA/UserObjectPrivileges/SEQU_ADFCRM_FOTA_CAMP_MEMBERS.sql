@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_adfcrm_fota_camp_members TO PUBLIC;

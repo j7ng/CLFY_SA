@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.asaf_rpt_objindex ON sa.table_asaf_rpt(objid);

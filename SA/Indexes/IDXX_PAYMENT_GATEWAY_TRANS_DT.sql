@@ -1,0 +1,1 @@
+CREATE INDEX sa.idxx_payment_gateway_trans_dt ON sa.payment_gateway_trans(insert_date);

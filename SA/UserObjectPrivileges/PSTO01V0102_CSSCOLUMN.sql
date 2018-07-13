@@ -1,0 +1,1 @@
+GRANT EXECUTE ON optim.psto01v0102_csscolumn TO sa;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.opp_data_objindex ON sa.table_opp_data(objid);

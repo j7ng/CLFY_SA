@@ -1,0 +1,15 @@
+GRANT EXECUTE ON sa.apex_toss_util_pkg TO apps_select;
+GRANT EXECUTE ON sa.apex_toss_util_pkg TO cbo;
+GRANT EXECUTE ON sa.apex_toss_util_pkg TO corecbo;
+GRANT EXECUTE ON sa.apex_toss_util_pkg TO csrcbo;
+GRANT EXECUTE ON sa.apex_toss_util_pkg TO gw1;
+GRANT EXECUTE ON sa.apex_toss_util_pkg TO igate_batch;
+GRANT EXECUTE ON sa.apex_toss_util_pkg TO igateapps;
+GRANT EXECUTE ON sa.apex_toss_util_pkg TO ittas_user;
+GRANT EXECUTE ON sa.apex_toss_util_pkg TO iut;
+GRANT EXECUTE ON sa.apex_toss_util_pkg TO posaapp;
+GRANT EXECUTE ON sa.apex_toss_util_pkg TO posadirectapps;
+GRANT EXECUTE ON sa.apex_toss_util_pkg TO PUBLIC;
+GRANT EXECUTE ON sa.apex_toss_util_pkg TO soacbo;
+GRANT EXECUTE ON sa.apex_toss_util_pkg TO toppapp;
+GRANT EXECUTE ON sa.apex_toss_util_pkg TO webcbo;

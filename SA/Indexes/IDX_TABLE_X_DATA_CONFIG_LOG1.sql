@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_table_x_data_config_log1 ON sa.table_x_data_config_log(x_parent_id);

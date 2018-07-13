@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_contact_details_v FOR sa.adfcrm_contact_details_v;

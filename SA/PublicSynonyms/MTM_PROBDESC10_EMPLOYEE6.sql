@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_probdesc10_employee6 FOR sa.mtm_probdesc10_employee6;

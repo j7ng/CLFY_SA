@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_monitor_view FOR sa.table_x_monitor_view;

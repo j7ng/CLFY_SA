@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_rs_lst FOR sa.table_rs_lst;

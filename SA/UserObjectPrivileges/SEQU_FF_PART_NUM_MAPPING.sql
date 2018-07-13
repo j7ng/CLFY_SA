@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_ff_part_num_mapping TO PUBLIC;

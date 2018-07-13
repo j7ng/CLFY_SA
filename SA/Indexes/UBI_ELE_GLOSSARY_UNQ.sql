@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ubi_ele_glossary_unq ON sa.ubi_ele_glossary(balance_element);

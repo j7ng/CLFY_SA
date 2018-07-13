@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.score_card_dealer_proc_road TO role_sa_update;

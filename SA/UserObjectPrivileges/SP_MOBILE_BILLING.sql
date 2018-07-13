@@ -1,0 +1,10 @@
+GRANT DEBUG ON sa.sp_mobile_billing TO corecbo;
+GRANT EXECUTE ON sa.sp_mobile_billing TO cbo;
+GRANT EXECUTE ON sa.sp_mobile_billing TO clarify_user;
+GRANT EXECUTE ON sa.sp_mobile_billing TO corecbo;
+GRANT EXECUTE ON sa.sp_mobile_billing TO csrcbo;
+GRANT EXECUTE ON sa.sp_mobile_billing TO role_sa_select;
+GRANT EXECUTE ON sa.sp_mobile_billing TO role_sa_update;
+GRANT EXECUTE ON sa.sp_mobile_billing TO role_tf_select;
+GRANT EXECUTE ON sa.sp_mobile_billing TO soacbo;
+GRANT EXECUTE ON sa.sp_mobile_billing TO webcbo;

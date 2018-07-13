@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_transaction_summary FOR sa.adfcrm_transaction_summary;

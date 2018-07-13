@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.migration_flash_key_values_seq TO PUBLIC;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_opp_scr_role TO PUBLIC;

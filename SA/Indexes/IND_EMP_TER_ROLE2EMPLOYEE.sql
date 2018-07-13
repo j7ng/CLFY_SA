@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_emp_ter_role2employee ON sa.table_emp_ter_role(emp_ter_role2employee,emp_ter_role2territory);

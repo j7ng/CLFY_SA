@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.csc_country_name_index ON sa.table_csc_country(server_id,"NAME");

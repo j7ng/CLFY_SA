@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.cr_person_role_cr_role_ind ON sa.table_cr_person_role(role_name,cr_person_role2contract,cr_person_role2person);

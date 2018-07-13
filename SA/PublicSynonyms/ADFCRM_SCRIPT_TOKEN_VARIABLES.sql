@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_script_token_variables FOR sa.adfcrm_script_token_variables;

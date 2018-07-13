@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_score_card_cost_ndx1 ON sa.x_score_card_cost(x_units);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_program_enrolled_new5 ON sa.x_program_enrolled(pgm_enroll2site_part,pgm_enroll2part_inst);

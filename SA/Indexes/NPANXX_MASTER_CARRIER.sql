@@ -1,0 +1,1 @@
+CREATE INDEX sa.npanxx_master_carrier ON sa.npanxx2carrierzones_master(npa,nxx,carrier_name);

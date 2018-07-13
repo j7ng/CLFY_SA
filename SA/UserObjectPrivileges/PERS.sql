@@ -1,0 +1,9 @@
+GRANT DELETE ON sa.pers TO role_sa_update;
+GRANT INSERT ON sa.pers TO role_sa_update;
+GRANT SELECT ON sa.pers TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.pers TO role_sa_select;
+GRANT SELECT ON sa.pers TO role_sa_update;
+GRANT SELECT ON sa.pers TO role_tf_select;
+GRANT SELECT ON sa.pers TO select_no_pin;
+GRANT SELECT ON sa.pers TO select_role;
+GRANT UPDATE ON sa.pers TO role_sa_update;

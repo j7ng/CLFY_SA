@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_mvne_transaction_stg_idx4 ON sa.x_mvne_transaction_stg(x_transaction_id);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_ind_sim_mnc ON sa.table_x_sim_inv(x_sim_mnc);

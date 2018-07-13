@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_wk_work_hr_old TO PUBLIC;

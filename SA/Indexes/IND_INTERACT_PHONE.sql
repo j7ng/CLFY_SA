@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_interact_phone ON sa.table_interact(phone);

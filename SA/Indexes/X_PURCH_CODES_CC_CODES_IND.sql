@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_purch_codes_cc_codes_ind ON sa.table_x_purch_codes(x_code_type,x_code_value,x_ics_rcode,x_auth_response,x_language);

@@ -1,0 +1,9 @@
+GRANT EXECUTE ON sa.adfcrm_lender_flash_prc TO cbo;
+GRANT EXECUTE ON sa.adfcrm_lender_flash_prc TO clarify_administrator;
+GRANT EXECUTE ON sa.adfcrm_lender_flash_prc TO clarify_user;
+GRANT EXECUTE ON sa.adfcrm_lender_flash_prc TO csrcbo;
+GRANT EXECUTE ON sa.adfcrm_lender_flash_prc TO etladmin;
+GRANT EXECUTE ON sa.adfcrm_lender_flash_prc TO report;
+GRANT EXECUTE ON sa.adfcrm_lender_flash_prc TO role_sa_update;
+GRANT EXECUTE ON sa.adfcrm_lender_flash_prc TO soacbo;
+GRANT EXECUTE ON sa.adfcrm_lender_flash_prc TO webcbo;

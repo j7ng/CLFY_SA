@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_ben_account ON sa.x_reward_benefit(web_account_id);

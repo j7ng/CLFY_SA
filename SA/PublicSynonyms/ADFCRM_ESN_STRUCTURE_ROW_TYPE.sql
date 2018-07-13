@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_esn_structure_row_type FOR sa.adfcrm_esn_structure_row_type;

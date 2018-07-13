@@ -1,0 +1,11 @@
+GRANT EXECUTE ON sa.get_service_forecast_det TO cbo;
+GRANT EXECUTE ON sa.get_service_forecast_det TO clarify_administrator;
+GRANT EXECUTE ON sa.get_service_forecast_det TO clarify_user;
+GRANT EXECUTE ON sa.get_service_forecast_det TO corecbo;
+GRANT EXECUTE ON sa.get_service_forecast_det TO csrcbo;
+GRANT EXECUTE ON sa.get_service_forecast_det TO gw1;
+GRANT EXECUTE ON sa.get_service_forecast_det TO igate_batch;
+GRANT EXECUTE ON sa.get_service_forecast_det TO role_sa_update;
+GRANT EXECUTE ON sa.get_service_forecast_det TO soacbo;
+GRANT EXECUTE ON sa.get_service_forecast_det TO w3ci;
+GRANT EXECUTE ON sa.get_service_forecast_det TO webcbo;

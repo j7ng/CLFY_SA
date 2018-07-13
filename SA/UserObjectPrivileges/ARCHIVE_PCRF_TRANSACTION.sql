@@ -1,0 +1,16 @@
+GRANT EXECUTE ON sa.archive_pcrf_transaction TO cbo;
+GRANT EXECUTE ON sa.archive_pcrf_transaction TO clarify_administrator;
+GRANT EXECUTE ON sa.archive_pcrf_transaction TO clarify_user;
+GRANT EXECUTE ON sa.archive_pcrf_transaction TO csrcbo;
+GRANT EXECUTE ON sa.archive_pcrf_transaction TO dbbu_oartigas;
+GRANT EXECUTE ON sa.archive_pcrf_transaction TO gw1;
+GRANT EXECUTE ON sa.archive_pcrf_transaction TO igate_batch;
+GRANT EXECUTE ON sa.archive_pcrf_transaction TO role_carrier_ops;
+GRANT EXECUTE ON sa.archive_pcrf_transaction TO role_report_select;
+GRANT EXECUTE ON sa.archive_pcrf_transaction TO role_sa_select;
+GRANT EXECUTE ON sa.archive_pcrf_transaction TO role_sa_update;
+GRANT EXECUTE ON sa.archive_pcrf_transaction TO role_tf_select;
+GRANT EXECUTE ON sa.archive_pcrf_transaction TO select_role;
+GRANT EXECUTE ON sa.archive_pcrf_transaction TO soacbo;
+GRANT EXECUTE ON sa.archive_pcrf_transaction TO w3ci;
+GRANT EXECUTE ON sa.archive_pcrf_transaction TO webcbo;

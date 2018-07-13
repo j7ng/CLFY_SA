@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.webcsr_scripts_bkp TO dbit_mtoribiolopez;

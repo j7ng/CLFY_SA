@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_cc_no_consent FOR sa.adfcrm_cc_no_consent;

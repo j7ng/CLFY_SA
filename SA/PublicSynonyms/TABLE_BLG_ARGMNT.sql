@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_blg_argmnt FOR sa.table_blg_argmnt;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_psfi_view FOR sa.table_psfi_view;

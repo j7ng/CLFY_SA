@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.mobile_info_objindex ON sa.table_x_mobile_info(objid);

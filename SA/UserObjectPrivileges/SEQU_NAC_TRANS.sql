@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_nac_trans TO PUBLIC;

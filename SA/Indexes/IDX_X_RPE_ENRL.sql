@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_rpe_enrl ON sa.x_reward_program_enrollment(enrollment_flag,enroll_date);

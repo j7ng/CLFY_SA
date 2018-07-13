@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_partclass_x_spf_value_def FOR sa.mtm_partclass_x_spf_value_def;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_ota_params FOR sa.table_x_ota_params;

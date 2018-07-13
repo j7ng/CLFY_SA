@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM validate_enroll_codes_prc FOR sa.validate_enroll_codes_prc;

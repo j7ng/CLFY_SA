@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_dfe2cnvlg FOR sa.table_dfe2cnvlg;

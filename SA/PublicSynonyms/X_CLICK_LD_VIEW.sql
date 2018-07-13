@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_click_ld_view FOR sa.x_click_ld_view;

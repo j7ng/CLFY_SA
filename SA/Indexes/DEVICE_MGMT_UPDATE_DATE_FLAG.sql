@@ -1,0 +1,1 @@
+CREATE INDEX sa.device_mgmt_update_date_flag ON sa.x_device_mgmt(x_last_update_date,x_apn_update_flag);

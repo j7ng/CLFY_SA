@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_churn_charge_old2 TO PUBLIC;

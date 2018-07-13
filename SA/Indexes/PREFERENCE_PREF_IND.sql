@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.preference_pref_ind ON sa.table_preference(pref2web_user,pref_type2gbst_elm,subtype,source_type,source_lowid);

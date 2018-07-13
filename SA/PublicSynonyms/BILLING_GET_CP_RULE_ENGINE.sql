@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_get_cp_rule_engine FOR sa.billing_get_cp_rule_engine;

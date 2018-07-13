@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_code_table_objindex ON sa.table_x_code_table(objid);

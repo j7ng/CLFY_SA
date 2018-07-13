@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wex_bp_inv_receipts FOR sa.wex_bp_inv_receipts;

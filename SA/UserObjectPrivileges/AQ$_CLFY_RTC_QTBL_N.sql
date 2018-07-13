@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.aq$_clfy_rtc_qtbl_n TO PUBLIC;

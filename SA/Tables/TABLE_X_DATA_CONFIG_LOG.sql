@@ -1,0 +1,22 @@
+CREATE TABLE sa.table_x_data_config_log (
+  objid NUMBER,
+  dev NUMBER,
+  x_parent_id VARCHAR2(30 BYTE),
+  x_part_class_objid NUMBER,
+  x_default NUMBER,
+  x_ip_address VARCHAR2(30 BYTE),
+  x_apn VARCHAR2(30 BYTE),
+  x_homepage VARCHAR2(150 BYTE),
+  x_mmsc VARCHAR2(150 BYTE),
+  cmd_148_carrier_data_switch VARCHAR2(1 BYTE),
+  x_data_switch NUMBER,
+  cmd_71_gprs_apn VARCHAR2(1 BYTE),
+  cmd_150_clear_proxy VARCHAR2(1 BYTE),
+  cmd_121_gateway_port_update VARCHAR2(1 BYTE),
+  cmd_121_gateway_ip_update VARCHAR2(1 BYTE),
+  cmd_71_mmsc_update VARCHAR2(1 BYTE),
+  cmd_71_gateway_home VARCHAR2(1 BYTE),
+  "ACTION" VARCHAR2(10 BYTE),
+  changed_by VARCHAR2(30 BYTE),
+  change_date DATE
+);

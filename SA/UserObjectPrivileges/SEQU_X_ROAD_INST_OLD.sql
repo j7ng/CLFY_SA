@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_road_inst_old TO PUBLIC;

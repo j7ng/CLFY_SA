@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_part_num19_part_class5 FOR sa.mtm_part_num19_part_class5;

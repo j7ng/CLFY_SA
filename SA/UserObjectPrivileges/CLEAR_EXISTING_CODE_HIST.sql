@@ -1,0 +1,12 @@
+GRANT EXECUTE ON sa.clear_existing_code_hist TO cbo;
+GRANT EXECUTE ON sa.clear_existing_code_hist TO clarify_administrator;
+GRANT EXECUTE ON sa.clear_existing_code_hist TO clarify_reporter;
+GRANT EXECUTE ON sa.clear_existing_code_hist TO clarify_user;
+GRANT EXECUTE ON sa.clear_existing_code_hist TO corecbo;
+GRANT EXECUTE ON sa.clear_existing_code_hist TO csrcbo;
+GRANT EXECUTE ON sa.clear_existing_code_hist TO db_psi;
+GRANT EXECUTE ON sa.clear_existing_code_hist TO ivr;
+GRANT EXECUTE ON sa.clear_existing_code_hist TO role_sa_update;
+GRANT EXECUTE ON sa.clear_existing_code_hist TO select_no_pin;
+GRANT EXECUTE ON sa.clear_existing_code_hist TO soacbo;
+GRANT EXECUTE ON sa.clear_existing_code_hist TO webcbo;

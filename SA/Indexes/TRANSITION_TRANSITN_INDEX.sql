@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.transition_transitn_index ON sa.table_transition("RANK",focus_type,focus_subtype);

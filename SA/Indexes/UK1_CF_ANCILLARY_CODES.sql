@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.uk1_cf_ancillary_codes ON sa.x_cf_ancillary_codes(brm_equivalent);

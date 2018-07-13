@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM nap_service_pkg FOR sa.nap_service_pkg;

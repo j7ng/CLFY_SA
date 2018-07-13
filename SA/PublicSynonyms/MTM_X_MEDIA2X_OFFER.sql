@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_x_media2x_offer FOR sa.mtm_x_media2x_offer;

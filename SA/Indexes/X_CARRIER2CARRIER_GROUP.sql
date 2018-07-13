@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_carrier2carrier_group ON sa.table_x_carrier(carrier2carrier_group);

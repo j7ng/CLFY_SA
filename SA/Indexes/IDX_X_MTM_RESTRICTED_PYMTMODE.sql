@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_mtm_restricted_pymtmode ON sa.x_mtm_restricted_pymtmode(program_param_objid,x_payment_type);

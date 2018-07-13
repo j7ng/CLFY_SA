@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_csc_contact4_csc_admin0 FOR sa.mtm_csc_contact4_csc_admin0;

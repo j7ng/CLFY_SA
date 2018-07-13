@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM reward_points_pkg FOR sa.reward_points_pkg;

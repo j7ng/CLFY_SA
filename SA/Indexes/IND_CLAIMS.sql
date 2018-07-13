@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_claims ON sa.sn_program_claims(x_esn);

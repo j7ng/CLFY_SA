@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_subscriber_spr_detail ON sa.x_subscriber_spr_detail(subscriber_spr_objid);

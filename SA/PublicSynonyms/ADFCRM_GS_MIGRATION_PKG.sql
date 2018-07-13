@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_gs_migration_pkg FOR sa.adfcrm_gs_migration_pkg;

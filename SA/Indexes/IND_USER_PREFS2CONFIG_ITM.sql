@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_user_prefs2config_itm ON sa.mtm_user50_config_itm0(user_prefs2config_itm);

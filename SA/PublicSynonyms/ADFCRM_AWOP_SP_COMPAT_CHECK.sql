@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_awop_sp_compat_check FOR sa.adfcrm_awop_sp_compat_check;

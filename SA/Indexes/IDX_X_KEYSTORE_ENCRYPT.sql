@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_keystore_encrypt ON sa.x_keystore(x_encrypt_method,x_encrypt_std);

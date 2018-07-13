@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_usage_host FOR sa.x_usage_host;

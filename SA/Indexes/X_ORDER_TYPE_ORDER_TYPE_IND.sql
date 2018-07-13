@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_order_type_order_type_ind ON sa.table_x_order_type(objid);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79mit_objindex ON sa.table_x79mit(objid);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_ntfy_flup_act ON sa.x_ntfy_flup_act(objid);

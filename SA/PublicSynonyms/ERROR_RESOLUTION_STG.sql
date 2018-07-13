@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM error_resolution_stg FOR sa.error_resolution_stg;

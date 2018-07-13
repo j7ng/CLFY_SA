@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sp_x_temp FOR sa.sp_x_temp;

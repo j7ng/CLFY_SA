@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_sms_hotline ON sa.x_sms_hotline(action_item_id);

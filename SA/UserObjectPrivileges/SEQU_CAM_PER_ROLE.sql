@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_cam_per_role TO PUBLIC;

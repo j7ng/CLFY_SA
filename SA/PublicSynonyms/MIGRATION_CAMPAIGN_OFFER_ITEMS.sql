@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM migration_campaign_offer_items FOR sa.migration_campaign_offer_items;

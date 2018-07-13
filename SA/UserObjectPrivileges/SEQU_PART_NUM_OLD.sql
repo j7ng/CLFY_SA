@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_part_num_old TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.new_receipts_objindex ON sa.table_new_receipts(objid);

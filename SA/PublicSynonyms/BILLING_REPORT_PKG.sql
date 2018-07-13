@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_report_pkg FOR sa.billing_report_pkg;

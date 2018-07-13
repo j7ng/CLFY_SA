@@ -1,0 +1,1 @@
+CREATE INDEX sa.nap_c_choice_ndx1 ON sa.nap_c_choice(action_date,esn);

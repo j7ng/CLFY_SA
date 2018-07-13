@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.part_role_part_role_ind ON sa.table_part_role(role_player2mod_level,role_for2mod_level,role_id);

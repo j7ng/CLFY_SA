@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_daylight_hr_old2 TO PUBLIC;

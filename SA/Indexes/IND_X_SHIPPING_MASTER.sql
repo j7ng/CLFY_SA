@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_x_shipping_master ON sa.table_x_shipping_master(master2courier,master2ff_center,master2method,x_zip_code,x_weight);

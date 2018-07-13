@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_sprint_mrkt_info_zip_idx ON sa.x_sprint_mrkt_info(zip);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.fix_addi_multi_acct_sweep TO dbit_mtoribiolopez;

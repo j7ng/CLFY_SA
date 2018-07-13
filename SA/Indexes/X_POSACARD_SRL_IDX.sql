@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_posacard_srl_idx ON sa.x_posa_card(tf_serial_num);

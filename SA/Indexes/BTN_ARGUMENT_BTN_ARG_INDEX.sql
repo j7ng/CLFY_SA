@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.btn_argument_btn_arg_index ON sa.table_btn_argument("RANK",btn_argument2in_action,btn_argument2out_action);

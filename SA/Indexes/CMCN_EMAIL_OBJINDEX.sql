@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.cmcn_email_objindex ON sa.table_cmcn_email(objid);

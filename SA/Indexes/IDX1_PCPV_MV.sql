@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_pcpv_mv ON sa.pcpv_mv(pc_objid);

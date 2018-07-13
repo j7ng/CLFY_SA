@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_web_agent_user_id ON sa.web_agent_login(user_id);

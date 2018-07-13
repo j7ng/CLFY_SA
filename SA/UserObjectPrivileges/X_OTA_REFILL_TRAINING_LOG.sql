@@ -1,0 +1,9 @@
+GRANT INSERT ON sa.x_ota_refill_training_log TO clarify_administrator;
+GRANT INSERT ON sa.x_ota_refill_training_log TO clarify_user;
+GRANT SELECT ON sa.x_ota_refill_training_log TO clarify_administrator;
+GRANT SELECT ON sa.x_ota_refill_training_log TO clarify_reporter;
+GRANT SELECT ON sa.x_ota_refill_training_log TO clarify_user;
+GRANT SELECT ON sa.x_ota_refill_training_log TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_ota_refill_training_log TO role_ota_select;
+GRANT SELECT ON sa.x_ota_refill_training_log TO role_tf_select;
+GRANT SELECT ON sa.x_ota_refill_training_log TO select_role;

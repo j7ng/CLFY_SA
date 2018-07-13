@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_merchant_ref_number_uk_i ON sa.x_purchase_add_info(x_merchant_ref_number);

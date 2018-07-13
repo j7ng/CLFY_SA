@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_group_transaction_idx2 ON sa.adfcrm_group_transaction_temp("GROUP_ID");

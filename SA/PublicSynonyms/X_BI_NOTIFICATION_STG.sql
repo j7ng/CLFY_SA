@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_bi_notification_stg FOR sa.x_bi_notification_stg;

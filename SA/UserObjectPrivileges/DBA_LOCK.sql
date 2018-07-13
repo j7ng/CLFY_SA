@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.dba_lock TO sa;

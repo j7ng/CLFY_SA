@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.csc_problem_problem_index ON sa.table_csc_problem(server_id,problem2csc_incident);

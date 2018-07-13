@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_gbkp_subc FOR sa.table_gbkp_subc;

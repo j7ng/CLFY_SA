@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_addr_ba_role FOR sa.table_addr_ba_role;

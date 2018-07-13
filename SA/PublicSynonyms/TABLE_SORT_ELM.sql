@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_sort_elm FOR sa.table_sort_elm;

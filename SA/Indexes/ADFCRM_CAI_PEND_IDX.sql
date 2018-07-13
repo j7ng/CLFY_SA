@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_cai_pend_idx ON sa.adfcrm_cai_pend_batch(contact_objid);

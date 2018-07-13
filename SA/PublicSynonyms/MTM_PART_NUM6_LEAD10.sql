@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_part_num6_lead10 FOR sa.mtm_part_num6_lead10;

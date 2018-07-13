@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_sales_tax_old TO PUBLIC;

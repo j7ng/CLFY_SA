@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_mod_level49_bus_opp_role3 FOR sa.mtm_mod_level49_bus_opp_role3;

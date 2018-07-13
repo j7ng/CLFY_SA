@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_dependents_old2 TO PUBLIC;

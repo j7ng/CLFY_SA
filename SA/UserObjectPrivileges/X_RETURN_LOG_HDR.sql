@@ -1,0 +1,14 @@
+GRANT SELECT ON sa.x_return_log_hdr TO cbo;
+GRANT SELECT ON sa.x_return_log_hdr TO clarify_administrator;
+GRANT SELECT ON sa.x_return_log_hdr TO clarify_user;
+GRANT SELECT ON sa.x_return_log_hdr TO csrcbo;
+GRANT SELECT ON sa.x_return_log_hdr TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_return_log_hdr TO gw1;
+GRANT SELECT ON sa.x_return_log_hdr TO igate_batch;
+GRANT SELECT ON sa.x_return_log_hdr TO role_report_select;
+GRANT SELECT ON sa.x_return_log_hdr TO role_sa_select;
+GRANT SELECT ON sa.x_return_log_hdr TO role_sa_update;
+GRANT SELECT ON sa.x_return_log_hdr TO role_tf_select;
+GRANT SELECT ON sa.x_return_log_hdr TO soacbo;
+GRANT SELECT ON sa.x_return_log_hdr TO w3ci;
+GRANT SELECT ON sa.x_return_log_hdr TO webcbo;

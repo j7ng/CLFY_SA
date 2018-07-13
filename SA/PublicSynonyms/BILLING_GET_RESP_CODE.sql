@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_get_resp_code FOR sa.billing_get_resp_code;

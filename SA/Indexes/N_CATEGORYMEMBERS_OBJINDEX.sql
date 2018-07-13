@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_categorymembers_objindex ON sa.table_n_categorymembers(objid);

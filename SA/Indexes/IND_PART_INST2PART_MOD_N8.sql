@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_part_inst2part_mod_n8 ON sa.table_part_inst(n_part_inst2part_mod);

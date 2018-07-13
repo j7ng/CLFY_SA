@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.sp_purge2dayold_event_stats TO role_sa_update;

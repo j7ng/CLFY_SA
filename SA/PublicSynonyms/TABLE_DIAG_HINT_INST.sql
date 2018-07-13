@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_diag_hint_inst FOR sa.table_diag_hint_inst;

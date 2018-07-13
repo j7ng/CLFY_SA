@@ -1,0 +1,1 @@
+CREATE INDEX sa.indx_table_x_safelink_flash ON sa.table_x_safelink_flash(esn);

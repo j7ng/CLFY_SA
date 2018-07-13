@@ -1,0 +1,1 @@
+CREATE INDEX sa.carrierdealer_carrer_id ON sa.table_x_carrierdealer(x_carrier_id,x_dealer_id);

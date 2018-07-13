@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_address_hist_objindex ON sa.table_x_address_hist(objid);

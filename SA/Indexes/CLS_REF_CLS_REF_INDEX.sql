@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.cls_ref_cls_ref_index ON sa.table_cls_ref(cls_ref2cls_factory,from_type,to_type,"PATH");

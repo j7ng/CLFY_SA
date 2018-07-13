@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_sl_deenroll_reasons TO dbit_mtoribiolopez;

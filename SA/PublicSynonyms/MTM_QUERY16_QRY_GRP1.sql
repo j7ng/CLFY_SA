@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_query16_qry_grp1 FOR sa.mtm_query16_qry_grp1;

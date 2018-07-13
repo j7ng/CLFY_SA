@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_win_ctxtmenu FOR sa.table_win_ctxtmenu;

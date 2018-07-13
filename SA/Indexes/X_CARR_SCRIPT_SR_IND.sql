@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_carr_script_sr_ind ON sa.table_x_carr_script(x_script_id);

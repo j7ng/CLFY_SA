@@ -1,0 +1,1 @@
+CREATE INDEX sa.indx_mtm_cos_trans_date ON sa.mtm_cos_partclass_carrier(x_start_date,x_end_date);

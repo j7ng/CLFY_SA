@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_mtm_program_dealer FOR sa.x_mtm_program_dealer;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_ota_code_hist TO PUBLIC;

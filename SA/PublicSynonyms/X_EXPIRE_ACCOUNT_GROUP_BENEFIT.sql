@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_expire_account_group_benefit FOR sa.x_expire_account_group_benefit;

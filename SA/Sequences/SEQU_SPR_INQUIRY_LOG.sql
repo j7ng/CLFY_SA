@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_spr_inquiry_log;

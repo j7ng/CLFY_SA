@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_shipping_master TO PUBLIC;

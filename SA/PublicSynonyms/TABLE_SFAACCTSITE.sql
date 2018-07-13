@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_sfaacctsite FOR sa.table_sfaacctsite;

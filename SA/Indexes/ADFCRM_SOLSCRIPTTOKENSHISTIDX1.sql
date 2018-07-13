@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_solscripttokenshistidx1 ON sa.adfcrm_sol_script_tokens_hist(changed_date,token,change_type);

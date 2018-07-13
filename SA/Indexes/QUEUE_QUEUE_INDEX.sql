@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.queue_queue_index ON sa.table_queue(title);

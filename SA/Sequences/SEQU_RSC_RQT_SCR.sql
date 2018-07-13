@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_rsc_rqt_scr;

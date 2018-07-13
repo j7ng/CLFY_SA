@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_sl_deenroll_flag TO PUBLIC;

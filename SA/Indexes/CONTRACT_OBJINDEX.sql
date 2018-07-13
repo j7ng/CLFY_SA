@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.contract_objindex ON sa.table_contract(objid);

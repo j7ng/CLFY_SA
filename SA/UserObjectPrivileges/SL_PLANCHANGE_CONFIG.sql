@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sl_planchange_config TO dbit_mtoribiolopez;

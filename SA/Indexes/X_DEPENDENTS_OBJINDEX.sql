@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_dependents_objindex ON sa.table_x_dependents(objid);

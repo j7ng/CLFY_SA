@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_edr_com_role FOR sa.table_edr_com_role;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ix2_wfm_min_promo_code ON sa.x_wfm_min_promo_code(TRUNC("PROMO_APPLIED_DATE"));

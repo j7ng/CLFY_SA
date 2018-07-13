@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_program_purch_hdr2bank ON sa.x_program_purch_hdr(purch_hdr2bank_acct);

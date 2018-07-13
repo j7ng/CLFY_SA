@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_literature_request_id TO PUBLIC;

@@ -1,0 +1,23 @@
+CREATE TABLE sa."CardsOut_FreeCards2" (
+  cd_sold_d DATE NOT NULL,
+  "SEQUENCE" NUMBER(10),
+  creation_date DATE,
+  created_by CHAR(20 BYTE),
+  cd_po_num VARCHAR2(25 BYTE),
+  cd_num VARCHAR2(30 BYTE) NOT NULL,
+  warr_end_date DATE,
+  cd_cust_id CHAR(14 BYTE),
+  cd_inv_num NUMBER(10),
+  cd_part_status VARCHAR2(30 BYTE) NOT NULL,
+  cd_part_inst_status NUMBER(10) NOT NULL,
+  cd_deact_flag NUMBER(10) NOT NULL,
+  cd_react_flag NUMBER(10) NOT NULL,
+  cd_desc VARCHAR2(255 BYTE),
+  cd_part_number VARCHAR2(30 BYTE),
+  cd_part_status2 VARCHAR2(20 BYTE) NOT NULL,
+  cd_part_type VARCHAR2(20 BYTE) NOT NULL,
+  cd_manufacturer VARCHAR2(20 BYTE),
+  cd_redeem_days NUMBER(10),
+  cd_value NUMBER(10) NOT NULL,
+  cd_retail_cost NUMBER(10)
+);

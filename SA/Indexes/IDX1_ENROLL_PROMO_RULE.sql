@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_enroll_promo_rule ON sa.x_enroll_promo_rule(promo_objid);

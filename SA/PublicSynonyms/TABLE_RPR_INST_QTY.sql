@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_rpr_inst_qty FOR sa.table_rpr_inst_qty;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_ntfy_chnl_mas ON sa.x_ntfy_chnl_mas(objid);

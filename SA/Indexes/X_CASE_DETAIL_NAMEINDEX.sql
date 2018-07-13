@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_case_detail_nameindex ON sa.table_x_case_detail(x_name,x_value);

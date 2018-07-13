@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_code_table_num_ind ON sa.table_x_code_table(x_code_number);

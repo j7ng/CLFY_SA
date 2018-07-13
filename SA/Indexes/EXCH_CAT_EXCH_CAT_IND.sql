@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.exch_cat_exch_cat_ind ON sa.table_exch_cat("NAME","VERSION");

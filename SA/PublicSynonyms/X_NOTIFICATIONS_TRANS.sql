@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_notifications_trans FOR sa.x_notifications_trans;

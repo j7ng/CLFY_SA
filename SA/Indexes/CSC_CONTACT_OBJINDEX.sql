@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.csc_contact_objindex ON sa.table_csc_contact(objid);

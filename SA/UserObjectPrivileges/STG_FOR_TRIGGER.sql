@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.stg_for_trigger TO dbit_mtoribiolopez;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.cls_factory_cls_factory_index ON sa.table_cls_factory(focus_type,title,factory2user);

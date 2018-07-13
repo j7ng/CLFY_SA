@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_portout_winback_log ON sa.x_portout_winback_log("MIN");

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_voucher_token_id ON sa.x_voucher_access_token(x_token_id);

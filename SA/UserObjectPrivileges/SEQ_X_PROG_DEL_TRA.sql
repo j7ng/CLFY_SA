@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_prog_del_tra TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_e911_tax_recon_receipt_id ON sa.xxtf_e911_tax_recon_tbl(cash_receipt_id);

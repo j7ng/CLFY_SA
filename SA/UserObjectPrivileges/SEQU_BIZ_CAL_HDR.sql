@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_biz_cal_hdr TO PUBLIC;

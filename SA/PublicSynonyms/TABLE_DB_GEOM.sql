@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_db_geom FOR sa.table_db_geom;

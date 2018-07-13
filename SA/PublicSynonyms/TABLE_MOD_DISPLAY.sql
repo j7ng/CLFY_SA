@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_mod_display FOR sa.table_mod_display;

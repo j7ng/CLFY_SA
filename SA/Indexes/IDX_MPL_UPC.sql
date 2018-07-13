@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_mpl_upc ON sa.x_multiodenom_posa_log(upc);

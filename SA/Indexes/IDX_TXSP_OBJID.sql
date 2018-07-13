@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_txsp_objid ON sa.x_special_promotion(objid);

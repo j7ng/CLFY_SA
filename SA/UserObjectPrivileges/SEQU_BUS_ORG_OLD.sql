@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_bus_org_old TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_default_preload_ind_plan ON sa.table_x_default_preload(x_plan_id);

@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.get_test_sim_p TO PUBLIC;

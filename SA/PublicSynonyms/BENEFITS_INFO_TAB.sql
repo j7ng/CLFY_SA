@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM benefits_info_tab FOR sa.benefits_info_tab;

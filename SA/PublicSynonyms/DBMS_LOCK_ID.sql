@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dbms_lock_id FOR sa.dbms_lock_id;

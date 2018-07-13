@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_medium FOR sa.table_medium;

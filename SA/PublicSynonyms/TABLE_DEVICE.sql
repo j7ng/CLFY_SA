@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_device FOR sa.table_device;

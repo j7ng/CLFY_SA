@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_string_db FOR sa.table_string_db;

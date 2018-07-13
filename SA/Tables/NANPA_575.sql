@@ -1,0 +1,10 @@
+CREATE TABLE sa.nanpa_575 (
+  new_npa VARCHAR2(50 BYTE),
+  npa VARCHAR2(255 BYTE),
+  nxx VARCHAR2(255 BYTE),
+  "NPA-NXX" VARCHAR2(255 BYTE),
+  "Company" VARCHAR2(255 BYTE),
+  "State" VARCHAR2(255 BYTE),
+  mi_rc VARCHAR2(50 BYTE),
+  "RateCenter" VARCHAR2(255 BYTE)
+);

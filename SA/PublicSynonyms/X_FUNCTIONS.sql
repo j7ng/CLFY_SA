@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_functions FOR sa.x_functions;

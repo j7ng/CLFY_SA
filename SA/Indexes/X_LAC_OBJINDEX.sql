@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_lac_objindex ON sa.table_x_lac(objid);

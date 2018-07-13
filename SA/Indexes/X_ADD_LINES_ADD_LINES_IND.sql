@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_add_lines_add_lines_ind ON sa.table_x_add_lines(x_add_lines2x_carrier,x_npa,x_nxx);

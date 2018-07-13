@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_cbo_err_objidx ON sa.table_x_cbo_error_1115(objid);

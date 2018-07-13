@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_options FOR sa.table_options;

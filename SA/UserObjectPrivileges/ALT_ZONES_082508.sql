@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.alt_zones_082508 TO dbit_mtoribiolopez;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_x_parent_to_x_scripts FOR sa.mtm_x_parent_to_x_scripts;

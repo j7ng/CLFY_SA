@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_mtm_ffc2conf_hdr TO PUBLIC;

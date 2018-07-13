@@ -1,0 +1,4 @@
+CREATE TABLE sa.net10group_esn (
+  esn VARCHAR2(30 BYTE)
+);
+ALTER TABLE sa.net10group_esn ADD SUPPLEMENTAL LOG GROUP dmtsora1764111953_0 (esn) ALWAYS;

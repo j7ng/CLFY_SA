@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_vas_subs_obj ON sa.x_vas_subscriptions(objid);

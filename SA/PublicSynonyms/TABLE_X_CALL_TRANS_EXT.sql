@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_call_trans_ext FOR sa.table_x_call_trans_ext;

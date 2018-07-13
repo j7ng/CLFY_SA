@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.process_objindex ON sa.table_process(objid);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rgroupseq FOR sa.rgroupseq;

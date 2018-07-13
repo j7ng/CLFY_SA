@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.evt_profile_seq TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.pay_chnl_extern_objindex ON sa.table_pay_chnl_extern(objid);

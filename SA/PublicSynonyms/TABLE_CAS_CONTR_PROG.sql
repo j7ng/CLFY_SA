@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_cas_contr_prog FOR sa.table_cas_contr_prog;

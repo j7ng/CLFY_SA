@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_menu FOR sa.x_menu;

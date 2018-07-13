@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_canceltosuspend_ndx1 ON sa.x_canceltosuspend(objid);

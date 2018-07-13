@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rtr_order_detail_tab FOR sa.rtr_order_detail_tab;

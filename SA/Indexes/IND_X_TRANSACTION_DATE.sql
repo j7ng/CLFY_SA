@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_x_transaction_date ON sa.table_x_ota_transaction(x_transaction_date);

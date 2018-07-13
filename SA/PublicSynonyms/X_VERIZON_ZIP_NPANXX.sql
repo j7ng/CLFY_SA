@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_verizon_zip_npanxx FOR sa.x_verizon_zip_npanxx;

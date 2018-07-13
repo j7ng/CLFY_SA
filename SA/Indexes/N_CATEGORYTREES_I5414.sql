@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_categorytrees_i5414 ON sa.table_n_categorytrees(n_treename);

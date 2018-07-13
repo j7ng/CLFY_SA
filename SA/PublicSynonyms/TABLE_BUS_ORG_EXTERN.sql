@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_bus_org_extern FOR sa.table_bus_org_extern;

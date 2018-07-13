@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.report_enrollment TO dbit_mtoribiolopez;

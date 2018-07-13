@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_keyphrase_array_2 FOR sa.table_keyphrase_array_2;

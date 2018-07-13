@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM coverage_part_class_carrier FOR sa.coverage_part_class_carrier;

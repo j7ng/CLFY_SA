@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.tmp_sm_table_wipbin TO dbit_mtoribiolopez;

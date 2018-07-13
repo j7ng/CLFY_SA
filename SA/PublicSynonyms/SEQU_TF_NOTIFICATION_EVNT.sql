@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_tf_notification_evnt FOR sa.sequ_tf_notification_evnt;

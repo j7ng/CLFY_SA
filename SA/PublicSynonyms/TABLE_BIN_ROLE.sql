@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_bin_role FOR sa.table_bin_role;

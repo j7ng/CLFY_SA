@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.errlog_bank_acct_migr_2014 TO dbit_mtoribiolopez;

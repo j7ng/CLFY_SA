@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_settlements_history7 ON sa.x_settlements_history(x_insert_date);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_promo_ui FOR sa.x_promo_ui;

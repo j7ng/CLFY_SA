@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_contact_custid_u2 ON sa.table_contact(x_cust_id);

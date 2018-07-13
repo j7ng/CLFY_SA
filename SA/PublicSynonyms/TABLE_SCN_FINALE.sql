@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_scn_finale FOR sa.table_scn_finale;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_dem_part_v FOR sa.table_dem_part_v;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM get_chn_os_apn_instruction FOR sa.get_chn_os_apn_instruction;

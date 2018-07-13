@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_payment_resp ON sa.x_payment_resp(objid);

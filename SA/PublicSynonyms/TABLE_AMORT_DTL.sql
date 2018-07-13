@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_amort_dtl FOR sa.table_amort_dtl;

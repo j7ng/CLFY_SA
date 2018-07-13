@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sp_rpk_remove_cancel_request FOR sa.sp_rpk_remove_cancel_request;

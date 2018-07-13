@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wex_shipping_mtd FOR sa.wex_shipping_mtd;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.tracking_objindex ON sa.table_tracking(objid);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_s_part_num_description ON sa.table_part_num(s_description);

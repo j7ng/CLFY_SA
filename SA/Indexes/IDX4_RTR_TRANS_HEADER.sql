@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx4_rtr_trans_header ON sa.x_rtr_trans_header(trans_date);

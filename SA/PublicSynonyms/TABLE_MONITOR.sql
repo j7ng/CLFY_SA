@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_monitor FOR sa.table_monitor;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_alert_suppression FOR sa.table_alert_suppression;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_itemtypes_i5412 ON sa.table_n_itemtypes(n_itemtypename);

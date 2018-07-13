@@ -1,0 +1,1 @@
+CREATE INDEX sa.sl_zip_stg ON sa.x_zip2time_zone(zip);

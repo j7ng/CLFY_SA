@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.bus_site_role_bus_site_index ON sa.table_bus_site_role(role_name,focus_type,bus_site_role2site,bus_site_role2bus_org);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_svc_type FOR sa.table_svc_type;

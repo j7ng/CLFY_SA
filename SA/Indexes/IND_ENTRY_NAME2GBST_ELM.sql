@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_entry_name2gbst_elm ON sa.table_act_entry(entry_name2gbst_elm);

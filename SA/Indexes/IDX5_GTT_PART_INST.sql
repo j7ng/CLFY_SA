@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx5_gtt_part_inst ON sa.gtt_part_inst(part_serial_no,x_red_code,x_domain);

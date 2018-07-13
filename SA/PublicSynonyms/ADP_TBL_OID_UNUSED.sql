@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adp_tbl_oid_unused FOR sa.adp_tbl_oid_unused;

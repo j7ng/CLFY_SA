@@ -1,0 +1,11 @@
+GRANT EXECUTE ON sa.q_payload_t TO cbo;
+GRANT EXECUTE ON sa.q_payload_t TO clarify_administrator;
+GRANT EXECUTE ON sa.q_payload_t TO clarify_user;
+GRANT EXECUTE ON sa.q_payload_t TO csrcbo;
+GRANT EXECUTE ON sa.q_payload_t TO gw1;
+GRANT EXECUTE ON sa.q_payload_t TO igate_batch;
+GRANT EXECUTE ON sa.q_payload_t TO itds_user;
+GRANT EXECUTE ON sa.q_payload_t TO role_sa_update;
+GRANT EXECUTE ON sa.q_payload_t TO soacbo;
+GRANT EXECUTE ON sa.q_payload_t TO w3ci;
+GRANT EXECUTE ON sa.q_payload_t TO webcbo;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM released_phone_models FOR sa.released_phone_models;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_cls_group0_cls_factory0 FOR sa.mtm_cls_group0_cls_factory0;

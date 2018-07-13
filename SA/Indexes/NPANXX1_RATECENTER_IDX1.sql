@@ -1,0 +1,1 @@
+CREATE INDEX sa.npanxx1_ratecenter_idx1 ON sa.npanxx2carrierzones(ratecenter,npa,nxx);

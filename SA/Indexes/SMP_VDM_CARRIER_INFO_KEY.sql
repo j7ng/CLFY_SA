@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.smp_vdm_carrier_info_key ON sa.smp_vdm_paging_carrier_info(paging_carrier_id);

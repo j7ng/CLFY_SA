@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_gbkp_set_old;

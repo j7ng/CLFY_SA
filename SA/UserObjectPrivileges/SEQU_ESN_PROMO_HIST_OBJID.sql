@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_esn_promo_hist_objid TO PUBLIC;

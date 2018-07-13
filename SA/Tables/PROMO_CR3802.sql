@@ -1,0 +1,6 @@
+CREATE TABLE sa.promo_cr3802 (
+  esn VARCHAR2(30 BYTE),
+  email VARCHAR2(100 BYTE),
+  status VARCHAR2(20 BYTE)
+);
+ALTER TABLE sa.promo_cr3802 ADD SUPPLEMENTAL LOG GROUP dmtsora2117110927_0 (email, esn, status) ALWAYS;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_keywd_elm2query ON sa.table_keywd_elm(keywd_elm2query);

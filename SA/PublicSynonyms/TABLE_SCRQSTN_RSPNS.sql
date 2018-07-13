@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_scrqstn_rspns FOR sa.table_scrqstn_rspns;

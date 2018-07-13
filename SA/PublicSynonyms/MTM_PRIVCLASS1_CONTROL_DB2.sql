@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_privclass1_control_db2 FOR sa.mtm_privclass1_control_db2;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ndx_x_mg_transactions_esn ON sa.x_mg_transactions(x_esn);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_score_card_inv_bin_ndx3 ON sa.x_score_card_inv_bin3(part_serial_no);

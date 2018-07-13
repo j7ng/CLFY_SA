@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_rej_reason2probdesc ON sa.table_reject_msg(rej_reason2probdesc);

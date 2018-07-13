@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_v_e_order FOR sa.table_v_e_order;

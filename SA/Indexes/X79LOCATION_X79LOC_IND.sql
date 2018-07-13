@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79location_x79loc_ind ON sa.table_x79location(server_id,premises_name);

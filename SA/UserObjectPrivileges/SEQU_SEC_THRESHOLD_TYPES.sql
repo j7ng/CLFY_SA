@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_sec_threshold_types TO PUBLIC;

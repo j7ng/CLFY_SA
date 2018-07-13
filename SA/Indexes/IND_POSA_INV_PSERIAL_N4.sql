@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_posa_inv_pserial_n4 ON sa.table_x_posa_card_inv(x_part_serial_no,x_domain);

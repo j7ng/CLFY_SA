@@ -1,0 +1,1 @@
+GRANT EXECUTE ON toppapp.case_note TO sa;

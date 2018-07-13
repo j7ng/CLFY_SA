@@ -1,0 +1,1 @@
+CREATE INDEX sa.p2bo0052 ON sa.table_site(primary2bus_org);

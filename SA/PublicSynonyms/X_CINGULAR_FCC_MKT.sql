@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_cingular_fcc_mkt FOR sa.x_cingular_fcc_mkt;

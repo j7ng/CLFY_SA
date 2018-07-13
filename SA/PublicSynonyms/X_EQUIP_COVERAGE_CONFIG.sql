@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_equip_coverage_config FOR sa.x_equip_coverage_config;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rtc_event FOR sa.rtc_event;

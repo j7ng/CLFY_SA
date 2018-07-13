@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ll_plans FOR sa.ll_plans;

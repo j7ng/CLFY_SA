@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_user_referrers FOR sa.x_user_referrers;

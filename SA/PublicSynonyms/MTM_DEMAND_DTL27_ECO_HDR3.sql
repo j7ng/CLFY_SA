@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_demand_dtl27_eco_hdr3 FOR sa.mtm_demand_dtl27_eco_hdr3;

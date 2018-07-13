@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_btn_action FOR sa.table_btn_action;

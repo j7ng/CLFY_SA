@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_sub_enroll_peobjid ON sa.x_subscriber_enrollments(pgm_enrolled_objid);

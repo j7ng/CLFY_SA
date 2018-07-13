@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM task_type FOR sa.task_type;

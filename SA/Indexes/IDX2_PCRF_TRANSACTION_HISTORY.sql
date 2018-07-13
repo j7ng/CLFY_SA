@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_pcrf_transaction_history ON sa.x_pcrf_transaction_history(esn);

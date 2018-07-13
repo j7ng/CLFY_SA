@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_bhn_meid_prefix TO dbit_mtoribiolopez;

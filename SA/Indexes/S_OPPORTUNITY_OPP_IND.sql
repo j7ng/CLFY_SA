@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.s_opportunity_opp_ind ON sa.table_opportunity(s_id);

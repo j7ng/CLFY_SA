@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.svc_type_i9764 ON sa.table_svc_type(title);

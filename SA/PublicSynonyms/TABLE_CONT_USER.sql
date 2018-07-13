@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_cont_user FOR sa.table_cont_user;

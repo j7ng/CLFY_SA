@@ -1,0 +1,11 @@
+GRANT EXECUTE ON sa.sprqconsumer TO cbo;
+GRANT EXECUTE ON sa.sprqconsumer TO clarify_administrator;
+GRANT EXECUTE ON sa.sprqconsumer TO clarify_user;
+GRANT EXECUTE ON sa.sprqconsumer TO csrcbo;
+GRANT EXECUTE ON sa.sprqconsumer TO gw1;
+GRANT EXECUTE ON sa.sprqconsumer TO igate_batch;
+GRANT EXECUTE ON sa.sprqconsumer TO itds_user;
+GRANT EXECUTE ON sa.sprqconsumer TO role_sa_update;
+GRANT EXECUTE ON sa.sprqconsumer TO soacbo;
+GRANT EXECUTE ON sa.sprqconsumer TO w3ci;
+GRANT EXECUTE ON sa.sprqconsumer TO webcbo;

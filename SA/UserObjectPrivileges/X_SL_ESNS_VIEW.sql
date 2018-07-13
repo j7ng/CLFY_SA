@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_sl_esns_view TO dbit_mtoribiolopez;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.addr_ba_role_i5700 ON sa.table_addr_ba_role(role_name,address_role2address,blg_argmnt_role2blg_argmnt);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.tbl_def_i9765 ON sa.table_tbl_def("NAME");

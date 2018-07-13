@@ -1,0 +1,13 @@
+GRANT EXECUTE ON sa.func_returnsim_partnos TO cbo;
+GRANT EXECUTE ON sa.func_returnsim_partnos TO clarify_administrator;
+GRANT EXECUTE ON sa.func_returnsim_partnos TO clarify_user;
+GRANT EXECUTE ON sa.func_returnsim_partnos TO csrcbo;
+GRANT EXECUTE ON sa.func_returnsim_partnos TO gw1;
+GRANT EXECUTE ON sa.func_returnsim_partnos TO igate_batch;
+GRANT EXECUTE ON sa.func_returnsim_partnos TO role_report_select;
+GRANT EXECUTE ON sa.func_returnsim_partnos TO role_sa_select;
+GRANT EXECUTE ON sa.func_returnsim_partnos TO role_sa_update;
+GRANT EXECUTE ON sa.func_returnsim_partnos TO role_tf_select;
+GRANT EXECUTE ON sa.func_returnsim_partnos TO soacbo;
+GRANT EXECUTE ON sa.func_returnsim_partnos TO w3ci;
+GRANT EXECUTE ON sa.func_returnsim_partnos TO webcbo;

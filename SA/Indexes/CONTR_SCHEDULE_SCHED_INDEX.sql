@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.contr_schedule_sched_index ON sa.table_contr_schedule(schedule_id,schedule2contract);

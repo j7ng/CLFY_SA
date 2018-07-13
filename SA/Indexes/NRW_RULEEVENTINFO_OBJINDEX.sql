@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.nrw_ruleeventinfo_objindex ON sa.table_nrw_ruleeventinfo(objid);

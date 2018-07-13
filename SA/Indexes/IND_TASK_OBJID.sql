@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_task_objid ON sa.table_task(objid);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_part_inst_pserial_u11 ON sa.table_part_inst(part_serial_no,x_domain);

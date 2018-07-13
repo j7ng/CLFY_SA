@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_class_exch_options_objindex ON sa.table_x_class_exch_options(objid);

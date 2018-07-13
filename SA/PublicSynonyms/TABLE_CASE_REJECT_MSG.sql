@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_case_reject_msg FOR sa.table_case_reject_msg;

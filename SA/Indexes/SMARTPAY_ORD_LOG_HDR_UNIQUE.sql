@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.smartpay_ord_log_hdr_unique ON sa.smartpay_order_log_hdr(objid);

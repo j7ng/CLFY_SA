@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_cyc_cyc_role TO PUBLIC;

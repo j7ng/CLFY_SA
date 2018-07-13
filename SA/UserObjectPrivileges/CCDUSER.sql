@@ -1,0 +1,11 @@
+GRANT ALTER ON tdi.ccduser TO sa;
+GRANT DEBUG ON tdi.ccduser TO sa;
+GRANT DELETE ON tdi.ccduser TO sa;
+GRANT FLASHBACK ON tdi.ccduser TO sa;
+GRANT INDEX ON tdi.ccduser TO sa;
+GRANT INSERT ON tdi.ccduser TO sa;
+GRANT ON COMMIT REFRESH ON tdi.ccduser TO sa;
+GRANT QUERY REWRITE ON tdi.ccduser TO sa;
+GRANT REFERENCES ON tdi.ccduser TO sa;
+GRANT SELECT ON tdi.ccduser TO sa;
+GRANT UPDATE ON tdi.ccduser TO sa;

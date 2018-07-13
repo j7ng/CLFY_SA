@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_sim_inv_old TO PUBLIC;

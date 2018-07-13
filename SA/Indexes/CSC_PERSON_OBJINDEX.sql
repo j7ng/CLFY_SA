@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.csc_person_objindex ON sa.table_csc_person(objid);

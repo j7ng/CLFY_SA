@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_metrx_fail_enrl TO PUBLIC;

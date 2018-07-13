@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_add_on_runtime_promo FOR sa.table_x_add_on_runtime_promo;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_xsu_hmo_response_hmo ON sa.xsu_hmo_response(x_hmo,x_account);

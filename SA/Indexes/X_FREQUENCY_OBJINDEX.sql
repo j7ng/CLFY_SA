@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_frequency_objindex ON sa.table_x_frequency(objid);

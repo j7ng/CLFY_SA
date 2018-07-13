@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.stage_task_objindex ON sa.table_stage_task(objid);

@@ -1,0 +1,9 @@
+GRANT SELECT ON sa.x_x3xmn_offer TO cbo;
+GRANT SELECT ON sa.x_x3xmn_offer TO corecbo;
+GRANT SELECT ON sa.x_x3xmn_offer TO csrcbo;
+GRANT SELECT ON sa.x_x3xmn_offer TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_x3xmn_offer TO gw1;
+GRANT SELECT ON sa.x_x3xmn_offer TO itds_user;
+GRANT SELECT ON sa.x_x3xmn_offer TO role_sa_select;
+GRANT SELECT ON sa.x_x3xmn_offer TO soacbo;
+GRANT SELECT ON sa.x_x3xmn_offer TO webcbo;

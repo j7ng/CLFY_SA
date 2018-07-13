@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.bus_addr_role_objindex ON sa.table_bus_addr_role(objid);

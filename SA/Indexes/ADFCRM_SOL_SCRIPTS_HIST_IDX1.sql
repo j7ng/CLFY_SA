@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_sol_scripts_hist_idx1 ON sa.adfcrm_solution_scripts_hist(changed_date,ss_id,change_type);

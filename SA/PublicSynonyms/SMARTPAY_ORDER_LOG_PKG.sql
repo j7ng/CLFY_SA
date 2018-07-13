@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM smartpay_order_log_pkg FOR sa.smartpay_order_log_pkg;

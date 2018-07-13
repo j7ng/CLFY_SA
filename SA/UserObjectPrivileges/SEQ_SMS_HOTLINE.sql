@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_sms_hotline TO PUBLIC;

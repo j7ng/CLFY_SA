@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_pageplus_addon_benefit ON sa.x_pageplus_addon_benefit(pcrf_esn);

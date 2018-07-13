@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_queued_cbo_service_1 ON sa.table_queued_cbo_service(creation_date,status,delay_in_seconds);

@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.billing_rule_version_no;

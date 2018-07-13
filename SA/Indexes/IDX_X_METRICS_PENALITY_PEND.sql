@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_metrics_penality_pend ON sa.x_metrics_penality_pend(objid);

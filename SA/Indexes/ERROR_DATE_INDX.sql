@@ -1,0 +1,1 @@
+CREATE INDEX sa.error_date_indx ON sa.error_table_121508(error_date);

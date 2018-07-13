@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_x_policy_rule_dealer FOR sa.sequ_x_policy_rule_dealer;

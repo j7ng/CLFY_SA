@@ -1,0 +1,10 @@
+GRANT EXECUTE ON sa.p_get_sim_details TO cbo;
+GRANT EXECUTE ON sa.p_get_sim_details TO clarify_administrator;
+GRANT EXECUTE ON sa.p_get_sim_details TO clarify_user;
+GRANT EXECUTE ON sa.p_get_sim_details TO csrcbo;
+GRANT EXECUTE ON sa.p_get_sim_details TO gw1;
+GRANT EXECUTE ON sa.p_get_sim_details TO igate_batch;
+GRANT EXECUTE ON sa.p_get_sim_details TO role_sa_update;
+GRANT EXECUTE ON sa.p_get_sim_details TO soacbo;
+GRANT EXECUTE ON sa.p_get_sim_details TO w3ci;
+GRANT EXECUTE ON sa.p_get_sim_details TO webcbo;

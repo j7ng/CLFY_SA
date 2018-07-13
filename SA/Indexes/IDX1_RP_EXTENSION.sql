@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_rp_extension ON sa.x_rp_extension(line_status_code,throttle_status_code,ancillary_code);

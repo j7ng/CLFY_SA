@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_mtm_soltask_hist_idx1 ON sa.adfcrm_mtm_soltask_flows_hist(changed_date,solution_id,case_conf_hdr_id,task_id,change_type);

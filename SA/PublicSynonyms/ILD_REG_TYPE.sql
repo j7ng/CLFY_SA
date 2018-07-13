@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ild_reg_type FOR sa.ild_reg_type;

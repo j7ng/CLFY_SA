@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.cmcn_email_cmcn_email_ind ON sa.table_cmcn_email(cmcn_email2communication);

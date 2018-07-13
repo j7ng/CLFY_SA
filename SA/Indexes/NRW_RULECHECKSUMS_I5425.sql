@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.nrw_rulechecksums_i5425 ON sa.table_nrw_rulechecksums(n_eventname,nrw_chk2nrw_ruleinstances);

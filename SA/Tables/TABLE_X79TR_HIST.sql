@@ -1,0 +1,25 @@
+CREATE TABLE sa.table_x79tr_hist (
+  objid NUMBER,
+  dev NUMBER,
+  event_time VARCHAR2(30 BYTE),
+  mgd_obj_inst VARCHAR2(64 BYTE),
+  s_mgd_obj_inst VARCHAR2(64 BYTE),
+  received_time VARCHAR2(30 BYTE),
+  tr_found NUMBER,
+  activity_dur NUMBER,
+  cancel_by_mgr NUMBER,
+  closeout_narr VARCHAR2(255 BYTE),
+  s_closeout_narr VARCHAR2(255 BYTE),
+  closeout_vfy NUMBER,
+  commitment NUMBER,
+  commit_time VARCHAR2(30 BYTE),
+  cust_tr_num VARCHAR2(64 BYTE),
+  s_cust_tr_num VARCHAR2(64 BYTE),
+  restored_time VARCHAR2(30 BYTE),
+  tr_type NUMBER,
+  perceived_sev NUMBER,
+  addl_trouble LONG,
+  server_id NUMBER,
+  cleared2x79person NUMBER
+);
+ALTER TABLE sa.table_x79tr_hist ADD SUPPLEMENTAL LOG GROUP dmtsora990723295_0 (activity_dur, cancel_by_mgr, cleared2x79person, closeout_narr, closeout_vfy, commitment, commit_time, cust_tr_num, dev, event_time, mgd_obj_inst, objid, perceived_sev, received_time, restored_time, server_id, s_closeout_narr, s_cust_tr_num, s_mgd_obj_inst, tr_found, tr_type) ALWAYS;

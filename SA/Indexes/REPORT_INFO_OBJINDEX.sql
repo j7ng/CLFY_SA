@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.report_info_objindex ON sa.table_report_info(objid);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_contact_add_info_objindex ON sa.table_x_contact_add_info(objid);

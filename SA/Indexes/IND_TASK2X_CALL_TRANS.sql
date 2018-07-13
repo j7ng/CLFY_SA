@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_task2x_call_trans ON sa.table_task(x_task2x_call_trans);

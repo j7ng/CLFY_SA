@@ -1,0 +1,1 @@
+CREATE INDEX sa.table_x_case_extra_info_n1 ON sa.table_x_case_extra_info(x_extra_info2x_case);

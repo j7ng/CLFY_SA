@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_mtm_catalog_benefit_earning FOR sa.x_mtm_catalog_benefit_earning;

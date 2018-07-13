@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sp_messagebroker FOR sa.sp_messagebroker;

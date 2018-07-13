@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_rtr_trans_header ON sa.x_rtr_trans_header(insert_timestamp);

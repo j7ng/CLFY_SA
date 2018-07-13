@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sys.custom_set_date_col_stats TO sa;

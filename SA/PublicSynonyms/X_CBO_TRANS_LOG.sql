@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_cbo_trans_log FOR sa.x_cbo_trans_log;

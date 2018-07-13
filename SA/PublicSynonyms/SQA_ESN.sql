@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sqa_esn FOR sa.sqa_esn;

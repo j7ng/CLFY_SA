@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.loc_inq_objindex ON sa.table_loc_inq(objid);

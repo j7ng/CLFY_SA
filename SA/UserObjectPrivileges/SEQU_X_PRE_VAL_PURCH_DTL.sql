@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_pre_val_purch_dtl TO PUBLIC;

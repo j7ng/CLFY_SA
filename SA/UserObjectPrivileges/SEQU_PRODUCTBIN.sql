@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_productbin TO PUBLIC;

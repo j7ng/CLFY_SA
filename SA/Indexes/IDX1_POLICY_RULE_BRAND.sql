@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_policy_rule_brand ON sa.x_policy_rule_brand(bus_org_objid,inactive_flag,policy_rule_config_objid);

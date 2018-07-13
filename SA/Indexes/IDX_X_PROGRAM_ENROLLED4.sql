@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_program_enrolled4 ON sa.x_program_enrolled(pgm_enroll2web_user);

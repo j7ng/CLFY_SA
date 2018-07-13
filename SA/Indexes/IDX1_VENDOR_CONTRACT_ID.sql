@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_vendor_contract_id ON sa.x_vas_subscriptions(vendor_contract_id);

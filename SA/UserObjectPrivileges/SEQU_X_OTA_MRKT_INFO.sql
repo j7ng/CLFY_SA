@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_ota_mrkt_info TO PUBLIC;

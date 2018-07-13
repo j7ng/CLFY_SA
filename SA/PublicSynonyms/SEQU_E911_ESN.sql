@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_e911_esn FOR sa.sequ_e911_esn;

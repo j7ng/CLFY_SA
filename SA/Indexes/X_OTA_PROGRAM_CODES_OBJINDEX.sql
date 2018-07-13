@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_ota_program_codes_objindex ON sa.table_x_ota_program_codes(objid);

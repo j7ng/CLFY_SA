@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_addrsitepmhpml FOR sa.table_addrsitepmhpml;

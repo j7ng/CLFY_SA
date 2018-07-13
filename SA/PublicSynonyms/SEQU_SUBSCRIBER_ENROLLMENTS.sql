@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_subscriber_enrollments FOR sa.sequ_subscriber_enrollments;

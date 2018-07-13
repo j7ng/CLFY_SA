@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.s_x79mo_inst_x79mobj_ind ON sa.table_x79mo_inst(server_id,s_instance_id);

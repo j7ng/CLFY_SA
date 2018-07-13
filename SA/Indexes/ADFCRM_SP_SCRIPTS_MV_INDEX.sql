@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_sp_scripts_mv_index ON sa.adfcrm_service_plan_scripts_mv(objid,x_language);

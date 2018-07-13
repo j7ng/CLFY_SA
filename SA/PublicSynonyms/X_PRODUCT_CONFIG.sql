@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_product_config FOR sa.x_product_config;

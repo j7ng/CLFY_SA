@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_msg_text TO PUBLIC;

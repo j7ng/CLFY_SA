@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_promo_text_objindex ON sa.table_x_promo_text(objid);

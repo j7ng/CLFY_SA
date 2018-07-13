@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_clarify_codes FOR sa.x_clarify_codes;

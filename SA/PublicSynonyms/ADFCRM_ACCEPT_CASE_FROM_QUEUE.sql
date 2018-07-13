@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_accept_case_from_queue FOR sa.adfcrm_accept_case_from_queue;

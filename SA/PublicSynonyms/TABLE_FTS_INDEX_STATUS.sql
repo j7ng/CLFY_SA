@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_fts_index_status FOR sa.table_fts_index_status;

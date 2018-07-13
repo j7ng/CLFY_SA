@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_subscriber_spr_detail FOR sa.x_subscriber_spr_detail;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_exch_message2case_conf FOR sa.adfcrm_exch_message2case_conf;

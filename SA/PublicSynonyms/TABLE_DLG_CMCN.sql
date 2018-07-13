@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_dlg_cmcn FOR sa.table_dlg_cmcn;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_interact_txt_old TO PUBLIC;

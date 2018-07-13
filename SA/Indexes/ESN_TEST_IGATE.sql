@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.esn_test_igate ON sa.test_igate_esn(esn);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.table_x_vas_loginindex ON sa.table_x_vas_login(x_parent_id);

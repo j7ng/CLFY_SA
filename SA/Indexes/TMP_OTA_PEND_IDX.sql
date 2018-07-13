@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.tmp_ota_pend_idx ON sa.ota_pending_030507(esn);

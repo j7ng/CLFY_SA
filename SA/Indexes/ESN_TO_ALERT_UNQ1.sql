@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.esn_to_alert_unq1 ON sa.esn_to_alert(x_esn,alert_objid);

@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.road_ftp_prc TO role_sa_update;

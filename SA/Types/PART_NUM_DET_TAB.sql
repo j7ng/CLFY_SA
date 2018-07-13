@@ -1,0 +1,2 @@
+CREATE OR REPLACE TYPE sa."PART_NUM_DET_TAB" AS TABLE OF part_num_det_ty;
+/

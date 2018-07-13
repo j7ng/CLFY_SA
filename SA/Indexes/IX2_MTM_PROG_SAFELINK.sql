@@ -1,0 +1,1 @@
+CREATE INDEX sa.ix2_mtm_prog_safelink ON sa.mtm_program_safelink(part_num_objid);

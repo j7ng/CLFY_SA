@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.prop_name_prop_index ON sa.table_prop_name(obj_type,prop_name);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.ja_dups2_5_15_08 TO dbit_mtoribiolopez;

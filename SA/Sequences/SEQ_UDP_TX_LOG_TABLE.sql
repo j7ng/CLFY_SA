@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.seq_udp_tx_log_table;

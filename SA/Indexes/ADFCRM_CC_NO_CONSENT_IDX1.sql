@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_cc_no_consent_idx1 ON sa.adfcrm_cc_no_consent(cc_objid,web_user_objid);

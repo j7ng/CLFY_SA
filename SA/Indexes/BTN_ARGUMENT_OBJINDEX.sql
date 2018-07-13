@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.btn_argument_objindex ON sa.table_btn_argument(objid);

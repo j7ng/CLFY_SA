@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.xfilterset_objindex ON sa.table_xfilterset(objid);

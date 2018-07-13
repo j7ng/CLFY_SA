@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.seq_vas_subscription_id;

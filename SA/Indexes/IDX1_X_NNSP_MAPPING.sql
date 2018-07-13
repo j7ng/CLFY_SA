@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_x_nnsp_mapping ON sa.x_nnsp_mapping("ID");

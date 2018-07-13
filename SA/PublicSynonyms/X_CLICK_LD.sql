@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_click_ld FOR sa.x_click_ld;

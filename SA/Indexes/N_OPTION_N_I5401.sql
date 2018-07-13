@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_option_n_i5401 ON sa.table_n_option(n_option2mod_level);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.filterset_filter_name_ind ON sa.table_filterset(filterset2user,"TYPE",id1,id2,title);

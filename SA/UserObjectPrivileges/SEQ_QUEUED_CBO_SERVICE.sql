@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_queued_cbo_service TO PUBLIC;

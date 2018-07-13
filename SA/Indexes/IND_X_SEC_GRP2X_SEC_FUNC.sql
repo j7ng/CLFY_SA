@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_x_sec_grp2x_sec_func ON sa.mtm_x_sec_grp2_x_sec_func0(x_sec_grp2x_sec_func);

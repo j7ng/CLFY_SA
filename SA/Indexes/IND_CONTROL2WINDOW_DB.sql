@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_control2window_db ON sa.table_control_db(control2window_db);

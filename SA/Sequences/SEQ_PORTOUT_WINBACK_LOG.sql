@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.seq_portout_winback_log;

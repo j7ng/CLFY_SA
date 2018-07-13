@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_b2b_vo FOR sa.adfcrm_b2b_vo;

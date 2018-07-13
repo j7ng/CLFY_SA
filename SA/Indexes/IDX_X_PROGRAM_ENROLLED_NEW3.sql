@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_program_enrolled_new3 ON sa.x_program_enrolled(x_next_charge_date,x_next_delivery_date);

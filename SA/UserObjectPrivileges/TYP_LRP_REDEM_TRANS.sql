@@ -1,0 +1,12 @@
+GRANT EXECUTE ON sa.typ_lrp_redem_trans TO cbo;
+GRANT EXECUTE ON sa.typ_lrp_redem_trans TO clarify_administrator;
+GRANT EXECUTE ON sa.typ_lrp_redem_trans TO clarify_user;
+GRANT EXECUTE ON sa.typ_lrp_redem_trans TO corecbo;
+GRANT EXECUTE ON sa.typ_lrp_redem_trans TO csrcbo;
+GRANT EXECUTE ON sa.typ_lrp_redem_trans TO gw1;
+GRANT EXECUTE ON sa.typ_lrp_redem_trans TO igate_batch;
+GRANT EXECUTE ON sa.typ_lrp_redem_trans TO itds_user;
+GRANT EXECUTE ON sa.typ_lrp_redem_trans TO role_sa_update;
+GRANT EXECUTE ON sa.typ_lrp_redem_trans TO soacbo;
+GRANT EXECUTE ON sa.typ_lrp_redem_trans TO w3ci;
+GRANT EXECUTE ON sa.typ_lrp_redem_trans TO webcbo;

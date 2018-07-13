@@ -1,0 +1,18 @@
+CREATE OR REPLACE trigger sa.TRIG_MTM_RATE_PLAN_FEAT_OBJID
+before insert on sa.MTM_CARRIER_RATE_PLAN_FEATURE FOR EACH ROW
+DECLARE
+
+begin
+
+
+
+IF :new.OBJID IS NULL THEN
+     SELECT sa.SEQU_CARR_MTM_RATE_PLAN_FEAT.NEXTVAL
+       INTO :new.objid
+       FROM dual;
+END IF;
+
+
+
+END;
+/

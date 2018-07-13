@@ -1,0 +1,1 @@
+CREATE INDEX sa.os2c5000 ON sa.table_opportunity(opp_state2condition,opp_sts2gbst_elm);

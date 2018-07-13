@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_s_task_id ON sa.table_task(s_task_id);

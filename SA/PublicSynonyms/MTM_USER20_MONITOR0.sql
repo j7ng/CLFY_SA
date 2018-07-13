@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_user20_monitor0 FOR sa.mtm_user20_monitor0;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_fts_index_status TO PUBLIC;

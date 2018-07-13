@@ -1,0 +1,17 @@
+GRANT EXECUTE ON sa.luhn TO cbo;
+GRANT EXECUTE ON sa.luhn TO clarify_administrator;
+GRANT EXECUTE ON sa.luhn TO clarify_user;
+GRANT EXECUTE ON sa.luhn TO corecbo;
+GRANT EXECUTE ON sa.luhn TO csrcbo;
+GRANT EXECUTE ON sa.luhn TO gw1;
+GRANT EXECUTE ON sa.luhn TO igate_batch;
+GRANT EXECUTE ON sa.luhn TO PUBLIC;
+GRANT EXECUTE ON sa.luhn TO report;
+GRANT EXECUTE ON sa.luhn TO role_carrier_ops;
+GRANT EXECUTE ON sa.luhn TO role_report_select;
+GRANT EXECUTE ON sa.luhn TO role_sa_select;
+GRANT EXECUTE ON sa.luhn TO role_sa_update;
+GRANT EXECUTE ON sa.luhn TO role_tf_select;
+GRANT EXECUTE ON sa.luhn TO rrp;
+GRANT EXECUTE ON sa.luhn TO soacbo;
+GRANT EXECUTE ON sa.luhn TO w3ci;

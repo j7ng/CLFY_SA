@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_r7_inv_v ON sa.tf_of_r7_inv_v(tf_serial_number);

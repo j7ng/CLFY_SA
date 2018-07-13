@@ -1,0 +1,11 @@
+GRANT DELETE ON sa.x_access_token TO clarify_user;
+GRANT INSERT ON sa.x_access_token TO clarify_user;
+GRANT INSERT ON sa.x_access_token TO role_sa_update;
+GRANT SELECT ON sa.x_access_token TO clarify_user;
+GRANT SELECT ON sa.x_access_token TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_access_token TO role_sa_select;
+GRANT SELECT ON sa.x_access_token TO role_sa_update;
+GRANT SELECT ON sa.x_access_token TO role_tf_select;
+GRANT SELECT ON sa.x_access_token TO select_role;
+GRANT UPDATE ON sa.x_access_token TO clarify_user;
+GRANT UPDATE ON sa.x_access_token TO role_sa_update;

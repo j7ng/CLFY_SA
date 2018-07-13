@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_promotion_relation_objid ON sa.x_promotion_relation(objid);

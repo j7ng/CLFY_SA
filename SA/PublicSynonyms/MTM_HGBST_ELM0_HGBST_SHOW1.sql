@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_hgbst_elm0_hgbst_show1 FOR sa.mtm_hgbst_elm0_hgbst_show1;

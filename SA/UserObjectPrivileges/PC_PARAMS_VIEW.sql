@@ -1,0 +1,13 @@
+GRANT SELECT ON sa.pc_params_view TO cbo;
+GRANT SELECT ON sa.pc_params_view TO corecbo;
+GRANT SELECT ON sa.pc_params_view TO crm;
+GRANT SELECT ON sa.pc_params_view TO csrcbo;
+GRANT SELECT ON sa.pc_params_view TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.pc_params_view TO dbsqa_cfabre;
+GRANT SELECT ON sa.pc_params_view TO dbsqa_luhernandez;
+GRANT SELECT ON sa.pc_params_view TO dbsqa_sphillip;
+GRANT SELECT ON sa.pc_params_view TO role_tf_select;
+GRANT SELECT ON sa.pc_params_view TO script_manager;
+GRANT SELECT ON sa.pc_params_view TO select_role;
+GRANT SELECT ON sa.pc_params_view TO soacbo;
+GRANT SELECT ON sa.pc_params_view TO webcbo;

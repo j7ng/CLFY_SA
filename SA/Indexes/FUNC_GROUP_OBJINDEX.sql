@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.func_group_objindex ON sa.table_func_group(objid);

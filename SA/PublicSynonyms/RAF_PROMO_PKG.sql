@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM raf_promo_pkg FOR sa.raf_promo_pkg;

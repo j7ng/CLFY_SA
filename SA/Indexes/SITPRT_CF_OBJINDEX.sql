@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.sitprt_cf_objindex ON sa.table_sitprt_cf(objid);

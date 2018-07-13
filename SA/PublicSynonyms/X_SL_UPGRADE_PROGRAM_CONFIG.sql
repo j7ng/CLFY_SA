@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_sl_upgrade_program_config FOR sa.x_sl_upgrade_program_config;

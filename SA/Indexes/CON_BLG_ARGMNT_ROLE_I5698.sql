@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.con_blg_argmnt_role_i5698 ON sa.table_con_blg_argmnt_role(role_name,con_role2contact,ba_role2blg_argmnt);

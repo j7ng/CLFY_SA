@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adp_sch_index FOR sa.adp_sch_index;

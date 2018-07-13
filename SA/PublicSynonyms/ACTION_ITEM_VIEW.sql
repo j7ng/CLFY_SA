@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM action_item_view FOR sa.action_item_view;

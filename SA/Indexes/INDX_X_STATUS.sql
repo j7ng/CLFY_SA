@@ -1,0 +1,1 @@
+CREATE INDEX sa.indx_x_status ON sa.table_x_credit_card(x_card_status);

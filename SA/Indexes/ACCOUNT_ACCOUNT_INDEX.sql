@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.account_account_index ON sa.table_account(account_id);

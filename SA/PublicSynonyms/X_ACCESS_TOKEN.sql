@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_access_token FOR sa.x_access_token;

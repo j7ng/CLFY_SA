@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_status_chg FOR sa.table_status_chg;

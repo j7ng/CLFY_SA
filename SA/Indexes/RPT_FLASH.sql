@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.rpt_flash ON sa.rpt_flash(dealer_id);

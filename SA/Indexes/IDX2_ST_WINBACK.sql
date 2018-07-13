@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_st_winback ON sa.st_winback(esn,inactive_flag);

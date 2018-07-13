@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_attributedefinition_i5470 ON sa.table_n_attributedefinition(n_name,n_focusobject);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_serv_plan_class_matview FOR sa.adfcrm_serv_plan_class_matview;

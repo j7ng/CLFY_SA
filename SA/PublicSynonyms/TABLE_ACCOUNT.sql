@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_account FOR sa.table_account;

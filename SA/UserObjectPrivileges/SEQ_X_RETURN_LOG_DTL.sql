@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_return_log_dtl TO PUBLIC;

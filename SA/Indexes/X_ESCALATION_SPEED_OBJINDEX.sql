@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_escalation_speed_objindex ON sa.table_x_escalation_speed(objid);

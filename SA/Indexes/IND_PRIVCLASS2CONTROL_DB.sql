@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_privclass2control_db ON sa.mtm_privclass1_control_db2(privclass2control_db);

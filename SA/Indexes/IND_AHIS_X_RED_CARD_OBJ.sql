@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_ahis_x_red_card_obj ON sa.tstahis_table_x_red_card(x_red_card_hist2x_red_card);

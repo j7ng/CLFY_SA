@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.deact_reason_config_seq;

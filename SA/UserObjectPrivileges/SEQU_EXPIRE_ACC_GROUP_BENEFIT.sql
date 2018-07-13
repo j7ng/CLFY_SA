@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_expire_acc_group_benefit TO PUBLIC;

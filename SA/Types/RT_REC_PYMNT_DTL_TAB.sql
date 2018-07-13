@@ -1,0 +1,2 @@
+CREATE OR REPLACE TYPE sa."RT_REC_PYMNT_DTL_TAB" IS TABLE OF rt_rec_pymnt_dtl_type;
+/

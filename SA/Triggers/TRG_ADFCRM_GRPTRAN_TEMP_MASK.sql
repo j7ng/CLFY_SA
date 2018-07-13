@@ -1,0 +1,8 @@
+CREATE OR REPLACE TRIGGER sa.TRG_ADFCRM_GRPTRAN_TEMP_MASK
+before insert or update
+on sa.ADFCRM_GROUP_TRANSACTION_TEMP
+for each row
+BEGIN
+     :new.PORT_LAST_4_SSN  := null;
+END;
+/

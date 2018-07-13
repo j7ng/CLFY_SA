@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tf_notification_event FOR sa.tf_notification_event;

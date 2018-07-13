@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx8_pcrf_transaction ON sa.x_pcrf_transaction(esn,"MIN",order_type,pcrf_status_code,pcrf_cos,ttl,future_ttl,redemption_date,rate_plan);

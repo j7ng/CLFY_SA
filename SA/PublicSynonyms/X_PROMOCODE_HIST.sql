@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_promocode_hist FOR sa.x_promocode_hist;

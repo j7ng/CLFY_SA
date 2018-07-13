@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM verify_replacement_esn FOR sa.verify_replacement_esn;

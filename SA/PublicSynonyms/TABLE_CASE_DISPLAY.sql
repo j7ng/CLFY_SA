@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_case_display FOR sa.table_case_display;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_pci_migrate TO PUBLIC;

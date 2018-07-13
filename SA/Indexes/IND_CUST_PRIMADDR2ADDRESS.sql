@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_cust_primaddr2address ON sa.table_site(cust_primaddr2address);

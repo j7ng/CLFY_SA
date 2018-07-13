@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_affiliated_partner TO PUBLIC;

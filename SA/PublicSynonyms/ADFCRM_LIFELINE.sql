@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_lifeline FOR sa.adfcrm_lifeline;

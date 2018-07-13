@@ -1,0 +1,23 @@
+CREATE TABLE sa.smob_extra_data3 (
+  sim_serial_no VARCHAR2(30 BYTE),
+  esn VARCHAR2(30 BYTE),
+  hex_esn VARCHAR2(30 BYTE),
+  phone_num VARCHAR2(30 BYTE),
+  first_name VARCHAR2(80 BYTE),
+  last_name VARCHAR2(80 BYTE),
+  email VARCHAR2(300 BYTE),
+  zip VARCHAR2(30 BYTE),
+  due_date DATE,
+  service_plan VARCHAR2(80 BYTE),
+  retailer_id VARCHAR2(30 BYTE),
+  install_date DATE,
+  status VARCHAR2(30 BYTE),
+  extra_days NUMBER,
+  cust_id VARCHAR2(30 BYTE),
+  x_reason VARCHAR2(500 BYTE),
+  conversion_error VARCHAR2(200 BYTE),
+  conversion_status VARCHAR2(1 BYTE),
+  pass_word VARCHAR2(200 BYTE),
+  sub_part NUMBER(22),
+  user_name VARCHAR2(200 BYTE)
+);

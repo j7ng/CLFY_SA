@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_escalation FOR sa.table_escalation;

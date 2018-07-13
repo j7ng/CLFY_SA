@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_rating FOR sa.table_rating;

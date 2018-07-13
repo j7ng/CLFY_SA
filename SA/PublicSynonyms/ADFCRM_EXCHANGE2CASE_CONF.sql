@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_exchange2case_conf FOR sa.adfcrm_exchange2case_conf;

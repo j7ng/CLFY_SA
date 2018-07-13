@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.gl_sum_log_gl_log_index ON sa.table_gl_sum_log("PERIOD");

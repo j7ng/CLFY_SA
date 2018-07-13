@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_model_features_objindex ON sa.table_x_model_features(objid);

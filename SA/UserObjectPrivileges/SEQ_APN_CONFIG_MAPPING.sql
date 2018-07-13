@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_apn_config_mapping TO PUBLIC;

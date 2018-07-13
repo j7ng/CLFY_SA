@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.smp_vdm_sequence_num TO PUBLIC;

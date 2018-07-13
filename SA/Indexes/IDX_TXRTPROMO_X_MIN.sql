@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_txrtpromo_x_min ON sa.table_x_add_on_runtime_promo(x_min);

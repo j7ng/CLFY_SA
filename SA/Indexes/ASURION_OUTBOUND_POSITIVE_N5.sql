@@ -1,0 +1,1 @@
+CREATE INDEX sa.asurion_outbound_positive_n5 ON sa.asurion_outbound_positive(load_date);

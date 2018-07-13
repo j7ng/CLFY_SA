@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_web_log2web_user ON sa.table_web_log(web_log2web_user);

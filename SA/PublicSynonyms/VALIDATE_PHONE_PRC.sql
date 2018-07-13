@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM validate_phone_prc FOR sa.validate_phone_prc;

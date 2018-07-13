@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_purch_hdr2contact ON sa.table_x_purch_hdr(x_purch_hdr2contact);

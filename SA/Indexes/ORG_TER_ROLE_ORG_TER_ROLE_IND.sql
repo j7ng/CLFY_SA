@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.org_ter_role_org_ter_role_ind ON sa.table_org_ter_role(role_name,org_ter_role2territory);

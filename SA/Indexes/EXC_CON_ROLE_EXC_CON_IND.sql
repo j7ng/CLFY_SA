@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.exc_con_role_exc_con_ind ON sa.table_exc_con_role(role_name,exc_con_role2exchange);

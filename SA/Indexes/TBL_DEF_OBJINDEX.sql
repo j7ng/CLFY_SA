@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.tbl_def_objindex ON sa.table_tbl_def(objid);

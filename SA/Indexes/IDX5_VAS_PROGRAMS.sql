@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx5_vas_programs ON sa.vas_programs_mv(vas_category);

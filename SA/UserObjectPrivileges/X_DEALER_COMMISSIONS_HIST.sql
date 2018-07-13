@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_dealer_commissions_hist TO dbit_mtoribiolopez;

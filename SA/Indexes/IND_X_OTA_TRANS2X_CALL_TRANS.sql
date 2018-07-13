@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_x_ota_trans2x_call_trans ON sa.table_x_ota_transaction(x_ota_trans2x_call_trans);

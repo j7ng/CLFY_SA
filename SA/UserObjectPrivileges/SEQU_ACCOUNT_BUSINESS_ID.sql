@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_account_business_id TO PUBLIC;

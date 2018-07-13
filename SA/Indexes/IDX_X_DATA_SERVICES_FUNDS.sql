@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_data_services_funds ON sa.x_data_services_funds(objid);

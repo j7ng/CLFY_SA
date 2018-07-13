@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_phone_toss_posa_date ON sa.x_posa_phone(toss_posa_date);

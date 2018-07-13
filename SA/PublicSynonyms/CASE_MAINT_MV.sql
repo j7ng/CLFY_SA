@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM case_maint_mv FOR sa.cmview;

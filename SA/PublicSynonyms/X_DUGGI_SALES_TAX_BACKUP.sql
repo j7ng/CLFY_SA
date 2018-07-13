@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_duggi_sales_tax_backup FOR sa.x_duggi_sales_tax_backup;

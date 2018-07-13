@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_dist_birth TO PUBLIC;

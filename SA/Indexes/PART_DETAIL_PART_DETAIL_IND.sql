@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.part_detail_part_detail_ind ON sa.table_part_detail(detail_key2site_part);

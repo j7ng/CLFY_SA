@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.rpr_inst_qty_objindex ON sa.table_rpr_inst_qty(objid);

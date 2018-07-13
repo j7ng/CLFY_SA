@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_case_prod2site_parts ON sa.table_case(case_prod2site_part);

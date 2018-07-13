@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.web_agent_login TO dbit_mtoribiolopez;

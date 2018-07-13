@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.dist_obj_objindex ON sa.table_dist_obj(objid);

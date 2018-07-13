@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_settlements_history ON sa.x_settlements_history(objid);

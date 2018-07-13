@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_cust_survey FOR sa.table_x_cust_survey;

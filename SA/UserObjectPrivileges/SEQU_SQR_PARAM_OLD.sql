@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_sqr_param_old TO PUBLIC;

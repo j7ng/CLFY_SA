@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_edr_com_role;

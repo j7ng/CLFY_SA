@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_user47_search_control0 FOR sa.mtm_user47_search_control0;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.service_plan_id_ndx ON sa.x_service_plan_site_part(x_service_plan_id,table_site_part_id);

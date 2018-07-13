@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_gtt_discount_list ON sa.gtt_discount_list(call_trans_objid);

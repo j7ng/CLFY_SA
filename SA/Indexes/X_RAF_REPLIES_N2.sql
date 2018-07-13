@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_raf_replies_n2 ON sa.x_raf_replies(friend_esn);

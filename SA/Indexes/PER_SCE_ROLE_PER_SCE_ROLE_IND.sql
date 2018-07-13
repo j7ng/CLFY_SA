@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.per_sce_role_per_sce_role_ind ON sa.table_per_sce_role(per_role2lead_source,sce_role2person,role_name);

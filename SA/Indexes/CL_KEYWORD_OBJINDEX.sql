@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.cl_keyword_objindex ON sa.table_cl_keyword(objid);

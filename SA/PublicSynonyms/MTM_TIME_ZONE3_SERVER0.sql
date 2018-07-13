@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_time_zone3_server0 FOR sa.mtm_time_zone3_server0;

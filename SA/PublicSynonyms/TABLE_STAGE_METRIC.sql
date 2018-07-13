@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_stage_metric FOR sa.table_stage_metric;

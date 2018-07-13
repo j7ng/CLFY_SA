@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_carrier_switch_coverage FOR sa.adfcrm_carrier_switch_coverage;

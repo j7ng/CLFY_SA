@@ -1,0 +1,10 @@
+GRANT EXECUTE ON sa.block_triple_benefits TO cbo;
+GRANT EXECUTE ON sa.block_triple_benefits TO clarify_administrator;
+GRANT EXECUTE ON sa.block_triple_benefits TO clarify_user;
+GRANT EXECUTE ON sa.block_triple_benefits TO corecbo;
+GRANT EXECUTE ON sa.block_triple_benefits TO csrcbo;
+GRANT EXECUTE ON sa.block_triple_benefits TO gw1;
+GRANT EXECUTE ON sa.block_triple_benefits TO itds_user;
+GRANT EXECUTE ON sa.block_triple_benefits TO role_sa_update;
+GRANT EXECUTE ON sa.block_triple_benefits TO soacbo;
+GRANT EXECUTE ON sa.block_triple_benefits TO webcbo;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.demand_hdr_objindex ON sa.table_demand_hdr(objid);

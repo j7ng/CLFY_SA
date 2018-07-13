@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_billing_log_webid ON sa.x_billing_log(billing_log2web_user);

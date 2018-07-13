@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.uscnewcz ON sa.usc_new_cz(zip,old_zone_name);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_mobile_complete_handset FOR sa.sequ_mobile_complete_handset;

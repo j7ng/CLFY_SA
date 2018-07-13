@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_delivergrpbenefits FOR sa.billing_delivergrpbenefits;

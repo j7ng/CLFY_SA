@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM refund_out_rec FOR sa.refund_out_rec;

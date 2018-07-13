@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_auth_stats FOR sa.table_auth_stats;

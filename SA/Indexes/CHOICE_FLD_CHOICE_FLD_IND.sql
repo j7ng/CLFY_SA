@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.choice_fld_choice_fld_ind ON sa.table_choice_fld(rel_name,referring_type);

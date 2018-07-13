@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.utilization1 TO role_sa_update;

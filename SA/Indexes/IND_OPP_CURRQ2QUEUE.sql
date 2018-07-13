@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_opp_currq2queue ON sa.table_opportunity(opp_currq2queue);

@@ -1,0 +1,10 @@
+GRANT EXECUTE ON sa.red_card TO cbo;
+GRANT EXECUTE ON sa.red_card TO clarify_administrator;
+GRANT EXECUTE ON sa.red_card TO clarify_user;
+GRANT EXECUTE ON sa.red_card TO corecbo;
+GRANT EXECUTE ON sa.red_card TO csrcbo;
+GRANT EXECUTE ON sa.red_card TO gw1;
+GRANT EXECUTE ON sa.red_card TO report;
+GRANT EXECUTE ON sa.red_card TO rrp;
+GRANT EXECUTE ON sa.red_card TO soacbo;
+GRANT EXECUTE ON sa.red_card TO webcbo;

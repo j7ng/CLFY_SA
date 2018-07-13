@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_part_class_values FOR sa.table_x_part_class_values;

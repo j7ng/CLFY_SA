@@ -1,0 +1,10 @@
+GRANT SELECT ON sa.migration_flash_key_values TO cbo;
+GRANT SELECT ON sa.migration_flash_key_values TO clarify_administrator;
+GRANT SELECT ON sa.migration_flash_key_values TO clarify_user;
+GRANT SELECT ON sa.migration_flash_key_values TO csrcbo;
+GRANT SELECT ON sa.migration_flash_key_values TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.migration_flash_key_values TO role_sa_select;
+GRANT SELECT ON sa.migration_flash_key_values TO role_sa_update;
+GRANT SELECT ON sa.migration_flash_key_values TO role_tf_select;
+GRANT SELECT ON sa.migration_flash_key_values TO soacbo;
+GRANT SELECT ON sa.migration_flash_key_values TO webcbo;

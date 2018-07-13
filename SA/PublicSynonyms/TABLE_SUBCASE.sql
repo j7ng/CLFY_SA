@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_subcase FOR sa.table_subcase;

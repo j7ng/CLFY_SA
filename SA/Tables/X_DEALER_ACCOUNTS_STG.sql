@@ -1,0 +1,23 @@
+CREATE TABLE sa.x_dealer_accounts_stg (
+  master_agent_id VARCHAR2(50 BYTE),
+  master_agent_name VARCHAR2(50 BYTE),
+  firstname VARCHAR2(50 BYTE),
+  lastname VARCHAR2(50 BYTE),
+  email VARCHAR2(50 BYTE),
+  "ROLE" VARCHAR2(30 BYTE),
+  "TYPE" VARCHAR2(20 BYTE),
+  business_name VARCHAR2(50 BYTE),
+  phone VARCHAR2(30 BYTE),
+  address VARCHAR2(50 BYTE),
+  city VARCHAR2(20 BYTE),
+  "STATE" VARCHAR2(20 BYTE),
+  zip VARCHAR2(20 BYTE),
+  inserted_by VARCHAR2(50 BYTE),
+  inserted_on VARCHAR2(50 BYTE),
+  sd_ticket VARCHAR2(50 BYTE),
+  create_account VARCHAR2(50 BYTE),
+  approval_flag VARCHAR2(3 BYTE),
+  approved_by VARCHAR2(50 BYTE),
+  approved_on DATE,
+  reg_date DATE
+);

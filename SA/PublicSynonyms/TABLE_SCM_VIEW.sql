@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_scm_view FOR sa.table_scm_view;

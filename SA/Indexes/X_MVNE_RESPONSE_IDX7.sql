@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_mvne_response_idx7 ON sa.x_mvne_response(x_insert_date);

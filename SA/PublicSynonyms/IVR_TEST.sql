@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ivr_test FOR sa.ivr_test;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_carrier_err_codes FOR sa.table_x_carrier_err_codes;

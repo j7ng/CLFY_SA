@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.csc_admin_objindex ON sa.table_csc_admin(objid);

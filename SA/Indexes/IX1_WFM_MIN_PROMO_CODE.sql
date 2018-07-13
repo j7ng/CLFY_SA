@@ -1,0 +1,1 @@
+CREATE INDEX sa.ix1_wfm_min_promo_code ON sa.x_wfm_min_promo_code(promo_status);

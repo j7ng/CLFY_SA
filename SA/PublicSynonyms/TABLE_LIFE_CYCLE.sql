@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_life_cycle FOR sa.table_life_cycle;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_posacard_posadate_idx ON sa.x_posa_card(toss_posa_date);

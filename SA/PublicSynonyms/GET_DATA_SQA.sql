@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM get_data_sqa FOR sa.get_data_sqa;

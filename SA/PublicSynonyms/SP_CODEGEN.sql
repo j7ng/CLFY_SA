@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sp_codegen FOR sa.sp_codegen;

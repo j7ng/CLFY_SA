@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_cc_red_inv_rsvd_flagindx ON sa.table_x_cc_red_inv(x_reserved_flag);

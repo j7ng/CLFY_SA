@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_part_inst2inv_bin_n3 ON sa.table_part_inst(part_inst2inv_bin);

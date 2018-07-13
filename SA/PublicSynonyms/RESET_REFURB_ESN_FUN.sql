@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM reset_refurb_esn_fun FOR sa.reset_refurb_esn_fun;

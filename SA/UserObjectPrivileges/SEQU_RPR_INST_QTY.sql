@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_rpr_inst_qty TO PUBLIC;

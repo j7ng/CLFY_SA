@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.csc_org_org_ind ON sa.table_csc_org(server_id,"NAME");

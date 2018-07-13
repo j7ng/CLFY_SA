@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.qualifier_objindex ON sa.table_qualifier(objid);

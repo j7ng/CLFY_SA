@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.tsk_stg_role_objindex ON sa.table_tsk_stg_role(objid);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.proc_fc_data_objindex ON sa.table_proc_fc_data(objid);

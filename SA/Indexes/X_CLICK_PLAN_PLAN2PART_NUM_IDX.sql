@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_click_plan_plan2part_num_idx ON sa.table_x_click_plan(click_plan2part_num);

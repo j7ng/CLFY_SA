@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_qry_bug FOR sa.table_qry_bug;

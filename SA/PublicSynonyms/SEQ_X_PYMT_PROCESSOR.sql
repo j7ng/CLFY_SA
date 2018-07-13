@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM seq_x_pymt_processor FOR sa.seq_x_pymt_processor;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM refund_type FOR sa.refund_type;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_bill_trans_ref_no ON sa.x_biz_purch_hdr(x_bill_trans_ref_no);

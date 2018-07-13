@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_ripbin_old TO PUBLIC;

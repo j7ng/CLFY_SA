@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_sim_load_view FOR sa.table_x_sim_load_view;

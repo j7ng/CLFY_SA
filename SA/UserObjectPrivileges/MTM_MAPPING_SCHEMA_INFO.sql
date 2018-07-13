@@ -1,0 +1,10 @@
+GRANT SELECT ON sa.mtm_mapping_schema_info TO cbo;
+GRANT SELECT ON sa.mtm_mapping_schema_info TO corecbo;
+GRANT SELECT ON sa.mtm_mapping_schema_info TO csrcbo;
+GRANT SELECT ON sa.mtm_mapping_schema_info TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.mtm_mapping_schema_info TO role_sa_select;
+GRANT SELECT ON sa.mtm_mapping_schema_info TO role_sa_update;
+GRANT SELECT ON sa.mtm_mapping_schema_info TO role_tf_select;
+GRANT SELECT ON sa.mtm_mapping_schema_info TO select_role;
+GRANT SELECT ON sa.mtm_mapping_schema_info TO soacbo;
+GRANT SELECT ON sa.mtm_mapping_schema_info TO webcbo;

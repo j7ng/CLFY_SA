@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_privclass4_rpt2 FOR sa.mtm_privclass4_rpt2;

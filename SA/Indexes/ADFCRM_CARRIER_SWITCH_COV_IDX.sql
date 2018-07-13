@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.adfcrm_carrier_switch_cov_idx ON sa.adfcrm_carrier_switch_coverage(source_parent,target_parent);

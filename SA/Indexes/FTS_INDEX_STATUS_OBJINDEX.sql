@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.fts_index_status_objindex ON sa.table_fts_index_status(objid);

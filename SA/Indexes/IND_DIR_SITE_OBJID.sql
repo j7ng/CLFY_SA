@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_dir_site_objid ON sa.table_site_part(dir_site_objid);

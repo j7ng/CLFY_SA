@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.participant_objindex ON sa.table_participant(objid);

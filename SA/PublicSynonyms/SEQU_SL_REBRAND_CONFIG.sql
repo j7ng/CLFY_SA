@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_sl_rebrand_config FOR sa.sequ_sl_rebrand_config;

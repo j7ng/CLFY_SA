@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_rew_ben_trans ON sa.x_reward_benefit_transaction(esn,trans_type,benefit_type_code,web_account_id,brand);

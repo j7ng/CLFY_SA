@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_mvne_migration_stg_idx3 ON sa.x_mvne_migration_stg(x_sim);

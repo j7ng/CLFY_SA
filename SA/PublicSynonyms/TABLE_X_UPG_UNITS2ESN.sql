@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_upg_units2esn FOR sa.table_x_upg_units2esn;

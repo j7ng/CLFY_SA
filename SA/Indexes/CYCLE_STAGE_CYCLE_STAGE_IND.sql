@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.cycle_stage_cycle_stage_ind ON sa.table_cycle_stage(stage_id);

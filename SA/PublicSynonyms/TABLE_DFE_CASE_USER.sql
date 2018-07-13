@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_dfe_case_user FOR sa.table_dfe_case_user;

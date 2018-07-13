@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_error_code_seq FOR sa.x_error_code_seq;

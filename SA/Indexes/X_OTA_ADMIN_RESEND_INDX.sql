@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_ota_admin_resend_indx ON sa.x_ota_admin_resend(x_ota_trans_id,batch_id);

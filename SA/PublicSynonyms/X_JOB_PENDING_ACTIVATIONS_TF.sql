@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_job_pending_activations_tf FOR sa.x_job_pending_activations_tf;

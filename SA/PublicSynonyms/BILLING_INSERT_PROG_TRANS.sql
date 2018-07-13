@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_insert_prog_trans FOR sa.billing_insert_prog_trans;

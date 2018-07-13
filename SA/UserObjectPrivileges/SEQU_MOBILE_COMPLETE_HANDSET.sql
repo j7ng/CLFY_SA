@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_mobile_complete_handset TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_gen_code_template FOR sa.adfcrm_gen_code_template;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_topp_err_codes_x_error_index ON sa.table_x_topp_err_codes(x_code_name);

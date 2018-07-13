@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_s_case_titles ON sa.table_case(s_title);

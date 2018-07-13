@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sp_load_part_hist_fun FOR sa.sp_load_part_hist_fun;

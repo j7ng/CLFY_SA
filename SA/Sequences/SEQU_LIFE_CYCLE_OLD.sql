@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_life_cycle_old;

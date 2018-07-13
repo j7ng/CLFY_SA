@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_solution_qualification FOR sa.adfcrm_solution_qualification;

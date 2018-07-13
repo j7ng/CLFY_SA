@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM payment_method_pkg FOR sa.payment_method_pkg;

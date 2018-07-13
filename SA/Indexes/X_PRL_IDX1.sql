@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_prl_idx1 ON sa.x_prl("NAME",slot_seq,parent_id);

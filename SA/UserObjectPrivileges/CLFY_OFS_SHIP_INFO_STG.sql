@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.clfy_ofs_ship_info_stg TO dbit_mtoribiolopez;

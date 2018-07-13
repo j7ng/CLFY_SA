@@ -1,0 +1,12 @@
+GRANT EXECUTE ON sa.get_test_esn_sim TO apps_select;
+GRANT EXECUTE ON sa.get_test_esn_sim TO cbo;
+GRANT EXECUTE ON sa.get_test_esn_sim TO csrcbo;
+GRANT EXECUTE ON sa.get_test_esn_sim TO gw1;
+GRANT EXECUTE ON sa.get_test_esn_sim TO igate_batch;
+GRANT EXECUTE ON sa.get_test_esn_sim TO igateapps;
+GRANT EXECUTE ON sa.get_test_esn_sim TO posaapp;
+GRANT EXECUTE ON sa.get_test_esn_sim TO posadirectapps;
+GRANT EXECUTE ON sa.get_test_esn_sim TO role_sqa_tester;
+GRANT EXECUTE ON sa.get_test_esn_sim TO soacbo;
+GRANT EXECUTE ON sa.get_test_esn_sim TO toppapp;
+GRANT EXECUTE ON sa.get_test_esn_sim TO webcbo;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_casests2gbst ON sa.table_case(casests2gbst_elm);

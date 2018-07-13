@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_rate_plan_change_migr_date ON sa.x_rate_plan_change_migr(x_trans_date);

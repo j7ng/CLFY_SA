@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ota_extproc_pkg FOR sa.ota_extproc_pkg;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM deployment_tracking FOR sa.deployment_tracking;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM test_cur_pkg FOR sa.test_cur_pkg;

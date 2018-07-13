@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_lb_qual_esns_esn_date ON sa.x_lb_qual_esns(x_esn,x_insert_date);

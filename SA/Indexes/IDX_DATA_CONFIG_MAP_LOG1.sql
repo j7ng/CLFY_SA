@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_data_config_map_log1 ON sa.data_config_mapping_log(x_data_config_objid);

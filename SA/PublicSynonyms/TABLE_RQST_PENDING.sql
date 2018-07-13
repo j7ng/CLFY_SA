@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_rqst_pending FOR sa.table_rqst_pending;

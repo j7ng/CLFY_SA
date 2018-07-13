@@ -1,0 +1,2 @@
+CREATE OR REPLACE TYPE sa."IG_TRANSACTION_BUCKETS_TAB" AS TABLE OF sa.ig_transaction_buckets_type
+/

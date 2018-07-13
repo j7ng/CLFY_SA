@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_xsu_hmo_request ON sa.xsu_hmo_request(x_batchdate);

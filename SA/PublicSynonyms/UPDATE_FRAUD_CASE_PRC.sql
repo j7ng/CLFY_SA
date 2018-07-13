@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM update_fraud_case_prc FOR sa.update_fraud_case_prc;

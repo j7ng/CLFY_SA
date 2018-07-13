@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.uq_idx ON sa.x_biz_order_dtl(objid);

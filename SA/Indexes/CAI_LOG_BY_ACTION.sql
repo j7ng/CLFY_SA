@@ -1,0 +1,1 @@
+CREATE INDEX sa.cai_log_by_action ON sa.table_x_cai_log("ACTION");

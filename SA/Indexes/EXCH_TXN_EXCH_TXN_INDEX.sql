@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.exch_txn_exch_txn_index ON sa.table_exch_txn(standard,transaction_id,"VERSION");

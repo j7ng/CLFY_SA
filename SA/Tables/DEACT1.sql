@@ -1,0 +1,4 @@
+CREATE TABLE sa.deact1 (
+  objid NUMBER
+);
+ALTER TABLE sa.deact1 ADD SUPPLEMENTAL LOG GROUP dmtsora212789101_0 (objid) ALWAYS;

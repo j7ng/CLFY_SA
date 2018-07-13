@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_lifeline_batch_id TO PUBLIC;

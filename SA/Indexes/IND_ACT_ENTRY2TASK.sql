@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_act_entry2task ON sa.table_act_entry(act_entry2task);

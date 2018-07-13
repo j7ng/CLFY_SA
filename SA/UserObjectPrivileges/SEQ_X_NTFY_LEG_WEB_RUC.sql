@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_ntfy_leg_web_ruc TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_x_contact_add_info FOR sa.sequ_x_contact_add_info;

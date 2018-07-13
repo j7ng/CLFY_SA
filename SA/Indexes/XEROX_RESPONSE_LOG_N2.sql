@@ -1,0 +1,1 @@
+CREATE INDEX sa.xerox_response_log_n2 ON sa.xerox_response_log(load_date);

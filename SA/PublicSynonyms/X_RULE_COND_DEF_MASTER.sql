@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_rule_cond_def_master FOR sa.x_rule_cond_def_master;

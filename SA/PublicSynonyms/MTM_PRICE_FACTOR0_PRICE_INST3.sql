@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_price_factor0_price_inst3 FOR sa.mtm_price_factor0_price_inst3;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.s_call_script_script_ind ON sa.table_call_script(s_name);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.nrw_ruleeventinfo_i5426 ON sa.table_nrw_ruleeventinfo(n_itemid,n_itemtypeid);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.fix_incorrect_lines_sweep TO dbit_mtoribiolopez;

@@ -1,0 +1,13 @@
+GRANT SELECT ON sa.smob_users_v TO cbo;
+GRANT SELECT ON sa.smob_users_v TO clarify_administrator;
+GRANT SELECT ON sa.smob_users_v TO clarify_user;
+GRANT SELECT ON sa.smob_users_v TO corecbo;
+GRANT SELECT ON sa.smob_users_v TO csrcbo;
+GRANT SELECT ON sa.smob_users_v TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.smob_users_v TO iut;
+GRANT SELECT ON sa.smob_users_v TO role_report_select;
+GRANT SELECT ON sa.smob_users_v TO role_sa_select;
+GRANT SELECT ON sa.smob_users_v TO role_sa_update;
+GRANT SELECT ON sa.smob_users_v TO role_tf_select;
+GRANT SELECT ON sa.smob_users_v TO soacbo;
+GRANT SELECT ON sa.smob_users_v TO webcbo;

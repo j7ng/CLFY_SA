@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_mvne_response_idx8 ON sa.x_mvne_response(x_status);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_dma_areas FOR sa.x_dma_areas;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_case_extra_info_objindex ON sa.table_x_case_extra_info(objid);

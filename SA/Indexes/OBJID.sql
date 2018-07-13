@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.objid ON sa."Clarify"(objid,"VERSION");

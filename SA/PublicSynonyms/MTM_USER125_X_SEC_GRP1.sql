@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_user125_x_sec_grp1 FOR sa.mtm_user125_x_sec_grp1;

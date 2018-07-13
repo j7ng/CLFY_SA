@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_trans_profile TO PUBLIC;

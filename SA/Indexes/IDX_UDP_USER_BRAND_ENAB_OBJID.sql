@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_udp_user_brand_enab_objid ON sa.x_udp_user_brand_enable(objid);

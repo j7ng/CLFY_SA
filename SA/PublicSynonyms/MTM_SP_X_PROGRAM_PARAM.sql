@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_sp_x_program_param FOR sa.mtm_sp_x_program_param;

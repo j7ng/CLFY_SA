@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx0_apn_config_mapping ON sa.x_apn_config_mapping(phone_manufacturer,device_type,bus_org,technology);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_inappropriate_words FOR sa.adfcrm_inappropriate_words;

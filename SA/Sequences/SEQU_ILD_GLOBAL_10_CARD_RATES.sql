@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_ild_global_10_card_rates;

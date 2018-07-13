@@ -1,0 +1,10 @@
+GRANT DELETE ON sa.phone_sim_mapping TO dbit_dbecerril;
+GRANT INSERT ON sa.phone_sim_mapping TO dbit_dbecerril;
+GRANT INSERT ON sa.phone_sim_mapping TO mobapp_data;
+GRANT INSERT ON sa.phone_sim_mapping TO ofs_apps;
+GRANT SELECT ON sa.phone_sim_mapping TO dbit_dbecerril;
+GRANT SELECT ON sa.phone_sim_mapping TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.phone_sim_mapping TO mobapp_data;
+GRANT SELECT ON sa.phone_sim_mapping TO ofs_apps;
+GRANT UPDATE ON sa.phone_sim_mapping TO mobapp_data;
+GRANT UPDATE ON sa.phone_sim_mapping TO ofs_apps;

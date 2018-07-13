@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.ubi_page_ele_seq;

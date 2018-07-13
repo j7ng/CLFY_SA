@@ -1,0 +1,12 @@
+GRANT EXECUTE ON sa.retention_action_typ_obj TO cbo;
+GRANT EXECUTE ON sa.retention_action_typ_obj TO clarify_administrator;
+GRANT EXECUTE ON sa.retention_action_typ_obj TO clarify_user;
+GRANT EXECUTE ON sa.retention_action_typ_obj TO csrcbo;
+GRANT EXECUTE ON sa.retention_action_typ_obj TO igate_batch;
+GRANT EXECUTE ON sa.retention_action_typ_obj TO itds_user;
+GRANT EXECUTE ON sa.retention_action_typ_obj TO role_report_select;
+GRANT EXECUTE ON sa.retention_action_typ_obj TO role_sa_select;
+GRANT EXECUTE ON sa.retention_action_typ_obj TO role_sa_update;
+GRANT EXECUTE ON sa.retention_action_typ_obj TO role_tf_select;
+GRANT EXECUTE ON sa.retention_action_typ_obj TO soacbo;
+GRANT EXECUTE ON sa.retention_action_typ_obj TO webcbo;

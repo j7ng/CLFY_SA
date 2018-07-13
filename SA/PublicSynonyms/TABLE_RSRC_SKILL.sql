@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_rsrc_skill FOR sa.table_rsrc_skill;

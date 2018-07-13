@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_keyphrase4_prtnum_kp1 FOR sa.mtm_keyphrase4_prtnum_kp1;

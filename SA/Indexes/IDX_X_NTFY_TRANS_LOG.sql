@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_ntfy_trans_log ON sa.x_ntfy_trans_log(objid);

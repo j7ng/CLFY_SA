@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_phone_status_log_idx3 ON sa.x_phone_status_log(x_stock);

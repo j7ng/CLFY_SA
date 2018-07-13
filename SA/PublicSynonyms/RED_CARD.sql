@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM red_card FOR sa.red_card;

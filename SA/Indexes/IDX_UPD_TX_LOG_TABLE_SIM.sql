@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_upd_tx_log_table_sim ON sa.udp_tx_log_table(x_sim);

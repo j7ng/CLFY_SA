@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.seq_tstahis_x_red_card CACHE 5;

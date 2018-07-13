@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_cycle_stage_old TO PUBLIC;

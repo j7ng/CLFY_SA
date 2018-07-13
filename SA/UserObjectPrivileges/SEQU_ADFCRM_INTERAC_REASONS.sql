@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_adfcrm_interac_reasons TO PUBLIC;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_ntfy_trans_log TO PUBLIC;

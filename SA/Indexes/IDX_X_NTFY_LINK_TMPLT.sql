@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_ntfy_link_tmplt ON sa.x_ntfy_link_tmplt(objid);

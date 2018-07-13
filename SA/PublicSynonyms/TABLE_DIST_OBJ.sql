@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_dist_obj FOR sa.table_dist_obj;

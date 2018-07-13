@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_dob_pin_busorg_idx ON sa.table_x_contact_add_info(x_dateofbirth,x_pin,add_info2bus_org);

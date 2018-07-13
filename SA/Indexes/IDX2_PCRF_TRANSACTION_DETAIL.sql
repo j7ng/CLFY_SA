@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_pcrf_transaction_detail ON sa.x_pcrf_transaction_detail(redemption_date);

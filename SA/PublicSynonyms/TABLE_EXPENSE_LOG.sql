@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_expense_log FOR sa.table_expense_log;

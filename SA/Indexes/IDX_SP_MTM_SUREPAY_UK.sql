@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_sp_mtm_surepay_uk ON sa.sp_mtm_surepay(service_plan_objid,surepay_conv_objid);

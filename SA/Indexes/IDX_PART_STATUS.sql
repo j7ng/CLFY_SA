@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_part_status ON sa.table_site_part(part_status);

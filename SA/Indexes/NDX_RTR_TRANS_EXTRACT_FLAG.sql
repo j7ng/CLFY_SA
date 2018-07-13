@@ -1,0 +1,1 @@
+CREATE INDEX sa.ndx_rtr_trans_extract_flag ON sa.x_rtr_trans(tf_extract_flag);

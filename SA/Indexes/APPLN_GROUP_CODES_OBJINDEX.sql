@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.appln_group_codes_objindex ON sa.table_appln_group_codes(objid);

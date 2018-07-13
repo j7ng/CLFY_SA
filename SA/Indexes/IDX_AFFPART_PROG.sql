@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_affpart_prog ON sa.mtm_affpart_prog_promo(mtm2prog);

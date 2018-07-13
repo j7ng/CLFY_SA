@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_bofd_esn ON sa.x_biz_order_fulfill_dtl(esn);

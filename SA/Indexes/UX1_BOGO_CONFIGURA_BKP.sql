@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ux1_bogo_configura_bkp ON sa.x_bogo_configuration_bkp(objid);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.smconsolesosettingsequence TO PUBLIC;

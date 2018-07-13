@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_case_phone2case ON sa.table_phone_log(case_phone2case);

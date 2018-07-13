@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.condition_objindex ON sa.table_condition(objid);

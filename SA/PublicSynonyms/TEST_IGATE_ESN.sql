@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM test_igate_esn FOR sa.test_igate_esn;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x79provider_tr FOR sa.table_x79provider_tr;

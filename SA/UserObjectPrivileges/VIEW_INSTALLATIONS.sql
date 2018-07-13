@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.view_installations TO dbit_mtoribiolopez;

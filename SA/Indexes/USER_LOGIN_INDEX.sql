@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.user_login_index ON sa.table_user(login_name);

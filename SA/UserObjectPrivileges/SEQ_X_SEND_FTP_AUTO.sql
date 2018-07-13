@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_send_ftp_auto TO PUBLIC;

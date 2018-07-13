@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_privatepreferences_objindex ON sa.table_n_privatepreferences(objid);

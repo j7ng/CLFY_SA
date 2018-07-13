@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM process_manager FOR sa.process_manager;

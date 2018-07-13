@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_rate_min_hist_old2 TO PUBLIC;

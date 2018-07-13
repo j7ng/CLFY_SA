@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.adfcrm_ticker_history_seq;

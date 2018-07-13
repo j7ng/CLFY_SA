@@ -1,0 +1,1 @@
+CREATE INDEX sa.indx_x_nlad_request_log_dat ON sa.x_nlad_request_log(x_batch_file_date);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_nws_products FOR sa.table_nws_products;

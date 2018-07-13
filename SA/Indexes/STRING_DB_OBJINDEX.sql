@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.string_db_objindex ON sa.table_string_db(objid);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.productbin_objindex ON sa.table_productbin(objid);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_cc_red_inv_idx_1 ON sa.table_x_cc_red_inv(x_red_card_number);

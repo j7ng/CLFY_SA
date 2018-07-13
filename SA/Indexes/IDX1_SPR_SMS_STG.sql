@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_spr_sms_stg ON sa.x_spr_sms_stg(esn);

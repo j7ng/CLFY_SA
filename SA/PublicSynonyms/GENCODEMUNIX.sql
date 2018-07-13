@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM gencodemunix FOR sa.gencodemunix;

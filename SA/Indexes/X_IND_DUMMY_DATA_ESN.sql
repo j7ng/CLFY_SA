@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_ind_dummy_data_esn ON sa.x_dummy_data(x_esn);

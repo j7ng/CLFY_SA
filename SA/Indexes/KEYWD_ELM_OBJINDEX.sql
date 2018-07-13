@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.keywd_elm_objindex ON sa.table_keywd_elm(objid);

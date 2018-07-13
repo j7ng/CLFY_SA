@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_seq_inquiry FOR sa.table_seq_inquiry;

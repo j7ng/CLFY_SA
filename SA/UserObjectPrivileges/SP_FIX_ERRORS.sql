@@ -1,0 +1,14 @@
+GRANT EXECUTE ON sa.sp_fix_errors TO cbo;
+GRANT EXECUTE ON sa.sp_fix_errors TO clarify_administrator;
+GRANT EXECUTE ON sa.sp_fix_errors TO clarify_billing;
+GRANT EXECUTE ON sa.sp_fix_errors TO clarify_user;
+GRANT EXECUTE ON sa.sp_fix_errors TO corecbo;
+GRANT EXECUTE ON sa.sp_fix_errors TO csrcbo;
+GRANT EXECUTE ON sa.sp_fix_errors TO gw1;
+GRANT EXECUTE ON sa.sp_fix_errors TO igate_batch;
+GRANT EXECUTE ON sa.sp_fix_errors TO posaapp_role;
+GRANT EXECUTE ON sa.sp_fix_errors TO role_clarify_custom;
+GRANT EXECUTE ON sa.sp_fix_errors TO role_sa_update;
+GRANT EXECUTE ON sa.sp_fix_errors TO role_tracfone_custom;
+GRANT EXECUTE ON sa.sp_fix_errors TO soacbo;
+GRANT EXECUTE ON sa.sp_fix_errors TO webcbo;

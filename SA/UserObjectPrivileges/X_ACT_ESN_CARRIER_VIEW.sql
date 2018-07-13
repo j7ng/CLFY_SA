@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_act_esn_carrier_view TO dbit_mtoribiolopez;

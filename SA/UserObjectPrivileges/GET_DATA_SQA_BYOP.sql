@@ -1,0 +1,15 @@
+GRANT EXECUTE ON sa.get_data_sqa_byop TO apps_select;
+GRANT EXECUTE ON sa.get_data_sqa_byop TO cbo;
+GRANT EXECUTE ON sa.get_data_sqa_byop TO corecbo;
+GRANT EXECUTE ON sa.get_data_sqa_byop TO csrcbo;
+GRANT EXECUTE ON sa.get_data_sqa_byop TO gw1;
+GRANT EXECUTE ON sa.get_data_sqa_byop TO igate_batch;
+GRANT EXECUTE ON sa.get_data_sqa_byop TO igateapps;
+GRANT EXECUTE ON sa.get_data_sqa_byop TO iut;
+GRANT EXECUTE ON sa.get_data_sqa_byop TO posaapp;
+GRANT EXECUTE ON sa.get_data_sqa_byop TO posadirectapps;
+GRANT EXECUTE ON sa.get_data_sqa_byop TO role_sa_update;
+GRANT EXECUTE ON sa.get_data_sqa_byop TO role_sqa_tester;
+GRANT EXECUTE ON sa.get_data_sqa_byop TO soacbo;
+GRANT EXECUTE ON sa.get_data_sqa_byop TO toppapp;
+GRANT EXECUTE ON sa.get_data_sqa_byop TO webcbo;

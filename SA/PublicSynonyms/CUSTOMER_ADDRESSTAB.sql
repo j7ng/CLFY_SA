@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_addresstab FOR sa.customer_addresstab;

@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.sp_valid_contact_phone TO role_sa_update;

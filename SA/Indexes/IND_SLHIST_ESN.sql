@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_slhist_esn ON sa.x_sl_hist(x_esn);

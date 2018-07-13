@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_psms_outbox_objindex ON sa.table_x_psms_outbox(objid);

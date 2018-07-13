@@ -1,0 +1,9 @@
+GRANT DELETE ON sa.clean_up_inv TO role_sa_update;
+GRANT INSERT ON sa.clean_up_inv TO role_sa_update;
+GRANT SELECT ON sa.clean_up_inv TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.clean_up_inv TO role_sa_select;
+GRANT SELECT ON sa.clean_up_inv TO role_sa_update;
+GRANT SELECT ON sa.clean_up_inv TO role_tf_select;
+GRANT SELECT ON sa.clean_up_inv TO select_no_pin;
+GRANT SELECT ON sa.clean_up_inv TO select_role;
+GRANT UPDATE ON sa.clean_up_inv TO role_sa_update;

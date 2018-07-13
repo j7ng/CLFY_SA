@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_address_hot_list FOR sa.sequ_address_hot_list;

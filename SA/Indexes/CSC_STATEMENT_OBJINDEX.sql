@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.csc_statement_objindex ON sa.table_csc_statement(objid);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM typ_device_pref FOR sa.typ_device_pref;

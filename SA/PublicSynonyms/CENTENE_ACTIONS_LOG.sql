@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM centene_actions_log FOR sa.centene_actions_log;

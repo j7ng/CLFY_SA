@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_service_plan_site_part FOR sa.x_service_plan_site_part;

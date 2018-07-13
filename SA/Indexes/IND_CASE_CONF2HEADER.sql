@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_case_conf2header ON sa.table_x_mtm_case_hdr_dtl(mtm_conf2conf_hdr);

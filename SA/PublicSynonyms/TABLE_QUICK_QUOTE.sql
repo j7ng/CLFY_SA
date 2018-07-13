@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_quick_quote FOR sa.table_quick_quote;

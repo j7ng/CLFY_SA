@@ -1,0 +1,16 @@
+GRANT EXECUTE ON sa.sp_ivr_purch_auth_validation TO cbo;
+GRANT EXECUTE ON sa.sp_ivr_purch_auth_validation TO clarify_administrator;
+GRANT EXECUTE ON sa.sp_ivr_purch_auth_validation TO clarify_user;
+GRANT EXECUTE ON sa.sp_ivr_purch_auth_validation TO corecbo;
+GRANT EXECUTE ON sa.sp_ivr_purch_auth_validation TO csrcbo;
+GRANT EXECUTE ON sa.sp_ivr_purch_auth_validation TO gw1;
+GRANT EXECUTE ON sa.sp_ivr_purch_auth_validation TO igate_batch;
+GRANT EXECUTE ON sa.sp_ivr_purch_auth_validation TO report;
+GRANT EXECUTE ON sa.sp_ivr_purch_auth_validation TO role_carrier_ops;
+GRANT EXECUTE ON sa.sp_ivr_purch_auth_validation TO role_report_select;
+GRANT EXECUTE ON sa.sp_ivr_purch_auth_validation TO role_sa_select;
+GRANT EXECUTE ON sa.sp_ivr_purch_auth_validation TO role_sa_update;
+GRANT EXECUTE ON sa.sp_ivr_purch_auth_validation TO role_tf_select;
+GRANT EXECUTE ON sa.sp_ivr_purch_auth_validation TO soacbo;
+GRANT EXECUTE ON sa.sp_ivr_purch_auth_validation TO w3ci;
+GRANT EXECUTE ON sa.sp_ivr_purch_auth_validation TO webcbo;

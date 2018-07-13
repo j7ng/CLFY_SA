@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vas_programs_mv FOR sa.vas_programs_mv;

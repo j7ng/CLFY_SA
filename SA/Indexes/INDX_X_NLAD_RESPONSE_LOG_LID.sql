@@ -1,0 +1,1 @@
+CREATE INDEX sa.indx_x_nlad_response_log_lid ON sa.x_nlad_response_log(x_reference_id);

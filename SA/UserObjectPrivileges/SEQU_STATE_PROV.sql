@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_state_prov TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_min_esn_change_idx ON sa.x_min_esn_change(x_transaction_id,x_attached_date,x_old_esn,x_detach_dt,x_new_esn);

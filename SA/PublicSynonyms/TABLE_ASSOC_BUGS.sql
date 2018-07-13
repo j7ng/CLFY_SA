@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_assoc_bugs FOR sa.table_assoc_bugs;

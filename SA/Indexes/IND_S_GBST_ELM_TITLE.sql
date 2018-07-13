@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_s_gbst_elm_title ON sa.table_gbst_elm(s_title,"RANK");

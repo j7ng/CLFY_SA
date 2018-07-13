@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rtrp_tab_columns FOR sa.rtrp_tab_columns;

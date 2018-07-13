@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.adfcrm_upgrade_credit_idx ON sa.adfcrm_upgrade_credit(coupon);

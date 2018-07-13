@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_preval_phdr_esn ON sa.x_pre_val_purch_hdr(x_esn);

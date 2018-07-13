@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_is_default ON sa.table_site(is_default);

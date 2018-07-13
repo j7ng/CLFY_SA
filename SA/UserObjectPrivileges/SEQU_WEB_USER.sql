@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_web_user TO PUBLIC;

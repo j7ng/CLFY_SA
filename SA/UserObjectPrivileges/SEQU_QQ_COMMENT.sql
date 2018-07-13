@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_qq_comment TO PUBLIC;

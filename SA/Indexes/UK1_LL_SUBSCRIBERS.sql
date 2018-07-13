@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.uk1_ll_subscribers ON sa.ll_subscribers(lid);

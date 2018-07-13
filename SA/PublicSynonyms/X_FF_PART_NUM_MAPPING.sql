@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_ff_part_num_mapping FOR sa.x_ff_part_num_mapping;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.uk1_process_order ON sa.x_process_order(order_id);

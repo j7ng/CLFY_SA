@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.to_do_entry_objindex ON sa.table_to_do_entry(objid);

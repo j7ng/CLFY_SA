@@ -1,0 +1,10 @@
+GRANT EXECUTE ON sa.send_thresholds_to_tmo TO cbo;
+GRANT EXECUTE ON sa.send_thresholds_to_tmo TO clarify_administrator;
+GRANT EXECUTE ON sa.send_thresholds_to_tmo TO clarify_user;
+GRANT EXECUTE ON sa.send_thresholds_to_tmo TO csrcbo;
+GRANT EXECUTE ON sa.send_thresholds_to_tmo TO gw1;
+GRANT EXECUTE ON sa.send_thresholds_to_tmo TO igate_batch;
+GRANT EXECUTE ON sa.send_thresholds_to_tmo TO role_sa_update;
+GRANT EXECUTE ON sa.send_thresholds_to_tmo TO soacbo;
+GRANT EXECUTE ON sa.send_thresholds_to_tmo TO w3ci;
+GRANT EXECUTE ON sa.send_thresholds_to_tmo TO webcbo;

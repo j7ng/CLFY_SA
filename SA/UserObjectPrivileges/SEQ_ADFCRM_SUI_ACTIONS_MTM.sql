@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_adfcrm_sui_actions_mtm TO PUBLIC;

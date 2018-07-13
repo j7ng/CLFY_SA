@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_lit_ship2contact_role ON sa.table_lit_ship_req(lit_ship2contact_role);

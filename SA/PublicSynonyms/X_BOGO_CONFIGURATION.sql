@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_bogo_configuration FOR sa.x_bogo_configuration;

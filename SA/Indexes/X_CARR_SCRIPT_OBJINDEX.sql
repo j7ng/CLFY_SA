@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_carr_script_objindex ON sa.table_x_carr_script(objid);

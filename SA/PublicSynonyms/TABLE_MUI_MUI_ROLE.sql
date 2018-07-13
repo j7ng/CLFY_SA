@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_mui_mui_role FOR sa.table_mui_mui_role;

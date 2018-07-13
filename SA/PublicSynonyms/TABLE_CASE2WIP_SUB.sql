@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_case2wip_sub FOR sa.table_case2wip_sub;

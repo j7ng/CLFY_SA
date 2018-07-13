@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.amort_dtl_objindex ON sa.table_amort_dtl(objid);

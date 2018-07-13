@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.seq_sl_referral_benefits_plan;

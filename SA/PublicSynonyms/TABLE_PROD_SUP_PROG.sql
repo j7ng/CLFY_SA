@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_prod_sup_prog FOR sa.table_prod_sup_prog;

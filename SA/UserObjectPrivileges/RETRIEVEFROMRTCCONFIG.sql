@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.retrievefromrtcconfig TO soacbo;

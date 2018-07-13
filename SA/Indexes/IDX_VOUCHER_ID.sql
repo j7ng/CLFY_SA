@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_voucher_id ON sa.table_x_vouchers(voucher_id);

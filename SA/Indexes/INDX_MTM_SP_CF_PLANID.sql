@@ -1,0 +1,1 @@
+CREATE INDEX sa.indx_mtm_sp_cf_planid ON sa.mtm_sp_carrierfeatures(x_service_plan_id);

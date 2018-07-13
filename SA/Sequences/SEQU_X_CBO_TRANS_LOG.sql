@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_x_cbo_trans_log;

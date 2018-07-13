@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM call_trans_type FOR sa.call_trans_type;

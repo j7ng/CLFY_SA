@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_bogo_configuration TO PUBLIC;

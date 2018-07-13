@@ -1,0 +1,11 @@
+GRANT EXECUTE ON sa.tab_device_pref TO cbo;
+GRANT EXECUTE ON sa.tab_device_pref TO clarify_administrator;
+GRANT EXECUTE ON sa.tab_device_pref TO clarify_user;
+GRANT EXECUTE ON sa.tab_device_pref TO corecbo;
+GRANT EXECUTE ON sa.tab_device_pref TO csrcbo;
+GRANT EXECUTE ON sa.tab_device_pref TO gw1;
+GRANT EXECUTE ON sa.tab_device_pref TO igate_batch;
+GRANT EXECUTE ON sa.tab_device_pref TO role_sa_update;
+GRANT EXECUTE ON sa.tab_device_pref TO soacbo;
+GRANT EXECUTE ON sa.tab_device_pref TO w3ci;
+GRANT EXECUTE ON sa.tab_device_pref TO webcbo;

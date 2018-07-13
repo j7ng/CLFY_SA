@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wex_order_shipping_details FOR sa.wex_order_shipping_details;

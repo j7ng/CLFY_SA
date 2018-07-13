@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_reports_i5431 ON sa.table_n_reports(n_shortdescription);

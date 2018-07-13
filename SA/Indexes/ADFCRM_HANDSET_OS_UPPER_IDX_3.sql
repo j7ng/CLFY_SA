@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_handset_os_upper_idx_3 ON sa.adfcrm_handset_os(handset_manufacturer,handset_desc);

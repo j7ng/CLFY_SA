@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.dist_obj_dist_obj_index ON sa.table_dist_obj(focus_type,focus_lowid,dist_obj2dist_srvr);

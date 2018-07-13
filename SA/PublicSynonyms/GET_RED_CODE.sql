@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM get_red_code FOR sa.get_red_code;

@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.seq_reb_ref_coupon;

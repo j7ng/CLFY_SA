@@ -1,0 +1,1 @@
+CREATE INDEX sa.webcsr_log_ndx2 ON sa.table_x_webcsr_log(x_date_time,x_tran_type);

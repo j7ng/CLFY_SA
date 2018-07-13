@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM esn_min_queue_card_det_type FOR sa.esn_min_queue_card_det_type;

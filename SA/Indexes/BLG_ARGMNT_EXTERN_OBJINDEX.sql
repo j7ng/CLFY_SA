@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.blg_argmnt_extern_objindex ON sa.table_blg_argmnt_extern(objid);

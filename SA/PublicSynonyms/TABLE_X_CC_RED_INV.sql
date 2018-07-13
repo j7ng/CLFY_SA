@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_cc_red_inv FOR sa.table_x_cc_red_inv;

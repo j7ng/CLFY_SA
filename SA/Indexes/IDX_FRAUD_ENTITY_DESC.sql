@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_fraud_entity_desc ON sa.x_fraud_entity(x_entity_description);

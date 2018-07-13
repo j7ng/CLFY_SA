@@ -1,0 +1,21 @@
+CREATE TABLE sa.x_prod_config_bkp_pre_53099 (
+  objid NUMBER(22) NOT NULL,
+  brand_name VARCHAR2(50 BYTE),
+  parent_name VARCHAR2(50 BYTE),
+  device_type VARCHAR2(50 BYTE),
+  device_tech VARCHAR2(50 BYTE),
+  part_class VARCHAR2(40 BYTE),
+  part_number VARCHAR2(30 BYTE),
+  voice_mtg_source VARCHAR2(50 BYTE),
+  sms_mtg_source VARCHAR2(50 BYTE),
+  data_mtg_source VARCHAR2(50 BYTE),
+  ild_mtg_source VARCHAR2(50 BYTE),
+  service_plan_group VARCHAR2(50 BYTE),
+  service_plan_id NUMBER(22),
+  bal_cfg_id_web NUMBER(22),
+  bal_cfg_id_ivr NUMBER(22),
+  insert_timestamp DATE NOT NULL,
+  update_timestamp DATE NOT NULL,
+  source_system VARCHAR2(100 BYTE),
+  bal_cfg_id_tas NUMBER(22)
+);

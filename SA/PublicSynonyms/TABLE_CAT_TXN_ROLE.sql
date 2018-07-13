@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_cat_txn_role FOR sa.table_cat_txn_role;

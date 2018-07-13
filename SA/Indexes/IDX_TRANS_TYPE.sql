@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_trans_type ON sa.x_reward_benefit_transaction(trans_type);

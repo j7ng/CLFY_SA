@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_value_item TO PUBLIC;

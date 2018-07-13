@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.count_setup_objindex ON sa.table_count_setup(objid);

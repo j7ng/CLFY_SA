@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_xsuvmbc_lid ON sa.xsu_vmbc_request(lid);

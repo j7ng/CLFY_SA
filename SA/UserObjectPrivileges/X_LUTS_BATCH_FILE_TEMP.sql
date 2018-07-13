@@ -1,0 +1,11 @@
+GRANT ALTER ON sa.x_luts_batch_file_temp TO corecbo;
+GRANT ALTER ON sa.x_luts_batch_file_temp TO soacbo;
+GRANT DELETE ON sa.x_luts_batch_file_temp TO corecbo;
+GRANT DELETE ON sa.x_luts_batch_file_temp TO soacbo;
+GRANT INSERT ON sa.x_luts_batch_file_temp TO corecbo;
+GRANT INSERT ON sa.x_luts_batch_file_temp TO soacbo;
+GRANT SELECT ON sa.x_luts_batch_file_temp TO corecbo;
+GRANT SELECT ON sa.x_luts_batch_file_temp TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_luts_batch_file_temp TO soacbo;
+GRANT UPDATE ON sa.x_luts_batch_file_temp TO corecbo;
+GRANT UPDATE ON sa.x_luts_batch_file_temp TO soacbo;

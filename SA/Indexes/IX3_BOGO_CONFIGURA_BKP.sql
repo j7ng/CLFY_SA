@@ -1,0 +1,1 @@
+CREATE INDEX sa.ix3_bogo_configura_bkp ON sa.x_bogo_configuration_bkp(red_card_pin_part_class);

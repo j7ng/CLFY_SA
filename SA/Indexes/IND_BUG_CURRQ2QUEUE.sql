@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_bug_currq2queue ON sa.table_bug(bug_currq2queue);

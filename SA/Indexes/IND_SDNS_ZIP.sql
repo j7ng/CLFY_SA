@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_sdns_zip ON sa.sl_restrict_ship_address(zip);

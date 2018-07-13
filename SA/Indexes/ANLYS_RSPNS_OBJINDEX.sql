@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.anlys_rspns_objindex ON sa.table_anlys_rspns(objid);

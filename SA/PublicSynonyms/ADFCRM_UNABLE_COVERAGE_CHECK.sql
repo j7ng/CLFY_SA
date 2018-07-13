@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_unable_coverage_check FOR sa.adfcrm_unable_coverage_check;

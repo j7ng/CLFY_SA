@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ux10_subscriber_spr ON sa.x_subscriber_spr(pcrf_esn);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_order_type ON sa.table_x_order_type(x_order_type,x_npa,x_nxx,x_order_type2x_carrier);

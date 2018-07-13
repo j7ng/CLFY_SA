@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_rtr_trans_log ON sa.x_rtr_trans_log(insert_timestamp);

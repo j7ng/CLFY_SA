@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_sui_actions_mtm FOR sa.adfcrm_sui_actions_mtm;

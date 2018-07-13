@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_program_purch_hdr_cr34303 TO dbit_mtoribiolopez;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.purchase_ord_purch_ord_ind ON sa.table_purchase_ord(payment2contr_schedule,payment2quick_quote,po_id,card_num,ref_num);

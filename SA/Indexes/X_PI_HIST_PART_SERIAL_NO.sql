@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_pi_hist_part_serial_no ON sa.table_x_pi_hist(x_part_serial_no);

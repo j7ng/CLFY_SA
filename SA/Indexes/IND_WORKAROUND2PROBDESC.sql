@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_workaround2probdesc ON sa.table_workaround(workaround2probdesc);

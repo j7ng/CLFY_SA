@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.scripts_content_pk ON sa.scripts_content(script_content_id);

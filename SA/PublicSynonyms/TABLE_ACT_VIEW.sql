@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_act_view FOR sa.table_act_view;

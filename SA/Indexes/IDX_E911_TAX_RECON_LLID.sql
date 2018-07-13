@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_e911_tax_recon_llid ON sa.xxtf_e911_tax_recon_tbl(llid);

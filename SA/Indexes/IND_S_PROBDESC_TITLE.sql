@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_s_probdesc_title ON sa.table_probdesc(s_title);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_voucher_orders TO PUBLIC;

@@ -1,0 +1,9 @@
+GRANT DELETE ON sa.case_err_bk TO role_sa_update;
+GRANT INSERT ON sa.case_err_bk TO role_sa_update;
+GRANT SELECT ON sa.case_err_bk TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.case_err_bk TO role_sa_select;
+GRANT SELECT ON sa.case_err_bk TO role_sa_update;
+GRANT SELECT ON sa.case_err_bk TO role_tf_select;
+GRANT SELECT ON sa.case_err_bk TO select_no_pin;
+GRANT SELECT ON sa.case_err_bk TO select_role;
+GRANT UPDATE ON sa.case_err_bk TO role_sa_update;

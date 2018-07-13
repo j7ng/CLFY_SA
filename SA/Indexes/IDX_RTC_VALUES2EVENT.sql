@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_rtc_values2event ON sa.rtc_criteria_values(values2event);

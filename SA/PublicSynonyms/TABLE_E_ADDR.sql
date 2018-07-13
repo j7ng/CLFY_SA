@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_e_addr FOR sa.table_e_addr;

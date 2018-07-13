@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_seq_table TO PUBLIC;

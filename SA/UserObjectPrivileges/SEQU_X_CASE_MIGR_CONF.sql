@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_case_migr_conf TO PUBLIC;

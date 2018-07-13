@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_serviceplan_audit_hist FOR sa.x_serviceplan_audit_hist;

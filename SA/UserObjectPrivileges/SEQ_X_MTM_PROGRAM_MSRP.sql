@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_mtm_program_msrp TO PUBLIC;

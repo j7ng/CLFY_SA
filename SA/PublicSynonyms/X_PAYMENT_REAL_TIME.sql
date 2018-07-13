@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_payment_real_time FOR sa.x_payment_real_time;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_purchase_ord FOR sa.table_purchase_ord;

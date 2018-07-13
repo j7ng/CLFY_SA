@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx3_pageplus_addon_benefit ON sa.x_pageplus_addon_benefit(start_date);

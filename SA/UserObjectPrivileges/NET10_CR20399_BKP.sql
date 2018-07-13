@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.net10_cr20399_bkp TO dbit_mtoribiolopez;

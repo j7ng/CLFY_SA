@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_prog_disc_hist TO PUBLIC;

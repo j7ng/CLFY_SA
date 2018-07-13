@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_rec_pymnt_stag_tbl_pe ON sa.rec_pymnt_staging_tbl(x_rec_pymnt_stg2prg_enrolled);

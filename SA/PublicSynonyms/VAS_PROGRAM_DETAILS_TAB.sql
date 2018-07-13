@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vas_program_details_tab FOR sa.vas_program_details_tab;

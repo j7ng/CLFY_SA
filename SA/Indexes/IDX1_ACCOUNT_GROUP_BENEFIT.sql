@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_account_group_benefit ON sa.x_account_group_benefit(account_group_id);

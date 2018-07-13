@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.apex_xmenu_app_pkg TO script_manager;

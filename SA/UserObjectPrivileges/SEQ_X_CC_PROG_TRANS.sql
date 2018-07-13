@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_cc_prog_trans TO PUBLIC;

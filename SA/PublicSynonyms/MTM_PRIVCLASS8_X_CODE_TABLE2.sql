@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_privclass8_x_code_table2 FOR sa.mtm_privclass8_x_code_table2;

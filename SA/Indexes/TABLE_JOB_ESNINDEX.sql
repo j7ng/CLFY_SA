@@ -1,0 +1,1 @@
+CREATE INDEX sa.table_job_esnindex ON sa.table_job(x_esn);

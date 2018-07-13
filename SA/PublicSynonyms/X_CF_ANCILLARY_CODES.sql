@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_cf_ancillary_codes FOR sa.x_cf_ancillary_codes;

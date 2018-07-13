@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_queue_card_temp FOR sa.x_queue_card_temp;

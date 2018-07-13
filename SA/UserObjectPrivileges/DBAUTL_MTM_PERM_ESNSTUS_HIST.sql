@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.dbautl_mtm_perm_esnstus_hist TO dbit_mtoribiolopez;

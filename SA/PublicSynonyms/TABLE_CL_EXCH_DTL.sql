@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_cl_exch_dtl FOR sa.table_cl_exch_dtl;

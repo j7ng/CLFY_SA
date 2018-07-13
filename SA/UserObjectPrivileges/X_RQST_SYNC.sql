@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_rqst_sync TO dbit_mtoribiolopez;

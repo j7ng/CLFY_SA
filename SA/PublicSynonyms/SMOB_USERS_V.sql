@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM smob_users_v FOR sa.smob_users_v;

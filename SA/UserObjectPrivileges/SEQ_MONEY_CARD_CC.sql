@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_money_card_cc TO PUBLIC;

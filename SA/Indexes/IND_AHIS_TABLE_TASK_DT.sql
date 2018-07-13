@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_ahis_table_task_dt ON sa.tstahis_table_task(x_change_date);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.onsite_log_objindex ON sa.table_onsite_log(objid);

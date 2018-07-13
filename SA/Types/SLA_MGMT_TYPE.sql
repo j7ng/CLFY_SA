@@ -1,0 +1,27 @@
+CREATE OR REPLACE TYPE sa.sla_mgmt_type AS OBJECT
+(   objid              NUMBER       ,
+    action             VARCHAR2(50) ,
+    status             VARCHAR2(50) ,
+    log_time           DATE         ,
+    order_number       VARCHAR2(50) ,
+    status_message     VARCHAR2(200),
+    fulfillment_type   VARCHAR2(50) ,
+    pin                VARCHAR2(50) ,
+    esn                VARCHAR2(50) ,
+    MIN                VARCHAR2(50) ,
+    service_id         VARCHAR2(50) ,
+    call_trans_objid   VARCHAR2(50) ,
+    KEY                VARCHAR2(50) ,
+    VALUE              VARCHAR2(50) ,
+    order_line_number  VARCHAR2(100),
+    title_of_ticket    VARCHAR2(50) ,
+    issue              VARCHAR2(1000) ,
+    source_system      VARCHAR2(50) ,
+    brand_name         VARCHAR2(50) ,
+    type_of_issue      VARCHAR2(50) ,
+    payment_source_id  VARCHAR2(50) ,
+    fulfilling_part    VARCHAR2(50) ,
+    ticket_note        VARCHAR2(50) ,
+    CONSTRUCTOR FUNCTION sla_mgmt_type RETURN SELF AS RESULT
+);
+/

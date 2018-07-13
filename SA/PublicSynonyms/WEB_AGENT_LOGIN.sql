@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM web_agent_login FOR sa.web_agent_login;

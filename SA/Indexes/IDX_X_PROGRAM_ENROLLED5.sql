@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_program_enrolled5 ON sa.x_program_enrolled(x_insert_date);

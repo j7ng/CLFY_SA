@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_lgc2mod2prt FOR sa.table_lgc2mod2prt;

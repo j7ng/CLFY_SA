@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_reb_ref_coupon TO PUBLIC;

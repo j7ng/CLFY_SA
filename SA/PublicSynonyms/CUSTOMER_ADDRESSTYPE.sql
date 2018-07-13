@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_addresstype FOR sa.customer_addresstype;

@@ -1,0 +1,9 @@
+GRANT SELECT ON sa.vas_programs_mv TO cbo;
+GRANT SELECT ON sa.vas_programs_mv TO clarify_administrator;
+GRANT SELECT ON sa.vas_programs_mv TO clarify_user;
+GRANT SELECT ON sa.vas_programs_mv TO csrcbo;
+GRANT SELECT ON sa.vas_programs_mv TO gw1;
+GRANT SELECT ON sa.vas_programs_mv TO igate_batch;
+GRANT SELECT ON sa.vas_programs_mv TO soacbo;
+GRANT SELECT ON sa.vas_programs_mv TO w3ci;
+GRANT SELECT ON sa.vas_programs_mv TO webcbo;

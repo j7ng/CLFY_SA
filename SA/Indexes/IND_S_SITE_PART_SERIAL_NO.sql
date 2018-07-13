@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_s_site_part_serial_no ON sa.table_site_part(s_serial_no);

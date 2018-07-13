@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.master_inbound_cards_newc_prc TO role_sa_update;

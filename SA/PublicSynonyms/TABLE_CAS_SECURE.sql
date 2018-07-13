@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_cas_secure FOR sa.table_cas_secure;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_sl_zip2part_num_exception FOR sa.mtm_sl_zip2part_num_exception;

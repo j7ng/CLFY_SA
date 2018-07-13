@@ -1,0 +1,1 @@
+CREATE INDEX sa.indx_xsu_vmbc_req_camp ON sa.xsu_vmbc_request(x_campaign);

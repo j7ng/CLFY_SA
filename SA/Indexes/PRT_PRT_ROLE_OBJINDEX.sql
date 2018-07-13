@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.prt_prt_role_objindex ON sa.table_prt_prt_role(objid);

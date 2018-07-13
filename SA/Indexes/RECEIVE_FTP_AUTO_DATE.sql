@@ -1,0 +1,1 @@
+CREATE INDEX sa.receive_ftp_auto_date ON sa.x_receive_ftp_auto(date_received,pay_type_ind);

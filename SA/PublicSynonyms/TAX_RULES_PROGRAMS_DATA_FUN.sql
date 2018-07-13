@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tax_rules_programs_data_fun FOR sa.tax_rules_programs_data_fun;

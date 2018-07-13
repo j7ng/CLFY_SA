@@ -1,0 +1,12 @@
+GRANT DELETE ON sa.x_sprint_mrkt_info TO igate_batch;
+GRANT INSERT ON sa.x_sprint_mrkt_info TO igate_batch;
+GRANT SELECT ON sa.x_sprint_mrkt_info TO cbo;
+GRANT SELECT ON sa.x_sprint_mrkt_info TO corecbo;
+GRANT SELECT ON sa.x_sprint_mrkt_info TO csrcbo;
+GRANT SELECT ON sa.x_sprint_mrkt_info TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_sprint_mrkt_info TO gw1;
+GRANT SELECT ON sa.x_sprint_mrkt_info TO igate_batch;
+GRANT SELECT ON sa.x_sprint_mrkt_info TO role_sa_select;
+GRANT SELECT ON sa.x_sprint_mrkt_info TO soacbo;
+GRANT SELECT ON sa.x_sprint_mrkt_info TO webcbo;
+GRANT UPDATE ON sa.x_sprint_mrkt_info TO igate_batch;

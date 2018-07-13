@@ -1,0 +1,8 @@
+CREATE TABLE sa.novak_market_site (
+  market_num VARCHAR2(2 BYTE),
+  site VARCHAR2(3 BYTE),
+  "STATE" VARCHAR2(2 BYTE),
+  market VARCHAR2(30 BYTE),
+  "CYCLE" VARCHAR2(2 BYTE),
+  "ACCOUNT" VARCHAR2(30 BYTE)
+);

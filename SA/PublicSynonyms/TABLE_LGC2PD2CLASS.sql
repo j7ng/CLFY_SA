@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_lgc2pd2class FOR sa.table_lgc2pd2class;

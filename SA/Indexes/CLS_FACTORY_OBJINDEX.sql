@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.cls_factory_objindex ON sa.table_cls_factory(objid);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.preference_objindex ON sa.table_preference(objid);

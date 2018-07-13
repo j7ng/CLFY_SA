@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_cust_pymt_info FOR sa.adfcrm_cust_pymt_info;

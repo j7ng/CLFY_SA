@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM get_transaction_cos FOR sa.get_transaction_cos;

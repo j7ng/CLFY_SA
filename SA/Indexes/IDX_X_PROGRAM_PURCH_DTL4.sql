@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_program_purch_dtl4 ON sa.x_program_purch_dtl(x_esn);

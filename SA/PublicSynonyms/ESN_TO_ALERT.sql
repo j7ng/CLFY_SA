@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM esn_to_alert FOR sa.esn_to_alert;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_duggi_ota_part_num TO dbit_mtoribiolopez;

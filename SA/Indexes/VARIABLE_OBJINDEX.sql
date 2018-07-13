@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.variable_objindex ON sa.table_variable(objid);

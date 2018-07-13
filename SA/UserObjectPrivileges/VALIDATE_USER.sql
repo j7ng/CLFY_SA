@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.validate_user TO crmusradm;

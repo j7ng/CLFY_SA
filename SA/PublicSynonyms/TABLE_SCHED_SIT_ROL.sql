@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_sched_sit_rol FOR sa.table_sched_sit_rol;

@@ -1,0 +1,21 @@
+CREATE OR REPLACE TYPE sa.TF_NTFY_DB_INPUT_TYPE IS OBJECT (
+P_STATUS                                        VARCHAR2(500),
+P_CODE                                          NUMBER,
+P_OBJID                                         NUMBER,
+P_LOG_TITLE                                     VARCHAR2(255),
+P_DETAILS                                       VARCHAR2(255),
+P_PROGRAM_NAME                                  VARCHAR2(500),
+P_NICKNAME                                      VARCHAR2(255),
+P_ESN                                           VARCHAR2(30),
+P_AGENT_NAME                                    VARCHAR2(30),
+P_SOURCESYSTEM                                  VARCHAR2(30),
+P_BILLING_LOG2WEB_USER                          NUMBER,
+P_CHANNEL_NAME                                  VARCHAR2(30),
+P_CHANNEL_MESSAGE_ID                            VARCHAR2(255),
+P_SENT_DATE                                     DATE,
+P_UPDATE_STATUS                                 VARCHAR2(1),
+P_MESSAGE                                       VARCHAR2(4000),
+P_NTFY_SENT2TRANS_LOG                           NUMBER,
+P_BATCH2TRANS_LOG                               NUMBER,
+P_CHANNEL_TYPE                                  VARCHAR2(255));
+/

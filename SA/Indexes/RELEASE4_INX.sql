@@ -1,0 +1,1 @@
+CREATE INDEX sa.release4_inx ON sa.release5(objid);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_unlock_buyback_pkg FOR sa.adfcrm_unlock_buyback_pkg;

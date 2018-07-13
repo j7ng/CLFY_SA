@@ -1,0 +1,15 @@
+GRANT DELETE ON sa.x_sme_2mobileuser_b TO cbo;
+GRANT DELETE ON sa.x_sme_2mobileuser_b TO clarify_user;
+GRANT DELETE ON sa.x_sme_2mobileuser_b TO role_sa_update;
+GRANT INSERT ON sa.x_sme_2mobileuser_b TO cbo;
+GRANT INSERT ON sa.x_sme_2mobileuser_b TO clarify_user;
+GRANT INSERT ON sa.x_sme_2mobileuser_b TO role_sa_update;
+GRANT SELECT ON sa.x_sme_2mobileuser_b TO cbo;
+GRANT SELECT ON sa.x_sme_2mobileuser_b TO clarify_user;
+GRANT SELECT ON sa.x_sme_2mobileuser_b TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_sme_2mobileuser_b TO role_sa_select;
+GRANT SELECT ON sa.x_sme_2mobileuser_b TO role_sa_update;
+GRANT SELECT ON sa.x_sme_2mobileuser_b TO role_tf_select;
+GRANT UPDATE ON sa.x_sme_2mobileuser_b TO cbo;
+GRANT UPDATE ON sa.x_sme_2mobileuser_b TO clarify_user;
+GRANT UPDATE ON sa.x_sme_2mobileuser_b TO role_sa_update;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_demand_dtl33_part_inst13 FOR sa.mtm_demand_dtl33_part_inst13;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_posa_inv_objid_u1 ON sa.table_x_posa_card_inv(objid);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.dist_index_di_id ON sa.table_dist_index(data_id,data_type,dist_index2srvr);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.temp_ota_pend_043009 TO dbit_mtoribiolopez;

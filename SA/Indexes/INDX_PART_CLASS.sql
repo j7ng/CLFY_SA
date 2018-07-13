@@ -1,0 +1,1 @@
+CREATE INDEX sa.indx_part_class ON sa.table_part_num(part_num2part_class);

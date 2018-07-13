@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_adfcrm_activity_log TO PUBLIC;

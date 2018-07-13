@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_module FOR sa.table_module;

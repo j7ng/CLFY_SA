@@ -1,0 +1,1 @@
+CREATE INDEX sa.indx_pymt_src_cc ON sa.x_payment_source(pymt_src2x_credit_card);

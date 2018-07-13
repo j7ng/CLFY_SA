@@ -1,0 +1,1 @@
+CREATE INDEX sa.deact_reason_config_idx2 ON sa.x_deact_reason_config(esn_status_code);

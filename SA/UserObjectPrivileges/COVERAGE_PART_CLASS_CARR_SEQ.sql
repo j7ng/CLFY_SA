@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.coverage_part_class_carr_seq TO PUBLIC;

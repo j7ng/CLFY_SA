@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_metrx_pen_pend TO PUBLIC;

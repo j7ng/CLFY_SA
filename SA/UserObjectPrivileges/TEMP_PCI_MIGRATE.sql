@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.temp_pci_migrate TO dbit_mtoribiolopez;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM process_order_type_tab FOR sa.process_order_type_tab;

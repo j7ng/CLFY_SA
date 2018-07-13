@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.bin_role_role_index ON sa.table_bin_role(bin_role2part_used,bin_role2inv_bin,staged_as);

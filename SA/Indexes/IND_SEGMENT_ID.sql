@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_segment_id ON sa.x_segmentation(segmentation_id);

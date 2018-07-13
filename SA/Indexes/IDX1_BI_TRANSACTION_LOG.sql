@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_bi_transaction_log ON sa.x_bi_transaction_log(esn);

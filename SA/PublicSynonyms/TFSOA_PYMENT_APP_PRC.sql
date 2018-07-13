@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tfsoa_pyment_app_prc FOR sa.tfsoa_pyment_app_prc;

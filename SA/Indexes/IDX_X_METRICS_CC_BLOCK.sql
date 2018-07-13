@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_metrics_cc_block ON sa.x_metrics_cc_block(objid);

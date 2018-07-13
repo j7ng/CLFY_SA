@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_chargeback_trans ON sa.x_chargeback_trans(objid);

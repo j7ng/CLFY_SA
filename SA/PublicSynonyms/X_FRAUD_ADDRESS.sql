@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_fraud_address FOR sa.x_fraud_address;

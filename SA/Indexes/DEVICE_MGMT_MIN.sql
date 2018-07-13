@@ -1,0 +1,1 @@
+CREATE INDEX sa.device_mgmt_min ON sa.x_device_mgmt(x_min);

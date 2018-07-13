@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_menu_bar FOR sa.table_menu_bar;

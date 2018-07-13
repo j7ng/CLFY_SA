@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.appointment_objindex ON sa.table_appointment(objid);

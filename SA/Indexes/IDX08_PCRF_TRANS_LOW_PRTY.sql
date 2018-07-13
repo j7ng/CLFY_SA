@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx08_pcrf_trans_low_prty ON sa.x_pcrf_trans_low_prty(pcrf_status_code,"TEMPLATE");

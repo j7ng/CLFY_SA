@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.sys_c00603627 ON sa.x_functions(x_func_objid);

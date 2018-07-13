@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_interact_mobile ON sa.table_interact(mobile_phone,s_reason_1,start_date);

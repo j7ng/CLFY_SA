@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_job_pending_activations_sm TO dbit_mtoribiolopez;

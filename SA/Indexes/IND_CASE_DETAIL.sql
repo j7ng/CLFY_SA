@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_case_detail ON sa.table_x_case_detail(detail2case);

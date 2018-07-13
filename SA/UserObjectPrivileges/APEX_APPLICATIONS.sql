@@ -1,0 +1,1 @@
+GRANT SELECT ON apex_040000.apex_applications TO sa;

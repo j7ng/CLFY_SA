@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_merch_ref_no TO PUBLIC;

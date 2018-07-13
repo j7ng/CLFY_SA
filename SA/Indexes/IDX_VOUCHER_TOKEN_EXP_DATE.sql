@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_voucher_token_exp_date ON sa.x_voucher_access_token(x_token_id,x_expiration_date);

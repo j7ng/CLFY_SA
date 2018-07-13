@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_sm_web_accounts FOR sa.x_sm_web_accounts;

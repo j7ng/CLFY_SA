@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_search_limits FOR sa.table_search_limits;

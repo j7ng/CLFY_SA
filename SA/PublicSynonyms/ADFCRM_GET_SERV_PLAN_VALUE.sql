@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_get_serv_plan_value FOR sa.adfcrm_get_serv_plan_value;

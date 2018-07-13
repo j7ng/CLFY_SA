@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_brm_act_pre_validation FOR sa.adfcrm_brm_act_pre_validation;

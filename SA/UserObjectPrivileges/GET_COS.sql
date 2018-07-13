@@ -1,0 +1,14 @@
+GRANT EXECUTE ON sa.get_cos TO cbo;
+GRANT EXECUTE ON sa.get_cos TO clarify_administrator;
+GRANT EXECUTE ON sa.get_cos TO clarify_user;
+GRANT EXECUTE ON sa.get_cos TO csrcbo;
+GRANT EXECUTE ON sa.get_cos TO gw1;
+GRANT EXECUTE ON sa.get_cos TO igate_batch;
+GRANT EXECUTE ON sa.get_cos TO itquser_data;
+GRANT EXECUTE ON sa.get_cos TO role_report_select;
+GRANT EXECUTE ON sa.get_cos TO role_sa_select;
+GRANT EXECUTE ON sa.get_cos TO role_sa_update;
+GRANT EXECUTE ON sa.get_cos TO role_tf_select;
+GRANT EXECUTE ON sa.get_cos TO soacbo;
+GRANT EXECUTE ON sa.get_cos TO w3ci;
+GRANT EXECUTE ON sa.get_cos TO webcbo;

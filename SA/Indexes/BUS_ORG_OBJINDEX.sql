@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.bus_org_objindex ON sa.table_bus_org(objid);

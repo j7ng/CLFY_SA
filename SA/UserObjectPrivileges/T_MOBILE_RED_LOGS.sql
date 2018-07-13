@@ -1,0 +1,13 @@
+GRANT EXECUTE ON sa.t_mobile_red_logs TO cbo;
+GRANT EXECUTE ON sa.t_mobile_red_logs TO clarify_administrator;
+GRANT EXECUTE ON sa.t_mobile_red_logs TO clarify_user;
+GRANT EXECUTE ON sa.t_mobile_red_logs TO csrcbo;
+GRANT EXECUTE ON sa.t_mobile_red_logs TO igate_batch;
+GRANT EXECUTE ON sa.t_mobile_red_logs TO itquser_data;
+GRANT EXECUTE ON sa.t_mobile_red_logs TO mobapp_data;
+GRANT EXECUTE ON sa.t_mobile_red_logs TO role_report_select;
+GRANT EXECUTE ON sa.t_mobile_red_logs TO role_sa_select;
+GRANT EXECUTE ON sa.t_mobile_red_logs TO role_sa_update;
+GRANT EXECUTE ON sa.t_mobile_red_logs TO role_tf_select;
+GRANT EXECUTE ON sa.t_mobile_red_logs TO soacbo;
+GRANT EXECUTE ON sa.t_mobile_red_logs TO webcbo;

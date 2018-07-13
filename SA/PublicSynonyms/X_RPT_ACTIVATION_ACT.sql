@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_rpt_activation_act FOR sa.x_rpt_activation_act;

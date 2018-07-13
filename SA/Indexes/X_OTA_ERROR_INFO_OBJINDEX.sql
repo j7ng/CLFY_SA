@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_ota_error_info_objindex ON sa.table_x_ota_error_info(objid);

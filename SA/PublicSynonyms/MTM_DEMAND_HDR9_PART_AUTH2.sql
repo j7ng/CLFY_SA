@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_demand_hdr9_part_auth2 FOR sa.mtm_demand_hdr9_part_auth2;

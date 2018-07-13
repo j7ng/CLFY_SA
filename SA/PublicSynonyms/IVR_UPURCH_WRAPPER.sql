@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ivr_upurch_wrapper FOR sa.ivr_upurch_wrapper;

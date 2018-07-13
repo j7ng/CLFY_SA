@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_subc_wip2wipbin ON sa.table_subcase(subc_wip2wipbin);

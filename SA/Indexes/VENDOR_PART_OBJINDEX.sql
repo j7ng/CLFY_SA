@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.vendor_part_objindex ON sa.table_vendor_part(objid);

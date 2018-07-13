@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ild_reg_tab FOR sa.ild_reg_tab;

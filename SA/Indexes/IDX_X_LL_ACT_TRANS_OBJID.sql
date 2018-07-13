@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_ll_act_trans_objid ON sa.x_lifeline_action_trans(objid);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.act_entry_objindex ON sa.table_act_entry(objid);

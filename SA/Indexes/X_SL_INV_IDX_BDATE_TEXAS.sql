@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_sl_inv_idx_bdate_texas ON sa.x_sl_invoice(x_batch_date,x_texas);

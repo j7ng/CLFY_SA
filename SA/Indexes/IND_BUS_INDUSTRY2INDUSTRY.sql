@@ -1,0 +1,2 @@
+CREATE INDEX sa.ind_bus_industry2industry ON sa.mtm_bus_org13_industry0(bus_industry2industry,bus_industry2bus_org)
+INVISIBLE;

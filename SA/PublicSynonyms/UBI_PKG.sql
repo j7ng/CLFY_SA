@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ubi_pkg FOR sa.ubi_pkg;

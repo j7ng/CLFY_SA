@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.gsm_serial_no_seq;

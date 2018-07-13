@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.email_log_objindex ON sa.table_email_log(objid);

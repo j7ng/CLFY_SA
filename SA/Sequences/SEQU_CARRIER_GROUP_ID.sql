@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_carrier_group_id;

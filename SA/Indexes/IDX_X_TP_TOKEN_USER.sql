@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_tp_token_user ON sa.x_thirdparty_token(x_user_name);

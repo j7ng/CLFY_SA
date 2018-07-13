@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_proc_inst FOR sa.table_proc_inst;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_settlements_history4 ON sa.x_settlements_history(entity_no);

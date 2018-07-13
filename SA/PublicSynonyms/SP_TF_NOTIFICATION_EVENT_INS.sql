@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sp_tf_notification_event_ins FOR sa.sp_tf_notification_event_ins;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_ota_admin_resend FOR sa.x_ota_admin_resend;

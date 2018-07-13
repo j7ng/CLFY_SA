@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_mvne_request_idx5 ON sa.x_mvne_request(x_sim);

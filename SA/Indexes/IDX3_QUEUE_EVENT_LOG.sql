@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx3_queue_event_log ON sa.x_queue_event_log("MIN");

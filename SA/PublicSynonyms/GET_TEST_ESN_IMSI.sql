@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM get_test_esn_imsi FOR sa.get_test_esn_imsi;

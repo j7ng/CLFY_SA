@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_case_status_chg2case ON sa.table_status_chg(case_status_chg2case);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wex_bp_open_orders FOR sa.wex_bp_open_orders;

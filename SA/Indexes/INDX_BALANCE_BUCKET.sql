@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.indx_balance_bucket ON sa.x_swb_tx_balance_bucket(objid);

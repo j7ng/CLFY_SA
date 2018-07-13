@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_axfprops_old TO PUBLIC;

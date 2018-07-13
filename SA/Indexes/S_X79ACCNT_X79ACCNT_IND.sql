@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.s_x79accnt_x79accnt_ind ON sa.table_x79accnt(server_id,s_name);

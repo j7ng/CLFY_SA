@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_ff_center_old TO PUBLIC;

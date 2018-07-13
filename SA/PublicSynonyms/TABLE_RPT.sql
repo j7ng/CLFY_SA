@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_rpt FOR sa.table_rpt;

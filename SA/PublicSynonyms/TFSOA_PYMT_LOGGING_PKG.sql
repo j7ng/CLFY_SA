@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tfsoa_pymt_logging_pkg FOR sa.tfsoa_pymt_logging_pkg;

@@ -1,0 +1,1 @@
+GRANT SELECT ON apex_040000.apex_workspace_clicks TO sa;

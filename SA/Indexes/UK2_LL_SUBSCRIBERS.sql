@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.uk2_ll_subscribers ON sa.ll_subscribers(current_min);

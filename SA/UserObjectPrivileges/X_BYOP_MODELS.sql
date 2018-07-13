@@ -1,0 +1,13 @@
+GRANT SELECT ON sa.x_byop_models TO cbo;
+GRANT SELECT ON sa.x_byop_models TO clarify_administrator;
+GRANT SELECT ON sa.x_byop_models TO clarify_user;
+GRANT SELECT ON sa.x_byop_models TO corecbo;
+GRANT SELECT ON sa.x_byop_models TO csrcbo;
+GRANT SELECT ON sa.x_byop_models TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_byop_models TO igate_batch;
+GRANT SELECT ON sa.x_byop_models TO role_report_select;
+GRANT SELECT ON sa.x_byop_models TO role_sa_select;
+GRANT SELECT ON sa.x_byop_models TO role_sa_update;
+GRANT SELECT ON sa.x_byop_models TO role_tf_select;
+GRANT SELECT ON sa.x_byop_models TO soacbo;
+GRANT SELECT ON sa.x_byop_models TO webcbo;

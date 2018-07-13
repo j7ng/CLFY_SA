@@ -1,0 +1,1 @@
+CREATE INDEX sa.ix3_pcrf_trans_detail_low_prty ON sa.x_pcrf_trans_detail_low_prty(pcrf_trans_low_prty_id,offer_id,redemption_date);

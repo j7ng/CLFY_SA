@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_solution_id TO PUBLIC;

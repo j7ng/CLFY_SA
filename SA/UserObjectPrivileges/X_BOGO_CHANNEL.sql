@@ -1,0 +1,16 @@
+GRANT SELECT ON sa.x_bogo_channel TO cbo;
+GRANT SELECT ON sa.x_bogo_channel TO clarify_administrator;
+GRANT SELECT ON sa.x_bogo_channel TO clarify_user;
+GRANT SELECT ON sa.x_bogo_channel TO csrcbo;
+GRANT SELECT ON sa.x_bogo_channel TO dbbu_oartigas;
+GRANT SELECT ON sa.x_bogo_channel TO gw1;
+GRANT SELECT ON sa.x_bogo_channel TO igate_batch;
+GRANT SELECT ON sa.x_bogo_channel TO role_carrier_ops;
+GRANT SELECT ON sa.x_bogo_channel TO role_report_select;
+GRANT SELECT ON sa.x_bogo_channel TO role_sa_select;
+GRANT SELECT ON sa.x_bogo_channel TO role_sa_update;
+GRANT SELECT ON sa.x_bogo_channel TO role_tf_select;
+GRANT SELECT ON sa.x_bogo_channel TO select_role;
+GRANT SELECT ON sa.x_bogo_channel TO soacbo;
+GRANT SELECT ON sa.x_bogo_channel TO w3ci;
+GRANT SELECT ON sa.x_bogo_channel TO webcbo;

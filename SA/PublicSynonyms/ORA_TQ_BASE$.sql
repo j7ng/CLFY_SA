@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ora_tq_base$ FOR sa.ora_tq_base$;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.to_do_entry_todo_entry_index ON sa.table_to_do_entry(to_do_entry2act_entry,to_do_entry2dist_obj);

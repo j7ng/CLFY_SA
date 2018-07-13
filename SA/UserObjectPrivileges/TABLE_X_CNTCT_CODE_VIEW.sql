@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.table_x_cntct_code_view TO dbit_mtoribiolopez;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79srvc_role_x79srvc_role_ind ON sa.table_x79srvc_role(server_id,service2x79service,spt_role2x79service,role_name);

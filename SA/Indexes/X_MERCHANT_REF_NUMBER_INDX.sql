@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_merchant_ref_number_indx ON sa.x_dp_payment_logs(insert_date);

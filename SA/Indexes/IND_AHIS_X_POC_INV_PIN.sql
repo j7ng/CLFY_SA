@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_ahis_x_poc_inv_pin ON sa.tstahis_x_posa_card_inv(x_red_code);

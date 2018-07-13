@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.is_shippable TO itquser_data;

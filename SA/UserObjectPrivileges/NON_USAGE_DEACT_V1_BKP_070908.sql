@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.non_usage_deact_v1_bkp_070908 TO dbit_mtoribiolopez;

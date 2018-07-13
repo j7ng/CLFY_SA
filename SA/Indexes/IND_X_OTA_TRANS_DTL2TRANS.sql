@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_x_ota_trans_dtl2trans ON sa.table_x_ota_trans_dtl(x_ota_trans_dtl2x_ota_trans);

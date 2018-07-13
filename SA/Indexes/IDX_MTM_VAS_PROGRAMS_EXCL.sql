@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_mtm_vas_programs_excl ON sa.mtm_vas_handset_exclusion(vas_programs_objid);

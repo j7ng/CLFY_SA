@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_gtt_posa_card_inv ON sa.gtt_posa_card_inv(x_part_serial_no,x_domain);

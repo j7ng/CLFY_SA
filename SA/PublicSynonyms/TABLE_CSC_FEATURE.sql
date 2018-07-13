@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_csc_feature FOR sa.table_csc_feature;

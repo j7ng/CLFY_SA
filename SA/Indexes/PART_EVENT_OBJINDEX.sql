@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.part_event_objindex ON sa.table_part_event(objid);

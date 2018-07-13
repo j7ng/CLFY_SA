@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_external_account ON sa.x_sl_subs(x_external_account);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_ez_enrollment_esn ON sa.table_x_ez_enrollment(x_esn);

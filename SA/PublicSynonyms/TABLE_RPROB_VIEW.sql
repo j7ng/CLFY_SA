@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_rprob_view FOR sa.table_rprob_view;

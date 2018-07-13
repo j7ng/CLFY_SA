@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_c_install_part FOR sa.table_c_install_part;

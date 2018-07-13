@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.rqst_queue_objindex ON sa.table_rqst_queue(objid);

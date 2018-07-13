@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_gsm_mnc_objindex ON sa.table_x_gsm_mnc(objid);

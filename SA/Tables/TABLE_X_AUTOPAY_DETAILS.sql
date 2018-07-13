@@ -1,0 +1,26 @@
+CREATE TABLE sa.table_x_autopay_details (
+  objid NUMBER,
+  x_creation_date DATE,
+  x_esn VARCHAR2(15 BYTE),
+  x_program_type NUMBER,
+  x_account_status NUMBER,
+  x_status VARCHAR2(1 BYTE),
+  x_start_date DATE,
+  x_end_date DATE,
+  x_cycle_number VARCHAR2(10 BYTE),
+  x_program_name VARCHAR2(25 BYTE),
+  x_enroll_date DATE,
+  x_first_name VARCHAR2(30 BYTE),
+  x_last_name VARCHAR2(30 BYTE),
+  x_receive_status VARCHAR2(1 BYTE),
+  x_promocode VARCHAR2(5 BYTE),
+  x_enroll_amount NUMBER(10,2),
+  x_source VARCHAR2(3 BYTE),
+  x_language_flag VARCHAR2(7 BYTE),
+  x_payment_type VARCHAR2(6 BYTE),
+  x_modify_stmp DATE,
+  x_autopay_details2site_part NUMBER,
+  x_autopay_details2x_part_inst NUMBER,
+  x_autopay_details2contact NUMBER
+);
+ALTER TABLE sa.table_x_autopay_details ADD SUPPLEMENTAL LOG GROUP dmtsora732854131_0 (objid, x_account_status, x_autopay_details2contact, x_autopay_details2site_part, x_autopay_details2x_part_inst, x_creation_date, x_cycle_number, x_end_date, x_enroll_amount, x_enroll_date, x_esn, x_first_name, x_language_flag, x_last_name, x_modify_stmp, x_payment_type, x_program_name, x_program_type, x_promocode, x_receive_status, x_source, x_start_date, x_status) ALWAYS;

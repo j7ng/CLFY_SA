@@ -1,0 +1,1 @@
+CREATE INDEX sa.xerox_response_log_n3 ON sa.xerox_response_log(x_source);

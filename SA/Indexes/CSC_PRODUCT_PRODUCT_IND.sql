@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.csc_product_product_ind ON sa.table_csc_product(server_id,"NAME","VERSION",prod2csc_part);

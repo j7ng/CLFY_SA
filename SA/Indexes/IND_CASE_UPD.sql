@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_case_upd ON sa.sn_case_updates(esn);

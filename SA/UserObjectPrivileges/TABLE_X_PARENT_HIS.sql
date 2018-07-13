@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.table_x_parent_his TO dbit_mtoribiolopez;

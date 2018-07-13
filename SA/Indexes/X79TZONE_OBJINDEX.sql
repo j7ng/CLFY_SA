@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79tzone_objindex ON sa.table_x79tzone(objid);

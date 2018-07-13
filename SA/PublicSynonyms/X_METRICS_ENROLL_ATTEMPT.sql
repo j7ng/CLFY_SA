@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_metrics_enroll_attempt FOR sa.x_metrics_enroll_attempt;

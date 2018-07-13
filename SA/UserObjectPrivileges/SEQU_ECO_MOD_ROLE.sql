@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_eco_mod_role TO PUBLIC;

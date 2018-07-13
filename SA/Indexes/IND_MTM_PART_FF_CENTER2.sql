@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_mtm_part_ff_center2 ON sa.mtm_part_num22_x_ff_center2(part_num2ff_center,ff_center2part_num);

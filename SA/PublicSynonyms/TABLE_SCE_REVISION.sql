@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_sce_revision FOR sa.table_sce_revision;

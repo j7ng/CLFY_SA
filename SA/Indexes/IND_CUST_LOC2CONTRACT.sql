@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_cust_loc2contract ON sa.mtm_site5_contract0(cust_loc2contract);

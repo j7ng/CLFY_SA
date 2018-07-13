@@ -1,0 +1,1 @@
+CREATE INDEX sa.esn_to_alert_id1 ON sa.esn_to_alert(alert_objid);

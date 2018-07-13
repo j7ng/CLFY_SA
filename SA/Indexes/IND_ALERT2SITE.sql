@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_alert2site ON sa.table_alert(alert2site);

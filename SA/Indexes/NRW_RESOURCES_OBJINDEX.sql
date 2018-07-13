@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.nrw_resources_objindex ON sa.table_nrw_resources(objid);

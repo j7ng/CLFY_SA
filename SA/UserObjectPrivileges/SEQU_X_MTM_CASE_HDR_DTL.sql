@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_mtm_case_hdr_dtl TO PUBLIC;

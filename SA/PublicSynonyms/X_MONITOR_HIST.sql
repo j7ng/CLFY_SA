@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_monitor_hist FOR sa.x_monitor_hsit;

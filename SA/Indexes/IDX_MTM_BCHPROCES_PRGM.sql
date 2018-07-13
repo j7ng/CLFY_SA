@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_mtm_bchproces_prgm ON sa.mtm_batch_process_type(x_prgm_objid,x_priority);

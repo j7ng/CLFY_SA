@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_terr_defn FOR sa.table_terr_defn;

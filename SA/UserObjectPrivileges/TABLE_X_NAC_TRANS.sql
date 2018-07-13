@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.table_x_nac_trans TO dbit_mtoribiolopez;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_param_hist TO PUBLIC;

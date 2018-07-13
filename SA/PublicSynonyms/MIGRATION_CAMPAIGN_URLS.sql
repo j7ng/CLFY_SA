@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM migration_campaign_urls FOR sa.migration_campaign_urls;

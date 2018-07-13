@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.create_new_part_class TO script_manager;

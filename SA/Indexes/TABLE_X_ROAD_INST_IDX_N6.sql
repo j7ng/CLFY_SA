@@ -1,0 +1,1 @@
+CREATE INDEX sa.table_x_road_inst_idx_n6 ON sa.table_x_road_inst(x_red_code);

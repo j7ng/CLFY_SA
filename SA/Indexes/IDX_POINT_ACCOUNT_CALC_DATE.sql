@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_point_account_calc_date ON sa.table_x_point_account(x_last_calc_date);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.indx_mtm_cos_partclass_carrier ON sa.mtm_cos_partclass_carrier(objid);

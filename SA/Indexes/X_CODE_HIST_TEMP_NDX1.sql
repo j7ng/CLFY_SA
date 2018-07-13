@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_code_hist_temp_ndx1 ON sa.table_x_code_hist_temp(x_code_temp2x_call_trans);

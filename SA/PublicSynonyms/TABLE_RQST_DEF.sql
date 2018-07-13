@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_rqst_def FOR sa.table_rqst_def;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.schedule_objindex ON sa.table_schedule(objid);

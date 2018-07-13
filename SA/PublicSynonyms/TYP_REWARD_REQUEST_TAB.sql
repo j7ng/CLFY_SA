@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM typ_reward_request_tab FOR sa.typ_reward_request_tab;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.eco_dtl_objindex ON sa.table_eco_dtl(objid);

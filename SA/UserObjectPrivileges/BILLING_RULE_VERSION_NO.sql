@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.billing_rule_version_no TO PUBLIC;

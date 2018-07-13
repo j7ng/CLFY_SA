@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM get_wfm_migrated_ban FOR sa.get_wfm_migrated_ban;

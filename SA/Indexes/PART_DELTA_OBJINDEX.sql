@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.part_delta_objindex ON sa.table_part_delta(objid);

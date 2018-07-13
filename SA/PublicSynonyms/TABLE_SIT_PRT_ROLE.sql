@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_sit_prt_role FOR sa.table_sit_prt_role;

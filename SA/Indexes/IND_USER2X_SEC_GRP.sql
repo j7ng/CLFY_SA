@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_user2x_sec_grp ON sa.mtm_user125_x_sec_grp1(user2x_sec_grp);

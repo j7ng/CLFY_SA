@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.trnd_title_index ON sa.table_trnd(title);

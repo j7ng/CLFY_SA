@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ctx_obj_db_objindex ON sa.table_ctx_obj_db(objid);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_ahis_x_poc_inv_seri ON sa.tstahis_x_posa_card_inv(x_part_serial_no,x_domain);

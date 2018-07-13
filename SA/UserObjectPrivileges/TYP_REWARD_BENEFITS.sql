@@ -1,0 +1,13 @@
+GRANT EXECUTE ON sa.typ_reward_benefits TO cbo;
+GRANT EXECUTE ON sa.typ_reward_benefits TO clarify_administrator;
+GRANT EXECUTE ON sa.typ_reward_benefits TO clarify_user;
+GRANT EXECUTE ON sa.typ_reward_benefits TO corecbo;
+GRANT EXECUTE ON sa.typ_reward_benefits TO csrcbo;
+GRANT EXECUTE ON sa.typ_reward_benefits TO gw1;
+GRANT EXECUTE ON sa.typ_reward_benefits TO report;
+GRANT EXECUTE ON sa.typ_reward_benefits TO role_report_select;
+GRANT EXECUTE ON sa.typ_reward_benefits TO role_sa_select;
+GRANT EXECUTE ON sa.typ_reward_benefits TO role_sa_update;
+GRANT EXECUTE ON sa.typ_reward_benefits TO role_tf_select;
+GRANT EXECUTE ON sa.typ_reward_benefits TO soacbo;
+GRANT EXECUTE ON sa.typ_reward_benefits TO webcbo;

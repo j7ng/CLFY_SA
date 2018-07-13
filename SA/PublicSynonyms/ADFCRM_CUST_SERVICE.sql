@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_cust_service FOR sa.adfcrm_cust_service;

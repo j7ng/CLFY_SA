@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_case_resrch2case ON sa.table_resrch_log(case_resrch2case);

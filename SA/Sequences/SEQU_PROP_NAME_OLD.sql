@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_prop_name_old;

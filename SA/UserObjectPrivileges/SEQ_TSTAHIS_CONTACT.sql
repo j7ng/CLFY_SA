@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_tstahis_contact TO dbit_mtoribiolopez;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_keyphrase5_prog_logic2 FOR sa.mtm_keyphrase5_prog_logic2;

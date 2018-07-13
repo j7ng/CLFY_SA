@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_ahis_x_sim_inv_obj ON sa.tstahis_table_x_sim_inv(x_sim_inv_hist2x_sim_inv);

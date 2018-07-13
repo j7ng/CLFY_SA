@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tf_dynamicparam_datatab FOR sa.tf_dynamicparam_datatab;

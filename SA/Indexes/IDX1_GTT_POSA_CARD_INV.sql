@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_gtt_posa_card_inv ON sa.gtt_posa_card_inv(x_red_code);

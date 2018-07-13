@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_ben_keys ON sa.x_reward_benefit(program_name,benefit_type_code,brand,benefit_owner);

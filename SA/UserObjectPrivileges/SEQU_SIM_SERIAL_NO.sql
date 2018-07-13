@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_sim_serial_no TO dbit_mtoribiolopez;

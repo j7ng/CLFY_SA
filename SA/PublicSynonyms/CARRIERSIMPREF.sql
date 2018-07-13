@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM carriersimpref FOR sa.carriersimpref;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM seq_ped_payment FOR sa.seq_ped_payment;

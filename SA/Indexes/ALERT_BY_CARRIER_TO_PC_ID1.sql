@@ -1,0 +1,1 @@
+CREATE INDEX sa.alert_by_carrier_to_pc_id1 ON sa.alert_by_carrier_to_pc(carrier_alert_objid);

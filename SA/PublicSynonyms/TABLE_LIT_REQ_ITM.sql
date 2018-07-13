@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_lit_req_itm FOR sa.table_lit_req_itm;

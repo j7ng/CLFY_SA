@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.medium_medium_ind ON sa.table_medium("TYPE",locale);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.s_skill_skill_ind ON sa.table_skill(s_name);

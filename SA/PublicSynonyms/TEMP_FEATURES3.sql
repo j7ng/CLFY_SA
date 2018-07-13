@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM temp_features3 FOR sa.temp_features3;

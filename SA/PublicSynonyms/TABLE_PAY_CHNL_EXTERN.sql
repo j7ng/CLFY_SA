@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_pay_chnl_extern FOR sa.table_pay_chnl_extern;

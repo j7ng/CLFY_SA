@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_entry_time ON sa.table_act_entry(entry_time);

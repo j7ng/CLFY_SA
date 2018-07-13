@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.inv_ctrl_inv_ctrl_ind ON sa.table_inv_ctrl(control_id);

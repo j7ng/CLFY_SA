@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_not_certify_models TO PUBLIC;

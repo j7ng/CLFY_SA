@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_interact_serial_num ON sa.table_interact(serial_no);

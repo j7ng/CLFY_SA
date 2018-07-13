@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_competitors_objindex ON sa.table_n_competitors(objid);

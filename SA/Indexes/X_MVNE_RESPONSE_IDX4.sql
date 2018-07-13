@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_mvne_response_idx4 ON sa.x_mvne_response(x_ct_objid);

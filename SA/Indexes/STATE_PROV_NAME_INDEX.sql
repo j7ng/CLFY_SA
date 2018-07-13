@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.state_prov_name_index ON sa.table_state_prov(state_prov2country,"NAME");

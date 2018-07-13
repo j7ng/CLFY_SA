@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_multi_rate_plan_esns FOR sa.x_multi_rate_plan_esns;

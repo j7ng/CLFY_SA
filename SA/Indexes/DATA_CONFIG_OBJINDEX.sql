@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.data_config_objindex ON sa.table_x_data_config(objid);

@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.ticker_history_seq;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.security_access TO dbit_mtoribiolopez;

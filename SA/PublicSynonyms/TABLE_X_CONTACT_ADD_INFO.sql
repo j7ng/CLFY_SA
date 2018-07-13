@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_contact_add_info FOR sa.table_x_contact_add_info;

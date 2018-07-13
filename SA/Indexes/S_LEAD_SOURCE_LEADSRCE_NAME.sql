@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.s_lead_source_leadsrce_name ON sa.table_lead_source(source2campaign,s_name);

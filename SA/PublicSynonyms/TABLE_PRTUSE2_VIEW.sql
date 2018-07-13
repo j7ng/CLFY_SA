@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_prtuse2_view FOR sa.table_prtuse2_view;

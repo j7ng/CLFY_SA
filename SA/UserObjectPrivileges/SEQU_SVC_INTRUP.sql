@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_svc_intrup TO PUBLIC;

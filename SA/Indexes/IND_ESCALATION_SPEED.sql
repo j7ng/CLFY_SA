@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_escalation_speed ON sa.table_x_escalation_speed(speed2escalation);

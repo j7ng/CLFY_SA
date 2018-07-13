@@ -1,0 +1,9 @@
+GRANT DELETE ON sa.mult_site_part TO role_sa_update;
+GRANT INSERT ON sa.mult_site_part TO role_sa_update;
+GRANT SELECT ON sa.mult_site_part TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.mult_site_part TO role_sa_select;
+GRANT SELECT ON sa.mult_site_part TO role_sa_update;
+GRANT SELECT ON sa.mult_site_part TO role_tf_select;
+GRANT SELECT ON sa.mult_site_part TO select_no_pin;
+GRANT SELECT ON sa.mult_site_part TO select_role;
+GRANT UPDATE ON sa.mult_site_part TO role_sa_update;

@@ -1,0 +1,10 @@
+GRANT EXECUTE ON sa.ild_reg_tab TO cbo;
+GRANT EXECUTE ON sa.ild_reg_tab TO clarify_administrator;
+GRANT EXECUTE ON sa.ild_reg_tab TO clarify_user;
+GRANT EXECUTE ON sa.ild_reg_tab TO csrcbo;
+GRANT EXECUTE ON sa.ild_reg_tab TO gw1;
+GRANT EXECUTE ON sa.ild_reg_tab TO igate_batch;
+GRANT EXECUTE ON sa.ild_reg_tab TO role_sa_update;
+GRANT EXECUTE ON sa.ild_reg_tab TO soacbo;
+GRANT EXECUTE ON sa.ild_reg_tab TO w3ci;
+GRANT EXECUTE ON sa.ild_reg_tab TO webcbo;

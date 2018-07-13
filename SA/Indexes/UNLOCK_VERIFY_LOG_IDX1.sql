@@ -1,0 +1,1 @@
+CREATE INDEX sa.unlock_verify_log_idx1 ON sa.unlock_verify_log(esn);

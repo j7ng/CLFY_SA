@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx01_mtm_ct_spr_config ON sa.x_mtm_ct_spr_config(action_type);

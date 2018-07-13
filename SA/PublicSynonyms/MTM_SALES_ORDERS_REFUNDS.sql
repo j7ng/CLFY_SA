@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_sales_orders_refunds FOR sa.mtm_sales_orders_refunds;

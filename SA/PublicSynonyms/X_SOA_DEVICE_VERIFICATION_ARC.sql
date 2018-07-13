@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_soa_device_verification_arc FOR sa.x_soa_device_verification_arc;

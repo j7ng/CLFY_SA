@@ -1,0 +1,1 @@
+GRANT EXECUTE ON apex_040000.wwv_render_calendar2 TO sa;

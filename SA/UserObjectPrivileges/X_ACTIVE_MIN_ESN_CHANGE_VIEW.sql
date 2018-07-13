@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_active_min_esn_change_view TO dbit_mtoribiolopez;

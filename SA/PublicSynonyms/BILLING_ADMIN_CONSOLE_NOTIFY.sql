@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_admin_console_notify FOR sa.billing_admin_console_notify;

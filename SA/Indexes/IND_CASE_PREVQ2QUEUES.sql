@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_case_prevq2queues ON sa.table_case(case_prevq2queue);

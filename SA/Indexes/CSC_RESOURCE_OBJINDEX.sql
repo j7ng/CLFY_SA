@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.csc_resource_objindex ON sa.table_csc_resource(objid);

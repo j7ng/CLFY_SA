@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM safelink_services_pkg FOR sa.safelink_services_pkg;

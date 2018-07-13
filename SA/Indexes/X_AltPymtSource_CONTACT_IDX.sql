@@ -1,0 +1,1 @@
+CREATE INDEX sa."X_AltPymtSource_CONTACT_IDX" ON sa.table_x_altpymtsource(x_altpymtsource2contact);

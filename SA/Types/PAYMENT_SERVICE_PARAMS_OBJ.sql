@@ -1,0 +1,7 @@
+CREATE OR REPLACE type sa.payment_service_params_obj IS object
+(
+X_ICS_APPLICATIONS	VARCHAR2(150),
+X_AFS_FLAG	VARCHAR2(20),
+X_DAV_FLAG	VARCHAR2(20)
+);
+/

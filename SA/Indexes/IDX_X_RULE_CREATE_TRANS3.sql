@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_rule_create_trans3 ON sa.x_rule_create_trans(set_trans2rule_atm_mas);

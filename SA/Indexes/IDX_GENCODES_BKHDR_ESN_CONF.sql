@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_gencodes_bkhdr_esn_conf ON sa.x_gencodes_breakdown_header(x_esn,x_config_id);

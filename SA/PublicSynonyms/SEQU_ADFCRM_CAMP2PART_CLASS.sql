@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_adfcrm_camp2part_class FOR sa.sequ_adfcrm_camp2part_class;

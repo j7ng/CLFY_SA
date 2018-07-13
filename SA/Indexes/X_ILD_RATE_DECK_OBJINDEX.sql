@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_ild_rate_deck_objindex ON sa.table_x_ild_rate_deck(objid);

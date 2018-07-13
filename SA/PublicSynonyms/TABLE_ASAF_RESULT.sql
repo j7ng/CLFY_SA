@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_asaf_result FOR sa.table_asaf_result;

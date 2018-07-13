@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_mtl_log FOR sa.table_mtl_log;

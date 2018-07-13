@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_usr_opp_role FOR sa.table_usr_opp_role;

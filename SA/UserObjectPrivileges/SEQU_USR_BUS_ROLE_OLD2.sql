@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_usr_bus_role_old2 TO PUBLIC;

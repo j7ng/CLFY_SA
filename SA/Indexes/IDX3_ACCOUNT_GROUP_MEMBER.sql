@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx3_account_group_member ON sa.x_account_group_member(account_group_id,master_flag,UPPER("STATUS"));

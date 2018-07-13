@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_bundle_program_promo ON sa.x_bundle_program_promo(objid);

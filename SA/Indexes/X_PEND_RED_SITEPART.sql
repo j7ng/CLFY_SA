@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_pend_red_sitepart ON sa.table_x_pending_redemption(x_pend_red2site_part);

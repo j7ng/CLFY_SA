@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_bug_attch FOR sa.table_bug_attch;

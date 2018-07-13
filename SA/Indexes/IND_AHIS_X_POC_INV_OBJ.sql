@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_ahis_x_poc_inv_obj ON sa.tstahis_x_posa_card_inv(x_posa_card_inv_hist2x_pc_inv);

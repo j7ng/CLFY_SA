@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79part_x79part_ind ON sa.table_x79part(server_id,vendor,"NAME");

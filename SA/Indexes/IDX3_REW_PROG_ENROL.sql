@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx3_rew_prog_enrol ON sa.x_reward_program_enrollment(subscriber_id,enrollment_flag,enrollment_type,brand,program_name,benefit_type_code);

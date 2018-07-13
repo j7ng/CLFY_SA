@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.dbautl_table_x_click_plan_hist TO dbit_mtoribiolopez;

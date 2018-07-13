@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_forecast_item_id;

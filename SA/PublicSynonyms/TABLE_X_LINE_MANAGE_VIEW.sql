@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_line_manage_view FOR sa.table_x_line_manage_view;

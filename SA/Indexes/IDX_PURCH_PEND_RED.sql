@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_purch_pend_red ON sa.table_x_pending_redemption(pend_red2prog_purch_hdr);

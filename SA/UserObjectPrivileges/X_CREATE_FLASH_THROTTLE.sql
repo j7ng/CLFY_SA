@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_create_flash_throttle TO dbit_mtoribiolopez;

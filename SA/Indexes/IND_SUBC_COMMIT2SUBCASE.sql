@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_subc_commit2subcase ON sa.table_commit_log(subc_commit2subcase);

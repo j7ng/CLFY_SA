@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_pref_tech FOR sa.table_x_pref_tech;

@@ -1,0 +1,10 @@
+GRANT DELETE ON sa.adfcrm_gen_code_template TO clarify_user;
+GRANT INSERT ON sa.adfcrm_gen_code_template TO clarify_user;
+GRANT INSERT ON sa.adfcrm_gen_code_template TO role_sa_update;
+GRANT SELECT ON sa.adfcrm_gen_code_template TO clarify_user;
+GRANT SELECT ON sa.adfcrm_gen_code_template TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.adfcrm_gen_code_template TO role_sa_select;
+GRANT SELECT ON sa.adfcrm_gen_code_template TO role_sa_update;
+GRANT SELECT ON sa.adfcrm_gen_code_template TO role_tf_select;
+GRANT UPDATE ON sa.adfcrm_gen_code_template TO clarify_user;
+GRANT UPDATE ON sa.adfcrm_gen_code_template TO role_sa_update;

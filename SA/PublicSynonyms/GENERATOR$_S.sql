@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM generator$_s FOR sa.generator$_s;

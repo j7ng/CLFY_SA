@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_sui_vo FOR sa.adfcrm_sui_vo;

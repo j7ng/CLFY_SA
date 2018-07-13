@@ -1,0 +1,17 @@
+GRANT INSERT ON sa.paypal_stl TO dwreport;
+GRANT INSERT ON sa.paypal_stl TO etladmin;
+GRANT SELECT ON sa.paypal_stl TO cbo;
+GRANT SELECT ON sa.paypal_stl TO clarify_administrator;
+GRANT SELECT ON sa.paypal_stl TO clarify_user;
+GRANT SELECT ON sa.paypal_stl TO corecbo;
+GRANT SELECT ON sa.paypal_stl TO csrcbo;
+GRANT SELECT ON sa.paypal_stl TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.paypal_stl TO gw1;
+GRANT SELECT ON sa.paypal_stl TO role_report_select;
+GRANT SELECT ON sa.paypal_stl TO role_sa_select;
+GRANT SELECT ON sa.paypal_stl TO role_sa_update;
+GRANT SELECT ON sa.paypal_stl TO role_tf_select;
+GRANT SELECT ON sa.paypal_stl TO soacbo;
+GRANT SELECT ON sa.paypal_stl TO webcbo;
+GRANT UPDATE ON sa.paypal_stl TO dwreport;
+GRANT UPDATE ON sa.paypal_stl TO etladmin;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_monitor_phone ON sa.x_monitor(x_phone);

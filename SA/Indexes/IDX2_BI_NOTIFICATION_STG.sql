@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_bi_notification_stg ON sa.x_bi_notification_stg(balance_trans_id);

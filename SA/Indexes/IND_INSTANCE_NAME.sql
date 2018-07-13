@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_instance_name ON sa.table_site_part(instance_name);

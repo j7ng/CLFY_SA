@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_sl_data_feed_esn ON sa.safelink_data_feed(x_esn);

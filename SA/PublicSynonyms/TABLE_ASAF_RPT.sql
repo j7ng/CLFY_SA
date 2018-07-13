@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_asaf_rpt FOR sa.table_asaf_rpt;

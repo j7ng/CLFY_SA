@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.seq_tstahis_x_posa_card_inv CACHE 5;

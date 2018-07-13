@@ -1,0 +1,11 @@
+GRANT SELECT ON sa.tf_iday TO cbo;
+GRANT SELECT ON sa.tf_iday TO clarify_administrator;
+GRANT SELECT ON sa.tf_iday TO clarify_user;
+GRANT SELECT ON sa.tf_iday TO corecbo;
+GRANT SELECT ON sa.tf_iday TO csrcbo;
+GRANT SELECT ON sa.tf_iday TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.tf_iday TO role_report_select;
+GRANT SELECT ON sa.tf_iday TO role_sa_select;
+GRANT SELECT ON sa.tf_iday TO role_tf_select;
+GRANT SELECT ON sa.tf_iday TO soacbo;
+GRANT SELECT ON sa.tf_iday TO webcbo;

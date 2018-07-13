@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM apex_crm_pkg FOR sa.apex_crm_pkg;

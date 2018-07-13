@@ -1,0 +1,1 @@
+CREATE INDEX sa.stg_id_number ON sa.stg_vzw_wap_cases(id_number);

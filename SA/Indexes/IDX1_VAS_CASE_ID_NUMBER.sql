@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_vas_case_id_number ON sa.x_vas_subscriptions(case_id_number);

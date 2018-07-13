@@ -1,0 +1,26 @@
+CREATE TABLE sa.wms_manual_orders_process (
+  record_code VARCHAR2(30 BYTE),
+  tf_order_number VARCHAR2(255 BYTE),
+  transaction_type_code VARCHAR2(100 BYTE),
+  ref_num VARCHAR2(255 BYTE),
+  customer_number VARCHAR2(200 BYTE),
+  ship_to_name VARCHAR2(100 BYTE),
+  ship_to_address VARCHAR2(200 BYTE),
+  ship_to_city VARCHAR2(30 BYTE),
+  ship_to_state VARCHAR2(30 BYTE),
+  ship_to_zip VARCHAR2(20 BYTE),
+  location_code VARCHAR2(50 BYTE),
+  contact_to_name VARCHAR2(100 BYTE),
+  contact_to_phone VARCHAR2(20 BYTE),
+  store_number VARCHAR2(100 BYTE),
+  delivery_date VARCHAR2(30 BYTE),
+  line_number NUMBER,
+  tf_part_number VARCHAR2(40 BYTE),
+  quantity NUMBER,
+  case_title VARCHAR2(100 BYTE),
+  case_status VARCHAR2(80 BYTE),
+  ship_to_email VARCHAR2(100 BYTE),
+  x_migra2x_case NUMBER,
+  load_date DATE
+);
+ALTER TABLE sa.wms_manual_orders_process ADD SUPPLEMENTAL LOG GROUP dmtsora550704997_0 (case_status, case_title, contact_to_name, contact_to_phone, customer_number, delivery_date, line_number, load_date, location_code, quantity, record_code, ref_num, ship_to_address, ship_to_city, ship_to_email, ship_to_name, ship_to_state, ship_to_zip, store_number, tf_order_number, tf_part_number, transaction_type_code, x_migra2x_case) ALWAYS;

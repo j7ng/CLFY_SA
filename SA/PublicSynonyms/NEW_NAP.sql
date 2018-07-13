@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM new_nap FOR sa.new_nap;

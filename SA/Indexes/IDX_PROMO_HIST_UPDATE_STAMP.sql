@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_promo_hist_update_stamp ON sa.table_x_promo_hist(update_stamp);

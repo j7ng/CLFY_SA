@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.menu_item_menu_item_index ON sa.table_menu_item("NAME",menu_item2menu_bar);

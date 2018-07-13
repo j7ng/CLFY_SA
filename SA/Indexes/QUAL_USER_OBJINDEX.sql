@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.qual_user_objindex ON sa.table_qual_user(objid);

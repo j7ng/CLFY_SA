@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.rqst_skill_rqst_skill_ind ON sa.table_rqst_skill(rqst_skill2skill,rqst_skill2r_rqst);

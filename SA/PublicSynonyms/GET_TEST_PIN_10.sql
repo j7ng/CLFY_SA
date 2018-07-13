@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM get_test_pin_10 FOR sa.get_test_pin_10;

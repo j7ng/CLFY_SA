@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_x_stock_type ON sa.table_case(x_stock_type);

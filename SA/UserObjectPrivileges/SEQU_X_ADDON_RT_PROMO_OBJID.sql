@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_addon_rt_promo_objid TO PUBLIC;

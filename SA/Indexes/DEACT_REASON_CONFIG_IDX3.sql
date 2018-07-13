@@ -1,0 +1,1 @@
+CREATE INDEX sa.deact_reason_config_idx3 ON sa.x_deact_reason_config(sim_status_code);

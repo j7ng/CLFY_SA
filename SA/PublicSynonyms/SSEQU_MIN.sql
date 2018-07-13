@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ssequ_min FOR sa.sequ_min;

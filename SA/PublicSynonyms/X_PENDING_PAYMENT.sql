@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_pending_payment FOR sa.x_pending_payment;

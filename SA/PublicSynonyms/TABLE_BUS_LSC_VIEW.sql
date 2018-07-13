@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_bus_lsc_view FOR sa.table_bus_lsc_view;

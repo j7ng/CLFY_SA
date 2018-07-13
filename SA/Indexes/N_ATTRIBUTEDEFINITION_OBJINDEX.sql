@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_attributedefinition_objindex ON sa.table_n_attributedefinition(objid);

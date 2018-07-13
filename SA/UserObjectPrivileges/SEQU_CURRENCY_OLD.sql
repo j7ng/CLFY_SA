@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_currency_old TO PUBLIC;

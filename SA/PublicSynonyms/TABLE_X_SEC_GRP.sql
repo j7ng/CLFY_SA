@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_sec_grp FOR sa.table_x_sec_grp;

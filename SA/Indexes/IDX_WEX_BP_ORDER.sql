@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_wex_bp_order ON sa.wex_bp_open_orders(bp_order);

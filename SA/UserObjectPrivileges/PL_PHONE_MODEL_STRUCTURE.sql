@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.pl_phone_model_structure TO clarify_user;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM get_new_sim_byop FOR sa.get_new_sim_byop;

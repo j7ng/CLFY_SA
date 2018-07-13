@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_auth_stats TO PUBLIC;

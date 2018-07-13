@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_exc_bch_role TO PUBLIC;

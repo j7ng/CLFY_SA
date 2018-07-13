@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_spart_site_srole FOR sa.table_spart_site_srole;

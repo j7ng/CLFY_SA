@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_log_info FOR sa.table_log_info;

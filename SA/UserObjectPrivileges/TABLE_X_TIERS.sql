@@ -1,0 +1,12 @@
+GRANT SELECT ON sa.table_x_tiers TO cbo;
+GRANT SELECT ON sa.table_x_tiers TO clarify_administrator;
+GRANT SELECT ON sa.table_x_tiers TO clarify_user;
+GRANT SELECT ON sa.table_x_tiers TO csrcbo;
+GRANT SELECT ON sa.table_x_tiers TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.table_x_tiers TO gw1;
+GRANT SELECT ON sa.table_x_tiers TO role_report_select;
+GRANT SELECT ON sa.table_x_tiers TO role_sa_select;
+GRANT SELECT ON sa.table_x_tiers TO role_sa_update;
+GRANT SELECT ON sa.table_x_tiers TO role_tf_select;
+GRANT SELECT ON sa.table_x_tiers TO soacbo;
+GRANT SELECT ON sa.table_x_tiers TO webcbo;

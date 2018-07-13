@@ -1,0 +1,12 @@
+GRANT SELECT ON sa.wex_order_shipping_details TO cbo;
+GRANT SELECT ON sa.wex_order_shipping_details TO clarify_administrator;
+GRANT SELECT ON sa.wex_order_shipping_details TO clarify_user;
+GRANT SELECT ON sa.wex_order_shipping_details TO csrcbo;
+GRANT SELECT ON sa.wex_order_shipping_details TO dqietl;
+GRANT SELECT ON sa.wex_order_shipping_details TO gw1;
+GRANT SELECT ON sa.wex_order_shipping_details TO igate_batch;
+GRANT SELECT ON sa.wex_order_shipping_details TO role_report_select;
+GRANT SELECT ON sa.wex_order_shipping_details TO role_tf_select;
+GRANT SELECT ON sa.wex_order_shipping_details TO soacbo;
+GRANT SELECT ON sa.wex_order_shipping_details TO w3ci;
+GRANT SELECT ON sa.wex_order_shipping_details TO webcbo;

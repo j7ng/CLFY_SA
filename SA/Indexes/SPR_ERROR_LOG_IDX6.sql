@@ -1,0 +1,1 @@
+CREATE INDEX sa.spr_error_log_idx6 ON sa.x_spr_error_log(log_date,program_name);

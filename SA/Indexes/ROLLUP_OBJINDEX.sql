@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.rollup_objindex ON sa.table_rollup(objid);

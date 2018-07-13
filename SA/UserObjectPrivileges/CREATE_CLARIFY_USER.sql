@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.create_clarify_user TO crmusradm;

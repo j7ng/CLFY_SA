@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_rtc_criteria_values TO PUBLIC;

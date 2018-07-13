@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx9_pcrf_transaction ON sa.x_pcrf_transaction(pcrf_status_code,"TEMPLATE");

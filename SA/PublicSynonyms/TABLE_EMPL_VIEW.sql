@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_empl_view FOR sa.table_empl_view;

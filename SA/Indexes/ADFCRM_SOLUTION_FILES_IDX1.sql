@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_solution_files_idx1 ON sa.adfcrm_solution_files(file_id);

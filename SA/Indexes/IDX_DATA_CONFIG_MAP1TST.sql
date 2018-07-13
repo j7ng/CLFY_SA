@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_data_config_map1tst ON sa.data_config_mapping_0613_tst(x_data_config_objid);

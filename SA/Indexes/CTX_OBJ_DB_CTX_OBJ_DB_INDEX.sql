@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ctx_obj_db_ctx_obj_db_index ON sa.table_ctx_obj_db(title,ctx_obj2window_db);

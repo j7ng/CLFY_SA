@@ -1,0 +1,12 @@
+GRANT DELETE ON sa.x_business_accounts TO clarify_administrator;
+GRANT DELETE ON sa.x_business_accounts TO clarify_user;
+GRANT INSERT ON sa.x_business_accounts TO clarify_administrator;
+GRANT INSERT ON sa.x_business_accounts TO clarify_user;
+GRANT SELECT ON sa.x_business_accounts TO clarify_administrator;
+GRANT SELECT ON sa.x_business_accounts TO clarify_user;
+GRANT SELECT ON sa.x_business_accounts TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_business_accounts TO role_sa_select;
+GRANT SELECT ON sa.x_business_accounts TO role_tf_select;
+GRANT SELECT ON sa.x_business_accounts TO select_role;
+GRANT UPDATE ON sa.x_business_accounts TO clarify_administrator;
+GRANT UPDATE ON sa.x_business_accounts TO clarify_user;

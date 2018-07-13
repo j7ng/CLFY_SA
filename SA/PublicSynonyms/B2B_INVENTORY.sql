@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM b2b_inventory FOR sa.b2b_inventory;

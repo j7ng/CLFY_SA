@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.bug_bug_role_i5473 ON sa.table_bug_bug_role(player2bug,role_for2bug,role_name);

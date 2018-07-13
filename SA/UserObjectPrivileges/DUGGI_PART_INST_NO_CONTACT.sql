@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.duggi_part_inst_no_contact TO dbit_mtoribiolopez;

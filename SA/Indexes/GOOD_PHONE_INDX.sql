@@ -1,0 +1,1 @@
+CREATE INDEX sa.good_phone_indx ON sa.welcome20010715good_phone(esn);

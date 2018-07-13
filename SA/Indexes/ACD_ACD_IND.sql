@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.acd_acd_ind ON sa.table_acd(server_name,server_port);

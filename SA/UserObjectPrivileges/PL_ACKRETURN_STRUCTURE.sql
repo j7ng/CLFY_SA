@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.pl_ackreturn_structure TO clarify_user;

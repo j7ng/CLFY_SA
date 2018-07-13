@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_rule_action_params ON sa.x_rule_action_params(objid);

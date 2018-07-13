@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_nws_foldermembers FOR sa.table_nws_foldermembers;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_flow_seq FOR sa.x_flow_seq;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_mtm_bchproces_priority ON sa.mtm_batch_process_type(x_priority);

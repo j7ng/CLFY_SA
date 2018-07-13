@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx2_rec_pymnt_stag_tbl_pph ON sa.rec_pymnt_staging_tbl(x_rec_pymnt_stg2prg_purch_hdr);

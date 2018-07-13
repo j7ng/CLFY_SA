@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.site_id_index ON sa.table_site(site_id);

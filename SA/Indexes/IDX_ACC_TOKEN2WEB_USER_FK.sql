@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_acc_token2web_user_fk ON sa.x_access_token(acc_token2web_user);

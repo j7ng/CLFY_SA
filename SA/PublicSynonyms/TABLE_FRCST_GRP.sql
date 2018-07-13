@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_frcst_grp FOR sa.table_frcst_grp;

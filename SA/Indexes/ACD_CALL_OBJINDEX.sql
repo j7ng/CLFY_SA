@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.acd_call_objindex ON sa.table_acd_call(objid);

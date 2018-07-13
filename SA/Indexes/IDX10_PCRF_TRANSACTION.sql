@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx10_pcrf_transaction ON sa.x_pcrf_transaction(subscriber_id,order_type,pcrf_status_code,insert_timestamp);

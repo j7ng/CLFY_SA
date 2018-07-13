@@ -1,0 +1,1 @@
+CREATE INDEX sa.ux1_leg_wb_redr_urlcon ON sa.legacy_web_redirect_url_config(objid);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_mtm_vas_programs ON sa.mtm_vas_handset(vas_programs_objid);

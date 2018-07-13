@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_table_shell_part_num ON sa.table_shell_part_num(child_part_num_objid);

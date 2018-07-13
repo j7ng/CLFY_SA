@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_topp_err_codes_objindex ON sa.table_x_topp_err_codes(objid);

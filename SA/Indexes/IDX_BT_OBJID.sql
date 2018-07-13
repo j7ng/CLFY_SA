@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_bt_objid ON sa.x_branded_trans(objid);

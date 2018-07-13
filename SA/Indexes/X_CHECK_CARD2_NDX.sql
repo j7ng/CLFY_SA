@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_check_card2_ndx ON sa.x_check_card2(card_no);

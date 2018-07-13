@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_subcase_queued_dfe FOR sa.table_subcase_queued_dfe;

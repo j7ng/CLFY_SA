@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_cc_prog_trans FOR sa.x_cc_prog_trans;

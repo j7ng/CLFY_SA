@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_territory_id TO PUBLIC;

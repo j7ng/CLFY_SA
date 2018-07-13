@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_ahis_table_contact_dt ON sa.tstahis_table_contact(x_change_date);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_handset_os_idx_1 ON sa.adfcrm_handset_os(objid);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.curr_conv_curr_conv_ind ON sa.table_curr_conv(fm_curr2currency,to_curr2currency,start_date);

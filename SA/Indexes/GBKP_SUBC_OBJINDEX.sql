@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.gbkp_subc_objindex ON sa.table_gbkp_subc(objid);

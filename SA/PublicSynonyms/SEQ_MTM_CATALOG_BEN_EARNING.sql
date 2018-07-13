@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM seq_mtm_catalog_ben_earning FOR sa.seq_mtm_catalog_ben_earning;

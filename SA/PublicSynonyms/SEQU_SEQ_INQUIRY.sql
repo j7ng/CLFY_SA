@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_seq_inquiry FOR sa.sequ_seq_inquiry;

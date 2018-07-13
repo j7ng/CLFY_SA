@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_address_hot_list_address ON sa.address_hot_list(x_address,x_city,x_state,x_zipcode);

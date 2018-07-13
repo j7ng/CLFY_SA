@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx3_customer_lease ON sa.x_customer_lease(account_group_id);

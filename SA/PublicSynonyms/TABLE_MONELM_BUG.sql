@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_monelm_bug FOR sa.table_monelm_bug;

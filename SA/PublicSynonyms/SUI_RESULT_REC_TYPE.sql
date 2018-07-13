@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sui_result_rec_type FOR sa.sui_result_rec_type;

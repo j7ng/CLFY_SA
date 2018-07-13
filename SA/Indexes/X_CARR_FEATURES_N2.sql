@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_carr_features_n2 ON sa.table_x_carrier_features(x_feature2x_carrier);

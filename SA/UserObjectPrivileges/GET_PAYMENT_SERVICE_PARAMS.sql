@@ -1,0 +1,13 @@
+GRANT EXECUTE ON sa.get_payment_service_params TO cbo;
+GRANT EXECUTE ON sa.get_payment_service_params TO clarify_administrator;
+GRANT EXECUTE ON sa.get_payment_service_params TO clarify_user;
+GRANT EXECUTE ON sa.get_payment_service_params TO corecbo;
+GRANT EXECUTE ON sa.get_payment_service_params TO csrcbo;
+GRANT EXECUTE ON sa.get_payment_service_params TO gw1;
+GRANT EXECUTE ON sa.get_payment_service_params TO PUBLIC;
+GRANT EXECUTE ON sa.get_payment_service_params TO role_report_select;
+GRANT EXECUTE ON sa.get_payment_service_params TO role_sa_select;
+GRANT EXECUTE ON sa.get_payment_service_params TO role_sa_update;
+GRANT EXECUTE ON sa.get_payment_service_params TO role_tf_select;
+GRANT EXECUTE ON sa.get_payment_service_params TO soacbo;
+GRANT EXECUTE ON sa.get_payment_service_params TO webcbo;

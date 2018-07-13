@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM toss_cursor_pkg FOR sa.toss_cursor_pkg;

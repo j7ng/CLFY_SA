@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_pd_amt_line FOR sa.table_pd_amt_line;

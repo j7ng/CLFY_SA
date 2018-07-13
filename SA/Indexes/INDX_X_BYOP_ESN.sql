@@ -1,0 +1,1 @@
+CREATE INDEX sa.indx_x_byop_esn ON sa.table_x_byop(x_esn);

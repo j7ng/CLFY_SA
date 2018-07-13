@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx3_process_order_detail ON sa.x_process_order_detail(call_trans_objid);

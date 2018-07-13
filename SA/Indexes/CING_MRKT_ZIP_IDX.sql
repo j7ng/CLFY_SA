@@ -1,0 +1,1 @@
+CREATE INDEX sa.cing_mrkt_zip_idx ON sa.x_cingular_mrkt_info(zip);

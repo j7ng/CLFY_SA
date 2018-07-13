@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_reset_sim_inv TO PUBLIC;

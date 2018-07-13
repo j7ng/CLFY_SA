@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_line_charge_objindex ON sa.table_x_line_charge(objid);

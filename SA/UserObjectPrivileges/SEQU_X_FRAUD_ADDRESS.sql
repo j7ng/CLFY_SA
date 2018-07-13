@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_fraud_address TO PUBLIC;

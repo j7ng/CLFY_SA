@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.pro_hgl_role_pro_hgl_ind ON sa.table_pro_hgl_role(role_name,pro_hgl2hgbst_lst,pro_hgl2exch_protocol);

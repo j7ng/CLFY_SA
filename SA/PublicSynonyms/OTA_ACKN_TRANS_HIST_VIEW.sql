@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ota_ackn_trans_hist_view FOR sa.ota_ackn_trans_hist_view;

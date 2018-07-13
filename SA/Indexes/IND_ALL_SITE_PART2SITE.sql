@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_all_site_part2site ON sa.table_site_part(all_site_part2site);

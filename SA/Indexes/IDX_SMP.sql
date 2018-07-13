@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_smp ON sa.x_multiodenom_posa_log(smp);

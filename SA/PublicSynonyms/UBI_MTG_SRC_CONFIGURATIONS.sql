@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ubi_mtg_src_configurations FOR sa.ubi_mtg_src_configurations;

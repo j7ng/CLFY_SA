@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_channel FOR sa.table_channel;

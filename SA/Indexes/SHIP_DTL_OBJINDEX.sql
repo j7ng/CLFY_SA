@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ship_dtl_objindex ON sa.table_ship_dtl(objid);

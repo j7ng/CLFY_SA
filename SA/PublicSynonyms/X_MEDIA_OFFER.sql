@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_media_offer FOR sa.x_media_offer;

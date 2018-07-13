@@ -1,0 +1,1 @@
+CREATE INDEX sa.nap_esn ON sa.nap_c_choice(esn);

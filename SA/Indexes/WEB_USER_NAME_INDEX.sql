@@ -1,0 +1,1 @@
+CREATE INDEX sa.web_user_name_index ON sa.table_web_user(login_name);

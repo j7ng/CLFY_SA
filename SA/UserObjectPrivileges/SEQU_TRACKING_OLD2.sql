@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_tracking_old2 TO PUBLIC;

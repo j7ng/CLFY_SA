@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM refund_tbl FOR sa.refund_tbl;

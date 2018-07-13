@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_x_tracking_target_url FOR sa.sequ_x_tracking_target_url;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_trnd_inst FOR sa.table_trnd_inst;

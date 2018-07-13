@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adp_upgrade_ops FOR sa.adp_upgrade_ops;

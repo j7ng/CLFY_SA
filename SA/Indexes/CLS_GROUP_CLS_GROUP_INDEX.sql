@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.cls_group_cls_group_index ON sa.table_cls_group("NAME");

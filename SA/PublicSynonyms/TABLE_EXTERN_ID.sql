@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_extern_id FOR sa.table_extern_id;

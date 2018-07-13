@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_job_run_details TO PUBLIC;

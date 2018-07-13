@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_quote_id TO PUBLIC;

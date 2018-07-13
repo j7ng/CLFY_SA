@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_time_bomb3_variable0 FOR sa.mtm_time_bomb3_variable0;

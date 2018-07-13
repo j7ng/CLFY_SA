@@ -1,0 +1,15 @@
+GRANT INSERT ON sa.x_sl_carrier_by_zip TO cbo;
+GRANT INSERT ON sa.x_sl_carrier_by_zip TO corecbo;
+GRANT INSERT ON sa.x_sl_carrier_by_zip TO csrcbo;
+GRANT INSERT ON sa.x_sl_carrier_by_zip TO soacbo;
+GRANT INSERT ON sa.x_sl_carrier_by_zip TO webcbo;
+GRANT SELECT ON sa.x_sl_carrier_by_zip TO cbo;
+GRANT SELECT ON sa.x_sl_carrier_by_zip TO corecbo;
+GRANT SELECT ON sa.x_sl_carrier_by_zip TO csrcbo;
+GRANT SELECT ON sa.x_sl_carrier_by_zip TO soacbo;
+GRANT SELECT ON sa.x_sl_carrier_by_zip TO webcbo;
+GRANT UPDATE ON sa.x_sl_carrier_by_zip TO cbo;
+GRANT UPDATE ON sa.x_sl_carrier_by_zip TO corecbo;
+GRANT UPDATE ON sa.x_sl_carrier_by_zip TO csrcbo;
+GRANT UPDATE ON sa.x_sl_carrier_by_zip TO soacbo;
+GRANT UPDATE ON sa.x_sl_carrier_by_zip TO webcbo;

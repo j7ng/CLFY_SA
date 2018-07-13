@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM migration_2g_cases FOR sa.migration_2g_cases;

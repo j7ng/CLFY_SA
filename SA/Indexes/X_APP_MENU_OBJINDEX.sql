@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_app_menu_objindex ON sa.table_x_app_menu(objid);

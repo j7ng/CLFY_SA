@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.cwl_test_task_con TO dbit_mtoribiolopez;

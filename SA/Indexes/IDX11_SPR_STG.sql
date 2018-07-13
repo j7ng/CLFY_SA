@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx11_spr_stg ON sa.x_pageplus_spr_staging(pcrf_group_id);

@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.inbound_elocknote_pkg TO role_sa_update;

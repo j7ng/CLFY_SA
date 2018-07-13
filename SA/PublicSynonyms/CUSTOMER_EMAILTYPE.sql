@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_emailtype FOR sa.customer_emailtype;

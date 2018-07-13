@@ -1,0 +1,1 @@
+CREATE INDEX sa.migration_offer_items_idx1 ON sa.migration_campaign_offer_items(campaign_name,parent_item);

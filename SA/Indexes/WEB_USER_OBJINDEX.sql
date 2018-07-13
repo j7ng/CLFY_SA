@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.web_user_objindex ON sa.table_web_user(objid);

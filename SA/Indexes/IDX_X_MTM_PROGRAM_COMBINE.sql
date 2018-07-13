@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_mtm_program_combine ON sa.x_mtm_program_combine(program_param_objid,program_combine_objid);

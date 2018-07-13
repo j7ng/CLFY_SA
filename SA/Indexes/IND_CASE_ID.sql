@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_case_id ON sa.table_case(id_number);

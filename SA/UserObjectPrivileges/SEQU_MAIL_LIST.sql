@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_mail_list TO PUBLIC;

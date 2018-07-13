@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.tf_soaprocess_acty_info_seq TO dbit_mtoribiolopez;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_tpn_upc ON sa.table_part_num(x_upc);

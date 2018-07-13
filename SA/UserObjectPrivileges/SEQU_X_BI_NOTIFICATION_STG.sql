@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_bi_notification_stg TO PUBLIC;

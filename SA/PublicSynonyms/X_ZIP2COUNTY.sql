@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_zip2county FOR sa.x_zip2county;

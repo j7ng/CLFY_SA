@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_campaign_hist TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_casetitleindex ON sa.x_autoclose_case_091906(x_case_title);

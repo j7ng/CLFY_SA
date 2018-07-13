@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx07_pcrf_trans_low_prty ON sa.x_pcrf_trans_low_prty(esn,"MIN",order_type,pcrf_status_code,pcrf_cos,ttl,future_ttl,redemption_date,rate_plan);

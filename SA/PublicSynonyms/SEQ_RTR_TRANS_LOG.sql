@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM seq_rtr_trans_log FOR sa.seq_rtr_trans_log;

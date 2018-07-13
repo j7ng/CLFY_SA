@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ig_features_type FOR sa.ig_features_type;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_ctct_web_acct_vw FOR sa.table_ctct_web_acct_vw;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_prtnum_cat2part_info ON sa.table_prtnum_cat(prtnum_cat2part_info);

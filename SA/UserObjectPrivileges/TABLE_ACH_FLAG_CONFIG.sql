@@ -1,0 +1,14 @@
+GRANT SELECT ON sa.table_ach_flag_config TO cbo;
+GRANT SELECT ON sa.table_ach_flag_config TO clarify_administrator;
+GRANT SELECT ON sa.table_ach_flag_config TO clarify_user;
+GRANT SELECT ON sa.table_ach_flag_config TO corecbo;
+GRANT SELECT ON sa.table_ach_flag_config TO csrcbo;
+GRANT SELECT ON sa.table_ach_flag_config TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.table_ach_flag_config TO gw1;
+GRANT SELECT ON sa.table_ach_flag_config TO role_report_select;
+GRANT SELECT ON sa.table_ach_flag_config TO role_sa_select;
+GRANT SELECT ON sa.table_ach_flag_config TO role_sa_update;
+GRANT SELECT ON sa.table_ach_flag_config TO role_tf_select;
+GRANT SELECT ON sa.table_ach_flag_config TO soacbo;
+GRANT SELECT ON sa.table_ach_flag_config TO webcbo;
+GRANT UPDATE ON sa.table_ach_flag_config TO corecbo;

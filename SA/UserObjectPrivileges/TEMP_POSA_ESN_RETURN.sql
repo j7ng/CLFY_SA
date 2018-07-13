@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.temp_posa_esn_return TO dbit_mtoribiolopez;

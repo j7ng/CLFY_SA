@@ -1,0 +1,1 @@
+CREATE INDEX sa.err_res_ins_date_idx ON sa.error_resolution_stg(insert_date);

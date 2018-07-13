@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_product_i5400 ON sa.table_n_product(n_product2mod_level);

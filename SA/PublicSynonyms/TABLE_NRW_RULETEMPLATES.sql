@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_nrw_ruletemplates FOR sa.table_nrw_ruletemplates;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_trans_objid ON sa.x_transaction(x_trans_date,x_transaction_id);

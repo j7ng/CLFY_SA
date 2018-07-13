@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.temp_sales_tax_10672 TO dbit_mtoribiolopez;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_program_purch_hdr3 ON sa.x_program_purch_hdr(x_bill_trans_ref_no);

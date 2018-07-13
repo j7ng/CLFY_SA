@@ -1,0 +1,3 @@
+CREATE OR REPLACE type sa.carrList as TABLE OF VARCHAR2(50);
+-- ANTHILL_TEST PLSQL/SA/Scripts/carrList.sql 	CR33194: 1.1
+/

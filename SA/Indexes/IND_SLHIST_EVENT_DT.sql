@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_slhist_event_dt ON sa.x_sl_hist(x_event_dt);

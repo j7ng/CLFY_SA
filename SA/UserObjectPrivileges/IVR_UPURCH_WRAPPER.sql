@@ -1,0 +1,11 @@
+GRANT EXECUTE ON sa.ivr_upurch_wrapper TO cbo;
+GRANT EXECUTE ON sa.ivr_upurch_wrapper TO clarify_administrator;
+GRANT EXECUTE ON sa.ivr_upurch_wrapper TO clarify_user;
+GRANT EXECUTE ON sa.ivr_upurch_wrapper TO corecbo;
+GRANT EXECUTE ON sa.ivr_upurch_wrapper TO csrcbo;
+GRANT EXECUTE ON sa.ivr_upurch_wrapper TO gw1;
+GRANT EXECUTE ON sa.ivr_upurch_wrapper TO igate_batch;
+GRANT EXECUTE ON sa.ivr_upurch_wrapper TO role_sa_update;
+GRANT EXECUTE ON sa.ivr_upurch_wrapper TO soacbo;
+GRANT EXECUTE ON sa.ivr_upurch_wrapper TO w3ci;
+GRANT EXECUTE ON sa.ivr_upurch_wrapper TO webcbo;

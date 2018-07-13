@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.sp_return_used_lines TO role_sa_update;

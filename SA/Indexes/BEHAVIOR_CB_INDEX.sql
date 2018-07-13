@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.behavior_cb_index ON sa.table_behavior(module_name,cust_ind,user_label);

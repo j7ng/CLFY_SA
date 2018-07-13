@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.msg_text_objindex ON sa.table_msg_text(objid);

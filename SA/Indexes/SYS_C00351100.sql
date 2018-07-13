@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.sys_c00351100 ON sa.smp_vds_repos_version(app_name);

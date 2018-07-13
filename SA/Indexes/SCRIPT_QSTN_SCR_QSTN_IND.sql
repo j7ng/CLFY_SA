@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.script_qstn_scr_qstn_ind ON sa.table_script_qstn(question2call_script,seq_num);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sp_runtime_promo FOR sa.sp_runtime_promo;

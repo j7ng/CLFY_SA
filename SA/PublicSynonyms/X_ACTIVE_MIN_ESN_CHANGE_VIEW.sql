@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_active_min_esn_change_view FOR sa.x_active_min_esn_change_view;

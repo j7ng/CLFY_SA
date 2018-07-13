@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79tzone_x79tzone_ind ON sa.table_x79tzone(server_id,"NAME");

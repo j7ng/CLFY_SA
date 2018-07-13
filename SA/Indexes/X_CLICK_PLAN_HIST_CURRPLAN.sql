@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_click_plan_hist_currplan ON sa.table_x_click_plan_hist(curr_hist2site_part);

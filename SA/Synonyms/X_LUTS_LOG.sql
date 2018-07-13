@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM sa.x_luts_log FOR toppapp.x_luts_log;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_adfcrm_comp_repl_awop TO PUBLIC;

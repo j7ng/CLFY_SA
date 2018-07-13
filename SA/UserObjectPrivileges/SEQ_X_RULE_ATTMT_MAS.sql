@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_rule_attmt_mas TO PUBLIC;

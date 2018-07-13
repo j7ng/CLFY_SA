@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.svc_intrup_objindex ON sa.table_svc_intrup(objid);

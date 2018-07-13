@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.proc_inst_objindex ON sa.table_proc_inst(objid);

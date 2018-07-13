@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_byop_part_num FOR sa.x_byop_part_num;

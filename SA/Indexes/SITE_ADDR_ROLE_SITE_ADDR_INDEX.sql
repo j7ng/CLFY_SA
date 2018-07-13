@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.site_addr_role_site_addr_index ON sa.table_site_addr_role(role_name,focus_type,site_add_role2address,site_addr_role2site);

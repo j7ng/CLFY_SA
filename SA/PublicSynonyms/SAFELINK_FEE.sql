@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM safelink_fee FOR sa.safelink_fee;

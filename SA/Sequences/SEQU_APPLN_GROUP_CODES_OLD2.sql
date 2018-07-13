@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_appln_group_codes_old2;

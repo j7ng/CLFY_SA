@@ -1,0 +1,12 @@
+GRANT SELECT ON sa.wex_bp_open_orders TO cbo;
+GRANT SELECT ON sa.wex_bp_open_orders TO clarify_administrator;
+GRANT SELECT ON sa.wex_bp_open_orders TO clarify_user;
+GRANT SELECT ON sa.wex_bp_open_orders TO csrcbo;
+GRANT SELECT ON sa.wex_bp_open_orders TO dqietl;
+GRANT SELECT ON sa.wex_bp_open_orders TO gw1;
+GRANT SELECT ON sa.wex_bp_open_orders TO igate_batch;
+GRANT SELECT ON sa.wex_bp_open_orders TO role_report_select;
+GRANT SELECT ON sa.wex_bp_open_orders TO role_tf_select;
+GRANT SELECT ON sa.wex_bp_open_orders TO soacbo;
+GRANT SELECT ON sa.wex_bp_open_orders TO w3ci;
+GRANT SELECT ON sa.wex_bp_open_orders TO webcbo;

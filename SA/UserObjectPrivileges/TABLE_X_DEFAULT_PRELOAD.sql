@@ -1,0 +1,12 @@
+GRANT ALTER ON sa.table_x_default_preload TO clarify_administrator;
+GRANT SELECT ON sa.table_x_default_preload TO clarify_administrator;
+GRANT SELECT ON sa.table_x_default_preload TO clarify_reporter;
+GRANT SELECT ON sa.table_x_default_preload TO clarify_user;
+GRANT SELECT ON sa.table_x_default_preload TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.table_x_default_preload TO role_clarify_custom;
+GRANT SELECT ON sa.table_x_default_preload TO role_sa_select;
+GRANT SELECT ON sa.table_x_default_preload TO role_sa_update;
+GRANT SELECT ON sa.table_x_default_preload TO role_tf_select;
+GRANT SELECT ON sa.table_x_default_preload TO script_manager;
+GRANT SELECT ON sa.table_x_default_preload TO select_no_pin;
+GRANT SELECT ON sa.table_x_default_preload TO select_role;

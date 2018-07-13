@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_promotion_relation FOR sa.x_promotion_relation;

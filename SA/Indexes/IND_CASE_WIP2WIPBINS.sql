@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_case_wip2wipbins ON sa.table_case(case_wip2wipbin);

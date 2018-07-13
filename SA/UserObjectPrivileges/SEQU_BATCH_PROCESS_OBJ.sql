@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_batch_process_obj TO PUBLIC;

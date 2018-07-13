@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.rqst_def_i9762 ON sa.table_rqst_def(svc_name);

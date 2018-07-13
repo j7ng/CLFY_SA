@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_rectify_non_ascii FOR sa.adfcrm_rectify_non_ascii;

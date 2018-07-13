@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_pcrf_failed_trans_log ON sa.x_pcrf_failed_trans_log(logged_date);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_solution_file_hist_idx1 ON sa.adfcrm_solution_files_hist(changed_date,file_id,change_type);

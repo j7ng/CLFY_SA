@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.locale_objindex ON sa.table_locale(objid);

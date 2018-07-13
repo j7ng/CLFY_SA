@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_billing_log ON sa.x_billing_log(objid);

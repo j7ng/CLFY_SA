@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_e911_tax_recon_phone ON sa.xxtf_e911_tax_recon_tbl(phone_number);

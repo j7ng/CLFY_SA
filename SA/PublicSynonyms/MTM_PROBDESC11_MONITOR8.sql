@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_probdesc11_monitor8 FOR sa.mtm_probdesc11_monitor8;

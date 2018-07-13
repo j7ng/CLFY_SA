@@ -1,0 +1,26 @@
+CREATE TABLE sa.t_table_alert (
+  objid NUMBER,
+  "TYPE" VARCHAR2(80 BYTE),
+  alert_text LONG,
+  start_date DATE,
+  end_date DATE,
+  "ACTIVE" NUMBER,
+  title VARCHAR2(80 BYTE),
+  "HOT" NUMBER,
+  dev NUMBER,
+  modify_stmp DATE,
+  x_ivr_script_id VARCHAR2(10 BYTE),
+  x_web_text_english VARCHAR2(500 BYTE),
+  x_web_text_spanish VARCHAR2(500 BYTE),
+  x_cancel_sql VARCHAR2(255 BYTE),
+  x_tts_english VARCHAR2(255 BYTE),
+  x_tts_spanish VARCHAR2(255 BYTE),
+  last_update2user NUMBER,
+  alert2contact NUMBER,
+  alert2site NUMBER,
+  alert2contract NUMBER,
+  alert2bus_org NUMBER,
+  alert2opportunity NUMBER,
+  alert2lead NUMBER
+);
+ALTER TABLE sa.t_table_alert ADD SUPPLEMENTAL LOG GROUP dmtsora1698896115_0 ("ACTIVE", alert2bus_org, alert2contact, alert2contract, alert2lead, alert2opportunity, alert2site, dev, end_date, "HOT", last_update2user, modify_stmp, objid, start_date, title, "TYPE", x_cancel_sql, x_ivr_script_id, x_tts_english, x_tts_spanish, x_web_text_english, x_web_text_spanish) ALWAYS;

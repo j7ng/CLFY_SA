@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_webcsr_log_param FOR sa.table_x_webcsr_log_param;

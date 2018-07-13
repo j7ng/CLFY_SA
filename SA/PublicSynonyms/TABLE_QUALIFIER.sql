@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_qualifier FOR sa.table_qualifier;

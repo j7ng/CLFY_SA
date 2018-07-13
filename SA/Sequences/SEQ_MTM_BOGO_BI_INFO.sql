@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.seq_mtm_bogo_bi_info;

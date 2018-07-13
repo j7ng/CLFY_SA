@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_tbl_def FOR sa.table_tbl_def;

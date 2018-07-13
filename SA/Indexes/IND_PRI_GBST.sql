@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_pri_gbst ON sa.table_task(task_priority2gbst_elm);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_address_hot_list_objid ON sa.address_hot_list(objid);

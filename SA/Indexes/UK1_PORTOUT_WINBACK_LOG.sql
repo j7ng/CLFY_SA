@@ -1,0 +1,1 @@
+CREATE INDEX sa.uk1_portout_winback_log ON sa.x_portout_winback_log(winback_case_objid);

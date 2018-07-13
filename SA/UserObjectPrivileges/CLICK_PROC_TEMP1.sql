@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.click_proc_temp1 TO dbit_mtoribiolopez;

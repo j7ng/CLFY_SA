@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_customer_lease ON sa.x_customer_lease(smp);

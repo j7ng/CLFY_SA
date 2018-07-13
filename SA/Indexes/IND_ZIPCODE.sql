@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_zipcode ON sa.table_x_non_sales_tax(x_zipcode);

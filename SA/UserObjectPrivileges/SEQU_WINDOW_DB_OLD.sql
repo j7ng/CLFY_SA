@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_window_db_old TO PUBLIC;

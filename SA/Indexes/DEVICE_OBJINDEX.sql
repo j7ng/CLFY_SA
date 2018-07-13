@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.device_objindex ON sa.table_device(objid);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.asaf_result_objindex ON sa.table_asaf_result(objid);

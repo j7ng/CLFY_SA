@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_alert_trans ON sa.x_alert_trans(objid);

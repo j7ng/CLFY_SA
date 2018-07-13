@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_table_x_exch_shipping_dtl TO PUBLIC;

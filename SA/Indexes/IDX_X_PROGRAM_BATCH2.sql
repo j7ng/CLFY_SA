@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_program_batch2 ON sa.x_program_batch(batch_status);

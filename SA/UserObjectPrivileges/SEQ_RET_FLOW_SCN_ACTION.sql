@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_ret_flow_scn_action TO PUBLIC;

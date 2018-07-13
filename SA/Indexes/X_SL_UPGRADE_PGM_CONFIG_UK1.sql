@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_sl_upgrade_pgm_config_uk1 ON sa.x_sl_upgrade_program_config(from_pgm_objid,to_pgm_objid);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM profnum$ FOR sa.profnum$;

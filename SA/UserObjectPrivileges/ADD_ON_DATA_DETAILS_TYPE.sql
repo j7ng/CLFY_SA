@@ -1,0 +1,10 @@
+GRANT EXECUTE ON sa.add_on_data_details_type TO cbo;
+GRANT EXECUTE ON sa.add_on_data_details_type TO clarify_administrator;
+GRANT EXECUTE ON sa.add_on_data_details_type TO clarify_user;
+GRANT EXECUTE ON sa.add_on_data_details_type TO corecbo;
+GRANT EXECUTE ON sa.add_on_data_details_type TO csrcbo;
+GRANT EXECUTE ON sa.add_on_data_details_type TO igate_batch;
+GRANT EXECUTE ON sa.add_on_data_details_type TO role_sa_update;
+GRANT EXECUTE ON sa.add_on_data_details_type TO soacbo;
+GRANT EXECUTE ON sa.add_on_data_details_type TO w3ci;
+GRANT EXECUTE ON sa.add_on_data_details_type TO webcbo;

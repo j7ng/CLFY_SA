@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_readonly FOR sa.table_readonly;

@@ -1,0 +1,1 @@
+CREATE INDEX sa."X_AltPymtSource_ApplKey_IND" ON sa.table_x_altpymtsource(x_application_key);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_nws_trees_old TO PUBLIC;

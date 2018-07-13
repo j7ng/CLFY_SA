@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_resol_by_case_type_objindex ON sa.table_x_resol_by_case_type(objid);

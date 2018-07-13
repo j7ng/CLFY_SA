@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.create_dealer_stg TO dbit_mtoribiolopez;

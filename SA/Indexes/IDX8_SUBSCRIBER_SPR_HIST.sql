@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx8_subscriber_spr_hist ON sa.x_subscriber_spr_hist(wf_mac_id);

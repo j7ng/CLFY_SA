@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_nnsp_mapping FOR sa.x_nnsp_mapping;

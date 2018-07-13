@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM scripts_export_log FOR sa.scripts_export_log;

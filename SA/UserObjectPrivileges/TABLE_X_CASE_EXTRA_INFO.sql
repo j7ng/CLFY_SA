@@ -1,0 +1,17 @@
+GRANT ALTER ON sa.table_x_case_extra_info TO clarify_administrator;
+GRANT DELETE ON sa.table_x_case_extra_info TO clarify_administrator;
+GRANT DELETE ON sa.table_x_case_extra_info TO clarify_user;
+GRANT INSERT ON sa.table_x_case_extra_info TO clarify_administrator;
+GRANT INSERT ON sa.table_x_case_extra_info TO clarify_user;
+GRANT SELECT ON sa.table_x_case_extra_info TO clarify_administrator;
+GRANT SELECT ON sa.table_x_case_extra_info TO clarify_reporter;
+GRANT SELECT ON sa.table_x_case_extra_info TO clarify_user;
+GRANT SELECT ON sa.table_x_case_extra_info TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.table_x_case_extra_info TO role_read_only;
+GRANT SELECT ON sa.table_x_case_extra_info TO role_report_select;
+GRANT SELECT ON sa.table_x_case_extra_info TO role_sa_select;
+GRANT SELECT ON sa.table_x_case_extra_info TO role_tf_select;
+GRANT SELECT ON sa.table_x_case_extra_info TO role_web_report;
+GRANT SELECT ON sa.table_x_case_extra_info TO select_role;
+GRANT UPDATE ON sa.table_x_case_extra_info TO clarify_administrator;
+GRANT UPDATE ON sa.table_x_case_extra_info TO clarify_user;

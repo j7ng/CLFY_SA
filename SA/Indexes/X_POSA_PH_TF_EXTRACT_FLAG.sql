@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_posa_ph_tf_extract_flag ON sa.x_posa_phone(tf_extract_flag);

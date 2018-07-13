@@ -1,0 +1,10 @@
+GRANT EXECUTE ON sa.billing_is_paynow_enabled TO clarify_administrator;
+GRANT EXECUTE ON sa.billing_is_paynow_enabled TO clarify_billing;
+GRANT EXECUTE ON sa.billing_is_paynow_enabled TO clarify_reporter;
+GRANT EXECUTE ON sa.billing_is_paynow_enabled TO clarify_user;
+GRANT EXECUTE ON sa.billing_is_paynow_enabled TO dbit_ymillan;
+GRANT EXECUTE ON sa.billing_is_paynow_enabled TO report;
+GRANT EXECUTE ON sa.billing_is_paynow_enabled TO role_clarify_custom;
+GRANT EXECUTE ON sa.billing_is_paynow_enabled TO role_sa_update;
+GRANT EXECUTE ON sa.billing_is_paynow_enabled TO role_web_report;
+GRANT EXECUTE ON sa.billing_is_paynow_enabled TO select_no_pin;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.tmp_cc_tst_cert TO dbit_mtoribiolopez;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.table_x_rate_min_hist ON sa.table_x_rate_min_hist(x_rate_min2site_part);

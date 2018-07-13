@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM seq_x_republik_order_hdr FOR sa.seq_x_republik_order_hdr;

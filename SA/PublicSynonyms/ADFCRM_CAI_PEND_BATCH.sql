@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_cai_pend_batch FOR sa.adfcrm_cai_pend_batch;

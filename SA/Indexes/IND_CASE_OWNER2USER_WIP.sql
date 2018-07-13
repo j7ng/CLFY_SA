@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_case_owner2user_wip ON sa.table_case(case_owner2user,case_wip2wipbin);

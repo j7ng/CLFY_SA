@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_inv_bin2inv_locatn ON sa.table_inv_bin(inv_bin2inv_locatn,bin_name);

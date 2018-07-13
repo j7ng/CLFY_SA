@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_close_date_close_case ON sa.table_close_case(close_date);

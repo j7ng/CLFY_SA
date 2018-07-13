@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_spr_inquiry_log ON sa.x_spr_inquiry_log("MIN");

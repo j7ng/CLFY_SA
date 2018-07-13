@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.sys_c00351134 ON sa.smp_vdm_notification_services(service_type,nodename);

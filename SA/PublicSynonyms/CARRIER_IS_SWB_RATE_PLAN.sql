@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM carrier_is_swb_rate_plan FOR sa.carrier_is_swb_rate_plan;

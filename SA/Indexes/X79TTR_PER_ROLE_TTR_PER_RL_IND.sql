@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79ttr_per_role_ttr_per_rl_ind ON sa.table_x79ttr_per_role(server_id,role_name,ttr_per2x79telcom_tr);

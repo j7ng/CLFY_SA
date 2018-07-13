@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_fcs_detail TO PUBLIC;

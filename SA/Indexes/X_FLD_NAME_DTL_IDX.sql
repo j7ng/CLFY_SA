@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_fld_name_dtl_idx ON sa.table_x_case_conf_dtl(x_field_name);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_click_plan_hist_objindex ON sa.table_x_click_plan_hist(objid);

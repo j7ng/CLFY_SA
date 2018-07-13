@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.seq_phbx_scoring_transaction;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.duggy2 TO dbit_mtoribiolopez;

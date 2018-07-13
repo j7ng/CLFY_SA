@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ux_bus_org_map_service ON sa.x_bus_org_map_service(bus_org_id,map_service);

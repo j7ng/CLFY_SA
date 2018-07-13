@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sp_chg_esn FOR sa.sp_chg_esn;

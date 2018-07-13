@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.table_x_parameters_tst TO dbit_mtoribiolopez;

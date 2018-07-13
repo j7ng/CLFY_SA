@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_carrier_features_objindex ON sa.table_x_carrier_features(objid);

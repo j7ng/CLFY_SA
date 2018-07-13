@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_price_role TO PUBLIC;

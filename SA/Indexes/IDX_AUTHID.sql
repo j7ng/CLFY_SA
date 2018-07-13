@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_authid ON sa.x_biz_purch_hdr(x_auth_request_id);

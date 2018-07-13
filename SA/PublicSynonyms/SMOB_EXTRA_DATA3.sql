@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM smob_extra_data3 FOR sa.smob_extra_data3;

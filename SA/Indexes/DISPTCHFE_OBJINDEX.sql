@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.disptchfe_objindex ON sa.table_disptchfe(objid);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM service_plan_flat_summary FOR sa.service_plan_flat_summary;

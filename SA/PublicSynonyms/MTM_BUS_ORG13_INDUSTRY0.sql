@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_bus_org13_industry0 FOR sa.mtm_bus_org13_industry0;

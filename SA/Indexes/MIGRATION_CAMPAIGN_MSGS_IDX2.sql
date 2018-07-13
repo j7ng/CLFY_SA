@@ -1,0 +1,1 @@
+CREATE INDEX sa.migration_campaign_msgs_idx2 ON sa.migration_campaign_msgs(campaign_name,display_in_brands,display_in_channels,language,migration_status);

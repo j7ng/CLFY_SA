@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_promo_rule_objid ON sa.x_enroll_promo_rule(objid);

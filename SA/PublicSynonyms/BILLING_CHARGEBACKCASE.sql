@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_chargebackcase FOR sa.billing_chargebackcase;

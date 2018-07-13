@@ -1,0 +1,11 @@
+GRANT EXECUTE ON sa.ll_enrollment_exist_fun TO cbo;
+GRANT EXECUTE ON sa.ll_enrollment_exist_fun TO clarify_administrator;
+GRANT EXECUTE ON sa.ll_enrollment_exist_fun TO clarify_user;
+GRANT EXECUTE ON sa.ll_enrollment_exist_fun TO corecbo;
+GRANT EXECUTE ON sa.ll_enrollment_exist_fun TO csrcbo;
+GRANT EXECUTE ON sa.ll_enrollment_exist_fun TO gw1;
+GRANT EXECUTE ON sa.ll_enrollment_exist_fun TO igate_batch;
+GRANT EXECUTE ON sa.ll_enrollment_exist_fun TO itds_user;
+GRANT EXECUTE ON sa.ll_enrollment_exist_fun TO role_sa_update;
+GRANT EXECUTE ON sa.ll_enrollment_exist_fun TO soacbo;
+GRANT EXECUTE ON sa.ll_enrollment_exist_fun TO webcbo;

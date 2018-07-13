@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_ach_prog_trans ON sa.x_ach_prog_trans(objid);

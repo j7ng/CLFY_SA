@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_reward_catalog_cat_type ON sa.x_reward_catalog(catalog_type);

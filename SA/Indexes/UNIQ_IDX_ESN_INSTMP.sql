@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.uniq_idx_esn_instmp ON sa.x_balance_transaction_order(esn,TRUNC("INSERT_TIMESTAMP",'fmmi'));

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.bus_lsc_role_buslsc_role_ind ON sa.table_bus_lsc_role(role_name,bus_lsc2bus_org,bus_lsc2lead_source);

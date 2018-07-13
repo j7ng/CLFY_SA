@@ -1,0 +1,14 @@
+CREATE OR REPLACE TYPE sa.return_tgt_mtg_src_obj
+AS
+  object
+  (
+    VOICE_MTG_SOURCE VARCHAR2(50) ,
+    SMS_MTG_SOURCE   VARCHAR2(50) ,
+    DATA_MTG_SOURCE  VARCHAR2(50) ,
+    ILD_MTG_SOURCE   VARCHAR2(50),
+    CONSTRUCTOR
+  FUNCTION return_tgt_mtg_src_obj
+    RETURN SELF
+  AS
+    RESULT );
+/

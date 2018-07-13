@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_cust_survey_old TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_e911_state_label FOR sa.x_e911_state_label;

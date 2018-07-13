@@ -1,0 +1,11 @@
+GRANT EXECUTE ON sa.x_apn_type TO cbo;
+GRANT EXECUTE ON sa.x_apn_type TO clarify_administrator;
+GRANT EXECUTE ON sa.x_apn_type TO clarify_user;
+GRANT EXECUTE ON sa.x_apn_type TO csrcbo;
+GRANT EXECUTE ON sa.x_apn_type TO igate_batch;
+GRANT EXECUTE ON sa.x_apn_type TO role_report_select;
+GRANT EXECUTE ON sa.x_apn_type TO role_sa_select;
+GRANT EXECUTE ON sa.x_apn_type TO role_sa_update;
+GRANT EXECUTE ON sa.x_apn_type TO role_tf_select;
+GRANT EXECUTE ON sa.x_apn_type TO soacbo;
+GRANT EXECUTE ON sa.x_apn_type TO webcbo;

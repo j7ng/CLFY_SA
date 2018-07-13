@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_trans_profile_objindex ON sa.table_x_trans_profile(objid);

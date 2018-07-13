@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_reward_catalog_cat_name ON sa.x_reward_catalog(catalog_name);

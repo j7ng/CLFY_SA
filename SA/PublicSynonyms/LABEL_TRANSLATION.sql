@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM label_translation FOR sa.label_translation;

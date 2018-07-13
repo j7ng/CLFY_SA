@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM paypal_trr FOR sa.paypal_trr;

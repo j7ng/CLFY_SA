@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_forecast_target_id TO PUBLIC;

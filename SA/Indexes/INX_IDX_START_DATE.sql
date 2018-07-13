@@ -1,0 +1,1 @@
+CREATE INDEX sa.inx_idx_start_date ON sa.x_sl_currentvals(x_current_pgm_start_date);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_categories_i5406 ON sa.table_n_categories(n_name,n_child2n_categories,n_cats2n_categorytrees);

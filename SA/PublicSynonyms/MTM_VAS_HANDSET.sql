@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_vas_handset FOR sa.mtm_vas_handset;

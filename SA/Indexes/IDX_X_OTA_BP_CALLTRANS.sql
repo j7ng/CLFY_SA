@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_ota_bp_calltrans ON sa.x_ota_closed_bp(x_ota_call_trans);

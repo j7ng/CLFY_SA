@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_pay_channel FOR sa.table_pay_channel;

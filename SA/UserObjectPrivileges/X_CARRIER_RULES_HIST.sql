@@ -1,0 +1,14 @@
+GRANT DELETE ON sa.x_carrier_rules_hist TO role_sa_update;
+GRANT DELETE ON sa.x_carrier_rules_hist TO role_tracfone_custom;
+GRANT INSERT ON sa.x_carrier_rules_hist TO role_sa_update;
+GRANT INSERT ON sa.x_carrier_rules_hist TO role_tracfone_custom;
+GRANT SELECT ON sa.x_carrier_rules_hist TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_carrier_rules_hist TO nap_select_role;
+GRANT SELECT ON sa.x_carrier_rules_hist TO role_sa_select;
+GRANT SELECT ON sa.x_carrier_rules_hist TO role_sa_update;
+GRANT SELECT ON sa.x_carrier_rules_hist TO role_tf_select;
+GRANT SELECT ON sa.x_carrier_rules_hist TO role_tracfone_custom;
+GRANT SELECT ON sa.x_carrier_rules_hist TO select_no_pin;
+GRANT SELECT ON sa.x_carrier_rules_hist TO select_role;
+GRANT UPDATE ON sa.x_carrier_rules_hist TO role_sa_update;
+GRANT UPDATE ON sa.x_carrier_rules_hist TO role_tracfone_custom;

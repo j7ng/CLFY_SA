@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_portout_winback_log FOR sa.x_portout_winback_log;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_packaging FOR sa.x_packaging;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_n_extramenuitems FOR sa.table_n_extramenuitems;

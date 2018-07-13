@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sys.dbms_shared_pool TO sa;

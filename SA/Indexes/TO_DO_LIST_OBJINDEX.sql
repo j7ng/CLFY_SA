@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.to_do_list_objindex ON sa.table_to_do_list(objid);

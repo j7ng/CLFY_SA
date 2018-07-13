@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_block_deact_objindex ON sa.table_x_block_deact(objid);

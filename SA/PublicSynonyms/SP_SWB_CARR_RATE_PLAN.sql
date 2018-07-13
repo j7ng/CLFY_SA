@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sp_swb_carr_rate_plan FOR sa.sp_swb_carr_rate_plan;

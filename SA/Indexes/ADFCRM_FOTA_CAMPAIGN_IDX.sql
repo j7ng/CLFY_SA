@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.adfcrm_fota_campaign_idx ON sa.adfcrm_fota_campaign(campaign_name);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_onsite_sub_lst FOR sa.table_onsite_sub_lst;

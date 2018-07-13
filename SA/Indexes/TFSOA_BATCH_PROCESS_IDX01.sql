@@ -1,0 +1,1 @@
+CREATE INDEX sa.tfsoa_batch_process_idx01 ON sa.tfsoa_batch_process(process_status);

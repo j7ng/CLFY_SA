@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_dynamic_trans_sum_params TO PUBLIC;

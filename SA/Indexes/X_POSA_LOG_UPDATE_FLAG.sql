@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_posa_log_update_flag ON sa.x_posa_log(x_posa_update_flag);

@@ -1,0 +1,25 @@
+CREATE TABLE sa.table_n_jobsummary (
+  objid NUMBER,
+  dev NUMBER,
+  n_salesmechanixid VARCHAR2(39 BYTE),
+  n_filesavepath VARCHAR2(250 BYTE),
+  n_jobdescription VARCHAR2(80 BYTE),
+  n_jobuploadstatus VARCHAR2(20 BYTE),
+  n_jobstatus VARCHAR2(12 BYTE),
+  n_jobcreationdate DATE,
+  n_joblastmoddate DATE,
+  n_jobtotaldollars NUMBER(19,4),
+  n_estimatedmarketvalue NUMBER(19,4),
+  n_jobproposaldate DATE,
+  n_jobexpiresdate DATE,
+  n_quotenumber VARCHAR2(24 BYTE),
+  n_customercompanyname VARCHAR2(60 BYTE),
+  n_customercontactlastname VARCHAR2(24 BYTE),
+  n_customercontactfirstname VARCHAR2(24 BYTE),
+  n_customerpo VARCHAR2(24 BYTE),
+  n_jobuncpath VARCHAR2(250 BYTE),
+  n_jobobject LONG,
+  n_customeromsid VARCHAR2(24 BYTE),
+  n_jobsummary2schedule NUMBER
+);
+ALTER TABLE sa.table_n_jobsummary ADD SUPPLEMENTAL LOG GROUP dmtsora105507270_0 (dev, n_customercompanyname, n_customercontactfirstname, n_customercontactlastname, n_customeromsid, n_customerpo, n_estimatedmarketvalue, n_filesavepath, n_jobcreationdate, n_jobdescription, n_jobexpiresdate, n_joblastmoddate, n_jobproposaldate, n_jobstatus, n_jobsummary2schedule, n_jobtotaldollars, n_jobuncpath, n_jobuploadstatus, n_quotenumber, n_salesmechanixid, objid) ALWAYS;

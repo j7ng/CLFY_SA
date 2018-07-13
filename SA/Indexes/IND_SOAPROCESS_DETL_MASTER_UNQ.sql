@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_soaprocess_detl_master_unq ON sa.tf_soaprocess_activity_details(activity_info_id,paramname,paramvalue);

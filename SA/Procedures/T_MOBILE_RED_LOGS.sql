@@ -1,0 +1,125 @@
+CREATE OR REPLACE PROCEDURE sa."T_MOBILE_RED_LOGS" (
+    P_TRANS_ID IN NUMBER)
+AS
+  CURSOR IG_ESN(P_TRANS_ID IN VARCHAR2)
+  IS
+    SELECT ESN FROM IG_TRANSACTION WHERE TRANSACTION_ID= P_TRANS_ID;
+    IG_ESN_rec IG_ESN%ROWTYPE;
+  CURSOR IG_TRANS(P_TRANS_ID IN NUMBER)
+  IS
+    SELECT a.* FROM IG_TRANSACTION a WHERE TRANSACTION_ID= P_TRANS_ID;
+    IG_TRANS_rec IG_TRANS%ROWTYPE;
+  CURSOR TASK_CURS(C_TASK_ID IN VARCHAR2)
+  IS
+    SELECT * FROM TABLE_TASK WHERE TASK_ID = C_TASK_ID;
+  TASK_REC TASK_CURS%ROWTYPE;
+  CURSOR CALL_TRANS_CURS(C_OBJID IN NUMBER)
+  IS
+    SELECT * FROM TABLE_X_CALL_TRANS WHERE OBJID = C_OBJID;
+  CALL_TRANS_REC CALL_TRANS_CURS%ROWTYPE;
+  V_ACTION_TYPE VARCHAR2(100);
+  V_PARENT_NAME VARCHAR2(100);
+BEGIN
+  /* CR37012 -- unnecessary data into error_table
+  toss_util_pkg.insert_error_tab_proc('T_MOBILE_RED_LOGS' ,P_TRANS_ID ,'T_MOBILE_RED_LOGS' ,'T_MOBILE_RED_LOGS');
+  */
+  OPEN IG_ESN(P_TRANS_ID);
+  FETCH IG_ESN
+  INTO IG_ESN_REC;
+  IF IG_ESN%FOUND THEN
+    FOR I IN
+    (SELECT /*+ use_invisible_indexes */ TRANSACTION_ID FROM IG_TRANSACTION WHERE ESN =IG_ESN_rec.ESN
+    )
+    LOOP
+      OPEN IG_TRANS(I.TRANSACTION_ID);
+      FETCH IG_TRANS INTO IG_TRANS_REC;
+      IF IG_TRANS%FOUND THEN
+        BEGIN
+          SELECT P.X_PARENT_NAME
+          INTO V_PARENT_NAME
+          FROM TABLE_X_PARENT P ,
+            TABLE_X_CARRIER_GROUP G ,
+            TABLE_X_CARRIER C
+          WHERE P.OBJID   = G.X_CARRIER_GROUP2X_PARENT
+          AND G.OBJID     = C.CARRIER2CARRIER_GROUP
+          AND X_CARRIER_ID= IG_TRANS_REC.CARRIER_ID;
+        EXCEPTION
+        WHEN OTHERS THEN
+          NULL;
+        END;
+		/* CR37012 -- unnecessary data into error_table
+        toss_util_pkg.insert_error_tab_proc('T_MOBILE_RED_LOGS' ,I.TRANSACTION_ID ,'T_MOBILE_RED_LOGS' ,'V_PARENT_NAME'||V_PARENT_NAME);
+        toss_util_pkg.insert_error_tab_proc('T_MOBILE_RED_LOGS' ,I.TRANSACTION_ID ,'T_MOBILE_RED_LOGS' ,'IG_TRANS_REC.ORDER_TYPE'||IG_TRANS_REC.ORDER_TYPE);
+        */
+		IF V_PARENT_NAME LIKE 'T-MOBILE%' THEN
+          -- IF IG_TRANS_REC.ORDER_TYPE='CR' THEN
+          OPEN TASK_CURS(IG_TRANS_REC.ACTION_ITEM_ID);
+          FETCH TASK_CURS INTO TASK_REC;
+          CLOSE TASK_CURS;
+          OPEN CALL_TRANS_CURS(TASK_REC.X_TASK2X_CALL_TRANS);
+          FETCH CALL_TRANS_CURS INTO CALL_TRANS_REC;
+          CLOSE CALL_TRANS_CURS;
+          BEGIN
+            SELECT X_CODE_NAME
+            INTO V_ACTION_TYPE
+            FROM TABLE_X_CODE_TABLE
+            WHERE X_CODE_NUMBER=CALL_TRANS_REC.X_ACTION_TYPE;
+          EXCEPTION
+          WHEN OTHERS THEN
+            toss_util_pkg.insert_error_tab_proc('T_MOBILE_RED_LOGS' ,I.TRANSACTION_ID ,'T_MOBILE_RED_LOGS' ,'EXCEPTION1');
+            V_ACTION_TYPE := NULL;
+          END;
+          IF V_ACTION_TYPE IN ('ACTIVATION','REDEMPTION') THEN
+          BEGIN
+            INSERT
+            INTO X_TMOBILE_REDEMPTION_LOGS
+              (
+                OBJID,
+                CREATION_TIME,
+                TRIGGERING_EVENT,
+                MDN,
+                X_ESN,
+                X_ICCID,
+                API_STATUS,
+                MESSAGE_STATUS,
+                UPDATE_DATE,
+                ORDER_TYPE
+              )
+              VALUES
+              (
+                I.TRANSACTION_ID,
+                IG_TRANS_REC.CREATION_DATE,
+                V_ACTION_TYPE,
+                IG_TRANS_REC.MIN,
+                IG_TRANS_REC.ESN,
+                IG_TRANS_REC.ICCID,
+                IG_TRANS_REC.STATUS,
+                IG_TRANS_REC.STATUS_MESSAGE,
+                IG_TRANS_REC.UPDATE_DATE,
+                IG_TRANS_REC.ORDER_TYPE
+              );
+          EXCEPTION
+          WHEN OTHERS THEN
+            toss_util_pkg.insert_error_tab_proc('T_MOBILE_RED_LOGS' ,I.TRANSACTION_ID ,'T_MOBILE_RED_LOGS' ,'EXCEPTION2');
+            --   RETURN;
+          END;
+          COMMIT;
+           END IF;
+        END IF;
+      END IF;
+      CLOSE IG_TRANS;
+    END LOOP;
+  END IF;
+EXCEPTION
+WHEN OTHERS THEN
+  toss_util_pkg.insert_error_tab_proc('T_MOBILE_RED_LOGS' ,P_TRANS_ID ,'T_MOBILE_RED_LOGS' ,'EXCEPTION3');
+  --RETURN;
+END;
+-- ANTHILL_TEST PLSQL/SA/Procedures/T_MOBILE_RED_LOGS.sql  CR32258: 1.1
+-- ANTHILL_TEST PLSQL/SA/Procedures/T_MOBILE_RED_LOGS.sql  CR32258: 1.2
+-- ANTHILL_TEST PLSQL/SA/Procedures/T_MOBILE_RED_LOGS.sql  CR32258: 1.5
+
+-- ANTHILL_TEST PLSQL/SA/Procedures/T_MOBILE_RED_LOGS.sql 	CR32258: 1.6
+
+-- ANTHILL_TEST PLSQL/SA/Procedures/T_MOBILE_RED_LOGS.sql 	CR32258: 1.7
+/

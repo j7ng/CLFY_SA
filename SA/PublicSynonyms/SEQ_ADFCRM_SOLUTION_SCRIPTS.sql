@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM seq_adfcrm_solution_scripts FOR sa.seq_adfcrm_solution_scripts;

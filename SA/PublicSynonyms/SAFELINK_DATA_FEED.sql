@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM safelink_data_feed FOR sa.safelink_data_feed;

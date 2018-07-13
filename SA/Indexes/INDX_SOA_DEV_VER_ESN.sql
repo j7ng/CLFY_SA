@@ -1,0 +1,1 @@
+CREATE INDEX sa.indx_soa_dev_ver_esn ON sa.x_soa_device_verification(x_esn);

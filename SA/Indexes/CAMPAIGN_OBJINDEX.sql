@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.campaign_objindex ON sa.table_campaign(objid);

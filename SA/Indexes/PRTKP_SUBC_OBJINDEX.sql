@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.prtkp_subc_objindex ON sa.table_prtkp_subc(objid);

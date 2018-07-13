@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_demand_site FOR sa.table_demand_site;

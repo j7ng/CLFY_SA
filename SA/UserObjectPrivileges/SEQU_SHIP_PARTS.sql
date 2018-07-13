@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_ship_parts TO PUBLIC;

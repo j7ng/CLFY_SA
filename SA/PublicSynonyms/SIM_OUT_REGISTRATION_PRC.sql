@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sim_out_registration_prc FOR sa.sim_out_registration_prc;

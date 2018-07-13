@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.bug_module_objindex ON sa.table_bug_module(objid);

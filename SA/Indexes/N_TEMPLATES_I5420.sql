@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_templates_i5420 ON sa.table_n_templates(n_itemtypeid,n_templatename);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_promotion_group_old2 TO PUBLIC;

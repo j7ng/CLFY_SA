@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_win_init FOR sa.table_win_init;

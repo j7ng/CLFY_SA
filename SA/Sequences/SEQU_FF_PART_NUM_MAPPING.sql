@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_ff_part_num_mapping;

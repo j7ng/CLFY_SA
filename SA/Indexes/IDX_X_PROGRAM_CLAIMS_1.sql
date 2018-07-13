@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_program_claims_1 ON sa.x_program_claims(x_esn,x_status);

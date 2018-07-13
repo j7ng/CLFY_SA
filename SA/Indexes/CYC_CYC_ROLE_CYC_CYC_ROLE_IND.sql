@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.cyc_cyc_role_cyc_cyc_role_ind ON sa.table_cyc_cyc_role(player2life_cycle,role_for2life_cycle,role_name);

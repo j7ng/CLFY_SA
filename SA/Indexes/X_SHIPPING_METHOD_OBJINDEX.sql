@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_shipping_method_objindex ON sa.table_x_shipping_method(objid);

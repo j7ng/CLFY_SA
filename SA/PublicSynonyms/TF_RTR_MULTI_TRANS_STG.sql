@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tf_rtr_multi_trans_stg FOR sa.tf_rtr_multi_trans_stg;

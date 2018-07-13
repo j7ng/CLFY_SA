@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_road_invalid_redemption FOR sa.x_road_invalid_redemption;

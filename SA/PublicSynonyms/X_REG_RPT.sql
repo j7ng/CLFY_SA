@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_reg_rpt FOR sa.x_reg_rpt;

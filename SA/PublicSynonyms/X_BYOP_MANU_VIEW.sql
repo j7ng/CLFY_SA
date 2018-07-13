@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_byop_manu_view FOR sa.x_byop_manu_view;

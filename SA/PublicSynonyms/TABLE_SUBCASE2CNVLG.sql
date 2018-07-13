@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_subcase2cnvlg FOR sa.table_subcase2cnvlg;

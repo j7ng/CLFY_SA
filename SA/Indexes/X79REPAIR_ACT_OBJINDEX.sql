@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79repair_act_objindex ON sa.table_x79repair_act(objid);

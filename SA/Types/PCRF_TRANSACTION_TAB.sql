@@ -1,0 +1,2 @@
+CREATE OR REPLACE TYPE sa."PCRF_TRANSACTION_TAB" AS TABLE OF pcrf_transaction_type;
+/

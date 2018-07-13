@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_safelink_exchange FOR sa.adfcrm_safelink_exchange;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.email_status_update_u1 ON sa.email_status_update(esn);

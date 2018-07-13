@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_account_hist2part_inst ON sa.table_x_account_hist(account_hist2part_inst);

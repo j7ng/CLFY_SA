@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM crae004_temp1 FOR sa.crae004_temp1;

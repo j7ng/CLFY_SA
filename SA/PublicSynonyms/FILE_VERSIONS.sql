@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM file_versions FOR sa.file_versions;

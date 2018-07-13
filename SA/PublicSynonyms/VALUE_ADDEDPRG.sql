@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM value_addedprg FOR sa.value_addedprg;

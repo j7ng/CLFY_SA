@@ -1,0 +1,1 @@
+CREATE INDEX sa.toss_interface_jobs_prog ON sa.x_toss_interface_jobs(program_name);

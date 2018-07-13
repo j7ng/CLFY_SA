@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM walmart_monthly_plans_pkg FOR sa.walmart_monthly_plans_pkg;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_fota_vendors FOR sa.adfcrm_fota_vendors;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.uk1_policy_rule_subscriber ON sa.x_policy_rule_subscriber(esn,inactive_flag);

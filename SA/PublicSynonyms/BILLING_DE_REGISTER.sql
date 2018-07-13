@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_de_register FOR sa.billing_de_register;

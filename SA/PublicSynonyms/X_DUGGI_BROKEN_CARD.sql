@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_duggi_broken_card FOR sa.x_duggi_broken_card;

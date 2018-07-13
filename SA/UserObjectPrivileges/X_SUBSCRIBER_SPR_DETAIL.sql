@@ -1,0 +1,15 @@
+GRANT DELETE ON sa.x_subscriber_spr_detail TO dbit_kaborges;
+GRANT SELECT ON sa.x_subscriber_spr_detail TO cbo;
+GRANT SELECT ON sa.x_subscriber_spr_detail TO clarify_administrator;
+GRANT SELECT ON sa.x_subscriber_spr_detail TO clarify_user;
+GRANT SELECT ON sa.x_subscriber_spr_detail TO csrcbo;
+GRANT SELECT ON sa.x_subscriber_spr_detail TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_subscriber_spr_detail TO gw1;
+GRANT SELECT ON sa.x_subscriber_spr_detail TO igate_batch;
+GRANT SELECT ON sa.x_subscriber_spr_detail TO role_report_select;
+GRANT SELECT ON sa.x_subscriber_spr_detail TO role_sa_select;
+GRANT SELECT ON sa.x_subscriber_spr_detail TO role_sa_update;
+GRANT SELECT ON sa.x_subscriber_spr_detail TO role_tf_select;
+GRANT SELECT ON sa.x_subscriber_spr_detail TO soacbo;
+GRANT SELECT ON sa.x_subscriber_spr_detail TO w3ci;
+GRANT SELECT ON sa.x_subscriber_spr_detail TO webcbo;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_x_port_carriers ON sa.x_port_carriers(carrier_name);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM errlog_bank_acct_migr_2014 FOR sa.errlog_bank_acct_migr_2014;

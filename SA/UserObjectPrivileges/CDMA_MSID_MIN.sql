@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.cdma_msid_min TO dbit_mtoribiolopez;

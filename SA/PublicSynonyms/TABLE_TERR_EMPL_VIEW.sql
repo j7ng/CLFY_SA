@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_terr_empl_view FOR sa.table_terr_empl_view;

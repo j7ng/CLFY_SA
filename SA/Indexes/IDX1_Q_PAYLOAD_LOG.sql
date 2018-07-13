@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_q_payload_log ON sa.q_payload_log(creation_date);

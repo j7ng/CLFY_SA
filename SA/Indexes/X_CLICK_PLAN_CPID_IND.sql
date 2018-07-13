@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_click_plan_cpid_ind ON sa.table_x_click_plan(x_plan_id);

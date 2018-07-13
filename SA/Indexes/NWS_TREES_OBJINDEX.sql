@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.nws_trees_objindex ON sa.table_nws_trees(objid);

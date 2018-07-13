@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_partnum_promogrp FOR sa.mtm_partnum_promogrp;

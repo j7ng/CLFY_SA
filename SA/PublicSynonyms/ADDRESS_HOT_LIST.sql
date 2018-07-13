@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM address_hot_list FOR sa.address_hot_list;

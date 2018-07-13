@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_work_hr FOR sa.table_work_hr;

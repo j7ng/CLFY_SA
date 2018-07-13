@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_status_chg TO PUBLIC;

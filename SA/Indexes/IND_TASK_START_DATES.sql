@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_task_start_dates ON sa.table_task(start_date);

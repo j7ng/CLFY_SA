@@ -1,0 +1,12 @@
+GRANT EXECUTE ON sa.f_product_allowed_sl_ppe TO cbo;
+GRANT EXECUTE ON sa.f_product_allowed_sl_ppe TO clarify_administrator;
+GRANT EXECUTE ON sa.f_product_allowed_sl_ppe TO clarify_user;
+GRANT EXECUTE ON sa.f_product_allowed_sl_ppe TO corecbo;
+GRANT EXECUTE ON sa.f_product_allowed_sl_ppe TO csrcbo;
+GRANT EXECUTE ON sa.f_product_allowed_sl_ppe TO gw1;
+GRANT EXECUTE ON sa.f_product_allowed_sl_ppe TO igate_batch;
+GRANT EXECUTE ON sa.f_product_allowed_sl_ppe TO itds_user;
+GRANT EXECUTE ON sa.f_product_allowed_sl_ppe TO role_sa_update;
+GRANT EXECUTE ON sa.f_product_allowed_sl_ppe TO soacbo;
+GRANT EXECUTE ON sa.f_product_allowed_sl_ppe TO w3ci;
+GRANT EXECUTE ON sa.f_product_allowed_sl_ppe TO webcbo;

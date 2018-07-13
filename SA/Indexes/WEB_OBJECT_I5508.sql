@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.web_object_i5508 ON sa.table_web_object("NAME");

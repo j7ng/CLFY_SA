@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ndx_x_rtr_trans_id ON sa.x_rtr_trans(rtr_vendor_name,rtr_remote_trans_id);

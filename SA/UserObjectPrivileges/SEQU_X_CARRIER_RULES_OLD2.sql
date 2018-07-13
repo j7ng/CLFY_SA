@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_carrier_rules_old2 TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_que_element FOR sa.table_que_element;

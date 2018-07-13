@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.test_view TO dbit_mtoribiolopez;

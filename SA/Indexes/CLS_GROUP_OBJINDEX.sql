@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.cls_group_objindex ON sa.table_cls_group(objid);

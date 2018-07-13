@@ -1,0 +1,1 @@
+CREATE INDEX sa.table_x_promotion_mtm_ix1 ON sa.table_x_promotion_mtm(x_promo_mtm2x_promo_group);

@@ -1,0 +1,1 @@
+GRANT SELECT ON gw1.ig_template_system TO sa WITH GRANT OPTION;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.service_plan_feature_temp TO dbit_mtoribiolopez;

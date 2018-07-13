@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.ppe_pc TO dbit_mtoribiolopez;

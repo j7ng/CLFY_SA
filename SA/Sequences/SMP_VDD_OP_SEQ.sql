@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.smp_vdd_op_seq;

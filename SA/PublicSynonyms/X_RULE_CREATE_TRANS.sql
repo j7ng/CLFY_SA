@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_rule_create_trans FOR sa.x_rule_create_trans;

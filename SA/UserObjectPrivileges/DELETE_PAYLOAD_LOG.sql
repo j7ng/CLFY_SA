@@ -1,0 +1,10 @@
+GRANT EXECUTE ON sa.delete_payload_log TO cbo;
+GRANT EXECUTE ON sa.delete_payload_log TO clarify_administrator;
+GRANT EXECUTE ON sa.delete_payload_log TO clarify_user;
+GRANT EXECUTE ON sa.delete_payload_log TO csrcbo;
+GRANT EXECUTE ON sa.delete_payload_log TO gw1;
+GRANT EXECUTE ON sa.delete_payload_log TO igate_batch;
+GRANT EXECUTE ON sa.delete_payload_log TO role_sa_update;
+GRANT EXECUTE ON sa.delete_payload_log TO soacbo;
+GRANT EXECUTE ON sa.delete_payload_log TO w3ci;
+GRANT EXECUTE ON sa.delete_payload_log TO webcbo;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_load_iccid_tmp TO dbit_mtoribiolopez;

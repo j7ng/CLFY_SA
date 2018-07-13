@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_ret_esn_info FOR sa.adfcrm_ret_esn_info;

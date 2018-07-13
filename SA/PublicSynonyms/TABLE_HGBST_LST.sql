@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_hgbst_lst FOR sa.table_hgbst_lst;

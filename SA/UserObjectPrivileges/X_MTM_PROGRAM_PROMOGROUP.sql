@@ -1,0 +1,17 @@
+GRANT DELETE ON sa.x_mtm_program_promogroup TO clarify_administrator;
+GRANT DELETE ON sa.x_mtm_program_promogroup TO clarify_user;
+GRANT DELETE ON sa.x_mtm_program_promogroup TO role_sa_update;
+GRANT INSERT ON sa.x_mtm_program_promogroup TO clarify_administrator;
+GRANT INSERT ON sa.x_mtm_program_promogroup TO clarify_user;
+GRANT INSERT ON sa.x_mtm_program_promogroup TO role_sa_update;
+GRANT SELECT ON sa.x_mtm_program_promogroup TO clarify_administrator;
+GRANT SELECT ON sa.x_mtm_program_promogroup TO clarify_reporter;
+GRANT SELECT ON sa.x_mtm_program_promogroup TO clarify_user;
+GRANT SELECT ON sa.x_mtm_program_promogroup TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_mtm_program_promogroup TO role_gw1_select;
+GRANT SELECT ON sa.x_mtm_program_promogroup TO role_sa_select;
+GRANT SELECT ON sa.x_mtm_program_promogroup TO role_sa_update;
+GRANT SELECT ON sa.x_mtm_program_promogroup TO role_web_report;
+GRANT UPDATE ON sa.x_mtm_program_promogroup TO clarify_administrator;
+GRANT UPDATE ON sa.x_mtm_program_promogroup TO clarify_user;
+GRANT UPDATE ON sa.x_mtm_program_promogroup TO role_sa_update;

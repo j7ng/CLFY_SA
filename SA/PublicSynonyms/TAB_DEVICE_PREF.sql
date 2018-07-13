@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tab_device_pref FOR sa.tab_device_pref;

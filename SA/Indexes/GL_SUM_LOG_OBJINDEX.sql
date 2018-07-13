@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.gl_sum_log_objindex ON sa.table_gl_sum_log(objid);

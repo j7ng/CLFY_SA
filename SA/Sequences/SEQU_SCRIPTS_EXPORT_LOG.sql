@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_scripts_export_log;

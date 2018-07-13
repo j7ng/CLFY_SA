@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_sitepartcase FOR sa.table_sitepartcase;

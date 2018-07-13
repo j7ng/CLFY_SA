@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_appointment FOR sa.table_appointment;

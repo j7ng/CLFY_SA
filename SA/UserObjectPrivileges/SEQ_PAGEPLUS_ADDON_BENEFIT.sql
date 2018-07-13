@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_pageplus_addon_benefit TO PUBLIC;

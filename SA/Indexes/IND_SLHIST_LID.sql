@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_slhist_lid ON sa.x_sl_hist(lid);

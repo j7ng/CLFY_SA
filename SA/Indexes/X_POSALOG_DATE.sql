@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_posalog_date ON sa.x_posa_log(x_toss_posa_date);

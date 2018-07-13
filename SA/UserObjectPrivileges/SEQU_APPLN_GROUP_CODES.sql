@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_appln_group_codes TO PUBLIC;

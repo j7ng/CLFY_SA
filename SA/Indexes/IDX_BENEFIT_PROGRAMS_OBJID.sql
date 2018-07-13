@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_benefit_programs_objid ON sa.table_x_benefit_programs(objid);

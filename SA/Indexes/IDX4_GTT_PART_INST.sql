@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx4_gtt_part_inst ON sa.gtt_part_inst(n_part_inst2part_mod);

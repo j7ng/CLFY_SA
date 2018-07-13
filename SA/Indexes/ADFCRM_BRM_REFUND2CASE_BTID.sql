@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_brm_refund2case_btid ON sa.adfcrm_brm_refund2case(brm_trans_id);

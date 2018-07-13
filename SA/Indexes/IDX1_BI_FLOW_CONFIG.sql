@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_bi_flow_config ON sa.x_bi_flow_config(x_bal_cfg_id);

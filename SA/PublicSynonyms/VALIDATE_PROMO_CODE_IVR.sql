@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM validate_promo_code_ivr FOR sa.validate_promo_code_ivr;

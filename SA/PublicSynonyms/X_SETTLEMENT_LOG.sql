@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_settlement_log FOR sa.x_settlement_log;

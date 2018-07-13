@@ -1,0 +1,1 @@
+CREATE INDEX sa.process_key_idx ON sa.rtc_process_log(process_key);

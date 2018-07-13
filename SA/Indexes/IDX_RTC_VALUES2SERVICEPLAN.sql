@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_rtc_values2serviceplan ON sa.rtc_criteria_values(values2serviceplan);

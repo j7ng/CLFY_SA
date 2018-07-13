@@ -1,0 +1,11 @@
+GRANT EXECUTE ON sa.mainqconsumer TO cbo;
+GRANT EXECUTE ON sa.mainqconsumer TO clarify_administrator;
+GRANT EXECUTE ON sa.mainqconsumer TO clarify_user;
+GRANT EXECUTE ON sa.mainqconsumer TO csrcbo;
+GRANT EXECUTE ON sa.mainqconsumer TO gw1;
+GRANT EXECUTE ON sa.mainqconsumer TO igate_batch;
+GRANT EXECUTE ON sa.mainqconsumer TO itds_user;
+GRANT EXECUTE ON sa.mainqconsumer TO role_sa_update;
+GRANT EXECUTE ON sa.mainqconsumer TO soacbo;
+GRANT EXECUTE ON sa.mainqconsumer TO w3ci;
+GRANT EXECUTE ON sa.mainqconsumer TO webcbo;

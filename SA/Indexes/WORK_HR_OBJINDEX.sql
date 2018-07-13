@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.work_hr_objindex ON sa.table_work_hr(objid);

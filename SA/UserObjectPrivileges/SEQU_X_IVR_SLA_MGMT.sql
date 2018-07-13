@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_ivr_sla_mgmt TO PUBLIC;

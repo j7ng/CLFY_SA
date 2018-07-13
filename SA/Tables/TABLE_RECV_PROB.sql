@@ -1,0 +1,26 @@
+CREATE TABLE sa.table_recv_prob (
+  objid NUMBER,
+  problem_ref VARCHAR2(20 BYTE),
+  problem_qty NUMBER,
+  problem_sn VARCHAR2(30 BYTE),
+  problem_date DATE,
+  problem_id VARCHAR2(20 BYTE),
+  problem_descr VARCHAR2(255 BYTE),
+  is_closed NUMBER,
+  is_miss_pprwk NUMBER,
+  is_incorr_qty NUMBER,
+  is_wrong_po NUMBER,
+  is_wrong_part NUMBER,
+  is_not_in_sys NUMBER,
+  problem_resol VARCHAR2(255 BYTE),
+  is_field_prob NUMBER,
+  is_vend_prob NUMBER,
+  is_cust_prob NUMBER,
+  is_log_prob NUMBER,
+  is_correct_pn NUMBER,
+  is_new_part NUMBER,
+  is_ret2_sendr NUMBER,
+  dev NUMBER,
+  problem2part_info NUMBER(*,0)
+);
+ALTER TABLE sa.table_recv_prob ADD SUPPLEMENTAL LOG GROUP dmtsora364053202_0 (dev, is_closed, is_correct_pn, is_cust_prob, is_field_prob, is_incorr_qty, is_log_prob, is_miss_pprwk, is_new_part, is_not_in_sys, is_ret2_sendr, is_vend_prob, is_wrong_part, is_wrong_po, objid, problem2part_info, problem_date, problem_descr, problem_id, problem_qty, problem_ref, problem_resol, problem_sn) ALWAYS;

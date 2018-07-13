@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_tr_filter_view FOR sa.table_tr_filter_view;

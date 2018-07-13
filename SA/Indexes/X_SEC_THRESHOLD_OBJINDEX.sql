@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_sec_threshold_objindex ON sa.table_x_sec_threshold(objid);

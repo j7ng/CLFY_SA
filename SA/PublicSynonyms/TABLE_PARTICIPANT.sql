@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_participant FOR sa.table_participant;

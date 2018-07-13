@@ -1,0 +1,1 @@
+CREATE INDEX sa.partner_params_linkobj_index ON sa.table_partner_params(link_objid);

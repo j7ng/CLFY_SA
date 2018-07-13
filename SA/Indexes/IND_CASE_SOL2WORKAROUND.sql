@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_case_sol2workaround ON sa.table_case(case_soln2workaround);

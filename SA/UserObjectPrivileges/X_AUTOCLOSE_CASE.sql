@@ -1,0 +1,9 @@
+GRANT SELECT ON sa.x_autoclose_case TO clarify_reporter;
+GRANT SELECT ON sa.x_autoclose_case TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_autoclose_case TO role_carrier_ops;
+GRANT SELECT ON sa.x_autoclose_case TO role_gw1_select;
+GRANT SELECT ON sa.x_autoclose_case TO role_sa_select;
+GRANT SELECT ON sa.x_autoclose_case TO role_tf_select;
+GRANT SELECT ON sa.x_autoclose_case TO role_web_report;
+GRANT SELECT ON sa.x_autoclose_case TO select_no_pin;
+GRANT SELECT ON sa.x_autoclose_case TO select_role;

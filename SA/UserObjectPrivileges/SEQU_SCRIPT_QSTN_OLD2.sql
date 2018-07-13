@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_script_qstn_old2 TO PUBLIC;

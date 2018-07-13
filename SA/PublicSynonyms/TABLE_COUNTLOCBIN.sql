@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_countlocbin FOR sa.table_countlocbin;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.dw2w5200 ON sa.table_dialogue(dialogue_wip2wipbin);

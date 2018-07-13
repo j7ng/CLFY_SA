@@ -1,0 +1,18 @@
+CREATE OR REPLACE trigger sa.TRIG_RATE_PLAN_FEAT_GRP_OBJID
+before insert on sa.CARRIER_RATE_PLAN_FEATURE_GRP FOR EACH ROW
+DECLARE
+
+begin
+
+
+
+IF :new.OBJID IS NULL THEN
+     SELECT sa.SEQU_CARR_RATE_PLAN_FEAT_GRP.NEXTVAL
+       INTO :new.objid
+       FROM dual;
+END IF;
+
+
+
+END;
+/

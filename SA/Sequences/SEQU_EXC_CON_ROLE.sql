@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_exc_con_role;

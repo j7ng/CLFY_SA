@@ -1,0 +1,22 @@
+CREATE TABLE sa.table_x_parameters_his (
+  "SID" NUMBER,
+  "ACTION" VARCHAR2(10 BYTE),
+  username VARCHAR2(30 BYTE),
+  osuser VARCHAR2(100 BYTE),
+  "PROCESS" VARCHAR2(100 BYTE),
+  machine VARCHAR2(100 BYTE),
+  terminal VARCHAR2(100 BYTE),
+  "PROGRAM" VARCHAR2(100 BYTE),
+  logon_time DATE,
+  dt DATE,
+  old_objid NUMBER,
+  old_dev NUMBER,
+  old_x_param_name VARCHAR2(50 BYTE),
+  old_x_param_value VARCHAR2(2000 BYTE),
+  old_x_notes VARCHAR2(255 BYTE),
+  new_objid NUMBER,
+  new_dev NUMBER,
+  new_x_param_name VARCHAR2(50 BYTE),
+  new_x_param_value VARCHAR2(2000 BYTE),
+  new_x_notes VARCHAR2(255 BYTE)
+);

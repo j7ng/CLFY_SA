@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_money_card_cc_idx01 ON sa.x_money_card_cc(x_money_card2creditcard);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM udp_tx_log_table FOR sa.udp_tx_log_table;

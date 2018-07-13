@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_code_hist2call_trans ON sa.table_x_code_hist(code_hist2call_trans);

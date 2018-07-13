@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_cmcn_email FOR sa.table_cmcn_email;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_x_escalation_speed FOR sa.sequ_x_escalation_speed;

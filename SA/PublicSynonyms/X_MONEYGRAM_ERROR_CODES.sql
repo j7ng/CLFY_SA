@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_moneygram_error_codes FOR sa.x_moneygram_error_codes;

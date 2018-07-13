@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_object2clone FOR sa.table_object2clone;

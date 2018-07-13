@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.unit_convert_unit_conv_ind ON sa.table_unit_convert(from_unit,to_unit);

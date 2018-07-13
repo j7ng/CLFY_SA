@@ -1,0 +1,1 @@
+GRANT SELECT ON apex_040000.apex_application_supp_obj_scr TO sa;

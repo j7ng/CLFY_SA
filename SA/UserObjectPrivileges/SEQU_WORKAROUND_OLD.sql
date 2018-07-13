@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_workaround_old TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_link_objindex ON sa.table_x_link(objid);

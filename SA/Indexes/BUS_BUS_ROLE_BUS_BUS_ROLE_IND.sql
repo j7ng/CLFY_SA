@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.bus_bus_role_bus_bus_role_ind ON sa.table_bus_bus_role(player2bus_org,role_for2bus_org,role_name);

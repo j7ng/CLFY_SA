@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sm_integration_pkg FOR sa.sm_integration_pkg;

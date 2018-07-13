@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.adfcrm_part2ff_center_hist_seq TO PUBLIC;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_inventory_count_id TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM seq_cf_extension_link FOR sa.seq_cf_extension_link;

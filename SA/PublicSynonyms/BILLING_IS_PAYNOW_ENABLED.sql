@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_is_paynow_enabled FOR sa.billing_is_paynow_enabled;

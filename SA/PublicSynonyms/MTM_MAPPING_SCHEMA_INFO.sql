@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_mapping_schema_info FOR sa.mtm_mapping_schema_info;

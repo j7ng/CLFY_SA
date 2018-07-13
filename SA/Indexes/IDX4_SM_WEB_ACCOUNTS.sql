@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx4_sm_web_accounts ON sa.x_sm_web_accounts(processed_status);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.tfserialnum_u1 ON sa.tf_toss_interface_d2no_by_drop(tf_serial_num);

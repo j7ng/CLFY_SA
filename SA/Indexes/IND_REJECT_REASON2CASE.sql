@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_reject_reason2case ON sa.table_reject_msg(reject_reason2case);

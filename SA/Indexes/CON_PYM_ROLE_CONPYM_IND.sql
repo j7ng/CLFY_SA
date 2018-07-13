@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.con_pym_role_conpym_ind ON sa.table_con_pym_role(cn_pm_role2contact,cn_pm_role2pay_means,role_name);

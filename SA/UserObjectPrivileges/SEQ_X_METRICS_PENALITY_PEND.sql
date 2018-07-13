@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_metrics_penality_pend TO PUBLIC;

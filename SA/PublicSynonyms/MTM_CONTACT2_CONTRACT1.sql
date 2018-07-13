@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_contact2_contract1 FOR sa.mtm_contact2_contract1;

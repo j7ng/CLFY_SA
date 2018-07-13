@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.script_qstn_objindex ON sa.table_script_qstn(objid);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_ahis_table_contact_obj ON sa.tstahis_table_contact(contact_hist2contact);

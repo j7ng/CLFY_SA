@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_script_handset_os FOR sa.x_script_handset_os;

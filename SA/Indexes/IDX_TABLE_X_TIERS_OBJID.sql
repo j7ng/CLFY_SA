@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_table_x_tiers_objid ON sa.table_x_tiers(objid);

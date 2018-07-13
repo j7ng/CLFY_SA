@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_cc_ild_inv_objindex ON sa.table_x_cc_ild_inv(objid);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.l_sim ON sa.x_load_iccid_stg(sim);

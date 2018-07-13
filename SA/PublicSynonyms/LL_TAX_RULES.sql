@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ll_tax_rules FOR sa.ll_tax_rules;

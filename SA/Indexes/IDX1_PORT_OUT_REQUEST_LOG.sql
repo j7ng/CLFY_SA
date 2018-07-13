@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_port_out_request_log ON sa.x_port_out_request_log("MIN");

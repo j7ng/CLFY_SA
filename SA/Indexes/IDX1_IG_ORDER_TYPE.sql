@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_ig_order_type ON sa.x_ig_order_type(x_actual_order_type);

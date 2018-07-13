@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_ahis_x_posa_card_inv_dt ON sa.tstahis_x_posa_card_inv(x_change_date);

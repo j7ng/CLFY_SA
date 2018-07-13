@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.ota_admin_batch_id_seq;

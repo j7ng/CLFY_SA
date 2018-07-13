@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_prg_param_chargedt ON sa.x_program_enrolled(x_next_charge_date,x_enrollment_status);

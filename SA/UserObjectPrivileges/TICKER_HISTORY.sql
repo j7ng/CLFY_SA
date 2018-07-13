@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.ticker_history TO dbit_mtoribiolopez;

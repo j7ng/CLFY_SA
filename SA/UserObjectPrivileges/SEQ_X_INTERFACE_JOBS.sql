@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_interface_jobs TO PUBLIC;

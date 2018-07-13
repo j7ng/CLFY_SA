@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_access_control FOR sa.table_access_control;

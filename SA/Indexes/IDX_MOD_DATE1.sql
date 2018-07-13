@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_mod_date1 ON sa.x_service_plan_hist(x_last_modified_date);

@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.get_promo_usage_fun TO role_sa_update;

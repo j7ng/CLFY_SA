@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_backorder FOR sa.table_backorder;

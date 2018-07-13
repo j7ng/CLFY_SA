@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM apex_hotline_drop_down_options FOR sa.apex_hotline_drop_down_options;

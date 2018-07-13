@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_txsp_objid TO PUBLIC;

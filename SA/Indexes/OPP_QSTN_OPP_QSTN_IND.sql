@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.opp_qstn_opp_qstn_ind ON sa.table_opp_qstn(opp_qstn2opportunity,seq_num);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_territory FOR sa.table_territory;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_program_notify ON sa.x_program_notify(objid);

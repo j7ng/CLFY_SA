@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_sui_disact_btn_rls_idx1 ON sa.adfcrm_sui_disact_button_rules(rule_objid,action_objid,criteria);

@@ -1,0 +1,1 @@
+GRANT SELECT ON apex_040000.apex_debug_messages TO sa;

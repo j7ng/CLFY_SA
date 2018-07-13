@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_crdate_index ON sa.x_autoclose_case_091906(x_create_date);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_opportunity_old2 TO PUBLIC;

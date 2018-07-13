@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_disp_req TO PUBLIC;

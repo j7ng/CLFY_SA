@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM encodemot120unix FOR sa.encodemot120unix;

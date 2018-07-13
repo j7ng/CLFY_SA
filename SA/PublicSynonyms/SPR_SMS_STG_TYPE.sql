@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM spr_sms_stg_type FOR sa.spr_sms_stg_type;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.cwl_2_ndx ON sa.cwl_2(part_to_esn2part_inst);

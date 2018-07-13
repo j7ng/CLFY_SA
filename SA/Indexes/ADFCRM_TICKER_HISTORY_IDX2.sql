@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_ticker_history_idx2 ON sa.adfcrm_ticker_history(script_objid,create_date);

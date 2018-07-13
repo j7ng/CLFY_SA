@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_metx_rej_enrl TO PUBLIC;

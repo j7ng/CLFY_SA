@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_part_request_request2case ON sa.table_x_part_request(request2case);

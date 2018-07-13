@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_handset_msrp_tiers_pk ON sa.table_handset_msrp_tiers(objid);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_rqst_date ON sa.table_x_purch_hdr(x_rqst_date);

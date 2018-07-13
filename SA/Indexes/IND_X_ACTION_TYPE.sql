@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_x_action_type ON sa.table_x_ota_transaction(x_action_type);

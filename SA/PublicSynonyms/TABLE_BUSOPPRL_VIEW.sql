@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_busopprl_view FOR sa.table_busopprl_view;

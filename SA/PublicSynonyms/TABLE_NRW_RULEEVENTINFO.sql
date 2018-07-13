@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_nrw_ruleeventinfo FOR sa.table_nrw_ruleeventinfo;

@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_message_old2;

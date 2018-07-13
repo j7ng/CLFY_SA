@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_finale_view FOR sa.table_finale_view;

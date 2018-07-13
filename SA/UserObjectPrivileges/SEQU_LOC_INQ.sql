@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_loc_inq TO PUBLIC;

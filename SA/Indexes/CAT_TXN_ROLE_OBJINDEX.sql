@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.cat_txn_role_objindex ON sa.table_cat_txn_role(objid);

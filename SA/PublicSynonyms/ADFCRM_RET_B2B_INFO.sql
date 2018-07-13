@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_ret_b2b_info FOR sa.adfcrm_ret_b2b_info;

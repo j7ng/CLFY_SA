@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.outbound_segmentation_prc TO role_sa_update;

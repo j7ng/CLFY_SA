@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_raf_replies FOR sa.x_raf_replies;

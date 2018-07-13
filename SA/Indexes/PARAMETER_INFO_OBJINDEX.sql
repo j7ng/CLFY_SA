@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.parameter_info_objindex ON sa.table_parameter_info(objid);

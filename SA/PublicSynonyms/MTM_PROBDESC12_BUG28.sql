@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_probdesc12_bug28 FOR sa.mtm_probdesc12_bug28;

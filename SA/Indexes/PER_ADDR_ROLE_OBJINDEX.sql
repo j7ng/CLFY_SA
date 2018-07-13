@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.per_addr_role_objindex ON sa.table_per_addr_role(objid);

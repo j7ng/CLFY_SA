@@ -1,0 +1,12 @@
+GRANT EXECUTE ON sa.reward_service_info_obj TO cbo;
+GRANT EXECUTE ON sa.reward_service_info_obj TO clarify_administrator;
+GRANT EXECUTE ON sa.reward_service_info_obj TO clarify_user;
+GRANT EXECUTE ON sa.reward_service_info_obj TO corecbo;
+GRANT EXECUTE ON sa.reward_service_info_obj TO csrcbo;
+GRANT EXECUTE ON sa.reward_service_info_obj TO gw1;
+GRANT EXECUTE ON sa.reward_service_info_obj TO igate_batch;
+GRANT EXECUTE ON sa.reward_service_info_obj TO itds_user;
+GRANT EXECUTE ON sa.reward_service_info_obj TO role_sa_update;
+GRANT EXECUTE ON sa.reward_service_info_obj TO soacbo;
+GRANT EXECUTE ON sa.reward_service_info_obj TO w3ci;
+GRANT EXECUTE ON sa.reward_service_info_obj TO webcbo;

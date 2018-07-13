@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_user_hist TO PUBLIC;

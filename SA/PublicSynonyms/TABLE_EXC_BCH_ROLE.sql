@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_exc_bch_role FOR sa.table_exc_bch_role;

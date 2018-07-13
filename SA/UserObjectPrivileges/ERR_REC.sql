@@ -1,0 +1,14 @@
+GRANT EXECUTE ON sa.err_rec TO cbo;
+GRANT EXECUTE ON sa.err_rec TO clarify_administrator;
+GRANT EXECUTE ON sa.err_rec TO clarify_user;
+GRANT EXECUTE ON sa.err_rec TO corecbo;
+GRANT EXECUTE ON sa.err_rec TO csrcbo;
+GRANT EXECUTE ON sa.err_rec TO igate_batch;
+GRANT EXECUTE ON sa.err_rec TO itquser_data;
+GRANT EXECUTE ON sa.err_rec TO mobapp_data;
+GRANT EXECUTE ON sa.err_rec TO role_report_select;
+GRANT EXECUTE ON sa.err_rec TO role_sa_select;
+GRANT EXECUTE ON sa.err_rec TO role_sa_update;
+GRANT EXECUTE ON sa.err_rec TO role_tf_select;
+GRANT EXECUTE ON sa.err_rec TO soacbo;
+GRANT EXECUTE ON sa.err_rec TO webcbo;

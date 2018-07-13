@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_interact_start_date ON sa.table_interact(start_date);

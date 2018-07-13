@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_x_nonusage_esns_n1 ON sa.x_nonusage_esns(x_esn);

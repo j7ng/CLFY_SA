@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_contract_responses FOR sa.x_contract_responses;

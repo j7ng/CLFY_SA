@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.objid_uk_i ON sa.x_purchase_add_info(objid);

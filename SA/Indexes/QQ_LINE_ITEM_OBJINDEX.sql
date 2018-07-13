@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.qq_line_item_objindex ON sa.table_qq_line_item(objid);

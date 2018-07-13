@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.menu_bar_objindex ON sa.table_menu_bar(objid);

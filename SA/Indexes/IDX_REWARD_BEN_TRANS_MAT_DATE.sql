@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_reward_ben_trans_mat_date ON sa.x_reward_benefit_transaction(maturity_date);

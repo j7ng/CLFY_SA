@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM webcsr_external_links FOR sa.webcsr_external_links;

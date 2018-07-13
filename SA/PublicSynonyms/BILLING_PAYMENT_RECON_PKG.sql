@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_payment_recon_pkg FOR sa.billing_payment_recon_pkg;

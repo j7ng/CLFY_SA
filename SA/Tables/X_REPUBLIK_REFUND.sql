@@ -1,0 +1,28 @@
+CREATE TABLE sa.x_republik_refund (
+  toss_order_id NUMBER NOT NULL,
+  pt_constant VARCHAR2(1 BYTE) DEFAULT 'S',
+  pt_division_number VARCHAR2(6 BYTE) DEFAULT '887083',
+  pt_merch_order_number VARCHAR2(16 BYTE),
+  pt_action_code VARCHAR2(2 BYTE),
+  pt_payment_method VARCHAR2(2 BYTE),
+  pt_account_number VARCHAR2(53 BYTE),
+  pt_expiration_date VARCHAR2(4 BYTE),
+  pt_amount VARCHAR2(12 BYTE),
+  pt_currrency_code VARCHAR2(3 BYTE) DEFAULT '840',
+  pt_response_reason_code VARCHAR2(3 BYTE),
+  pt_transaction_type VARCHAR2(1 BYTE) DEFAULT '1',
+  pt_reserved1 VARCHAR2(1 BYTE),
+  pt_response_date VARCHAR2(6 BYTE),
+  pt_auth_code VARCHAR2(6 BYTE),
+  pt_avs_response_code VARCHAR2(2 BYTE),
+  pt_reserved2 VARCHAR2(1 BYTE),
+  pt_fraud_indicator VARCHAR2(1 BYTE),
+  pt_encryption_flag VARCHAR2(3 BYTE),
+  pt_reserved3 VARCHAR2(2 BYTE),
+  pt_filler VARCHAR2(1 BYTE),
+  pt_merchant_space VARCHAR2(4 BYTE),
+  created_date DATE NOT NULL,
+  status VARCHAR2(10 BYTE),
+  last_updated_date DATE
+);
+ALTER TABLE sa.x_republik_refund ADD SUPPLEMENTAL LOG GROUP dmtsora1095803611_0 (created_date, last_updated_date, pt_account_number, pt_action_code, pt_amount, pt_auth_code, pt_avs_response_code, pt_constant, pt_currrency_code, pt_division_number, pt_encryption_flag, pt_expiration_date, pt_filler, pt_fraud_indicator, pt_merchant_space, pt_merch_order_number, pt_payment_method, pt_reserved1, pt_reserved2, pt_reserved3, pt_response_date, pt_response_reason_code, pt_transaction_type, status, toss_order_id) ALWAYS;

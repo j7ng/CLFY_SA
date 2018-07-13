@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_sids_objindex ON sa.table_x_sids(objid);

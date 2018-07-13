@@ -1,0 +1,15 @@
+GRANT DELETE ON sa.table_x_employee_discount TO role_sqa_tester;
+GRANT INSERT ON sa.table_x_employee_discount TO role_sqa_tester;
+GRANT SELECT ON sa.table_x_employee_discount TO cbo;
+GRANT SELECT ON sa.table_x_employee_discount TO clarify_administrator;
+GRANT SELECT ON sa.table_x_employee_discount TO clarify_user;
+GRANT SELECT ON sa.table_x_employee_discount TO csrcbo;
+GRANT SELECT ON sa.table_x_employee_discount TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.table_x_employee_discount TO gw1;
+GRANT SELECT ON sa.table_x_employee_discount TO igate_batch;
+GRANT SELECT ON sa.table_x_employee_discount TO role_sa_update;
+GRANT SELECT ON sa.table_x_employee_discount TO role_sqa_tester;
+GRANT SELECT ON sa.table_x_employee_discount TO soacbo;
+GRANT SELECT ON sa.table_x_employee_discount TO w3ci;
+GRANT SELECT ON sa.table_x_employee_discount TO webcbo;
+GRANT UPDATE ON sa.table_x_employee_discount TO role_sqa_tester;

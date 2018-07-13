@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.web_login_busorg_idx ON sa.table_web_user(s_login_name,web_user2bus_org);

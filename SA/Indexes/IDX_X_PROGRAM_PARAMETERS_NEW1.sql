@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_program_parameters_new1 ON sa.x_program_parameters(x_program_name);

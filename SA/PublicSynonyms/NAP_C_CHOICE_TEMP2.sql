@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM nap_c_choice_temp2 FOR sa.nap_c_choice_temp2;

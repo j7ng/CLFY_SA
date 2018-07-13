@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.indx_sp_mktname ON sa.x_service_plan(mkt_name);

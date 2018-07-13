@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_fraud_pkg FOR sa.adfcrm_fraud_pkg;

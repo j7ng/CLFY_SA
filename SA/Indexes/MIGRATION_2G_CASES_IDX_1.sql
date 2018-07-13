@@ -1,0 +1,1 @@
+CREATE INDEX sa.migration_2g_cases_idx_1 ON sa.migration_2g_cases(source_file);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_mtm_pgm_redcard_bonus FOR sa.x_mtm_pgm_redcard_bonus;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_xsuvmbc_req_batch_dt ON sa.xsu_vmbc_request(batchdate);

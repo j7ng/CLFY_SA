@@ -1,0 +1,1 @@
+CREATE INDEX sa.asurion_outbound_positive_n3 ON sa.asurion_outbound_positive(imei);

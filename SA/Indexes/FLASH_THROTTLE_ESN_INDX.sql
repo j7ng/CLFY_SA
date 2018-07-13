@@ -1,0 +1,1 @@
+CREATE INDEX sa.flash_throttle_esn_indx ON sa.x_create_flash_throttle(esn);

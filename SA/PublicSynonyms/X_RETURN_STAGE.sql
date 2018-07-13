@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_return_stage FOR sa.x_return_stage;

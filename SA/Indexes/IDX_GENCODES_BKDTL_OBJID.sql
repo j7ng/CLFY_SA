@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_gencodes_bkdtl_objid ON sa.x_gencodes_breakdown_details(objid);

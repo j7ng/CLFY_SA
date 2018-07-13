@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM subscribe_vas_programs_tab FOR sa.subscribe_vas_programs_tab;

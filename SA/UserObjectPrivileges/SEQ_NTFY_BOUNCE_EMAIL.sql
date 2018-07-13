@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_ntfy_bounce_email TO PUBLIC;

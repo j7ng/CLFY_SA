@@ -1,0 +1,1 @@
+GRANT EXECUTE ON apex_040000.wwv_flow_custom_auth_ldap TO sa;

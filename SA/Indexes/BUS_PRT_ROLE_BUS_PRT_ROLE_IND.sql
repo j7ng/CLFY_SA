@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.bus_prt_role_bus_prt_role_ind ON sa.table_bus_prt_role(role_name,bus_prt_role2bus_org,bprt_role2site_part);

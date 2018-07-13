@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_adfcrm_camp2part_class TO PUBLIC;

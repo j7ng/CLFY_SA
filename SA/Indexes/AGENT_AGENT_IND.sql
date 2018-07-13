@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.agent_agent_ind ON sa.table_agent(agent2acd,agent_id);

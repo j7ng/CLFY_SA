@@ -1,0 +1,9 @@
+CREATE OR REPLACE TYPE sa.TF_SOAPROCESS_EMAILTYPE IS OBJECT (
+   FROMACCOUNTNAME             VARCHAR2 (150),
+   TOADDRESS                   VARCHAR2 (250),
+   FROMADDRESS                 VARCHAR2 (250),
+   SUBJECT                     VARCHAR2 (250),
+   CCADDRESS                   VARCHAR2 (250),
+   BCCADDRESS                  VARCHAR2 (250),
+   EMAILCONTENET               VARCHAR2 (4000));
+/

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.r_rqst_ctx_objindex ON sa.table_r_rqst_ctx(objid);

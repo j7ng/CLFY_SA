@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM gtt_account_group_member FOR sa.gtt_account_group_member;

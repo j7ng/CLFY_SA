@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_biz_order_fulfill_dtl FOR sa.x_biz_order_fulfill_dtl;

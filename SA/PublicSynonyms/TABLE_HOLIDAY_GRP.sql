@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_holiday_grp FOR sa.table_holiday_grp;

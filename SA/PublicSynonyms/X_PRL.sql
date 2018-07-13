@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_prl FOR sa.x_prl;

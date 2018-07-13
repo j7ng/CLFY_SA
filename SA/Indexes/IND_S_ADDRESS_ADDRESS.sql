@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_s_address_address ON sa.table_address(s_address);

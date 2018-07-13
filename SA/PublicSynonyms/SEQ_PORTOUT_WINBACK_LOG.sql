@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM seq_portout_winback_log FOR sa.seq_portout_winback_log;

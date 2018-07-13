@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_udp_tx_log_table_objid ON sa.udp_tx_log_table(objid);

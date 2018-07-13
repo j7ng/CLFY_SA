@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.catalog_objindex ON sa.table_catalog(objid);

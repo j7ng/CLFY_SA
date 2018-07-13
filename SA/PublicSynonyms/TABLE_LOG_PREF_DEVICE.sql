@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_log_pref_device FOR sa.table_log_pref_device;

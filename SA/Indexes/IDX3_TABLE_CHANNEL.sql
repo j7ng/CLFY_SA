@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx3_table_channel ON sa.table_channel(s_title);

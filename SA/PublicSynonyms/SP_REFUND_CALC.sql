@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sp_refund_calc FOR sa.sp_refund_calc;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.group_name_index ON sa.table_group("NAME","TYPE");

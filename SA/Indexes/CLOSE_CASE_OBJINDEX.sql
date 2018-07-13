@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.close_case_objindex ON sa.table_close_case(objid);

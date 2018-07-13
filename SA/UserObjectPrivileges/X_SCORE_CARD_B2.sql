@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_score_card_b2 TO dbit_mtoribiolopez;

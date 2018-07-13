@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.temp_contact_seq;

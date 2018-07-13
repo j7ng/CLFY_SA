@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.report_info_i5633 ON sa.table_report_info(report_name);

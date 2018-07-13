@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_ind_part_inst2contact ON sa.table_x_contact_part_inst(x_contact_part_inst2contact);

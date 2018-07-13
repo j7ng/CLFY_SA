@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_apn_pkg FOR sa.adfcrm_apn_pkg;

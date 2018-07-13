@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.s_csc_agreement_agreement_ind ON sa.table_csc_agreement(server_id,s_contract_id);

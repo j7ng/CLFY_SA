@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x79alarm_rec FOR sa.table_x79alarm_rec;

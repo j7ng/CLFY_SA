@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.csc_activity_objindex ON sa.table_csc_activity(objid);

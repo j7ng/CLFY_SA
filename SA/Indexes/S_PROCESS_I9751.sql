@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.s_process_i9751 ON sa.table_process(s_id,"VERSION");

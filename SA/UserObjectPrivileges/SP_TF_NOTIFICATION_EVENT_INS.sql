@@ -1,0 +1,15 @@
+GRANT DEBUG ON sa.sp_tf_notification_event_ins TO rrp;
+GRANT EXECUTE ON sa.sp_tf_notification_event_ins TO cbo;
+GRANT EXECUTE ON sa.sp_tf_notification_event_ins TO clarify_administrator;
+GRANT EXECUTE ON sa.sp_tf_notification_event_ins TO clarify_user;
+GRANT EXECUTE ON sa.sp_tf_notification_event_ins TO corecbo;
+GRANT EXECUTE ON sa.sp_tf_notification_event_ins TO csrcbo;
+GRANT EXECUTE ON sa.sp_tf_notification_event_ins TO gw1;
+GRANT EXECUTE ON sa.sp_tf_notification_event_ins TO report;
+GRANT EXECUTE ON sa.sp_tf_notification_event_ins TO role_report_select;
+GRANT EXECUTE ON sa.sp_tf_notification_event_ins TO role_sa_select;
+GRANT EXECUTE ON sa.sp_tf_notification_event_ins TO role_sa_update;
+GRANT EXECUTE ON sa.sp_tf_notification_event_ins TO role_tf_select;
+GRANT EXECUTE ON sa.sp_tf_notification_event_ins TO rrp;
+GRANT EXECUTE ON sa.sp_tf_notification_event_ins TO soacbo;
+GRANT EXECUTE ON sa.sp_tf_notification_event_ins TO webcbo;

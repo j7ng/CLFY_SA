@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.dialogue_dialogue_ind ON sa.table_dialogue(id_number);

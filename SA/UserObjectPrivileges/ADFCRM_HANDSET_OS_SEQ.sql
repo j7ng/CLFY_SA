@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.adfcrm_handset_os_seq TO PUBLIC;

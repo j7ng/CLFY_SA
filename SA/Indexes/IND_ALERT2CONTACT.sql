@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_alert2contact ON sa.table_alert(alert2contact);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ripbin_objindex ON sa.table_ripbin(objid);

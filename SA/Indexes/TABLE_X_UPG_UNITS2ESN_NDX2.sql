@@ -1,0 +1,1 @@
+CREATE INDEX sa.table_x_upg_units2esn_ndx2 ON sa.table_x_upg_units2esn(upg_units2part_inst,x_units_type);

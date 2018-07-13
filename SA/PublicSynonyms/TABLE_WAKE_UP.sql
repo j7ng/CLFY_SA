@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_wake_up FOR sa.table_wake_up;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_parts_view FOR sa.table_parts_view;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.aq$rtc_q_table TO dbit_mtoribiolopez;

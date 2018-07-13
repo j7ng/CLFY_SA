@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_cmp_lsc FOR sa.table_cmp_lsc;

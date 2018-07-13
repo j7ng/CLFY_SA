@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.seq_ntfy_bounce_email;

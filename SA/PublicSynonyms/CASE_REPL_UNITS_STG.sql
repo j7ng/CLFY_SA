@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM case_repl_units_stg FOR sa.case_repl_units_stg;

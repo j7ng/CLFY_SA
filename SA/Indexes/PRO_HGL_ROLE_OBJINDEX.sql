@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.pro_hgl_role_objindex ON sa.table_pro_hgl_role(objid);

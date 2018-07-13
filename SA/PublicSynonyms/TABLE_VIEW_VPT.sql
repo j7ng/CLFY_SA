@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_view_vpt FOR sa.table_view_vpt;

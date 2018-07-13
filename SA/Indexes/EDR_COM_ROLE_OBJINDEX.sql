@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.edr_com_role_objindex ON sa.table_edr_com_role(objid);

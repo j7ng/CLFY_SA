@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.campaign_campaign_ind ON sa.table_campaign("NAME");

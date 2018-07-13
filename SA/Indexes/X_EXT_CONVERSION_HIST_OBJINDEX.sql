@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_ext_conversion_hist_objindex ON sa.table_x_ext_conversion_hist(objid);

@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.reset_password TO crmusradm;

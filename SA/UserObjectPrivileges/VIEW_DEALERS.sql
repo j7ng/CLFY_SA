@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.view_dealers TO dbit_mtoribiolopez;

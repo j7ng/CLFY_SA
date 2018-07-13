@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.list_struct_list_struct_ind ON sa.table_list_struct(hdr_type,dtl_type,locale);

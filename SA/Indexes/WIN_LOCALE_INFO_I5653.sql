@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.win_locale_info_i5653 ON sa.table_win_locale_info(locale_code);

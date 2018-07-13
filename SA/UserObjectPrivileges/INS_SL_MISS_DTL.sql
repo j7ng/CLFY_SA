@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.ins_sl_miss_dtl TO dbit_mtoribiolopez;

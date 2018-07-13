@@ -1,0 +1,1 @@
+CREATE INDEX sa.ix2_bogo_configura_bkp ON sa.x_bogo_configuration_bkp(bogo_part_number);

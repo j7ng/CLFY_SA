@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.net10_emergency_final_now TO dbit_mtoribiolopez;

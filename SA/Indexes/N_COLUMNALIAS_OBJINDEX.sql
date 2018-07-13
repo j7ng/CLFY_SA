@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_columnalias_objindex ON sa.table_n_columnalias(objid);

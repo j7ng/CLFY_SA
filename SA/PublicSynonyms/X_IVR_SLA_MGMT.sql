@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_ivr_sla_mgmt FOR sa.x_ivr_sla_mgmt;

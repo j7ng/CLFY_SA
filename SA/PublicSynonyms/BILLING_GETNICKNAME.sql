@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_getnickname FOR sa.billing_getnickname;

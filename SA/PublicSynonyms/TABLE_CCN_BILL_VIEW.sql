@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_ccn_bill_view FOR sa.table_ccn_bill_view;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_adp_tbl_oid ON sa.adp_tbl_oid_20061115(type_id);

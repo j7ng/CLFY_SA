@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.ubi_mtg_src_configurations_seq;

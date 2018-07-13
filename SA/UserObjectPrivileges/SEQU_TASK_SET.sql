@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_task_set TO PUBLIC;

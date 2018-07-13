@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.prtnum_kp_objindex ON sa.table_prtnum_kp(objid);

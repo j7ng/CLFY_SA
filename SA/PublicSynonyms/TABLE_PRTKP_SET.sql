@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_prtkp_set FOR sa.table_prtkp_set;

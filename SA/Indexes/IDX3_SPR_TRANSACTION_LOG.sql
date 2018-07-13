@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx3_spr_transaction_log ON sa.x_spr_transaction_log(program_name);

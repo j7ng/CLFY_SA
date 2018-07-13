@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.pl_inquirack_array TO clarify_user;

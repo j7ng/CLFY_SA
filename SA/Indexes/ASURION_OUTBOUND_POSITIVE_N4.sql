@@ -1,0 +1,1 @@
+CREATE INDEX sa.asurion_outbound_positive_n4 ON sa.asurion_outbound_positive(old_esn);

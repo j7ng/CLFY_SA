@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.count_setup_count_id_ind ON sa.table_count_setup(count_id);

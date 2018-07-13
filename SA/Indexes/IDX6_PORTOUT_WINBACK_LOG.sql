@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx6_portout_winback_log ON sa.x_portout_winback_log(insert_timestamp);

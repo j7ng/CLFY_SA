@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.person_name_index ON sa.table_person(first_name,last_name,phone);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_life_cycle6_task_set2 FOR sa.mtm_life_cycle6_task_set2;

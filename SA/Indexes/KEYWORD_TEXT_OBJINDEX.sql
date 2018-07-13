@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.keyword_text_objindex ON sa.table_keyword_text(objid);

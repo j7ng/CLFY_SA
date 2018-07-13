@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_path_cobj_map;

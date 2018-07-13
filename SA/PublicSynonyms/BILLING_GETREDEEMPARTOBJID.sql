@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_getredeempartobjid FOR sa.billing_getredeempartobjid;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_hgsl2hshow FOR sa.table_hgsl2hshow;

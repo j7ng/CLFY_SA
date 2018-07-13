@@ -1,0 +1,1 @@
+CREATE INDEX sa.t0076 ON sa.table_com_tmplte(title);

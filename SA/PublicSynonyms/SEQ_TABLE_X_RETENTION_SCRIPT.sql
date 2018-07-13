@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM seq_table_x_retention_script FOR sa.seq_table_x_retention_script;

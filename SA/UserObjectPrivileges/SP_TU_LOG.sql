@@ -1,0 +1,1 @@
+GRANT EXECUTE ON toppapp.sp_tu_log TO sa;

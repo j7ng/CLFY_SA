@@ -1,0 +1,22 @@
+CREATE MATERIALIZED VIEW sa.adfcrm_service_plan_scripts_mv (objid,mkt_name,description,customer_price,ivr_plan_id,webcsr_display_name,x_language,script_description)
+ORGANIZATION HEAP 
+AS SELECT SP.OBJID ,
+  SP.MKT_NAME ,
+  SP.DESCRIPTION ,
+  SP.CUSTOMER_PRICE ,
+  SP.IVR_PLAN_ID ,
+  SP.WEBCSR_DISPLAY_NAME,
+  'EN' X_LANGUAGE,
+  sa.ADFCRM_SCRIPTS.GET_PLAN_DESCRIPTION(SP.OBJID,'EN','ALL') SCRIPT_DESCRIPTION
+FROM sa.X_SERVICE_PLAN SP
+UNION
+SELECT SP.OBJID ,
+  SP.MKT_NAME ,
+  SP.DESCRIPTION ,
+  SP.CUSTOMER_PRICE ,
+  SP.IVR_PLAN_ID ,
+  SP.WEBCSR_DISPLAY_NAME,
+  'ES' X_LANGUAGE,
+  sa.ADFCRM_SCRIPTS.GET_PLAN_DESCRIPTION(SP.OBJID,'ES','ALL') SCRIPT_DESCRIPTION
+FROM sa.X_SERVICE_PLAN SP;
+COMMENT ON MATERIALIZED VIEW sa.adfcrm_service_plan_scripts_mv IS 'snapshot table for service plan script texts';

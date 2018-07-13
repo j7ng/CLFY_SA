@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_prodcase FOR sa.table_prodcase;

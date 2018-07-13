@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_upgrade_credit_idx1 ON sa.adfcrm_upgrade_credit(org_id,denomination,ticket_id);

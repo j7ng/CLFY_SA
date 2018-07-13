@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_biz_cal_hdr2site ON sa.table_biz_cal_hdr(biz_cal_hdr2site);

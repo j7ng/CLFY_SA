@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_bus_accounts_seq TO PUBLIC;

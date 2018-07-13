@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_x_alt_esn_old2;

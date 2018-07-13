@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_soaprocess_processname ON sa.tf_soaprocess_activity_info(processname);

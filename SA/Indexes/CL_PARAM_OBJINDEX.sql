@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.cl_param_objindex ON sa.table_cl_param(objid);

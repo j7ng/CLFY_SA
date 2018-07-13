@@ -1,0 +1,12 @@
+GRANT EXECUTE ON sa.deactivate_nonusage_prc TO cbo;
+GRANT EXECUTE ON sa.deactivate_nonusage_prc TO clarify_administrator;
+GRANT EXECUTE ON sa.deactivate_nonusage_prc TO clarify_reporter;
+GRANT EXECUTE ON sa.deactivate_nonusage_prc TO clarify_user;
+GRANT EXECUTE ON sa.deactivate_nonusage_prc TO corecbo;
+GRANT EXECUTE ON sa.deactivate_nonusage_prc TO csrcbo;
+GRANT EXECUTE ON sa.deactivate_nonusage_prc TO report;
+GRANT EXECUTE ON sa.deactivate_nonusage_prc TO role_clarify_custom;
+GRANT EXECUTE ON sa.deactivate_nonusage_prc TO role_sa_update;
+GRANT EXECUTE ON sa.deactivate_nonusage_prc TO role_web_report;
+GRANT EXECUTE ON sa.deactivate_nonusage_prc TO soacbo;
+GRANT EXECUTE ON sa.deactivate_nonusage_prc TO webcbo;

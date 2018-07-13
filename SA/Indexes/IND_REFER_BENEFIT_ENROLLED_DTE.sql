@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_refer_benefit_enrolled_dte ON sa.x_sl_referral_benefits_plan(start_enrolled_date,end_enrolled_date);

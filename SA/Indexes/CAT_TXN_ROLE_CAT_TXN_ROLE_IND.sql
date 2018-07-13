@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.cat_txn_role_cat_txn_role_ind ON sa.table_cat_txn_role(role_name,cat_txn_role2exch_cat,cat_txn_role2exch_txn);

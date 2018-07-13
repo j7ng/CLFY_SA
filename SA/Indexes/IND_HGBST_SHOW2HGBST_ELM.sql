@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_hgbst_show2hgbst_elm ON sa.mtm_hgbst_elm0_hgbst_show1(hgbst_show2hgbst_elm,hgbst_elm2hgbst_show);

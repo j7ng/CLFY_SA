@@ -1,0 +1,9 @@
+GRANT EXECUTE ON sa.billing_getnickname TO clarify_administrator;
+GRANT EXECUTE ON sa.billing_getnickname TO clarify_billing;
+GRANT EXECUTE ON sa.billing_getnickname TO clarify_reporter;
+GRANT EXECUTE ON sa.billing_getnickname TO clarify_user;
+GRANT EXECUTE ON sa.billing_getnickname TO report;
+GRANT EXECUTE ON sa.billing_getnickname TO role_clarify_custom;
+GRANT EXECUTE ON sa.billing_getnickname TO role_sa_update;
+GRANT EXECUTE ON sa.billing_getnickname TO role_web_report;
+GRANT EXECUTE ON sa.billing_getnickname TO select_no_pin;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_tsk_stg_role FOR sa.table_tsk_stg_role;

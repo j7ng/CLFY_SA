@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_sme_2mobileuser FOR sa.x_sme_2mobileuser;

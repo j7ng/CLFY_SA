@@ -1,0 +1,1 @@
+CREATE INDEX sa.indx_balance_bucket2 ON sa.x_swb_tx_balance_bucket(balance_bucket2x_swb_tx);

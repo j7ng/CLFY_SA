@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_raf_friends_ix2 ON sa.x_raf_friends(friend_email);

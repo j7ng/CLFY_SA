@@ -1,0 +1,11 @@
+GRANT DELETE ON sa.x_menu_2 TO clarify_administrator;
+GRANT DELETE ON sa.x_menu_2 TO clarify_user;
+GRANT INSERT ON sa.x_menu_2 TO clarify_administrator;
+GRANT INSERT ON sa.x_menu_2 TO clarify_user;
+GRANT SELECT ON sa.x_menu_2 TO clarify_administrator;
+GRANT SELECT ON sa.x_menu_2 TO clarify_user;
+GRANT SELECT ON sa.x_menu_2 TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_menu_2 TO role_tf_select;
+GRANT SELECT ON sa.x_menu_2 TO script_manager;
+GRANT UPDATE ON sa.x_menu_2 TO clarify_administrator;
+GRANT UPDATE ON sa.x_menu_2 TO clarify_user;

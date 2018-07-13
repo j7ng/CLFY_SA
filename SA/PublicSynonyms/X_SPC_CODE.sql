@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_spc_code FOR sa.x_spc_code;

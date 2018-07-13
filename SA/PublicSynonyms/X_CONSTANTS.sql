@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_constants FOR sa.x_constants;

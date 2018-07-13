@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79trfmt_defn_x79trfdefn_ind ON sa.table_x79trfmt_defn(server_id,tr_format_id);

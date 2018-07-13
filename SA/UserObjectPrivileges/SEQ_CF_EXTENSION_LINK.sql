@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_cf_extension_link TO PUBLIC;

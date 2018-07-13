@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_policy_rule_subscriber ON sa.x_policy_rule_subscriber("MIN",esn,start_date,inactive_flag);

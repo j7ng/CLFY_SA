@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_demand_vue FOR sa.table_demand_vue;

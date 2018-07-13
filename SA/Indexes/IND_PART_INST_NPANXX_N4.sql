@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_part_inst_npanxx_n4 ON sa.table_part_inst(x_npa,x_nxx,x_domain,x_part_inst_status,part_inst2carrier_mkt);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_cls_parm FOR sa.table_cls_parm;

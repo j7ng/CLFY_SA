@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM system_grant FOR sa.system_grant;

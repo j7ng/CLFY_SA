@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ix_part_serial_no ON sa.x_promotion_code_pool(part_serial_no);

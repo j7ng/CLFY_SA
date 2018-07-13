@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_rule_action_master ON sa.x_rule_action_master(objid);

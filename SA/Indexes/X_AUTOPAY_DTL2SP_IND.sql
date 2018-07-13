@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_autopay_dtl2sp_ind ON sa.table_x_autopay_details(x_autopay_details2site_part);

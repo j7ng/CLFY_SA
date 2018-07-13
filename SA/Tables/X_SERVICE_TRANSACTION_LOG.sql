@@ -1,0 +1,28 @@
+CREATE TABLE sa.x_service_transaction_log (
+  objid NUMBER(22) NOT NULL,
+  client_transaction_id VARCHAR2(50 BYTE),
+  client_id VARCHAR2(50 BYTE),
+  error_code VARCHAR2(15 BYTE),
+  server_transaction_id VARCHAR2(50 BYTE),
+  custom_message VARCHAR2(500 BYTE),
+  "SUMMARY" VARCHAR2(500 BYTE),
+  custom_errcode VARCHAR2(15 BYTE),
+  payload CLOB,
+  flow_name VARCHAR2(50 BYTE),
+  operation_name VARCHAR2(50 BYTE),
+  bus_org_id VARCHAR2(40 BYTE),
+  source_system VARCHAR2(30 BYTE),
+  instance_id NUMBER(15),
+  instance_name VARCHAR2(100 BYTE),
+  failure_timestamp DATE,
+  failure_source VARCHAR2(50 BYTE),
+  error_type VARCHAR2(20 BYTE),
+  failure_target VARCHAR2(100 BYTE),
+  esn VARCHAR2(30 BYTE),
+  "MIN" VARCHAR2(30 BYTE),
+  red_code VARCHAR2(30 BYTE),
+  iccid VARCHAR2(30 BYTE),
+  error_message CLOB,
+  CONSTRAINT x_service_transaction_log_pk PRIMARY KEY (objid)
+);
+COMMENT ON TABLE sa.x_service_transaction_log IS 'Error logging table to capture all the SOA logs';

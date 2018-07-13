@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_behavior_map_old TO PUBLIC;

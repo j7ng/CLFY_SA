@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_referral_events FOR sa.x_referral_events;

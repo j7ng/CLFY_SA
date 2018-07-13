@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM sa.smp_job_id FOR sa.smp_job_id_;

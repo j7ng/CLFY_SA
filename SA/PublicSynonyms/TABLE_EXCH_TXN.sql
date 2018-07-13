@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_exch_txn FOR sa.table_exch_txn;

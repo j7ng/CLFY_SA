@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_phone_log FOR sa.table_phone_log;

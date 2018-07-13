@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_func_seq FOR sa.x_func_seq;

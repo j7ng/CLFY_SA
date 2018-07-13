@@ -1,0 +1,1 @@
+CREATE INDEX sa.mtm_contact34_x_cc3_n2 ON sa.mtm_contact46_x_credit_card3(mtm_credit_card2contact);

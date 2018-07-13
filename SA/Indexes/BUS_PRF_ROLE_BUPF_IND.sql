@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.bus_prf_role_bupf_ind ON sa.table_bus_prf_role(bu_pf_role2bus_org,bu_pf_role2price_factor,role_name);

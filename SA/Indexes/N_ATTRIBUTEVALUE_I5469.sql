@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_attributevalue_i5469 ON sa.table_n_attributevalue(n_focustype,n_focuslowid,n_name);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.smp_service_seq TO PUBLIC;

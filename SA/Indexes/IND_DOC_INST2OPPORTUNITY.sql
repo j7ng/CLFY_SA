@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_doc_inst2opportunity ON sa.table_doc_inst(doc_inst2opportunity);

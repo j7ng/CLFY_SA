@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_esn_promo_hist3 ON sa.x_esn_promo_hist(expiration_date);

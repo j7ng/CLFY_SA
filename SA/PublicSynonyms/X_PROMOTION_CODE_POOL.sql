@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_promotion_code_pool FOR sa.x_promotion_code_pool;

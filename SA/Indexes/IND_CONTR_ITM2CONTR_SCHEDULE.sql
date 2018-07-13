@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_contr_itm2contr_schedule ON sa.table_contr_itm(contr_itm2contr_schedule,start_date,end_date);

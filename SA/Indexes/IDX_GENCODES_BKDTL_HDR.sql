@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_gencodes_bkdtl_hdr ON sa.x_gencodes_breakdown_details(x_details_2_gencodes_hdr_objid,x_cmd_name);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_pro_hgl_role FOR sa.table_pro_hgl_role;

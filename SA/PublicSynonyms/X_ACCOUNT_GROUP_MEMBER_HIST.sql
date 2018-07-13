@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_account_group_member_hist FOR sa.x_account_group_member_hist;

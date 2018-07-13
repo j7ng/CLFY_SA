@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_write_solution_history FOR sa.adfcrm_write_solution_history;

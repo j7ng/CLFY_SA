@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_rebate_info FOR sa.x_rebate_info;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_cbo_error_esnidx ON sa.table_x_cbo_error(x_esn_imei);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_policy_mapping_config FOR sa.x_policy_mapping_config;

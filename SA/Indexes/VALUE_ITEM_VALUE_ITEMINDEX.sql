@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.value_item_value_itemindex ON sa.table_value_item("ID",ctl_id,item2window_db);

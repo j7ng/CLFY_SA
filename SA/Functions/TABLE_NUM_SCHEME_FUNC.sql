@@ -1,0 +1,204 @@
+CREATE OR REPLACE FUNCTION sa.table_num_scheme_func (v_name IN VARCHAR2)
+   RETURN NUMBER
+AS
+   r   NUMBER;
+   p_name varchar2(30);
+BEGIN
+   p_name :=upper(v_name);
+
+   CASE
+      WHEN P_NAME = 'CASE ID'
+      THEN
+         SELECT SEQU_CASE_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'OFFICE ID'
+      THEN
+         SELECT SEQU_OFFICE_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'INDIVIDUAL ID'
+      THEN
+         SELECT SEQU_INDIVIDUAL_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'SOLUTION ID'
+      THEN
+         SELECT SEQU_SOLUTION_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'SITE ID'
+      THEN
+         SELECT SEQU_SITE_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'CHANGE REQUEST ID'
+      THEN
+         SELECT SEQU_CHANGE_REQUEST_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'PART TRANSACTION ID'
+      THEN
+         SELECT SEQU_PART_TRANSACTION_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'PART REQUEST HEADER ID'
+      THEN
+         SELECT SEQU_PART_REQUEST_HEADER_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'WEBSUPPORT USER KEY'
+      THEN
+         SELECT SEQU_WEBSUPPORT_USER_KEY.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'QUOTE ID'
+      THEN
+         SELECT SEQU_QUOTE_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'ACTION ITEM ID'
+      THEN
+         SELECT SEQU_ACTION_ITEM_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'FORECAST ITEM ID'
+      THEN
+         SELECT SEQU_FORECAST_ITEM_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'FORECAST TARGET ID'
+      THEN
+         SELECT SEQU_FORECAST_TARGET_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'CONTRACT ID'
+      THEN
+         SELECT SEQU_CONTRACT_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'STAGE_TASK ID'
+      THEN
+         SELECT SEQU_STAGE_TASK_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'TASKSET ID'
+      THEN
+         SELECT SEQU_TASKSET_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'OPPORTUNITY ID'
+      THEN
+         SELECT SEQU_OPPORTUNITY_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'TERRITORY ID'
+      THEN
+         SELECT SEQU_TERRITORY_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'ECO ID'
+      THEN
+         SELECT SEQU_ECO_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'TAG ID'
+      THEN
+         SELECT SEQU_TAG_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'NODE ID'
+      THEN
+         SELECT SEQU_NODE_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'INTERACTION ID'
+      THEN
+         SELECT SEQU_INTERACTION_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'TEMP CUST'
+      THEN
+         SELECT SEQU_TEMP_CUST.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'CARRIER GROUP ID'
+      THEN
+         SELECT SEQU_CARRIER_GROUP_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'INVENTORY COUNT ID'
+      THEN
+         SELECT SEQU_INVENTORY_COUNT_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'BIN ID'
+      THEN
+         SELECT SEQU_BIN_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'QUALIFIER ID'
+      THEN
+         SELECT SEQU_QUALIFIER_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'LITERATURE REQUEST ID'
+      THEN
+         SELECT SEQU_LITERATURE_REQUEST_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'ACCOUNT BUSINESS ID'
+      THEN
+         SELECT SEQU_ACCOUNT_BUSINESS_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'X_MERCH_REF_ID'
+      THEN
+         SELECT SEQU_X_MERCH_REF_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'X_PARENT_ID'
+      THEN
+         SELECT SEQU_X_PARENT_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'X_SCRIPT_ID'
+      THEN
+         SELECT SEQU_X_SCRIPT_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'X_PLAN_ID'
+      THEN
+         SELECT SEQU_X_PLAN_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'ONLINETRACKING'
+      THEN
+         SELECT SEQU_ONLINETRACKING.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'ORDER ID'
+      THEN
+         SELECT SEQU_ORDER_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'SHOPPING LIST ID'
+      THEN
+         SELECT SEQU_SHOPPING_LIST_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'DIALOGUE ID'
+      THEN
+         SELECT SEQU_DIALOGUE_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+      WHEN P_NAME = 'TEMPLATE ID'
+      THEN
+         SELECT SEQU_TEMPLATE_ID.NEXTVAL
+           INTO R
+           FROM DUAL;
+   END CASE;
+
+   RETURN r;
+END;
+/

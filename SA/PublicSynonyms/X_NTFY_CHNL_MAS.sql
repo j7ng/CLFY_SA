@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_ntfy_chnl_mas FOR sa.x_ntfy_chnl_mas;

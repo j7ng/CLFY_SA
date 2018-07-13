@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.modem_modem_index ON sa.table_modem(device_name,hostname);

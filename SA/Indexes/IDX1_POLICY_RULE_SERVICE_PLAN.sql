@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_policy_rule_service_plan ON sa.x_policy_rule_service_plan(service_plan_objid,inactive_flag,policy_rule_config_objid);

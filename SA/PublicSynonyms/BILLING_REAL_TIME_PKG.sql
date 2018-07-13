@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_real_time_pkg FOR sa.billing_real_time_pkg;

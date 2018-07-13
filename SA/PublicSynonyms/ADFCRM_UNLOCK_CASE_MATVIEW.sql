@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_unlock_case_matview FOR sa.adfcrm_unlock_case_matview;

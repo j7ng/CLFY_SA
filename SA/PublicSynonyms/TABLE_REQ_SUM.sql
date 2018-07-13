@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_req_sum FOR sa.table_req_sum;

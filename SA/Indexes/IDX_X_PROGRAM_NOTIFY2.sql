@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_program_notify2 ON sa.x_program_notify(x_notify_process);

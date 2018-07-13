@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.migration_flash_key_values_seq;

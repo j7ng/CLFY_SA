@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM paypal_stl FOR sa.paypal_stl;

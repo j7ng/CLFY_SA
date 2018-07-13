@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.backorder_objindex ON sa.table_backorder(objid);

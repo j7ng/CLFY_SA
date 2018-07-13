@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM seq_voucher_transactions FOR sa.seq_voucher_transactions;

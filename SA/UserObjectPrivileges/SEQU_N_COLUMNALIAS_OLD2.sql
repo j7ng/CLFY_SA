@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_n_columnalias_old2 TO PUBLIC;

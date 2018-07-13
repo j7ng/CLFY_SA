@@ -1,0 +1,1 @@
+CREATE INDEX sa."X_PymtSrc2AltpymtSrc_IND" ON sa.x_payment_source(pymt_src2x_altpymtsource);

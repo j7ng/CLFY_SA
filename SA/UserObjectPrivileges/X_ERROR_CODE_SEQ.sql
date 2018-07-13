@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_error_code_seq TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_rc_contact FOR sa.table_rc_contact;

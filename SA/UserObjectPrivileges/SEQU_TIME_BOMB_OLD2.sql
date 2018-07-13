@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_time_bomb_old2 TO PUBLIC;

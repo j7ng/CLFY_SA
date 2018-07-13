@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_credit_card_objindex ON sa.table_x_credit_card(objid);

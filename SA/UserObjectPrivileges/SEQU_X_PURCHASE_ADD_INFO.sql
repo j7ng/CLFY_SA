@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_purchase_add_info TO PUBLIC;

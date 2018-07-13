@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_current2script_qstn ON sa.table_scrqstn_rspns(current2script_qstn);

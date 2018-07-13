@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.wake_up_objindex ON sa.table_wake_up(objid);

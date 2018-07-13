@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_dummy_exchange FOR sa.adfcrm_dummy_exchange;

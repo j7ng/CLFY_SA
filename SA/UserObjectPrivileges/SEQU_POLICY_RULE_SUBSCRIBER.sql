@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_policy_rule_subscriber TO PUBLIC;

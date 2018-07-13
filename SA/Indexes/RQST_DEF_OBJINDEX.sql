@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.rqst_def_objindex ON sa.table_rqst_def(objid);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.npanxx_bck TO dbit_mtoribiolopez;

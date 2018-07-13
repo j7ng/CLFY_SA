@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.template_id_ind ON sa.table_template(id_number);

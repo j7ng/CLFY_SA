@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.outbound_autopay_pkg TO role_sa_update;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_rqst_mapping FOR sa.x_rqst_mapping;

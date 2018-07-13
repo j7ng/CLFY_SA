@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_courier_objindex ON sa.table_x_courier(objid);

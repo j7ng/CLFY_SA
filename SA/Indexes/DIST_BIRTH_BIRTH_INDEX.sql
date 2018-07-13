@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.dist_birth_birth_index ON sa.table_dist_birth(focus_type,focus_lowid,birth_srvr2dist_srvr);

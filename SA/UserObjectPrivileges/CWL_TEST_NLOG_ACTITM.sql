@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.cwl_test_nlog_actitm TO dbit_mtoribiolopez;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.rpn_objindex ON sa.table_rpn(objid);

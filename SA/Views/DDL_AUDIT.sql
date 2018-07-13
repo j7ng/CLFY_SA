@@ -1,0 +1,2 @@
+CREATE OR REPLACE FORCE VIEW sa.ddl_audit ("SID",oracleuser,osuser,machine,"PROGRAM","MODULE",ddl_date,ddl_type,object_owner,object_type,object_name,client_ip_address) AS
+select "SID","ORACLEUSER","OSUSER","MACHINE","PROGRAM","MODULE","DDL_DATE","DDL_TYPE","OBJECT_OWNER","OBJECT_TYPE","OBJECT_NAME","CLIENT_IP_ADDRESS" from AUDIT$DDL_LOG;

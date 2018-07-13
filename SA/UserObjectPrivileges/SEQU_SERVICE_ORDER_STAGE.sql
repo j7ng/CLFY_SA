@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_service_order_stage TO PUBLIC;

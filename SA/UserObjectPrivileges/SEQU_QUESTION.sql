@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_question TO PUBLIC;

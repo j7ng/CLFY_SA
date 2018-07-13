@@ -1,0 +1,1 @@
+CREATE INDEX sa.p2c0086 ON sa.table_contract(primary2contact);

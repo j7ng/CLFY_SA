@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_probdesc_owner2user ON sa.table_probdesc(probdesc_owner2user);

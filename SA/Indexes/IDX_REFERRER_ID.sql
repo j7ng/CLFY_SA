@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_referrer_id ON sa.x_user_referrers(x_referrer_id);

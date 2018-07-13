@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ivr_globals FOR sa.ivr_globals;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_s_site_district ON sa.table_site(s_district);

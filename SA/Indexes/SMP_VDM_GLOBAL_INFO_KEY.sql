@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.smp_vdm_global_info_key ON sa.smp_vdm_global_info(service_type,service_name,property_name);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_txrtptomo_objid ON sa.table_x_add_on_runtime_promo(objid);

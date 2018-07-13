@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM meter_source_tab FOR sa.meter_source_tab;

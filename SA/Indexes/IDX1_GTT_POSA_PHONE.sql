@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_gtt_posa_phone ON sa.gtt_posa_phone(tf_serial_num);

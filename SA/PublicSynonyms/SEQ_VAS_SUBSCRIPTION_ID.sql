@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM seq_vas_subscription_id FOR sa.seq_vas_subscription_id;

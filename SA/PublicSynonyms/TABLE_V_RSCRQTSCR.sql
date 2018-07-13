@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_v_rscrqtscr FOR sa.table_v_rscrqtscr;

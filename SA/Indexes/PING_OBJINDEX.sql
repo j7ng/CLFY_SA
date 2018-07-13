@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ping_objindex ON sa.table_ping(objid);

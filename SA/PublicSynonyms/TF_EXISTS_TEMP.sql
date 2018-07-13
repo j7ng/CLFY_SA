@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tf_exists_temp FOR sa.tf_exists_temp;

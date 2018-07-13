@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.bucket_id_list_nt TO dbit_mtoribiolopez;

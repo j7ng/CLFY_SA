@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_mtm_pgm_redcard_bonus ON sa.x_mtm_pgm_redcard_bonus(program_param_objid,redcard_partnum_objid,redcard_promo_objid);

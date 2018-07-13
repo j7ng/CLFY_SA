@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM get_service_forecast_det FOR sa.get_service_forecast_det;

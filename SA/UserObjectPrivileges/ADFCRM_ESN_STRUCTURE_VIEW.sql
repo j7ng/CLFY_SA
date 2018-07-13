@@ -1,0 +1,13 @@
+GRANT SELECT ON sa.adfcrm_esn_structure_view TO cbo;
+GRANT SELECT ON sa.adfcrm_esn_structure_view TO clarify_administrator;
+GRANT SELECT ON sa.adfcrm_esn_structure_view TO clarify_user;
+GRANT SELECT ON sa.adfcrm_esn_structure_view TO csrcbo;
+GRANT SELECT ON sa.adfcrm_esn_structure_view TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.adfcrm_esn_structure_view TO gw1;
+GRANT SELECT ON sa.adfcrm_esn_structure_view TO ittas_user;
+GRANT SELECT ON sa.adfcrm_esn_structure_view TO role_report_select;
+GRANT SELECT ON sa.adfcrm_esn_structure_view TO role_sa_select;
+GRANT SELECT ON sa.adfcrm_esn_structure_view TO role_sa_update;
+GRANT SELECT ON sa.adfcrm_esn_structure_view TO role_tf_select;
+GRANT SELECT ON sa.adfcrm_esn_structure_view TO soacbo;
+GRANT SELECT ON sa.adfcrm_esn_structure_view TO webcbo;

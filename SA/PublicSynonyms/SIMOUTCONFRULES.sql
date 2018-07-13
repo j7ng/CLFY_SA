@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM simoutconfrules FOR sa.simoutconfrules;

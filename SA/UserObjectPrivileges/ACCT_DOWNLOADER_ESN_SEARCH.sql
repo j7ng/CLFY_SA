@@ -1,0 +1,13 @@
+GRANT EXECUTE ON sa.acct_downloader_esn_search TO cbo;
+GRANT EXECUTE ON sa.acct_downloader_esn_search TO clarify_administrator;
+GRANT EXECUTE ON sa.acct_downloader_esn_search TO clarify_reporter;
+GRANT EXECUTE ON sa.acct_downloader_esn_search TO clarify_user;
+GRANT EXECUTE ON sa.acct_downloader_esn_search TO corecbo;
+GRANT EXECUTE ON sa.acct_downloader_esn_search TO csrcbo;
+GRANT EXECUTE ON sa.acct_downloader_esn_search TO gw1;
+GRANT EXECUTE ON sa.acct_downloader_esn_search TO role_report_select;
+GRANT EXECUTE ON sa.acct_downloader_esn_search TO role_sa_select;
+GRANT EXECUTE ON sa.acct_downloader_esn_search TO role_sa_update;
+GRANT EXECUTE ON sa.acct_downloader_esn_search TO role_tf_select;
+GRANT EXECUTE ON sa.acct_downloader_esn_search TO soacbo;
+GRANT EXECUTE ON sa.acct_downloader_esn_search TO webcbo;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.extract_date_idx ON sa.x_biz_order_dtl(x_extract_date);

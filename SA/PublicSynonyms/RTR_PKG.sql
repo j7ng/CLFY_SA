@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rtr_pkg FOR sa.rtr_pkg;

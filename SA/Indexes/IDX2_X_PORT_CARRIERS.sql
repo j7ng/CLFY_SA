@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_x_port_carriers ON sa.x_port_carriers(phone_type);

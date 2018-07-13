@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_pcpv_mv ON sa.pcpv_mv(part_class);

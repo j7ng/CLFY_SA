@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_x_pending_deact ON sa.x_pending_deact(x_expire_dt);

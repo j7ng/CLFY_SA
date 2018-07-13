@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM create_survey_interaction FOR sa.create_survey_interaction;

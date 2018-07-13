@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.opp_data_opp_data_ind ON sa.table_opp_data(opp_data2opportunity,opp_data2bus_opp_role,seq_num);

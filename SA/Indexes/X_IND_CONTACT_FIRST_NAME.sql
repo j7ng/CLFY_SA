@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_ind_contact_first_name ON sa.table_contact(first_name,s_first_name);

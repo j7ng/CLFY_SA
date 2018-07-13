@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_min_esn_change_esn ON sa.x_min_esn_change(x_new_esn,x_attached_date);

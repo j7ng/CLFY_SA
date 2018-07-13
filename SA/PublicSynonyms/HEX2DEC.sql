@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM hex2dec FOR sa.hex2dec;

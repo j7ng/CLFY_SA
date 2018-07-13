@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_program_purch_hdr2 ON sa.x_program_purch_hdr(prog_hdr2prog_batch);

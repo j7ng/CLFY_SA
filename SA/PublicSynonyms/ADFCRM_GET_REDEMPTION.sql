@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_get_redemption FOR sa.adfcrm_get_redemption;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.per_prt_role_per_prt_role_ind ON sa.table_per_prt_role(role_name,per_prt_role2person,pprt_role2site_part);

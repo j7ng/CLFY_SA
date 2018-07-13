@@ -1,0 +1,12 @@
+GRANT EXECUTE ON sa.lrp_test_rate_plan_f TO cbo;
+GRANT EXECUTE ON sa.lrp_test_rate_plan_f TO clarify_administrator;
+GRANT EXECUTE ON sa.lrp_test_rate_plan_f TO clarify_user;
+GRANT EXECUTE ON sa.lrp_test_rate_plan_f TO corecbo;
+GRANT EXECUTE ON sa.lrp_test_rate_plan_f TO csrcbo;
+GRANT EXECUTE ON sa.lrp_test_rate_plan_f TO gw1;
+GRANT EXECUTE ON sa.lrp_test_rate_plan_f TO igate_batch;
+GRANT EXECUTE ON sa.lrp_test_rate_plan_f TO itquser_data;
+GRANT EXECUTE ON sa.lrp_test_rate_plan_f TO role_sa_update;
+GRANT EXECUTE ON sa.lrp_test_rate_plan_f TO soacbo;
+GRANT EXECUTE ON sa.lrp_test_rate_plan_f TO w3ci;
+GRANT EXECUTE ON sa.lrp_test_rate_plan_f TO webcbo;

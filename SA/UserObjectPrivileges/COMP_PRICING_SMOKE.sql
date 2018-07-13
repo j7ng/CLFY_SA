@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.comp_pricing_smoke TO dbit_mtoribiolopez;

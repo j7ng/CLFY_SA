@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.exc_sit_role_objindex ON sa.table_exc_sit_role(objid);

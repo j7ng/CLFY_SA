@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_part_inst_esn2partinst_n12 ON sa.table_part_inst(part_to_esn2part_inst,x_domain);

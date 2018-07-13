@@ -1,0 +1,12 @@
+GRANT EXECUTE ON sa.sp_rtccomm_case_shipment TO cbo;
+GRANT EXECUTE ON sa.sp_rtccomm_case_shipment TO clarify_administrator;
+GRANT EXECUTE ON sa.sp_rtccomm_case_shipment TO clarify_user;
+GRANT EXECUTE ON sa.sp_rtccomm_case_shipment TO corecbo;
+GRANT EXECUTE ON sa.sp_rtccomm_case_shipment TO csrcbo;
+GRANT EXECUTE ON sa.sp_rtccomm_case_shipment TO gw1;
+GRANT EXECUTE ON sa.sp_rtccomm_case_shipment TO role_report_select;
+GRANT EXECUTE ON sa.sp_rtccomm_case_shipment TO role_sa_select;
+GRANT EXECUTE ON sa.sp_rtccomm_case_shipment TO role_sa_update;
+GRANT EXECUTE ON sa.sp_rtccomm_case_shipment TO role_tf_select;
+GRANT EXECUTE ON sa.sp_rtccomm_case_shipment TO soacbo;
+GRANT EXECUTE ON sa.sp_rtccomm_case_shipment TO webcbo;

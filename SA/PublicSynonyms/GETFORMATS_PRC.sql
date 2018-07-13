@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM getformats_prc FOR sa.getformats_prc;

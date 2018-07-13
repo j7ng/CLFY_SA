@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.page_class_objindex ON sa.table_page_class(objid);

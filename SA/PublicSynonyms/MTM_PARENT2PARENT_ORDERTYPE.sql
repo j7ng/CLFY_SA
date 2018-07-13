@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_parent2parent_ordertype FOR sa.mtm_parent2parent_ordertype;

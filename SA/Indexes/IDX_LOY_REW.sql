@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_loy_rew ON sa.x_loyalty_rewards(cust_id);

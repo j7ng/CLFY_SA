@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.gbst_lst_objindex ON sa.table_gbst_lst(objid);

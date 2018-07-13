@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_featurevalue_def TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.prog_trans_webuser ON sa.x_program_trans(pgm_trans2web_user,pgm_trans2site_part);

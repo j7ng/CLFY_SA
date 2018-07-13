@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx3_q_payload_log ON sa.q_payload_log("MIN");

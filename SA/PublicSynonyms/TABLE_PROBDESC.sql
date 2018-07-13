@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_probdesc FOR sa.table_probdesc;

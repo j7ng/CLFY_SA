@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_hist_stats FOR sa.table_x_hist_stats;

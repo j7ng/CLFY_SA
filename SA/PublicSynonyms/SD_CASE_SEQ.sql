@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sd_case_seq FOR sa.sd_case_seq;

@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.seq_promotion_group_dtl;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_posa_road FOR sa.x_posa_road;

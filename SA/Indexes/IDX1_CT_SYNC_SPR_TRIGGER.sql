@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_ct_sync_spr_trigger ON sa.x_ct_sync_spr_trigger("ROW_NUMBER");

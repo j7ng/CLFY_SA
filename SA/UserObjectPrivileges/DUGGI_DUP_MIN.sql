@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.duggi_dup_min TO dbit_mtoribiolopez;

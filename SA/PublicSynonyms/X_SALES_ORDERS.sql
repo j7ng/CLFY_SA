@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_sales_orders FOR sa.x_sales_orders;

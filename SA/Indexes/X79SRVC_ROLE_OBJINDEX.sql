@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79srvc_role_objindex ON sa.table_x79srvc_role(objid);

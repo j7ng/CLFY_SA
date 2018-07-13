@@ -1,0 +1,1 @@
+CREATE INDEX sa.indx_logon_time_tp ON sa.table_x_parameters_his(logon_time,dt);

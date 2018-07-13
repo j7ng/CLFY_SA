@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM continue_process FOR sa.continue_process;

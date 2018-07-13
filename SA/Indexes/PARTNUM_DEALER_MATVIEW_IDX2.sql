@@ -1,0 +1,1 @@
+CREATE INDEX sa.partnum_dealer_matview_idx2 ON sa.partnum_dealer_matview(part_number);

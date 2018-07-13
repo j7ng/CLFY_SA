@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_gl_summary TO PUBLIC;

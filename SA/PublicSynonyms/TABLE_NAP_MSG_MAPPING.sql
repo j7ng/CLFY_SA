@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_nap_msg_mapping FOR sa.table_nap_msg_mapping;

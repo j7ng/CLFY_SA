@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_nlad_request_log FOR sa.x_nlad_request_log;

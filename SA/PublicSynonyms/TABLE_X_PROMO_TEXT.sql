@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_promo_text FOR sa.table_x_promo_text;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.behavior_objindex ON sa.table_behavior(objid);

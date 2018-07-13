@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_non_sales_tax_objindex ON sa.table_x_non_sales_tax(objid);

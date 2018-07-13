@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM smartpay_order_log_hdr FOR sa.smartpay_order_log_hdr;

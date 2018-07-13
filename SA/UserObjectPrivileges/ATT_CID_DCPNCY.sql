@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.att_cid_dcpncy TO dbit_mtoribiolopez;

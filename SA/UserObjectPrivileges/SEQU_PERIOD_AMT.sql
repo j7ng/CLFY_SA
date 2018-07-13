@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_period_amt TO PUBLIC;

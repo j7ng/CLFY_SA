@@ -1,0 +1,1 @@
+CREATE INDEX sa.click_proc_temp1_ndx ON sa.click_proc_temp1(esn,install_date);

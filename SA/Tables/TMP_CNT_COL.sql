@@ -1,0 +1,5 @@
+CREATE TABLE sa.tmp_cnt_col (
+  "OWNER" VARCHAR2(128 BYTE) NOT NULL,
+  table_name VARCHAR2(128 BYTE) NOT NULL,
+  column_name VARCHAR2(128 BYTE) NOT NULL
+);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_psd_log_info FOR sa.x_psd_log_info;

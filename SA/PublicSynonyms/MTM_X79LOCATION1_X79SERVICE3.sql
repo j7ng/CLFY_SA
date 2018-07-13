@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_x79location1_x79service3 FOR sa.mtm_x79location1_x79service3;

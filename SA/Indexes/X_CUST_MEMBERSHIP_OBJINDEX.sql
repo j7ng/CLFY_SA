@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_cust_membership_objindex ON sa.table_x_cust_membership(objid);

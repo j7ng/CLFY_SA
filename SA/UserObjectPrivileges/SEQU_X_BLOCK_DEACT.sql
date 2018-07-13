@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_block_deact TO PUBLIC;

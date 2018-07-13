@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_interact2contact ON sa.table_interact(interact2contact);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.fix_sim_make_active_sweep TO dbit_mtoribiolopez;

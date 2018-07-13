@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.csc_resolution_objindex ON sa.table_csc_resolution(objid);

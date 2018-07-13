@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.string_db_string_db_index ON sa.table_string_db("ID",locale);

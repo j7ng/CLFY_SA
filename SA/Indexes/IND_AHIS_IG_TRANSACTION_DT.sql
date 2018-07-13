@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_ahis_ig_transaction_dt ON sa.tstahis_ig_transaction(x_change_date);

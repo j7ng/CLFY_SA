@@ -1,0 +1,1 @@
+CREATE INDEX sa.table_x_red_card_idx_n1 ON sa.table_x_red_card(x_status);

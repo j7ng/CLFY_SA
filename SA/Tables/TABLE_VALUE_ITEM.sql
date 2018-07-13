@@ -1,0 +1,25 @@
+CREATE TABLE sa.table_value_item (
+  objid NUMBER,
+  "ID" NUMBER,
+  value1 VARCHAR2(80 BYTE),
+  value2 VARCHAR2(255 BYTE),
+  value3 VARCHAR2(80 BYTE),
+  intval1 NUMBER,
+  intval2 NUMBER,
+  intval3 NUMBER,
+  intval4 NUMBER,
+  ctl_id NUMBER,
+  value4 VARCHAR2(80 BYTE),
+  intval5 NUMBER,
+  intval6 NUMBER,
+  intval7 NUMBER,
+  intval8 NUMBER,
+  intval9 NUMBER,
+  dev NUMBER,
+  value2control_db NUMBER(*,0),
+  item2window_db NUMBER(*,0),
+  column_ctl_id NUMBER,
+  intval10 NUMBER,
+  value5 VARCHAR2(80 BYTE)
+);
+ALTER TABLE sa.table_value_item ADD SUPPLEMENTAL LOG GROUP dmtsora1545771064_0 (column_ctl_id, ctl_id, dev, "ID", intval1, intval10, intval2, intval3, intval4, intval5, intval6, intval7, intval8, intval9, item2window_db, objid, value1, value2, value2control_db, value3, value4, value5) ALWAYS;

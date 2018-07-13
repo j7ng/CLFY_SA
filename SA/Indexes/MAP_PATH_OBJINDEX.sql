@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.map_path_objindex ON sa.table_map_path(objid);

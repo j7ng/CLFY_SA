@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_list_struct TO PUBLIC;

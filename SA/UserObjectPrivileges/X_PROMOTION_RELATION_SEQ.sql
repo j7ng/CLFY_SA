@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_promotion_relation_seq TO PUBLIC;

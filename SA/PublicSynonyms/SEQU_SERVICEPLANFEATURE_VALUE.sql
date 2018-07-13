@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_serviceplanfeature_value FOR sa.sequ_serviceplanfeature_value;

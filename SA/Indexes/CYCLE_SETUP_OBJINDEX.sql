@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.cycle_setup_objindex ON sa.table_cycle_setup(objid);

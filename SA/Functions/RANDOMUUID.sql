@@ -1,0 +1,5 @@
+CREATE OR REPLACE FUNCTION sa."RANDOMUUID"
+RETURN VARCHAR2
+AS LANGUAGE JAVA
+NAME 'RandomUUID.create() return java.lang.String';
+/

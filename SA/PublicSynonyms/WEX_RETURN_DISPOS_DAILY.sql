@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM wex_return_dispos_daily FOR sa.wex_return_dispos_daily;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_case_victim2cases ON sa.table_case(case_victim2case);

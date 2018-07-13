@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_tp_token_pk ON sa.x_thirdparty_token(objid);

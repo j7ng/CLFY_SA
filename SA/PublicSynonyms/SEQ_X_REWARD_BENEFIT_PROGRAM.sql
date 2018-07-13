@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM seq_x_reward_benefit_program FOR sa.seq_x_reward_benefit_program;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.utilization1 ON sa.line_utilization("STATE","ZONE",marketid,carrier_id,"SID");

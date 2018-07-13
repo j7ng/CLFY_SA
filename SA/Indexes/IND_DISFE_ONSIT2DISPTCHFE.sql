@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_disfe_onsit2disptchfe ON sa.table_onsite_log(disfe_onsit2disptchfe);

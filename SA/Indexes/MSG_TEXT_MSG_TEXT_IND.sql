@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.msg_text_msg_text_ind ON sa.table_msg_text(msg_text2msg_process,msg_step,msg_type);

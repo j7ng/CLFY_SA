@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM insert_purchase_add_info FOR sa.insert_purchase_add_info;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_ll_act_trans_date ON sa.x_lifeline_action_trans(x_action_date);

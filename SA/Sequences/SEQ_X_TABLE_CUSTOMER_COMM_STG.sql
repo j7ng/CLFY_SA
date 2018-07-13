@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.seq_x_table_customer_comm_stg;

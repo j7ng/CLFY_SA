@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_zero_out_max_old2 TO PUBLIC;

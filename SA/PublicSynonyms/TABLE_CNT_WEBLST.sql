@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_cnt_weblst FOR sa.table_cnt_weblst;

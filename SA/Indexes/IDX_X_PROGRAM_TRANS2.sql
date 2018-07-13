@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_program_trans2 ON sa.x_program_trans(pgm_tran2pgm_entrolled);

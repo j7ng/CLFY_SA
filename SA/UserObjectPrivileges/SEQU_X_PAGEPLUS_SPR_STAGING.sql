@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_pageplus_spr_staging TO PUBLIC;

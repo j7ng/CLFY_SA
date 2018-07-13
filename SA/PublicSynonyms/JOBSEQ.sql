@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM jobseq FOR sa.jobseq;

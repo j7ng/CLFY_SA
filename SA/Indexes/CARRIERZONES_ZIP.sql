@@ -1,0 +1,1 @@
+CREATE INDEX sa.carrierzones_zip ON sa.carrierzones(zip);

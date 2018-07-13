@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_template FOR sa.table_template;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.table_x_purch_hdr_cust_cc_num ON sa.table_x_purch_hdr(x_customer_cc_number);

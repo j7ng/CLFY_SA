@@ -1,0 +1,14 @@
+GRANT EXECUTE ON sa.get_eligible_device_types TO cbo;
+GRANT EXECUTE ON sa.get_eligible_device_types TO clarify_administrator;
+GRANT EXECUTE ON sa.get_eligible_device_types TO clarify_user;
+GRANT EXECUTE ON sa.get_eligible_device_types TO corecbo;
+GRANT EXECUTE ON sa.get_eligible_device_types TO csrcbo;
+GRANT EXECUTE ON sa.get_eligible_device_types TO gw1;
+GRANT EXECUTE ON sa.get_eligible_device_types TO igate_batch;
+GRANT EXECUTE ON sa.get_eligible_device_types TO role_report_select;
+GRANT EXECUTE ON sa.get_eligible_device_types TO role_sa_select;
+GRANT EXECUTE ON sa.get_eligible_device_types TO role_sa_update;
+GRANT EXECUTE ON sa.get_eligible_device_types TO role_tf_select;
+GRANT EXECUTE ON sa.get_eligible_device_types TO soacbo;
+GRANT EXECUTE ON sa.get_eligible_device_types TO w3ci;
+GRANT EXECUTE ON sa.get_eligible_device_types TO webcbo;

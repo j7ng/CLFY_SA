@@ -1,0 +1,14 @@
+GRANT ALTER ON sa.mtm_part_num14_x_frequency0 TO clarify_administrator;
+GRANT DELETE ON sa.mtm_part_num14_x_frequency0 TO clarify_administrator;
+GRANT DELETE ON sa.mtm_part_num14_x_frequency0 TO clarify_user;
+GRANT INSERT ON sa.mtm_part_num14_x_frequency0 TO clarify_administrator;
+GRANT INSERT ON sa.mtm_part_num14_x_frequency0 TO clarify_user;
+GRANT SELECT ON sa.mtm_part_num14_x_frequency0 TO clarify_administrator;
+GRANT SELECT ON sa.mtm_part_num14_x_frequency0 TO clarify_reporter;
+GRANT SELECT ON sa.mtm_part_num14_x_frequency0 TO clarify_user;
+GRANT SELECT ON sa.mtm_part_num14_x_frequency0 TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.mtm_part_num14_x_frequency0 TO role_sa_select;
+GRANT SELECT ON sa.mtm_part_num14_x_frequency0 TO role_tf_select;
+GRANT SELECT ON sa.mtm_part_num14_x_frequency0 TO select_role;
+GRANT UPDATE ON sa.mtm_part_num14_x_frequency0 TO clarify_administrator;
+GRANT UPDATE ON sa.mtm_part_num14_x_frequency0 TO clarify_user;

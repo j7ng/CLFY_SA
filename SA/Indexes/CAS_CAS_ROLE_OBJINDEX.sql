@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.cas_cas_role_objindex ON sa.table_cas_cas_role(objid);

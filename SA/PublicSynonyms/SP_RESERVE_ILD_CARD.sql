@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sp_reserve_ild_card FOR sa.sp_reserve_ild_card;

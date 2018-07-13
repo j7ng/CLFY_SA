@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_point_trans_esn ON sa.table_x_point_trans(x_esn);

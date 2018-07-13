@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.eco_mod_role_objindex ON sa.table_eco_mod_role(objid);

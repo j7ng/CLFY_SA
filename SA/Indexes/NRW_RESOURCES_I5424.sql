@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.nrw_resources_i5424 ON sa.table_nrw_resources(n_resourceid);

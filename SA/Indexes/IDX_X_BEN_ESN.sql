@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_ben_esn ON sa.x_reward_benefit(esn);

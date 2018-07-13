@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.qry_grp_objindex ON sa.table_qry_grp(objid);

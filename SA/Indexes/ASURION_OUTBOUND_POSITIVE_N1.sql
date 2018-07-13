@@ -1,0 +1,1 @@
+CREATE INDEX sa.asurion_outbound_positive_n1 ON sa.asurion_outbound_positive(contract_id);

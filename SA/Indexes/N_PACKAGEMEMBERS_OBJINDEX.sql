@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_packagemembers_objindex ON sa.table_n_packagemembers(objid);

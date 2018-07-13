@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_surepay_conv_uk ON sa.x_surepay_conv(objid);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.biz_cal_objindex ON sa.table_biz_cal(objid);

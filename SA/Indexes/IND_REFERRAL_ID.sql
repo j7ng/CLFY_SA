@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_referral_id ON sa.table_site(x_referral_id);

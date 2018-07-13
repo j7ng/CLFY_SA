@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM agent_mgt FOR sa.agent_mgt;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sp_fix_errors FOR sa.sp_fix_errors;

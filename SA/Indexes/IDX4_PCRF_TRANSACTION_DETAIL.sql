@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx4_pcrf_transaction_detail ON sa.x_pcrf_transaction_detail(pcrf_transaction_id);

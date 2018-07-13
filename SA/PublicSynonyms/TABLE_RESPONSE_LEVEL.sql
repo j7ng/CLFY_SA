@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_response_level FOR sa.table_response_level;

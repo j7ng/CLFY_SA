@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_adfcrm_solution_scripts TO PUBLIC;

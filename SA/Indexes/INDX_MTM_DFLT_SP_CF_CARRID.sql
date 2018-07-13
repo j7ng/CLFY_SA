@@ -1,0 +1,1 @@
+CREATE INDEX sa.indx_mtm_dflt_sp_cf_carrid ON sa.mtm_sp_carrierfeatures_dflt(x_carrier_features_id);

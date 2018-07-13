@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_carrier ON sa.table_x_carrier(x_carrier_id);

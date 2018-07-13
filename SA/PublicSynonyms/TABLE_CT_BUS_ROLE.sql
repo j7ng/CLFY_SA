@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_ct_bus_role FOR sa.table_ct_bus_role;

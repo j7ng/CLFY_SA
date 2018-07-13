@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.missing_act_task TO role_sa_update;

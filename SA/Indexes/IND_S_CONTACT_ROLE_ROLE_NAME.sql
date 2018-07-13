@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_s_contact_role_role_name ON sa.table_contact_role(s_role_name);

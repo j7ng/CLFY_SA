@@ -1,0 +1,13 @@
+GRANT EXECUTE ON sa.apex_luts_pkg TO apps_select;
+GRANT EXECUTE ON sa.apex_luts_pkg TO cbo;
+GRANT EXECUTE ON sa.apex_luts_pkg TO corecbo;
+GRANT EXECUTE ON sa.apex_luts_pkg TO csrcbo;
+GRANT EXECUTE ON sa.apex_luts_pkg TO gw1;
+GRANT EXECUTE ON sa.apex_luts_pkg TO igate_batch;
+GRANT EXECUTE ON sa.apex_luts_pkg TO igateapps;
+GRANT EXECUTE ON sa.apex_luts_pkg TO iut;
+GRANT EXECUTE ON sa.apex_luts_pkg TO posaapp;
+GRANT EXECUTE ON sa.apex_luts_pkg TO posadirectapps;
+GRANT EXECUTE ON sa.apex_luts_pkg TO soacbo;
+GRANT EXECUTE ON sa.apex_luts_pkg TO toppapp;
+GRANT EXECUTE ON sa.apex_luts_pkg TO webcbo;

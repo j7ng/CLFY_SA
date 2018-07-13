@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_sl_invoice_idx_bdate_addr ON sa.x_sl_invoice(x_batch_date,x_bill_state,x_bill_zip5,x_bill_city,x_bill_address1);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_location_alst FOR sa.table_location_alst;

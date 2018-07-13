@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_adfcrm_task_flow_scripts TO PUBLIC;

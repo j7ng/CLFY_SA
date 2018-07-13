@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_net10_pc_pn_prc ON sa.temp_net10_pc_pn_prc_050911("NAME");

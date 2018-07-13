@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ba_pc_role_i5732 ON sa.table_ba_pc_role(role_name,ba_pc_role2blg_argmnt,ba_pc_role2pay_channel);

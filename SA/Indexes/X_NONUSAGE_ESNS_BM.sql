@@ -1,0 +1,1 @@
+CREATE BITMAP INDEX sa.x_nonusage_esns_bm ON sa.x_nonusage_esns(x_deact_flag);

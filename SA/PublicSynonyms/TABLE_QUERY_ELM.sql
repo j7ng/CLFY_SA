@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_query_elm FOR sa.table_query_elm;

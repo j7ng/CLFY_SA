@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_cbo_err_dateindx ON sa.table_x_cbo_error_1115(x_error_date);

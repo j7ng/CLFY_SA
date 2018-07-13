@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_item2window_db ON sa.table_value_item(item2window_db,ctl_id,"ID");

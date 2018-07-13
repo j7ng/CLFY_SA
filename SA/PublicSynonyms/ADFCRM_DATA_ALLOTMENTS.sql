@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_data_allotments FOR sa.adfcrm_data_allotments;

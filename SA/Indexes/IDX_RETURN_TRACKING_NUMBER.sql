@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_return_tracking_number ON sa.ff_daily_tracking(return_tracking_number);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ext_grace_sl_bb_prc FOR sa.ext_grace_sl_bb_prc;

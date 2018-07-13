@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_ccc_rsp_v FOR sa.table_ccc_rsp_v;

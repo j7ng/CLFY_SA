@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM set_real_handset FOR sa.set_real_handset;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_red_card_temp2x_calltrans ON sa.table_x_red_card_temp(temp_red_card2x_call_trans);

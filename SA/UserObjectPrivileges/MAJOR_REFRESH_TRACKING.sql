@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.major_refresh_tracking TO dbit_mtoribiolopez;

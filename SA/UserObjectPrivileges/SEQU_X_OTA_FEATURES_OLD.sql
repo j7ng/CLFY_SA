@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_ota_features_old TO PUBLIC;

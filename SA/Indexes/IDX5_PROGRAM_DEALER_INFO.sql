@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx5_program_dealer_info ON sa.x_program_dealer_info(x_enrolled_date);

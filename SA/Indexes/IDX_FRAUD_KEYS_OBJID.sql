@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_fraud_keys_objid ON sa.x_fraud_keys(objid);

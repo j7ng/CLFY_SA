@@ -1,0 +1,3 @@
+CREATE OR REPLACE FORCE VIEW sa.view_inv_locatn (objid,location_name,location_descr,reports_to_loc,gl_acct_no,owner_type,inv_type,location_type,trans_auth,loc_serv_level,loc_turn_ratio,"ACTIVE",default_location,d_good_qty,d_bad_qty,inv_class,dev,inv_locatn2site,inv_locatn2parent_loc,gl_locatn2parent_gl) AS
+SELECT "OBJID","LOCATION_NAME","LOCATION_DESCR","REPORTS_TO_LOC","GL_ACCT_NO","OWNER_TYPE","INV_TYPE","LOCATION_TYPE","TRANS_AUTH","LOC_SERV_LEVEL","LOC_TURN_RATIO","ACTIVE","DEFAULT_LOCATION","D_GOOD_QTY","D_BAD_QTY","INV_CLASS","DEV","INV_LOCATN2SITE","INV_LOCATN2PARENT_LOC","GL_LOCATN2PARENT_GL" FROM TABLE_INV_LOCATN
+;

@@ -1,0 +1,27 @@
+CREATE OR REPLACE procedure sa.upd_smob_provider_info is
+   NUM_REC NUMBER;
+BEGIN
+
+  NUM_REC :=0;
+  FOR CS_REC IN (SELECT * FROM DEALER_COMMISSIONS_STAGE where process_flag is null)
+  LOOP
+       DBMS_OUTPUT.PUT_LINE('FOUND RECORDS TO BE UPDATED IN STAGING TABLE ! ');
+
+          DBMS_OUTPUT.PUT_LINE('UPDATING THE RECORD IN DEALER COMMISSIONSS');
+           UPDATE x_dealer_COMMISSIONS
+            SET
+                  PROVIDER_ID =  CS_REC.PROVIDER_ID ,
+                  PROV_CUST_STATUS  =   CS_REC.PROV_CUST_STATUS,
+                  PROV_CUST_LAST_UPDATE  = CS_REC.PROV_CUST_LAST_UPDATE
+             WHERE SIGNUP_ID = CS_REC.SIGNUP_ID  ;
+
+
+           UPDATE DEALER_COMMISSIONS_STAGE
+              SET
+               PROCESS_FLAG       =1 ,
+               PROCESS_DATED      =SYSDATE
+            WHERE SIGNUP_ID = CS_REC.SIGNUP_ID ;
+  END LOOP;
+DBMS_OUTPUT.PUT_LINE('RECORD PROCESSED  : '|| NUM_REC );
+END;
+/

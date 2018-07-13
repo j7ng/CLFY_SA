@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.channel_objindex ON sa.table_channel(objid);

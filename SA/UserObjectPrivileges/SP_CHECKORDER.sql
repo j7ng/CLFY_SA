@@ -1,0 +1,13 @@
+GRANT EXECUTE ON sa.sp_checkorder TO cbo;
+GRANT EXECUTE ON sa.sp_checkorder TO clarify_administrator;
+GRANT EXECUTE ON sa.sp_checkorder TO clarify_user;
+GRANT EXECUTE ON sa.sp_checkorder TO csrcbo;
+GRANT EXECUTE ON sa.sp_checkorder TO gw1;
+GRANT EXECUTE ON sa.sp_checkorder TO igate_batch;
+GRANT EXECUTE ON sa.sp_checkorder TO role_report_select;
+GRANT EXECUTE ON sa.sp_checkorder TO role_sa_select;
+GRANT EXECUTE ON sa.sp_checkorder TO role_sa_update;
+GRANT EXECUTE ON sa.sp_checkorder TO role_tf_select;
+GRANT EXECUTE ON sa.sp_checkorder TO soacbo;
+GRANT EXECUTE ON sa.sp_checkorder TO w3ci;
+GRANT EXECUTE ON sa.sp_checkorder TO webcbo;

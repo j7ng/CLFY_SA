@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.cz_bck_103007 TO dbit_mtoribiolopez;

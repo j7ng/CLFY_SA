@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_mtm_vas_part_class_excl ON sa.mtm_vas_handset_exclusion(part_class_objid);

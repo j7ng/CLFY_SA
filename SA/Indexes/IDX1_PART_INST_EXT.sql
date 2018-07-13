@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_part_inst_ext ON sa.x_part_inst_ext(smp);

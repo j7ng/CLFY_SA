@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM edit_creditcard_prc FOR sa.edit_creditcard_prc;

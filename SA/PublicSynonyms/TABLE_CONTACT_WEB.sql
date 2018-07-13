@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_contact_web FOR sa.table_contact_web;

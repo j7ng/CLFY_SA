@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_external_mo_req_hist TO PUBLIC;

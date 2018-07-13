@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM lte_service_pkg FOR sa.lte_service_pkg;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.clfy_wfm_qtbl TO igate_batch;

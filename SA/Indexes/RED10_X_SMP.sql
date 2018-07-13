@@ -1,0 +1,1 @@
+CREATE INDEX sa.red10_x_smp ON sa.red10(rc_x_smp);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.sys_c00351121 ON sa.smp_vdf_maslist(mas_name);

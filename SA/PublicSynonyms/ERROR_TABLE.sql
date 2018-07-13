@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM error_table FOR sa.error_table;

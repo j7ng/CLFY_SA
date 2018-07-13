@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.daylight_hr_objindex ON sa.table_daylight_hr(objid);

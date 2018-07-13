@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.dist_srvr_objindex ON sa.table_dist_srvr(objid);

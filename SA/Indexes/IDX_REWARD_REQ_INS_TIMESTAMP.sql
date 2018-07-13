@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_reward_req_ins_timestamp ON sa.x_reward_request(insert_timestamp);

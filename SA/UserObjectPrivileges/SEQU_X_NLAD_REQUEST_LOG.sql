@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_nlad_request_log TO PUBLIC;

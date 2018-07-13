@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_case_resolutions ON sa.table_x_case_resolutions(resol2conf_hdr,x_condition,x_resolution,x_status);

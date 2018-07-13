@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_class_exch_options_upartnum ON sa.table_x_class_exch_options(x_used_part_num);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_prtcat2psfi FOR sa.table_prtcat2psfi;

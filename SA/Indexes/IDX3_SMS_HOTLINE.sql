@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx3_sms_hotline ON sa.x_sms_hotline("MIN");

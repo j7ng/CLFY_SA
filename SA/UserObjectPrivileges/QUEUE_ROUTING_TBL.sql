@@ -1,0 +1,15 @@
+GRANT SELECT ON sa.queue_routing_tbl TO cbo;
+GRANT SELECT ON sa.queue_routing_tbl TO clarify_administrator;
+GRANT SELECT ON sa.queue_routing_tbl TO clarify_user;
+GRANT SELECT ON sa.queue_routing_tbl TO csrcbo;
+GRANT SELECT ON sa.queue_routing_tbl TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.queue_routing_tbl TO gw1;
+GRANT SELECT ON sa.queue_routing_tbl TO igate_batch;
+GRANT SELECT ON sa.queue_routing_tbl TO itds_user;
+GRANT SELECT ON sa.queue_routing_tbl TO role_report_select;
+GRANT SELECT ON sa.queue_routing_tbl TO role_sa_select;
+GRANT SELECT ON sa.queue_routing_tbl TO role_sa_update;
+GRANT SELECT ON sa.queue_routing_tbl TO role_tf_select;
+GRANT SELECT ON sa.queue_routing_tbl TO soacbo;
+GRANT SELECT ON sa.queue_routing_tbl TO w3ci;
+GRANT SELECT ON sa.queue_routing_tbl TO webcbo;

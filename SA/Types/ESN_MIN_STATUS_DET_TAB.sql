@@ -1,0 +1,3 @@
+CREATE OR REPLACE TYPE sa."ESN_MIN_STATUS_DET_TAB" FORCE
+  AS TABLE OF sa.esn_min_status_det_type;
+/

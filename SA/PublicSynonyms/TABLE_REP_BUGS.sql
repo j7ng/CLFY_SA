@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_rep_bugs FOR sa.table_rep_bugs;

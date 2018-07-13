@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_s_demand_hdr_ship_attn2 ON sa.table_demand_hdr(s_ship_attn2);

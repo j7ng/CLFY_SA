@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_prtkp_subc FOR sa.table_prtkp_subc;

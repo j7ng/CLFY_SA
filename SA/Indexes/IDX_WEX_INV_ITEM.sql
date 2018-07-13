@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_wex_inv_item ON sa.wex_bp_inv_receipts(item_code,short_des,item_sub_class);

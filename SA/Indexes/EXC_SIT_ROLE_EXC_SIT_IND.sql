@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.exc_sit_role_exc_sit_ind ON sa.table_exc_sit_role(exc_sit_role2site,exc_sit_role2exchange,role_name);

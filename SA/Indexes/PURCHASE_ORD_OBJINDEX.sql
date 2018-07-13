@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.purchase_ord_objindex ON sa.table_purchase_ord(objid);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx16_subscriber_spr ON sa.x_subscriber_spr(rate_plan);

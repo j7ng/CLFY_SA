@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_unlock_case_matvw_idx1 ON sa.adfcrm_unlock_case_matview(alt_last_name,alt_zipcode,alt_first_name,alt_address,x_case_type,title);

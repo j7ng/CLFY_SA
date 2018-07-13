@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_ll_subscribers_hist TO PUBLIC;

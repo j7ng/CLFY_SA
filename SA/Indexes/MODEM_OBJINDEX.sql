@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.modem_objindex ON sa.table_modem(objid);

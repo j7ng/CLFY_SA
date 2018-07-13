@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.qq_comment_objindex ON sa.table_qq_comment(objid);

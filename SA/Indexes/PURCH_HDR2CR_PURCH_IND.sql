@@ -1,0 +1,1 @@
+CREATE INDEX sa.purch_hdr2cr_purch_ind ON sa.x_program_purch_hdr(purch_hdr2cr_purch);

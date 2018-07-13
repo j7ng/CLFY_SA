@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM system_test_pkg FOR sa.system_test_pkg;

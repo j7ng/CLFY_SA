@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_rtc_criteria_values FOR sa.sequ_rtc_criteria_values;

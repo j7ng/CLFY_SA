@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_x_rate_min_hist_old2;

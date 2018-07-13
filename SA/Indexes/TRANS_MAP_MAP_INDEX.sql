@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.trans_map_map_index ON sa.table_trans_map(detail_level,focus_type,map_id,map2dataset);

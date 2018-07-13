@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_xrsi_exp_date ON sa.x_reset_sim_inv(expire_date);

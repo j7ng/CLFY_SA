@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_escalation_speed2 ON sa.table_x_escalation_speed(speed2escalation,x_auto_carrier,x_star_rank);

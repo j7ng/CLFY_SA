@@ -1,0 +1,20 @@
+CREATE TABLE sa.x_cbo_trans_log (
+  objid NUMBER,
+  x_transact_date DATE,
+  x_bus_line VARCHAR2(30 BYTE),
+  x_source_system VARCHAR2(30 BYTE),
+  x_action_type VARCHAR2(20 BYTE),
+  x_esn_imei VARCHAR2(30 BYTE),
+  x_result VARCHAR2(30 BYTE),
+  x_servername VARCHAR2(40 BYTE),
+  x_session_id VARCHAR2(100 BYTE),
+  x_tealeaf_id VARCHAR2(100 BYTE),
+  x_source_jsp VARCHAR2(100 BYTE),
+  x_source_cbo VARCHAR2(100 BYTE),
+  x_cbo_trans2call_trans NUMBER,
+  x_cbo_method VARCHAR2(50 BYTE),
+  x_result_num VARCHAR2(10 BYTE),
+  x_result_string VARCHAR2(300 BYTE),
+  x_action VARCHAR2(30 BYTE),
+  x_esn_status VARCHAR2(20 BYTE)
+);

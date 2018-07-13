@@ -1,0 +1,11 @@
+GRANT ALTER ON gw1.ig_transaction_buckets TO sa;
+GRANT DEBUG ON gw1.ig_transaction_buckets TO sa;
+GRANT DELETE ON gw1.ig_transaction_buckets TO sa;
+GRANT FLASHBACK ON gw1.ig_transaction_buckets TO sa;
+GRANT INDEX ON gw1.ig_transaction_buckets TO sa;
+GRANT INSERT ON gw1.ig_transaction_buckets TO sa;
+GRANT ON COMMIT REFRESH ON gw1.ig_transaction_buckets TO sa;
+GRANT QUERY REWRITE ON gw1.ig_transaction_buckets TO sa;
+GRANT REFERENCES ON gw1.ig_transaction_buckets TO sa;
+GRANT SELECT ON gw1.ig_transaction_buckets TO sa;
+GRANT UPDATE ON gw1.ig_transaction_buckets TO sa;

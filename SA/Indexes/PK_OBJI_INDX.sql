@@ -1,0 +1,1 @@
+CREATE INDEX sa.pk_obji_indx ON sa.x_bi_transaction_log_detail(trans2trans_log_dtl);

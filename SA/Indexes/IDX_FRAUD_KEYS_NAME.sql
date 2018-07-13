@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_fraud_keys_name ON sa.x_fraud_keys(x_key_name);

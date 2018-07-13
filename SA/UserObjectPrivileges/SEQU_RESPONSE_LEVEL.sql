@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_response_level TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_isotaenabled FOR sa.billing_isotaenabled;

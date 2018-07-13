@@ -1,0 +1,13 @@
+CREATE OR REPLACE TYPE sa.RETURN_BUCKET_BAL_OBJ
+AS
+  OBJECT
+  (
+    OBJID                   NUMBER,
+    BALANCE_BUCKET2X_SWB_TX NUMBER,
+    X_TYPE                  VARCHAR2(80),
+    X_VALUE                 VARCHAR2(80),
+    RECHARGE_DATE           DATE,
+    EXPIRATION_DATE         DATE,
+    BUCKET_DESC             VARCHAR2(80),
+   BUCKET_GROUP            VARCHAR2(50));
+/

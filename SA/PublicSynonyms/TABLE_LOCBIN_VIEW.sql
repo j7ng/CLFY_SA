@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_locbin_view FOR sa.table_locbin_view;

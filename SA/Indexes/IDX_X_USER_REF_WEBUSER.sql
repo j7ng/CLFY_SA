@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_user_ref_webuser ON sa.x_user_referrers(x_user_ref2webuser);

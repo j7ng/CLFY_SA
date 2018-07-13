@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_cntn_actions_log_esn ON sa.centene_actions_log(x_esn);

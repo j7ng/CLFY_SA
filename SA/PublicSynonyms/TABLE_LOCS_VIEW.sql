@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_locs_view FOR sa.table_locs_view;

@@ -1,0 +1,9 @@
+GRANT EXECUTE ON sa.transaction_hist_rec TO cbo;
+GRANT EXECUTE ON sa.transaction_hist_rec TO clarify_administrator;
+GRANT EXECUTE ON sa.transaction_hist_rec TO clarify_user;
+GRANT EXECUTE ON sa.transaction_hist_rec TO csrcbo;
+GRANT EXECUTE ON sa.transaction_hist_rec TO gw1;
+GRANT EXECUTE ON sa.transaction_hist_rec TO report;
+GRANT EXECUTE ON sa.transaction_hist_rec TO role_sa_update;
+GRANT EXECUTE ON sa.transaction_hist_rec TO soacbo;
+GRANT EXECUTE ON sa.transaction_hist_rec TO webcbo;

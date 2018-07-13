@@ -1,0 +1,1 @@
+CREATE INDEX sa.service_plan_feat_idx4 ON sa.service_plan_feat_pivot_mv(biz_line,safelink_only,voice);

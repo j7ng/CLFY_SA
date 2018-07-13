@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ord_primary_key ON sa.ord(ordid);

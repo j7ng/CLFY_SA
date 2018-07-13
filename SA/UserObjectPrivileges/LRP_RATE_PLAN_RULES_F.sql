@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.lrp_rate_plan_rules_f TO role_sqa_tester;

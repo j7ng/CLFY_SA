@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ig_status_error_message_uidx ON sa.ig_status_error_message(x_error_code,x_error_group,x_error_criteria);

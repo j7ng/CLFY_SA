@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.adfcrm_fota_vendors_idx ON sa.adfcrm_fota_vendors(objid);

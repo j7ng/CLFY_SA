@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_opp_rol_itm;

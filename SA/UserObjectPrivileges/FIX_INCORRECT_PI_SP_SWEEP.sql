@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.fix_incorrect_pi_sp_sweep TO dbit_mtoribiolopez;

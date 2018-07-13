@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_tstahis_user TO dbit_mtoribiolopez;

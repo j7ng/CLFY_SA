@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_modelscores_ind_esn ON sa.table_x_modelscores(x_esn);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_merchant_ref_number TO PUBLIC;

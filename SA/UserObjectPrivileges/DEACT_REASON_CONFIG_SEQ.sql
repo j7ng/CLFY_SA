@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.deact_reason_config_seq TO PUBLIC;

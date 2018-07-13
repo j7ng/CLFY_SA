@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.extern_id_i5670 ON sa.table_extern_id(partner_id,extern_id);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_ccc_rundsply FOR sa.table_ccc_rundsply;

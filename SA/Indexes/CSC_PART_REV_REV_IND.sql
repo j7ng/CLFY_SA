@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.csc_part_rev_rev_ind ON sa.table_csc_part_rev(server_id,part_rev2csc_part,"VERSION");

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_demand_dtl_wip2wipbin ON sa.table_demand_dtl(demand_dtl_wip2wipbin);

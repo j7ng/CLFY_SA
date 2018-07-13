@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM case_temp FOR sa.case_temp;

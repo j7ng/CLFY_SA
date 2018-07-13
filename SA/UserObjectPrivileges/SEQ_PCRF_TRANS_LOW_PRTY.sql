@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_pcrf_trans_low_prty TO PUBLIC;

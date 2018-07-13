@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_process_order_detail FOR sa.x_process_order_detail;

@@ -1,0 +1,11 @@
+GRANT EXECUTE ON sa.get_bucket_bal TO cbo;
+GRANT EXECUTE ON sa.get_bucket_bal TO clarify_administrator;
+GRANT EXECUTE ON sa.get_bucket_bal TO clarify_user;
+GRANT EXECUTE ON sa.get_bucket_bal TO corecbo;
+GRANT EXECUTE ON sa.get_bucket_bal TO csrcbo;
+GRANT EXECUTE ON sa.get_bucket_bal TO gw1;
+GRANT EXECUTE ON sa.get_bucket_bal TO igate_batch;
+GRANT EXECUTE ON sa.get_bucket_bal TO role_sa_update;
+GRANT EXECUTE ON sa.get_bucket_bal TO soacbo;
+GRANT EXECUTE ON sa.get_bucket_bal TO w3ci;
+GRANT EXECUTE ON sa.get_bucket_bal TO webcbo;

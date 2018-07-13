@@ -1,0 +1,14 @@
+GRANT SELECT ON sa.x_return_stage TO cbo;
+GRANT SELECT ON sa.x_return_stage TO clarify_administrator;
+GRANT SELECT ON sa.x_return_stage TO clarify_user;
+GRANT SELECT ON sa.x_return_stage TO csrcbo;
+GRANT SELECT ON sa.x_return_stage TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_return_stage TO gw1;
+GRANT SELECT ON sa.x_return_stage TO igate_batch;
+GRANT SELECT ON sa.x_return_stage TO role_report_select;
+GRANT SELECT ON sa.x_return_stage TO role_sa_select;
+GRANT SELECT ON sa.x_return_stage TO role_sa_update;
+GRANT SELECT ON sa.x_return_stage TO role_tf_select;
+GRANT SELECT ON sa.x_return_stage TO soacbo;
+GRANT SELECT ON sa.x_return_stage TO w3ci;
+GRANT SELECT ON sa.x_return_stage TO webcbo;

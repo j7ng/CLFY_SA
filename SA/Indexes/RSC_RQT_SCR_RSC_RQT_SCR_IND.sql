@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.rsc_rqt_scr_rsc_rqt_scr_ind ON sa.table_rsc_rqt_scr(rsc_rqt_scr2r_rqst,rsc_rqt_scr2rsrc);

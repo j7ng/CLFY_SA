@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_wipelm_fnl FOR sa.table_wipelm_fnl;

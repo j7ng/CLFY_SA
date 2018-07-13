@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_mtm_ffc2conf_hdr FOR sa.table_x_mtm_ffc2conf_hdr;

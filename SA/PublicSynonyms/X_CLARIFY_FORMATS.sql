@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_clarify_formats FOR sa.x_clarify_formats;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.service_plan_feat_idx5 ON sa.service_plan_feat_pivot_mv(device_group_type);

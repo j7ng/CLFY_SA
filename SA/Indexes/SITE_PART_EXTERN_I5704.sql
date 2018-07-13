@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.site_part_extern_i5704 ON sa.table_site_part_extern(ext_ref,ext_src);

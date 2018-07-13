@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.exc_bch_role_objindex ON sa.table_exc_bch_role(objid);

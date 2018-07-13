@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.case_exch_options_idx1 ON sa.table_x_case_exch_options(objid);

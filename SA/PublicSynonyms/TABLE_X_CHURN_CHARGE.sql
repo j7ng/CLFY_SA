@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_churn_charge FOR sa.table_x_churn_charge;

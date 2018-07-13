@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_comp_rules FOR sa.x_comp_rules;

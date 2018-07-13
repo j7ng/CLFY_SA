@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM gencode5125unix FOR sa.gencode5125unix;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pin_smp_tab FOR sa.pin_smp_tab;

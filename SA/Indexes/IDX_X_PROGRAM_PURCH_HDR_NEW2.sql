@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_program_purch_hdr_new2 ON sa.x_program_purch_hdr(x_payment_type);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.error_key_idx ON sa.error_table("KEY");

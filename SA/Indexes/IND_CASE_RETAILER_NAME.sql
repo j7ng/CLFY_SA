@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_case_retailer_name ON sa.table_case(x_retailer_name);

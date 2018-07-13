@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_repl_survey_esns FOR sa.x_repl_survey_esns;

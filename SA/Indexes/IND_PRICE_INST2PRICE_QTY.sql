@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_price_inst2price_qty ON sa.table_price_inst(price_inst2price_qty);

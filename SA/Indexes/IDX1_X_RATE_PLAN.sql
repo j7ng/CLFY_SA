@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_x_rate_plan ON sa.x_rate_plan(x_rate_plan);

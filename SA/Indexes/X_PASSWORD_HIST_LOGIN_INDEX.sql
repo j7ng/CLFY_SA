@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_password_hist_login_index ON sa.table_x_password_hist(s_x_login_name);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.per_addr_role_per_addr_index ON sa.table_per_addr_role(role_name,focus_type,per_addr_role2address,per_addr_role2person);

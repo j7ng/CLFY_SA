@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.stage_metric_objindex ON sa.table_stage_metric(objid);

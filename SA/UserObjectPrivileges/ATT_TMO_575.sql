@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.att_tmo_575 TO dbit_mtoribiolopez;

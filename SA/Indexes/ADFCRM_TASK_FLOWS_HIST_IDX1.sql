@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_task_flows_hist_idx1 ON sa.adfcrm_task_flows_hist(changed_date,task_id,change_type);

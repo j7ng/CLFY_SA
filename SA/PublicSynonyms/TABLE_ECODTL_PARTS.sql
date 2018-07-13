@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_ecodtl_parts FOR sa.table_ecodtl_parts;

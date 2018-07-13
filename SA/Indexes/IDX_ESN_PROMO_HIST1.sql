@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_esn_promo_hist1 ON sa.x_esn_promo_hist(esn,promo_hist2x_promotion);

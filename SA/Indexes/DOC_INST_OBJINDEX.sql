@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.doc_inst_objindex ON sa.table_doc_inst(objid);

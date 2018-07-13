@@ -1,0 +1,1 @@
+CREATE INDEX sa.spr_error_log_idx4 ON sa.x_spr_error_log(program_purch_hdr_objid);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_reward_benefit_program TO PUBLIC;

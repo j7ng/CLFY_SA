@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx06_pcrf_trans_low_prty ON sa.x_pcrf_trans_low_prty("GROUP_ID");

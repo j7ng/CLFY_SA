@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_case_detail_hist TO PUBLIC;

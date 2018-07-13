@@ -1,0 +1,16 @@
+GRANT DELETE ON sa.x_enroll_promo_extra TO role_sa_select;
+GRANT INSERT ON sa.x_enroll_promo_extra TO role_sa_select;
+GRANT SELECT ON sa.x_enroll_promo_extra TO cbo;
+GRANT SELECT ON sa.x_enroll_promo_extra TO clarify_administrator;
+GRANT SELECT ON sa.x_enroll_promo_extra TO clarify_user;
+GRANT SELECT ON sa.x_enroll_promo_extra TO corecbo;
+GRANT SELECT ON sa.x_enroll_promo_extra TO csrcbo;
+GRANT SELECT ON sa.x_enroll_promo_extra TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_enroll_promo_extra TO igate_batch;
+GRANT SELECT ON sa.x_enroll_promo_extra TO role_report_select;
+GRANT SELECT ON sa.x_enroll_promo_extra TO role_sa_select;
+GRANT SELECT ON sa.x_enroll_promo_extra TO role_sa_update;
+GRANT SELECT ON sa.x_enroll_promo_extra TO role_tf_select;
+GRANT SELECT ON sa.x_enroll_promo_extra TO soacbo;
+GRANT SELECT ON sa.x_enroll_promo_extra TO webcbo;
+GRANT UPDATE ON sa.x_enroll_promo_extra TO role_sa_select;

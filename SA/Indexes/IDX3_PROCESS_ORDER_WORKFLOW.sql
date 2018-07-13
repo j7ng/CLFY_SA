@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx3_process_order_workflow ON sa.x_process_order_workflow(updated_by);

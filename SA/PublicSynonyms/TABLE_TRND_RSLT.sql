@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_trnd_rslt FOR sa.table_trnd_rslt;

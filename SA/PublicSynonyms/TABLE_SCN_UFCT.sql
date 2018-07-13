@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_scn_ufct FOR sa.table_scn_ufct;

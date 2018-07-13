@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_access_control TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_v_cls_case FOR sa.table_v_cls_case;

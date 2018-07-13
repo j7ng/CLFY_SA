@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.smmonthlyentrysequence TO PUBLIC;

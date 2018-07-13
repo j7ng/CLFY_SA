@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx02_x_crm_perms2priv_class ON sa.x_crm_perms2priv_class(priv_class_objid);

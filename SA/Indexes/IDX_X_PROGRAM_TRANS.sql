@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_program_trans ON sa.x_program_trans(objid);

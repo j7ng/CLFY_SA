@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_reward_req_proc_status ON sa.x_reward_request(request_process_status);

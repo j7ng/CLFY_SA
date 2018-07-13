@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_adp_sch_info ON sa.adp_sch_info(type_id,spec_field_id);

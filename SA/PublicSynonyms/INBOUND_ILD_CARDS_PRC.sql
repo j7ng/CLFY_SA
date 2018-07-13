@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM inbound_ild_cards_prc FOR sa.inbound_ild_cards_prc;

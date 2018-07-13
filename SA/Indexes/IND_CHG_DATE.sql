@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_chg_date ON sa.x_employee_hist(x_change_date);

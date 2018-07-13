@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_part_inst_chg FOR sa.x_part_inst_chg;

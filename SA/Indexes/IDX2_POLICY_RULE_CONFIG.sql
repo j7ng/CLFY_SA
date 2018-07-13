@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_policy_rule_config ON sa.x_policy_rule_config(active_days_applicable_flag,active_days_from,active_days_to);

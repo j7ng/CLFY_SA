@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.access_control_objindex ON sa.table_access_control(objid);

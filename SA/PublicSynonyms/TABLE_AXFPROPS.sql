@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_axfprops FOR sa.table_axfprops;

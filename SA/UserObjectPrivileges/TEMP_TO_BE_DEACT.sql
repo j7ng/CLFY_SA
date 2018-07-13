@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.temp_to_be_deact TO dbit_mtoribiolopez;

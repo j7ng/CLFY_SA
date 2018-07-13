@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_loc_rollup_v FOR sa.table_loc_rollup_v;

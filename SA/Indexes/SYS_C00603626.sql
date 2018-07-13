@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.sys_c00603626 ON sa.x_flows(x_flow_objid);

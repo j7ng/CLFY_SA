@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79auth_objindex ON sa.table_x79auth(objid);

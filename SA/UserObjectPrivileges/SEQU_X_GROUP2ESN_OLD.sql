@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_group2esn_old TO PUBLIC;

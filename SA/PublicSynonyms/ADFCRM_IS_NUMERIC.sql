@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_is_numeric FOR sa.adfcrm_is_numeric;

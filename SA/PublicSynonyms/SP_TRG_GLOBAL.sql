@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sp_trg_global FOR sa.sp_trg_global;

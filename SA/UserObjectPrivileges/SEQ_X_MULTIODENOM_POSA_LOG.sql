@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_multiodenom_posa_log TO PUBLIC;

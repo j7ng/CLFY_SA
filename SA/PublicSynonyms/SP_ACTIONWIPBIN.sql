@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sp_actionwipbin FOR sa.sp_actionwipbin;

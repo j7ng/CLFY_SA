@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.phone_objindex ON sa.table_phone(objid);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_time_log FOR sa.table_time_log;

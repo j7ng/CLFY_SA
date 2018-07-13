@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_biz_purch_hdr ON sa.x_biz_purch_hdr(c_orderid,x_payment_type);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_mobile_complete_tutorial FOR sa.table_mobile_complete_tutorial;

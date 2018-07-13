@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM get_encrypt_str FOR sa.get_encrypt_str;

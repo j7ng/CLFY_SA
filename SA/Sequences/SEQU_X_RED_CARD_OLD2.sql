@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_x_red_card_old2;

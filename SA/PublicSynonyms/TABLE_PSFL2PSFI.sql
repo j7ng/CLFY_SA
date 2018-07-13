@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_psfl2psfi FOR sa.table_psfl2psfi;

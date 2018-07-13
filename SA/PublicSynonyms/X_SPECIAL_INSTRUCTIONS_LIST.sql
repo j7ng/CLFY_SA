@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_special_instructions_list FOR sa.x_special_instructions_list;

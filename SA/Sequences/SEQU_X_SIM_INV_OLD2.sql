@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_x_sim_inv_old2;

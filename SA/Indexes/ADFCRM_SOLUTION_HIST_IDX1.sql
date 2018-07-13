@@ -1,0 +1,1 @@
+CREATE INDEX sa.adfcrm_solution_hist_idx1 ON sa.adfcrm_solution_hist(changed_date,solution_id,change_type);

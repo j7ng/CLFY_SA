@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_mvne_error_log_idx1 ON sa.x_mvne_error_log(x_esn);

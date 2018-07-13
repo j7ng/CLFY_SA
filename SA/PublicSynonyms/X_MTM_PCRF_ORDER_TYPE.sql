@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_mtm_pcrf_order_type FOR sa.x_mtm_pcrf_order_type;

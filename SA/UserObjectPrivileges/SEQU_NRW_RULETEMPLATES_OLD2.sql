@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_nrw_ruletemplates_old2 TO PUBLIC;

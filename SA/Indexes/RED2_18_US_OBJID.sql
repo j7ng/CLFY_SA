@@ -1,0 +1,1 @@
+CREATE INDEX sa.red2_18_us_objid ON sa.red2_18(us_objid);

@@ -1,0 +1,11 @@
+GRANT SELECT ON sa.x_purchase_offers TO cbo;
+GRANT SELECT ON sa.x_purchase_offers TO clarify_administrator;
+GRANT SELECT ON sa.x_purchase_offers TO clarify_user;
+GRANT SELECT ON sa.x_purchase_offers TO csrcbo;
+GRANT SELECT ON sa.x_purchase_offers TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_purchase_offers TO gw1;
+GRANT SELECT ON sa.x_purchase_offers TO igate_batch;
+GRANT SELECT ON sa.x_purchase_offers TO role_sa_update;
+GRANT SELECT ON sa.x_purchase_offers TO soacbo;
+GRANT SELECT ON sa.x_purchase_offers TO w3ci;
+GRANT SELECT ON sa.x_purchase_offers TO webcbo;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_rsrc_skill2rsrc ON sa.table_rsrc_skill(rsrc_skill2rsrc,rsrc_skill2skill);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_program_purch_dtl ON sa.x_program_purch_dtl(objid);

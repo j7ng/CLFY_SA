@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_reward_point_values FOR sa.x_reward_point_values;

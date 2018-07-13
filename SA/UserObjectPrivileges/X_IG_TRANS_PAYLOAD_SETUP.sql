@@ -1,0 +1,17 @@
+GRANT INSERT ON sa.x_ig_trans_payload_setup TO cbo;
+GRANT INSERT ON sa.x_ig_trans_payload_setup TO csrcbo;
+GRANT INSERT ON sa.x_ig_trans_payload_setup TO igate_batch;
+GRANT INSERT ON sa.x_ig_trans_payload_setup TO soacbo;
+GRANT INSERT ON sa.x_ig_trans_payload_setup TO webcbo;
+GRANT SELECT ON sa.x_ig_trans_payload_setup TO cbo;
+GRANT SELECT ON sa.x_ig_trans_payload_setup TO clarify_administrator;
+GRANT SELECT ON sa.x_ig_trans_payload_setup TO clarify_user;
+GRANT SELECT ON sa.x_ig_trans_payload_setup TO csrcbo;
+GRANT SELECT ON sa.x_ig_trans_payload_setup TO dqietl;
+GRANT SELECT ON sa.x_ig_trans_payload_setup TO gw1;
+GRANT SELECT ON sa.x_ig_trans_payload_setup TO igate_batch;
+GRANT SELECT ON sa.x_ig_trans_payload_setup TO role_report_select;
+GRANT SELECT ON sa.x_ig_trans_payload_setup TO role_tf_select;
+GRANT SELECT ON sa.x_ig_trans_payload_setup TO soacbo;
+GRANT SELECT ON sa.x_ig_trans_payload_setup TO w3ci;
+GRANT SELECT ON sa.x_ig_trans_payload_setup TO webcbo;

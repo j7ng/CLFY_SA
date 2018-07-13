@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_load_date ON sa.ff_daily_tracking(load_date);

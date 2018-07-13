@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.vadapa_tf_pn_idx ON sa.vadapa_tf_item_v(part_number);

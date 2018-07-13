@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_order_type3 ON sa.table_x_order_type(x_order_type2x_carrier,x_order_type,NVL("X_NPA",'-1'),NVL("X_NXX",'-1'));

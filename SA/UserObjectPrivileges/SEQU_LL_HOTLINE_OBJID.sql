@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_ll_hotline_objid TO PUBLIC;

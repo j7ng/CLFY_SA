@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx01_mtm_alert2part_class ON sa.mtm_alert2part_class(part_class_objid);

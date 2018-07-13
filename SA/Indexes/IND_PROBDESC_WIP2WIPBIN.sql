@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_probdesc_wip2wipbin ON sa.table_probdesc(probdesc_wip2wipbin);

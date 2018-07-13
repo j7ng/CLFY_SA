@@ -1,0 +1,13 @@
+GRANT EXECUTE ON sa.sp_rate_plan_change_migr TO cbo;
+GRANT EXECUTE ON sa.sp_rate_plan_change_migr TO clarify_administrator;
+GRANT EXECUTE ON sa.sp_rate_plan_change_migr TO clarify_user;
+GRANT EXECUTE ON sa.sp_rate_plan_change_migr TO corecbo;
+GRANT EXECUTE ON sa.sp_rate_plan_change_migr TO csrcbo;
+GRANT EXECUTE ON sa.sp_rate_plan_change_migr TO gw1;
+GRANT EXECUTE ON sa.sp_rate_plan_change_migr TO report;
+GRANT EXECUTE ON sa.sp_rate_plan_change_migr TO role_report_select;
+GRANT EXECUTE ON sa.sp_rate_plan_change_migr TO role_sa_select;
+GRANT EXECUTE ON sa.sp_rate_plan_change_migr TO role_sa_update;
+GRANT EXECUTE ON sa.sp_rate_plan_change_migr TO role_tf_select;
+GRANT EXECUTE ON sa.sp_rate_plan_change_migr TO soacbo;
+GRANT EXECUTE ON sa.sp_rate_plan_change_migr TO webcbo;

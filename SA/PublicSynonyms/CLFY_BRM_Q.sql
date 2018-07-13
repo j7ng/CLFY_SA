@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM clfy_brm_q FOR sa.clfy_brm_q;

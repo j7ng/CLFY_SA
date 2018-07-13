@@ -1,0 +1,1 @@
+CREATE INDEX sa.web_user_contact ON sa.table_web_user(web_user2contact);

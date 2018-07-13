@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_num_scheme FOR sa.table_num_scheme;

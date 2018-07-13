@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_x_ota_err2x_ota_trans_dtl ON sa.table_x_ota_error_info(ota_err2ota_trans_dtl);

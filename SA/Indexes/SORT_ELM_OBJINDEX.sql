@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.sort_elm_objindex ON sa.table_sort_elm(objid);

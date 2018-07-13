@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_email_log_old2 TO PUBLIC;

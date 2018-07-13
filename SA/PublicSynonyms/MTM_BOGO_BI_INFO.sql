@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_bogo_bi_info FOR sa.mtm_bogo_bi_info;

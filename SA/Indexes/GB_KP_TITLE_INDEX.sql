@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.gb_kp_title_index ON sa.table_gb_kp(unique_title);

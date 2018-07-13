@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.trans_record_record_index ON sa.table_trans_record(trans_record2trans_map,focus_type,ref_objid);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_birth_pin ON sa.table_contact(x_dateofbirth,x_pin);

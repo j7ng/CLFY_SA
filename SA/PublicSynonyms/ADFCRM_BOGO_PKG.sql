@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_bogo_pkg FOR sa.adfcrm_bogo_pkg;

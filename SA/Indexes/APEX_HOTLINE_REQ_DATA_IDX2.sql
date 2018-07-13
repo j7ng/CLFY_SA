@@ -1,0 +1,1 @@
+CREATE INDEX sa.apex_hotline_req_data_idx2 ON sa.apex_hotline_req_data(source_file);

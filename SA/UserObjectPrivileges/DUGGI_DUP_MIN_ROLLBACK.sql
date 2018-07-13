@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.duggi_dup_min_rollback TO dbit_mtoribiolopez;

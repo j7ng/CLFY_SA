@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_workaround FOR sa.table_workaround;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_start_end_dt_idx ON sa.table_x_promotion_srce(x_start_date,x_end_date,x_promo_code);

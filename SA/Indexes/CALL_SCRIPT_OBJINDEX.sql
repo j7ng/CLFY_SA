@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.call_script_objindex ON sa.table_call_script(objid);

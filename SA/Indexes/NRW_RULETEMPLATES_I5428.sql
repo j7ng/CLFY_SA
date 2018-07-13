@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.nrw_ruletemplates_i5428 ON sa.table_nrw_ruletemplates(n_itemtypeid,n_ruleobjectname);

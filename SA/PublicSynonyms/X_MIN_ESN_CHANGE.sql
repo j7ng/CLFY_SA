@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_min_esn_change FOR sa.x_min_esn_change;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.nws_treefolders_i5514 ON sa.table_nws_treefolders(n_name,n_child2nws_treefolders,n_folders2nws_trees);

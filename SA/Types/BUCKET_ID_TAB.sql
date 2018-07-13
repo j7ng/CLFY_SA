@@ -1,0 +1,2 @@
+CREATE OR REPLACE TYPE sa."BUCKET_ID_TAB" AS TABLE OF bucket_id_type;
+/

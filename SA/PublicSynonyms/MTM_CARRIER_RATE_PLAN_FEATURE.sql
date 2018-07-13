@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_carrier_rate_plan_feature FOR sa.mtm_carrier_rate_plan_feature;

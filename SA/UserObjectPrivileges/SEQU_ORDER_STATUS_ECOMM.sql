@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_order_status_ecomm TO PUBLIC;

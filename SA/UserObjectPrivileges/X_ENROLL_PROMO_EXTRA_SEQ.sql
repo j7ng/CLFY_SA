@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_enroll_promo_extra_seq TO PUBLIC;

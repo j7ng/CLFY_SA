@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.transition_objindex ON sa.table_transition(objid);

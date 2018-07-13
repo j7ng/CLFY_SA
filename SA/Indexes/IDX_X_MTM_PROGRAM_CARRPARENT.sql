@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_mtm_program_carrparent ON sa.x_mtm_program_carrparent(program_param_objid,carr_parent_objid);

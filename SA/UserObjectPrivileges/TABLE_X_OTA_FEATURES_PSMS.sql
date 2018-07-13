@@ -1,0 +1,12 @@
+GRANT ALTER ON sa.table_x_ota_features_psms TO PUBLIC;
+GRANT DEBUG ON sa.table_x_ota_features_psms TO PUBLIC;
+GRANT DELETE ON sa.table_x_ota_features_psms TO PUBLIC;
+GRANT FLASHBACK ON sa.table_x_ota_features_psms TO PUBLIC;
+GRANT INDEX ON sa.table_x_ota_features_psms TO PUBLIC;
+GRANT INSERT ON sa.table_x_ota_features_psms TO PUBLIC;
+GRANT ON COMMIT REFRESH ON sa.table_x_ota_features_psms TO PUBLIC;
+GRANT QUERY REWRITE ON sa.table_x_ota_features_psms TO PUBLIC;
+GRANT REFERENCES ON sa.table_x_ota_features_psms TO PUBLIC;
+GRANT SELECT ON sa.table_x_ota_features_psms TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.table_x_ota_features_psms TO PUBLIC;
+GRANT UPDATE ON sa.table_x_ota_features_psms TO PUBLIC;

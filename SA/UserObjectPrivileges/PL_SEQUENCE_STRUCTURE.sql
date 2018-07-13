@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.pl_sequence_structure TO clarify_user;

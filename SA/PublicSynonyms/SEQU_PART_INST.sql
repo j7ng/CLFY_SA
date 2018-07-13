@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_part_inst FOR sa.sequ_part_inst;

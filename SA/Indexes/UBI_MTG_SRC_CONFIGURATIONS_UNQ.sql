@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ubi_mtg_src_configurations_unq ON sa.ubi_mtg_src_configurations(mtg_short_name,balance_element);

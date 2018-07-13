@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_tbl_qry_sps ON sa.table_query(shared_pers_st);

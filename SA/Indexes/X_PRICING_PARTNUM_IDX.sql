@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_pricing_partnum_idx ON sa.table_x_pricing(x_pricing2part_num);

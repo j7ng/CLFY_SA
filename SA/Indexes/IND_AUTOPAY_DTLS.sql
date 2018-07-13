@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_autopay_dtls ON sa.table_x_autopay_details(x_esn,x_program_type,x_status);

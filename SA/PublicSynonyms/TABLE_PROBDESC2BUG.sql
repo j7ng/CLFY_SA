@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_probdesc2bug FOR sa.table_probdesc2bug;

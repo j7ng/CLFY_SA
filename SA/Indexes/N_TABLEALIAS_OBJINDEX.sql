@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_tablealias_objindex ON sa.table_n_tablealias(objid);

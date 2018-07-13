@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_competitors_i5408 ON sa.table_n_competitors(n_name);

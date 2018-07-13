@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx01_x_sme_2mobileuser ON sa.x_sme_2mobileuser(x_sme_mobileuser2webuser);

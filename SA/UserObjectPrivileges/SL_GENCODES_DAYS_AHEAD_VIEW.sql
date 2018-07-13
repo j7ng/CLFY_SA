@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sl_gencodes_days_ahead_view TO dbit_mtoribiolopez;

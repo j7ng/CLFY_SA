@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.adfcrm_refund_reasons_cov_idx ON sa.adfcrm_refund_reasons(reason_text,reason_type);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_mtm_ret_flow_scn_action ON sa.x_mtm_ret_flow_scn_action(x_act2ret_flw,x_act2ret_scn,x_action);

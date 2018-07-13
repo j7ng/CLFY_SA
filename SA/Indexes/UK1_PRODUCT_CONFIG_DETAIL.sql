@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.uk1_product_config_detail ON sa.x_product_config_detail(prod_conf2prod_conf_dtl,bucket_id);

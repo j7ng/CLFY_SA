@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_tf_macaw_country_rate ON sa.tf_macaw_country_rate(country_id,m_country_name);

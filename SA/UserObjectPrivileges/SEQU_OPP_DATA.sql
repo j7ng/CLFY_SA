@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_opp_data TO PUBLIC;

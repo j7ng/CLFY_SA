@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_ll_subs2ll_plans FOR sa.mtm_ll_subs2ll_plans;

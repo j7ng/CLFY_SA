@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_menu_bar1_rc_config3 FOR sa.mtm_menu_bar1_rc_config3;

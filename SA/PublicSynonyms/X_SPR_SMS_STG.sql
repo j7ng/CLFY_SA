@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_spr_sms_stg FOR sa.x_spr_sms_stg;

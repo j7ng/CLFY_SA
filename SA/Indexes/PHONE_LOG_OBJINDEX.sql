@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.phone_log_objindex ON sa.table_phone_log(objid);

@@ -1,0 +1,17 @@
+GRANT EXECUTE ON sa.get_test_sim_byop TO apps_select;
+GRANT EXECUTE ON sa.get_test_sim_byop TO cbo;
+GRANT EXECUTE ON sa.get_test_sim_byop TO corecbo;
+GRANT EXECUTE ON sa.get_test_sim_byop TO csrcbo;
+GRANT EXECUTE ON sa.get_test_sim_byop TO gw1;
+GRANT EXECUTE ON sa.get_test_sim_byop TO igate_batch;
+GRANT EXECUTE ON sa.get_test_sim_byop TO igateapps;
+GRANT EXECUTE ON sa.get_test_sim_byop TO itquser_data;
+GRANT EXECUTE ON sa.get_test_sim_byop TO iut;
+GRANT EXECUTE ON sa.get_test_sim_byop TO mobapp_data;
+GRANT EXECUTE ON sa.get_test_sim_byop TO posaapp;
+GRANT EXECUTE ON sa.get_test_sim_byop TO posadirectapps;
+GRANT EXECUTE ON sa.get_test_sim_byop TO role_sqa_tester;
+GRANT EXECUTE ON sa.get_test_sim_byop TO role_sqa_update;
+GRANT EXECUTE ON sa.get_test_sim_byop TO soacbo;
+GRANT EXECUTE ON sa.get_test_sim_byop TO toppapp;
+GRANT EXECUTE ON sa.get_test_sim_byop TO webcbo;

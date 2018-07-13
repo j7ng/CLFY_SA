@@ -1,0 +1,13 @@
+GRANT ALTER ON sa.mtm_x_sec_grp2_x_sec_func0 TO clarify_administrator;
+GRANT DELETE ON sa.mtm_x_sec_grp2_x_sec_func0 TO clarify_administrator;
+GRANT DELETE ON sa.mtm_x_sec_grp2_x_sec_func0 TO clarify_user;
+GRANT INSERT ON sa.mtm_x_sec_grp2_x_sec_func0 TO clarify_administrator;
+GRANT INSERT ON sa.mtm_x_sec_grp2_x_sec_func0 TO clarify_user;
+GRANT SELECT ON sa.mtm_x_sec_grp2_x_sec_func0 TO clarify_administrator;
+GRANT SELECT ON sa.mtm_x_sec_grp2_x_sec_func0 TO clarify_reporter;
+GRANT SELECT ON sa.mtm_x_sec_grp2_x_sec_func0 TO clarify_user;
+GRANT SELECT ON sa.mtm_x_sec_grp2_x_sec_func0 TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.mtm_x_sec_grp2_x_sec_func0 TO role_tf_select;
+GRANT SELECT ON sa.mtm_x_sec_grp2_x_sec_func0 TO select_role;
+GRANT UPDATE ON sa.mtm_x_sec_grp2_x_sec_func0 TO clarify_administrator;
+GRANT UPDATE ON sa.mtm_x_sec_grp2_x_sec_func0 TO clarify_user;

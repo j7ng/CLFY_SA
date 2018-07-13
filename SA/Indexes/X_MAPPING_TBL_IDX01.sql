@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_mapping_tbl_idx01 ON sa.x_mapping_tbl(x_error_objid);

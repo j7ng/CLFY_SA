@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_cc_parms_ccparms_effdt_ind ON sa.table_x_cc_parms(x_eff_date);

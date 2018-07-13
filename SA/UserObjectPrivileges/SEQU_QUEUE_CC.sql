@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_queue_cc TO PUBLIC;

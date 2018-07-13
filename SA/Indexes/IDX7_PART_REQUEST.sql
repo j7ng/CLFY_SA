@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx7_part_request ON sa.table_x_part_request(x_insert_date);

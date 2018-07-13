@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_x_tmo_zip_ngp ON sa.x_tmo_zip_ngp(x_zip,x_priority);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_expire_account_group_benefit TO dbit_mtoribiolopez;

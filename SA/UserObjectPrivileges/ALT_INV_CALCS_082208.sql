@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.alt_inv_calcs_082208 TO dbit_mtoribiolopez;

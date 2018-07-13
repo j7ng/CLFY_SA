@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_rew_ben_trans_date ON sa.x_reward_benefit_transaction(trans_date);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_industry FOR sa.table_industry;

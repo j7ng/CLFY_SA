@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_red_card_temp FOR sa.table_x_red_card_temp;

@@ -1,0 +1,10 @@
+GRANT EXECUTE ON sa.billing_deact_rule_action TO clarify_administrator;
+GRANT EXECUTE ON sa.billing_deact_rule_action TO clarify_billing;
+GRANT EXECUTE ON sa.billing_deact_rule_action TO clarify_reporter;
+GRANT EXECUTE ON sa.billing_deact_rule_action TO clarify_user;
+GRANT EXECUTE ON sa.billing_deact_rule_action TO report;
+GRANT EXECUTE ON sa.billing_deact_rule_action TO role_clarify_custom;
+GRANT EXECUTE ON sa.billing_deact_rule_action TO role_sa_select;
+GRANT EXECUTE ON sa.billing_deact_rule_action TO role_sa_update;
+GRANT EXECUTE ON sa.billing_deact_rule_action TO role_web_report;
+GRANT EXECUTE ON sa.billing_deact_rule_action TO select_no_pin;

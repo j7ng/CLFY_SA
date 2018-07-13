@@ -1,0 +1,14 @@
+GRANT DEBUG ON sa.x_cbo_trans_log_1215 TO cbo;
+GRANT DELETE ON sa.x_cbo_trans_log_1215 TO cbo;
+GRANT FLASHBACK ON sa.x_cbo_trans_log_1215 TO cbo;
+GRANT INDEX ON sa.x_cbo_trans_log_1215 TO cbo;
+GRANT INSERT ON sa.x_cbo_trans_log_1215 TO cbo;
+GRANT ON COMMIT REFRESH ON sa.x_cbo_trans_log_1215 TO cbo;
+GRANT QUERY REWRITE ON sa.x_cbo_trans_log_1215 TO cbo;
+GRANT REFERENCES ON sa.x_cbo_trans_log_1215 TO cbo;
+GRANT SELECT ON sa.x_cbo_trans_log_1215 TO cbo;
+GRANT SELECT ON sa.x_cbo_trans_log_1215 TO clarify_reporter;
+GRANT SELECT ON sa.x_cbo_trans_log_1215 TO clarify_user;
+GRANT SELECT ON sa.x_cbo_trans_log_1215 TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_cbo_trans_log_1215 TO role_tf_select;
+GRANT UPDATE ON sa.x_cbo_trans_log_1215 TO cbo;

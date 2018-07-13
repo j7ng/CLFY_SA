@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_x79telcom_tr1_x79mo_inst2 FOR sa.mtm_x79telcom_tr1_x79mo_inst2;

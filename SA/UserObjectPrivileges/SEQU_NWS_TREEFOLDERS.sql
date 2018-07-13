@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_nws_treefolders TO PUBLIC;

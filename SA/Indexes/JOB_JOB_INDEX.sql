@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.job_job_index ON sa.table_job(id_number);

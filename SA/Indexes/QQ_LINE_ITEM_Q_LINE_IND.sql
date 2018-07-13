@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.qq_line_item_q_line_ind ON sa.table_qq_line_item(q_item2quick_quote,line_no);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_handset_msrp_tiers_uk ON sa.table_handset_msrp_tiers(handset_msrp_tier,msrp_tiers2vas_programs);

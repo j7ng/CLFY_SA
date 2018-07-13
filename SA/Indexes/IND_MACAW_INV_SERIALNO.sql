@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_macaw_inv_serialno ON sa.tf_macaw_inv_interface(m_part_serial_no);

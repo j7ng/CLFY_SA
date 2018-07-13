@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_ind_sim_inv_iccid ON sa.table_x_sim_inv(x_sim_serial_no);

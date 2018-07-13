@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM esn_status_enroll_eligible FOR sa.esn_status_enroll_eligible;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_queue7_group3 FOR sa.mtm_queue7_group3;

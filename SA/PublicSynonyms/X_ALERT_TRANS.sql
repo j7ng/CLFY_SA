@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_alert_trans FOR sa.x_alert_trans;

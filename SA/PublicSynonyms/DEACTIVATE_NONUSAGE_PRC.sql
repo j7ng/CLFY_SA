@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM deactivate_nonusage_prc FOR sa.deactivate_nonusage_prc;

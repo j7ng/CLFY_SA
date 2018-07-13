@@ -1,0 +1,1 @@
+CREATE INDEX sa.ix1_bogo_configuration ON sa.x_bogo_configuration(brand,esn_part_class,esn_part_number,esn_dealer_id,eligible_service_plan,channel,action_type,tsp_id);

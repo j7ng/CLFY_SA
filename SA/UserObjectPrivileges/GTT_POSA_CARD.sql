@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.gtt_posa_card TO dbit_mtoribiolopez;

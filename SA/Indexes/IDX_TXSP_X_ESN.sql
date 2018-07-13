@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_txsp_x_esn ON sa.x_special_promotion(x_esn);

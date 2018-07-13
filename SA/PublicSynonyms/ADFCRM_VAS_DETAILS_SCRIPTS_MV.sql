@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_vas_details_scripts_mv FOR sa.adfcrm_vas_details_scripts_mv;

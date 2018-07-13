@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_sp_ord_log_dtl2hdr ON sa.smartpay_order_log_dtl(sp_ord_log_dtl2sp_ord_log_hdr);

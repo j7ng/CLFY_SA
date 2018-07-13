@@ -1,0 +1,11 @@
+GRANT EXECUTE ON sa.esn_program_enroll_tab TO cbo;
+GRANT EXECUTE ON sa.esn_program_enroll_tab TO clarify_administrator;
+GRANT EXECUTE ON sa.esn_program_enroll_tab TO clarify_user;
+GRANT EXECUTE ON sa.esn_program_enroll_tab TO corecbo;
+GRANT EXECUTE ON sa.esn_program_enroll_tab TO csrcbo;
+GRANT EXECUTE ON sa.esn_program_enroll_tab TO igate_batch;
+GRANT EXECUTE ON sa.esn_program_enroll_tab TO itds_user;
+GRANT EXECUTE ON sa.esn_program_enroll_tab TO role_sa_update;
+GRANT EXECUTE ON sa.esn_program_enroll_tab TO soacbo;
+GRANT EXECUTE ON sa.esn_program_enroll_tab TO w3ci;
+GRANT EXECUTE ON sa.esn_program_enroll_tab TO webcbo;

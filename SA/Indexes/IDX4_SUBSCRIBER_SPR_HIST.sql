@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx4_subscriber_spr_hist ON sa.x_subscriber_spr_hist(pcrf_group_id);

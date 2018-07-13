@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_sl_deliver_benefits_stg FOR sa.x_sl_deliver_benefits_stg;

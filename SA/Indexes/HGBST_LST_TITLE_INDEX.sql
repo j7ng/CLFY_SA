@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.hgbst_lst_title_index ON sa.table_hgbst_lst(title);

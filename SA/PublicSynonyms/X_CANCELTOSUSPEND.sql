@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_canceltosuspend FOR sa.x_canceltosuspend;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.rule_cond_objindex ON sa.table_rule_cond(objid);

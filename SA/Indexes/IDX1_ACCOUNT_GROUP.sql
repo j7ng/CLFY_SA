@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_account_group ON sa.x_account_group(account_group_uid);

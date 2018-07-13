@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_mtm_sp_x_program_param ON sa.mtm_sp_x_program_param(x_sp2program_param,program_para2x_sp);

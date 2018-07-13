@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.adfcrm_camp2part_class_idx ON sa.adfcrm_fota_camp2part_class(fota_hdr_objid,part_class_objid);

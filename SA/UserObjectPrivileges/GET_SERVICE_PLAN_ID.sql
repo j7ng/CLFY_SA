@@ -1,0 +1,14 @@
+GRANT DEBUG ON sa.get_service_plan_id TO PUBLIC;
+GRANT EXECUTE ON sa.get_service_plan_id TO cbo;
+GRANT EXECUTE ON sa.get_service_plan_id TO clarify_administrator;
+GRANT EXECUTE ON sa.get_service_plan_id TO clarify_user;
+GRANT EXECUTE ON sa.get_service_plan_id TO csrcbo;
+GRANT EXECUTE ON sa.get_service_plan_id TO gw1;
+GRANT EXECUTE ON sa.get_service_plan_id TO igate_batch;
+GRANT EXECUTE ON sa.get_service_plan_id TO PUBLIC;
+GRANT EXECUTE ON sa.get_service_plan_id TO role_report_select;
+GRANT EXECUTE ON sa.get_service_plan_id TO role_sa_select;
+GRANT EXECUTE ON sa.get_service_plan_id TO role_sa_update;
+GRANT EXECUTE ON sa.get_service_plan_id TO role_tf_select;
+GRANT EXECUTE ON sa.get_service_plan_id TO soacbo;
+GRANT EXECUTE ON sa.get_service_plan_id TO webcbo;

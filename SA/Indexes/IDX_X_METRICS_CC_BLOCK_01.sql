@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_metrics_cc_block_01 ON sa.x_metrics_cc_block(x_credit_card_number);

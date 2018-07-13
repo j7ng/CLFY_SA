@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_ig_status_error_message FOR sa.sequ_ig_status_error_message;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_gl_sum_log TO PUBLIC;

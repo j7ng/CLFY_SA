@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_x_sim_inv FOR sa.sequ_x_sim_inv;

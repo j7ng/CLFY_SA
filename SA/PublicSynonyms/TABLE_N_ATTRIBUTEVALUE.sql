@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_n_attributevalue FOR sa.table_n_attributevalue;

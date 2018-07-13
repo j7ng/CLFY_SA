@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_sn_claims_history ON sa.sn_claims_history(creation_date);

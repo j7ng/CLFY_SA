@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.privclass_class_index ON sa.table_privclass(class_name);

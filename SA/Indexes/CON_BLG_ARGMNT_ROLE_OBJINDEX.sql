@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.con_blg_argmnt_role_objindex ON sa.table_con_blg_argmnt_role(objid);

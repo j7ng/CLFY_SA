@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_subscriber_enrollments TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_payload_error_log_idx2 ON sa.x_payload_error_log(insert_timestamp);

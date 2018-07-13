@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_reward_req_webobjid ON sa.x_reward_request(web_user_objid);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_payment_source TO PUBLIC;

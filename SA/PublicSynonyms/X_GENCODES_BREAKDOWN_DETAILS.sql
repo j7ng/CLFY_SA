@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_gencodes_breakdown_details FOR sa.x_gencodes_breakdown_details;

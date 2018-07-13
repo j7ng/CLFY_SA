@@ -1,0 +1,27 @@
+CREATE TABLE sa.table_x_road_hist (
+  objid NUMBER,
+  x_part_serial_no VARCHAR2(30 BYTE),
+  x_part_mod VARCHAR2(10 BYTE),
+  x_part_bin VARCHAR2(20 BYTE),
+  x_warr_end_date DATE,
+  x_part_status VARCHAR2(40 BYTE),
+  x_insert_date DATE,
+  x_creation_date DATE,
+  x_po_num VARCHAR2(30 BYTE),
+  x_domain VARCHAR2(20 BYTE),
+  x_part_inst_status VARCHAR2(20 BYTE),
+  x_change_date DATE,
+  x_change_reason VARCHAR2(30 BYTE),
+  x_last_trans_time DATE,
+  x_transaction_id VARCHAR2(20 BYTE),
+  x_repair_date DATE,
+  x_pick_request VARCHAR2(255 BYTE),
+  x_order_number VARCHAR2(40 BYTE),
+  road_hist2x_code_table NUMBER,
+  x_road_hist2inv_bin NUMBER,
+  x_road_hist2part_mod NUMBER,
+  x_road_hist2road_inst NUMBER,
+  x_road_hist2site_part NUMBER,
+  x_road_hist2user NUMBER
+);
+ALTER TABLE sa.table_x_road_hist ADD SUPPLEMENTAL LOG GROUP dmtsora58500346_0 (objid, road_hist2x_code_table, x_change_date, x_change_reason, x_creation_date, x_domain, x_insert_date, x_last_trans_time, x_order_number, x_part_bin, x_part_inst_status, x_part_mod, x_part_serial_no, x_part_status, x_pick_request, x_po_num, x_repair_date, x_road_hist2inv_bin, x_road_hist2part_mod, x_road_hist2road_inst, x_road_hist2site_part, x_road_hist2user, x_transaction_id, x_warr_end_date) ALWAYS;

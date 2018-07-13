@@ -1,0 +1,1 @@
+CREATE INDEX sa.luts1 ON sa.luts_line_scan(carrier_id,"SID");

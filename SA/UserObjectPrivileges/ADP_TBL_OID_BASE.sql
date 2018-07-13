@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.adp_tbl_oid_base TO dbit_mtoribiolopez;

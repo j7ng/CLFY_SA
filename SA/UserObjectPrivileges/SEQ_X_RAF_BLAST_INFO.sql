@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_raf_blast_info TO PUBLIC;

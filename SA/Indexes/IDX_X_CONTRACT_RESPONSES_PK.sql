@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_contract_responses_pk ON sa.x_contract_responses(objid);

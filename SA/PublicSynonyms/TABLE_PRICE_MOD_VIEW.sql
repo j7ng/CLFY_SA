@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_price_mod_view FOR sa.table_price_mod_view;

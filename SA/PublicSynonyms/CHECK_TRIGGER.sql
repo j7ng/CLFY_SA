@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM check_trigger FOR sa.check_trigger;

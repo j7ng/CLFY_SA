@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_string_db_old2 TO PUBLIC;

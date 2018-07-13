@@ -1,0 +1,1 @@
+CREATE INDEX sa.cc2c0030 ON sa.table_commit_log(commit_cust2contact);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_red_card_old TO PUBLIC;

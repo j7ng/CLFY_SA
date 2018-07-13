@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_current_enrolled_date ON sa.x_sl_currentvals(x_current_enrolled_date);

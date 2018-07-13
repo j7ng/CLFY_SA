@@ -1,0 +1,1 @@
+CREATE INDEX sa."X_AltPymtSrc_typekey_IND" ON sa.table_x_altpymtsource(x_alt_pymt_source,x_alt_pymt_source_type,x_application_key);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_esn_promo ON sa.x_enroll_promo_grp2esn(x_esn,promo_objid,x_start_date,x_end_date,program_enrolled_objid,x_priority);

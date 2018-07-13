@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sprint_short FOR sa.sprint_short;

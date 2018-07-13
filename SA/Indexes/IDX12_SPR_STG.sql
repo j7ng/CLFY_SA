@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx12_spr_stg ON sa.x_pageplus_spr_staging(web_user_objid);

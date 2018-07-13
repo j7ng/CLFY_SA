@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.tf_soaprocess_acty_details_seq MINVALUE 0 NOCACHE;

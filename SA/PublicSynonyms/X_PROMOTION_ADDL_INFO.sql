@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_promotion_addl_info FOR sa.x_promotion_addl_info;

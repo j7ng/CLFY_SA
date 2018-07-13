@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.cls_opn_cls_opn_ind ON sa.table_cls_opn(opn2cls_ref,opn2cls_prop,opn2cls_factory,opn2cls_group,seq_num,operation);

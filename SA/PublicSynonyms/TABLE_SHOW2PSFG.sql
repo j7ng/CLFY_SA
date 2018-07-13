@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_show2psfg FOR sa.table_show2psfg;

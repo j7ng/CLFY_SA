@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM data_config_mapping_0613_tst FOR sa.data_config_mapping_0613_tst;

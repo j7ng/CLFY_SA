@@ -1,0 +1,1 @@
+CREATE INDEX sa.tfsoa_batch_process_idx03 ON sa.tfsoa_batch_process(x_merchant_ref_number);

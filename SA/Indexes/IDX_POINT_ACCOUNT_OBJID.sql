@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_point_account_objid ON sa.table_x_point_account(objid);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_mvne_request_idx3 ON sa.x_mvne_request(x_transaction_id);

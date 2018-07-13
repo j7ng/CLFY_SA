@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM get_dynamic_trans_summary FOR sa.get_dynamic_trans_summary;

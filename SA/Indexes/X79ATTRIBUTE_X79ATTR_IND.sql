@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79attribute_x79attr_ind ON sa.table_x79attribute(server_id,attribute_id);

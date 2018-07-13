@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.window_db_objindex ON sa.table_window_db(objid);

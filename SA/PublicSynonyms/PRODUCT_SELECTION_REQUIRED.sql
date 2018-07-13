@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM product_selection_required FOR sa.product_selection_required;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_canceltosuspend_ndx2 ON sa.x_canceltosuspend(x_min);

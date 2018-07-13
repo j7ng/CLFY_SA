@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_apn_config_mapping FOR sa.x_apn_config_mapping;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_pymnt_src2contact ON sa.x_payment_source(pymt_src2contact);

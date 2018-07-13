@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.probdesc_objindex ON sa.table_probdesc(objid);

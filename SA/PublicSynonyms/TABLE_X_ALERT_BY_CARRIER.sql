@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_alert_by_carrier FOR sa.table_x_alert_by_carrier;

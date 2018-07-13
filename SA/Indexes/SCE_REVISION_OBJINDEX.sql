@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.sce_revision_objindex ON sa.table_sce_revision(objid);

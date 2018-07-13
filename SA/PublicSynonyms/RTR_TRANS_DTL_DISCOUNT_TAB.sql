@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rtr_trans_dtl_discount_tab FOR sa.rtr_trans_dtl_discount_tab;

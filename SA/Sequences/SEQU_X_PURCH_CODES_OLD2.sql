@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_x_purch_codes_old2;

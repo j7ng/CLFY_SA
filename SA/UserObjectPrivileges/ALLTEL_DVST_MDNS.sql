@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.alltel_dvst_mdns TO dbit_mtoribiolopez;

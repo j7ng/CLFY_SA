@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_pymt_processor FOR sa.x_pymt_processor;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.loc_inq_loc_index ON sa.table_loc_inq(loc_inq_owner2user,title);

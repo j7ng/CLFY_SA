@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_bank_account_objindex ON sa.table_x_bank_account(objid);

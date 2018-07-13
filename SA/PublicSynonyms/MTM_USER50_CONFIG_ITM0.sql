@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_user50_config_itm0 FOR sa.mtm_user50_config_itm0;

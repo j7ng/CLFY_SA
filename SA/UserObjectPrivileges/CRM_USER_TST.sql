@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.crm_user_tst TO dbit_mtoribiolopez;

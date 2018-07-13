@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_settlements_history6 ON sa.x_settlements_history(set_history2set_log);

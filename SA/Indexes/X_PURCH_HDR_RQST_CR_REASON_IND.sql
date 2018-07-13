@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_purch_hdr_rqst_cr_reason_ind ON sa.table_x_purch_hdr(x_rqst_date,x_credit_reason);

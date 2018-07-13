@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_list_drmatl FOR sa.table_list_drmatl;

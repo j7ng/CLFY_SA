@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_group_transaction_temp FOR sa.adfcrm_group_transaction_temp;

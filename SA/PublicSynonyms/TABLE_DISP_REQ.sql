@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_disp_req FOR sa.table_disp_req;

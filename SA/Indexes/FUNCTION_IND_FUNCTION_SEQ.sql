@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.function_ind_function_seq ON sa.table_function(seqno,belongs2func_group);

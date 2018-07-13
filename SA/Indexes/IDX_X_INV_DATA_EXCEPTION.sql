@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_inv_data_exception ON sa.x_inv_data_exception(objid);

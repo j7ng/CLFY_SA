@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_site2case_view FOR sa.table_site2case_view;

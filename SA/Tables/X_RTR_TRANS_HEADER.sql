@@ -1,0 +1,21 @@
+CREATE TABLE sa.x_rtr_trans_header (
+  objid NUMBER NOT NULL,
+  order_id VARCHAR2(100 BYTE),
+  rtr_vendor_name VARCHAR2(100 BYTE),
+  rtr_merch_store_num VARCHAR2(100 BYTE),
+  trans_date DATE,
+  rtr_remote_trans_id VARCHAR2(100 BYTE),
+  sourcesystem VARCHAR2(50 BYTE),
+  rtr_merch_reg_num VARCHAR2(30 BYTE),
+  response_code VARCHAR2(100 BYTE),
+  rtr_merch_store_name VARCHAR2(100 BYTE),
+  status VARCHAR2(500 BYTE),
+  tender_amount NUMBER,
+  estimated_amount NUMBER,
+  total_discount NUMBER,
+  insert_timestamp DATE,
+  update_timestamp DATE,
+  "ACTION" VARCHAR2(40 BYTE),
+  original_order_id VARCHAR2(100 BYTE),
+  CONSTRAINT pk_rtr_trans_header PRIMARY KEY (objid)
+);

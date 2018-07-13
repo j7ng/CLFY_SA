@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.temp_cc TO dbit_mtoribiolopez;

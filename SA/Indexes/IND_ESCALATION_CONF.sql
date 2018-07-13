@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_escalation_conf ON sa.table_x_escalation_conf(escal2conf_hdr);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_offer_objid_idx ON sa.x_offer_info(objid);

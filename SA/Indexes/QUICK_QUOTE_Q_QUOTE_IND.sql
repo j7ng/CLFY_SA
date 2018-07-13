@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.quick_quote_q_quote_ind ON sa.table_quick_quote("ID");

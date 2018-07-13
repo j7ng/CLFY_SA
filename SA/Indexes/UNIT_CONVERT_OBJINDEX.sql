@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.unit_convert_objindex ON sa.table_unit_convert(objid);

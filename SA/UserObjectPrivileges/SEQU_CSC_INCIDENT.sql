@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_csc_incident TO PUBLIC;

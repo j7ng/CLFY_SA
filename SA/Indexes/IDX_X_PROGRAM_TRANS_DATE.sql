@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_program_trans_date ON sa.x_program_trans(x_trans_date);

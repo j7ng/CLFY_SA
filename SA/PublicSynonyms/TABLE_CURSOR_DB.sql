@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_cursor_db FOR sa.table_cursor_db;

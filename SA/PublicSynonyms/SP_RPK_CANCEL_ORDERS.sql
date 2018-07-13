@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sp_rpk_cancel_orders FOR sa.sp_rpk_cancel_orders;

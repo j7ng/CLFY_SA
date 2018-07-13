@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.cyc_cyc_role_objindex ON sa.table_cyc_cyc_role(objid);

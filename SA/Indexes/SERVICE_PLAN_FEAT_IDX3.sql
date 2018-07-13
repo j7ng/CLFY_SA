@@ -1,0 +1,1 @@
+CREATE INDEX sa.service_plan_feat_idx3 ON sa.service_plan_feat_pivot_mv(service_plan_objid,service_plan_group);

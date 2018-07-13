@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ubi_page_ele_unq ON sa.ubi_page_ele(element_id);

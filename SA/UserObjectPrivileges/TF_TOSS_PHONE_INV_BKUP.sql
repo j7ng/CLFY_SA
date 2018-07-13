@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.tf_toss_phone_inv_bkup TO dbit_mtoribiolopez;

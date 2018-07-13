@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx2_x_imei_mismatch ON sa.x_imei_mismatch(new_esn);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_product_config_detail TO PUBLIC;

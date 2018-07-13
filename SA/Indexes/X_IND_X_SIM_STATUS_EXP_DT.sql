@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_ind_x_sim_status_exp_dt ON sa.table_x_sim_inv(x_sim_inv_status,expiration_date);

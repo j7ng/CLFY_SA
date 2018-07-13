@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_att_esn ON sa.att_esn(mdn,esn);

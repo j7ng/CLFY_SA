@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_exch_log TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.usr_ter_role_objindex ON sa.table_usr_ter_role(objid);

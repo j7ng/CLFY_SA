@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.unq_apex_hotline_req_data ON sa.apex_hotline_req_data(source_file,esn_or_min);

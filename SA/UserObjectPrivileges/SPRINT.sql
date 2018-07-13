@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.sprint TO role_sa_update;

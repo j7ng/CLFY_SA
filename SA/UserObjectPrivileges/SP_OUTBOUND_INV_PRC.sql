@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.sp_outbound_inv_prc TO role_sa_update;

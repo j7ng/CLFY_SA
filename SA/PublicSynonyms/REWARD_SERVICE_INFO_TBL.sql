@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM reward_service_info_tbl FOR sa.reward_service_info_tbl;

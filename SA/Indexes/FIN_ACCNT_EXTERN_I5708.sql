@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.fin_accnt_extern_i5708 ON sa.table_fin_accnt_extern(ext_ref,ext_src);

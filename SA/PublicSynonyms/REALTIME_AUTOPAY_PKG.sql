@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM realtime_autopay_pkg FOR sa.realtime_autopay_pkg;

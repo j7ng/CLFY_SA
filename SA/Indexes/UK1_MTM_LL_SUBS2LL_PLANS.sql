@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.uk1_mtm_ll_subs2ll_plans ON sa.mtm_ll_subs2ll_plans(ll_subs_objid,ll_plan_id);

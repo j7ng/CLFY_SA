@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_x_data_config_log FOR sa.table_x_data_config_log;

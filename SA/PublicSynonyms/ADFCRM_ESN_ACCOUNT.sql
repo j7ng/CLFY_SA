@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_esn_account FOR sa.adfcrm_esn_account;

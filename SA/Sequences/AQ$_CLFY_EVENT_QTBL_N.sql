@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.aq$_clfy_event_qtbl_n;

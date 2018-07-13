@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.server_stats_objindex ON sa.table_server_stats(objid);

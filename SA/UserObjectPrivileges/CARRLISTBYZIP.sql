@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.carrlistbyzip TO dbit_mtoribiolopez;

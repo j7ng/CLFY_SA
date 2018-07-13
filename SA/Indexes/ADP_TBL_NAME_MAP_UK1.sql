@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.adp_tbl_name_map_uk1 ON sa.adp_tbl_name_map(type_name);

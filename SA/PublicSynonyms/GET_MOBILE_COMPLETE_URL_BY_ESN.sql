@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM get_mobile_complete_url_by_esn FOR sa.get_mobile_complete_url_by_esn;

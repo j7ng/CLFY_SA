@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_case_email2case ON sa.table_email_log(case_email2case);

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_pay_means TO PUBLIC;

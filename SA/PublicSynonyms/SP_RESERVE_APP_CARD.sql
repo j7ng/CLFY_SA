@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sp_reserve_app_card FOR sa.sp_reserve_app_card;

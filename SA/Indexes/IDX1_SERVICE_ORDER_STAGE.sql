@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_service_order_stage ON sa.x_service_order_stage(insert_timestamp);

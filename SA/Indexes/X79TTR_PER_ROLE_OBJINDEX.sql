@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79ttr_per_role_objindex ON sa.table_x79ttr_per_role(objid);

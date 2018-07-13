@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.uk1_spr_error_log ON sa.x_deact_reason_config(deact_reason);

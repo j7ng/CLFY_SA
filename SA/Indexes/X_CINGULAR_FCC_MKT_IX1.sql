@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_cingular_fcc_mkt_ix1 ON sa.x_cingular_fcc_mkt(market_id);

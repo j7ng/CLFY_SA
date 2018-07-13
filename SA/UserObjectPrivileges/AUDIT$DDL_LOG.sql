@@ -1,0 +1,11 @@
+GRANT ALTER ON sys.audit$ddl_log TO sa;
+GRANT DEBUG ON sys.audit$ddl_log TO sa;
+GRANT DELETE ON sys.audit$ddl_log TO sa;
+GRANT FLASHBACK ON sys.audit$ddl_log TO sa;
+GRANT INDEX ON sys.audit$ddl_log TO sa;
+GRANT INSERT ON sys.audit$ddl_log TO sa;
+GRANT ON COMMIT REFRESH ON sys.audit$ddl_log TO sa;
+GRANT QUERY REWRITE ON sys.audit$ddl_log TO sa;
+GRANT REFERENCES ON sys.audit$ddl_log TO sa;
+GRANT SELECT ON sys.audit$ddl_log TO sa;
+GRANT UPDATE ON sys.audit$ddl_log TO sa;

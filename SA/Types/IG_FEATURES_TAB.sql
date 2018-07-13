@@ -1,0 +1,2 @@
+CREATE OR REPLACE TYPE sa."IG_FEATURES_TAB" AS TABLE OF ig_features_type;
+/

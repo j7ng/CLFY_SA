@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.cls_prop_map_objindex ON sa.table_cls_prop_map(objid);

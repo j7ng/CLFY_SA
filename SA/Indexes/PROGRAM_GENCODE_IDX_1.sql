@@ -1,0 +1,1 @@
+CREATE INDEX sa.program_gencode_idx_1 ON sa.x_program_gencode(x_esn,x_insert_date);

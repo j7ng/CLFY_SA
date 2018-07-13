@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM seq_x_posa_card FOR sa.seq_x_posa_card;

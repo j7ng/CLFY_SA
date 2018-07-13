@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_part_inst_iccid ON sa.table_part_inst(x_iccid);

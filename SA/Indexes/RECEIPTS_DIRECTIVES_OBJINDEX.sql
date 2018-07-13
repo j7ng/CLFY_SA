@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.receipts_directives_objindex ON sa.table_receipts_directives(objid);

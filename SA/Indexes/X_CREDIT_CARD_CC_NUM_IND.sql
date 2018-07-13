@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_credit_card_cc_num_ind ON sa.table_x_credit_card(x_customer_cc_number);

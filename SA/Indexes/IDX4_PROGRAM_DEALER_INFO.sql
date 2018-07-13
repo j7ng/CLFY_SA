@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx4_program_dealer_info ON sa.x_program_dealer_info(pgm_dealer2pgm_parameter);

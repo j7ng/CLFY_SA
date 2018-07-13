@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.smp_dealer_ndx1 ON sa.smp_dealer(part_serial_no);

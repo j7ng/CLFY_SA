@@ -1,0 +1,11 @@
+GRANT EXECUTE ON sa.imei_pkg TO cbo;
+GRANT EXECUTE ON sa.imei_pkg TO clarify_administrator;
+GRANT EXECUTE ON sa.imei_pkg TO clarify_user;
+GRANT EXECUTE ON sa.imei_pkg TO corecbo;
+GRANT EXECUTE ON sa.imei_pkg TO csrcbo;
+GRANT EXECUTE ON sa.imei_pkg TO gw1;
+GRANT EXECUTE ON sa.imei_pkg TO igate_batch;
+GRANT EXECUTE ON sa.imei_pkg TO itds_user;
+GRANT EXECUTE ON sa.imei_pkg TO report;
+GRANT EXECUTE ON sa.imei_pkg TO soacbo;
+GRANT EXECUTE ON sa.imei_pkg TO webcbo;

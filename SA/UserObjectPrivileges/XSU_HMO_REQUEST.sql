@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.xsu_hmo_request TO dbit_mtoribiolopez;

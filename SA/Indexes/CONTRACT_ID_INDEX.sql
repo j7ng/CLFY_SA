@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.contract_id_index ON sa.table_contract("ID","VERSION");

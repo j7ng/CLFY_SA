@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM typ_lrp_benefit_trans FOR sa.typ_lrp_benefit_trans;

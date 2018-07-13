@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_ba_pc_role FOR sa.table_ba_pc_role;

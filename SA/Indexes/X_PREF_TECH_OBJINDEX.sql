@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_pref_tech_objindex ON sa.table_x_pref_tech(objid);

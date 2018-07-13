@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM biz_error_table FOR sa.biz_error_table;

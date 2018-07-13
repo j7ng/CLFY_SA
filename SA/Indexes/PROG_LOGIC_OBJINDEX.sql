@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.prog_logic_objindex ON sa.table_prog_logic(objid);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_cc_info_v FOR sa.table_cc_info_v;

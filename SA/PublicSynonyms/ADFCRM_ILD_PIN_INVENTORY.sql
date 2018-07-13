@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM adfcrm_ild_pin_inventory FOR sa.adfcrm_ild_pin_inventory;

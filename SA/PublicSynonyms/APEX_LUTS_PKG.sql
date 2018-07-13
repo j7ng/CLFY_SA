@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM apex_luts_pkg FOR sa.apex_luts_pkg;

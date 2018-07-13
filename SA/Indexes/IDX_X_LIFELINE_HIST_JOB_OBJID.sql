@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_lifeline_hist_job_objid ON sa.x_lifeline_hist_job(objid);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.lic_count_objindex ON sa.table_lic_count(objid);

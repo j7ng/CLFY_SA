@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.usc_new_cz_102907 TO dbit_mtoribiolopez;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_scr_run FOR sa.table_scr_run;

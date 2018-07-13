@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.cls_ref_objindex ON sa.table_cls_ref(objid);

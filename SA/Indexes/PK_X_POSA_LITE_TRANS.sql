@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.pk_x_posa_lite_trans ON sa.x_posa_lite_trans(trans_id);

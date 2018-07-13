@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_cost_center FOR sa.x_cost_center;

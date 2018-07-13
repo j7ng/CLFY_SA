@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_xrsi_sim ON sa.x_reset_sim_inv(x_sim_serial_no);

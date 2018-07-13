@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_policy_rule_config ON sa.x_policy_rule_config(start_date,end_date,inactive_flag);

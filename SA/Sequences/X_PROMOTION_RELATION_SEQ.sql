@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.x_promotion_relation_seq;

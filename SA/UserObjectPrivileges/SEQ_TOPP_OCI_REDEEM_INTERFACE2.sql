@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_topp_oci_redeem_interface2 TO PUBLIC;

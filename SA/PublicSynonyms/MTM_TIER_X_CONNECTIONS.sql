@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_tier_x_connections FOR sa.mtm_tier_x_connections;

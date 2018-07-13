@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_vas_subscription_id TO PUBLIC;

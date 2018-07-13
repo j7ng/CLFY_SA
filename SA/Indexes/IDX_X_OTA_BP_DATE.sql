@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_ota_bp_date ON sa.x_ota_closed_bp(x_trans_date,x_closed_date);

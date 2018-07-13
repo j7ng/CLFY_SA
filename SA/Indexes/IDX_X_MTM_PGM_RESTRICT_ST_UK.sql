@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_mtm_pgm_restrict_st_uk ON sa.x_mtm_pgm_restrict_state(program_param_objid,x_state);

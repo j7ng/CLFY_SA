@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_breakpoints_objindex ON sa.table_n_breakpoints(objid);

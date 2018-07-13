@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_prog_logic FOR sa.table_prog_logic;

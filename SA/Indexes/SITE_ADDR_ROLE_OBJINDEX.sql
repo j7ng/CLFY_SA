@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.site_addr_role_objindex ON sa.table_site_addr_role(objid);

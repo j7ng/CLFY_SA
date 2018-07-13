@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_queued_cbo_service_6 ON sa.table_queued_cbo_service(source_system);

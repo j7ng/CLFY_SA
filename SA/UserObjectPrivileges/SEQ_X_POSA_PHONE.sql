@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_posa_phone TO PUBLIC;

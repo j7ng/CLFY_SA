@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_red_card_result ON sa.table_x_red_card(x_result,red_card2call_trans);

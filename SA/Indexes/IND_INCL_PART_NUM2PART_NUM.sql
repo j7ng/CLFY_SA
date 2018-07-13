@@ -1,0 +1,2 @@
+CREATE INDEX sa.ind_incl_part_num2part_num ON sa.mtm_mod_level4_mod_level5(incl_part_num2part_num)
+INVISIBLE;

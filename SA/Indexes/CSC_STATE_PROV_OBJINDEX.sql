@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.csc_state_prov_objindex ON sa.table_csc_state_prov(objid);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_carr_personality_objindex ON sa.table_x_carr_personality(objid);

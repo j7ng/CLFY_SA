@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.clfy_spr_qtbl TO dbit_mtoribiolopez;

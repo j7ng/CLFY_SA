@@ -1,0 +1,8 @@
+CREATE TABLE sa.x_migr_conf_bkup (
+  "WAIT" VARCHAR2(1 BYTE),
+  "TYPE" VARCHAR2(100 BYTE),
+  title VARCHAR2(100 BYTE),
+  status VARCHAR2(100 BYTE),
+  "ACTIVE" VARCHAR2(1 BYTE)
+);
+ALTER TABLE sa.x_migr_conf_bkup ADD SUPPLEMENTAL LOG GROUP dmtsora1147391026_0 ("ACTIVE", status, title, "TYPE", "WAIT") ALWAYS;

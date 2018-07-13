@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_table_x_retention_script TO PUBLIC;

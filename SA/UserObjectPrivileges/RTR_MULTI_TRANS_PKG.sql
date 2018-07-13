@@ -1,0 +1,10 @@
+GRANT EXECUTE ON sa.rtr_multi_trans_pkg TO cbo;
+GRANT EXECUTE ON sa.rtr_multi_trans_pkg TO clarify_administrator;
+GRANT EXECUTE ON sa.rtr_multi_trans_pkg TO clarify_user;
+GRANT EXECUTE ON sa.rtr_multi_trans_pkg TO corecbo;
+GRANT EXECUTE ON sa.rtr_multi_trans_pkg TO csrcbo;
+GRANT EXECUTE ON sa.rtr_multi_trans_pkg TO gw1;
+GRANT EXECUTE ON sa.rtr_multi_trans_pkg TO igate_batch;
+GRANT EXECUTE ON sa.rtr_multi_trans_pkg TO itds_user;
+GRANT EXECUTE ON sa.rtr_multi_trans_pkg TO soacbo;
+GRANT EXECUTE ON sa.rtr_multi_trans_pkg TO webcbo;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.trans_record_objindex ON sa.table_trans_record(objid);

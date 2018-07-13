@@ -1,0 +1,1 @@
+CREATE INDEX sa.service_plan_feature_ndx ON sa.x_service_plan_feature(sp_feature2service_plan);

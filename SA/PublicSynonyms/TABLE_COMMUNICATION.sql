@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_communication FOR sa.table_communication;

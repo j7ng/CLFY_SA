@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.tsk_stg_role_tsk_stg_role_ind ON sa.table_tsk_stg_role(role_name,role_type,role2cycle_stage,role2stage_task);

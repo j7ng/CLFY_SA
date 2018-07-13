@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_autopay_details_objindex ON sa.table_x_autopay_details(objid);

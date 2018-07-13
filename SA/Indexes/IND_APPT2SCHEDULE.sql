@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_appt2schedule ON sa.table_appointment(appt2schedule,appt2case);

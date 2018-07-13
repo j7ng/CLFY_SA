@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.question_objindex ON sa.table_question(objid);

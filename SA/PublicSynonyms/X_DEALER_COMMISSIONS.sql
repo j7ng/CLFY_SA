@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_dealer_commissions FOR sa.x_dealer_commissions;

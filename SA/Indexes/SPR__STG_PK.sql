@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.spr__stg_pk ON sa.x_pageplus_spr_staging(objid);

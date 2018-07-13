@@ -1,0 +1,14 @@
+GRANT EXECUTE ON sa.delete_test_user TO apps_select;
+GRANT EXECUTE ON sa.delete_test_user TO cbo;
+GRANT EXECUTE ON sa.delete_test_user TO corecbo;
+GRANT EXECUTE ON sa.delete_test_user TO csrcbo;
+GRANT EXECUTE ON sa.delete_test_user TO gw1;
+GRANT EXECUTE ON sa.delete_test_user TO igate_batch;
+GRANT EXECUTE ON sa.delete_test_user TO igateapps;
+GRANT EXECUTE ON sa.delete_test_user TO iut;
+GRANT EXECUTE ON sa.delete_test_user TO posaapp;
+GRANT EXECUTE ON sa.delete_test_user TO posadirectapps;
+GRANT EXECUTE ON sa.delete_test_user TO role_sqa_tester;
+GRANT EXECUTE ON sa.delete_test_user TO soacbo;
+GRANT EXECUTE ON sa.delete_test_user TO toppapp;
+GRANT EXECUTE ON sa.delete_test_user TO webcbo;

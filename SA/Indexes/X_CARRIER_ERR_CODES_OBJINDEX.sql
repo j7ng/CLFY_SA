@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_carrier_err_codes_objindex ON sa.table_x_carrier_err_codes(objid);

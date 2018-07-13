@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.adfcrm_part2ff_center_hist_seq;

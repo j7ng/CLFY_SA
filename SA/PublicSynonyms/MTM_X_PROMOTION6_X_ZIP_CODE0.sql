@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_x_promotion6_x_zip_code0 FOR sa.mtm_x_promotion6_x_zip_code0;

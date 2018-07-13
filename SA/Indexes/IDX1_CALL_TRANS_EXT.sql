@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx1_call_trans_ext ON sa.table_x_call_trans_ext(smp);

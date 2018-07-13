@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_metrics_blk_data_serv ON sa.x_metrics_blk_data_serv(objid);

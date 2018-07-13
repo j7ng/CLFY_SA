@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ind_soaprocess_master_unq ON sa.tf_soaprocess_activity_info(domainid,scaid,instanceid);

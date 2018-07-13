@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_carriergroup_hist_objindex ON sa.table_x_carriergroup_hist(objid);

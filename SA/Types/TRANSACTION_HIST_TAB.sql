@@ -1,0 +1,4 @@
+CREATE OR REPLACE TYPE sa."TRANSACTION_HIST_TAB"
+AS
+TABLE OF Transaction_hist_rec;
+/

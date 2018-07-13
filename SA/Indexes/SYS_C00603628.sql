@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.sys_c00603628 ON sa.x_error_codes(x_error_objid);

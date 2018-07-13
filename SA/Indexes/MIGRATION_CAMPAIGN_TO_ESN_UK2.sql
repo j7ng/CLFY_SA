@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.migration_campaign_to_esn_uk2 ON sa.migration_campaign_to_esn(esn);

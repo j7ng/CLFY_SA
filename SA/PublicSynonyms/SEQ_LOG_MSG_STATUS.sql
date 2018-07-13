@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM seq_log_msg_status FOR sa.seq_log_msg_status;

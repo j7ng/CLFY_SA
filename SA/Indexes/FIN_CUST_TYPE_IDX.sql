@@ -1,0 +1,1 @@
+CREATE INDEX sa.fin_cust_type_idx ON sa.table_site(x_fin_cust_id,"TYPE");

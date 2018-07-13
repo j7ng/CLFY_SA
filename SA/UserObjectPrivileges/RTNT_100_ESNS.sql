@@ -1,0 +1,9 @@
+GRANT DELETE ON sa.rtnt_100_esns TO clarify_administrator;
+GRANT DELETE ON sa.rtnt_100_esns TO clarify_user;
+GRANT INSERT ON sa.rtnt_100_esns TO clarify_administrator;
+GRANT INSERT ON sa.rtnt_100_esns TO clarify_user;
+GRANT SELECT ON sa.rtnt_100_esns TO clarify_administrator;
+GRANT SELECT ON sa.rtnt_100_esns TO clarify_user;
+GRANT SELECT ON sa.rtnt_100_esns TO dbit_mtoribiolopez;
+GRANT UPDATE ON sa.rtnt_100_esns TO clarify_administrator;
+GRANT UPDATE ON sa.rtnt_100_esns TO clarify_user;

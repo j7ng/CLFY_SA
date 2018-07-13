@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tf_ntfy_db_param_type FOR sa.tf_ntfy_db_param_type;

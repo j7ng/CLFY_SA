@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_mvne_error_log TO PUBLIC;

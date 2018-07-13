@@ -1,0 +1,10 @@
+GRANT EXECUTE ON sa.adfcrm_esn_account TO cbo;
+GRANT EXECUTE ON sa.adfcrm_esn_account TO clarify_administrator;
+GRANT EXECUTE ON sa.adfcrm_esn_account TO clarify_user;
+GRANT EXECUTE ON sa.adfcrm_esn_account TO corecbo;
+GRANT EXECUTE ON sa.adfcrm_esn_account TO csrcbo;
+GRANT EXECUTE ON sa.adfcrm_esn_account TO mobapp_data;
+GRANT EXECUTE ON sa.adfcrm_esn_account TO role_sa_select;
+GRANT EXECUTE ON sa.adfcrm_esn_account TO role_sa_update;
+GRANT EXECUTE ON sa.adfcrm_esn_account TO soacbo;
+GRANT EXECUTE ON sa.adfcrm_esn_account TO webcbo;

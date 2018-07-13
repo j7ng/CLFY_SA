@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_fraud_address_zipcode ON sa.x_fraud_address(zipcode);

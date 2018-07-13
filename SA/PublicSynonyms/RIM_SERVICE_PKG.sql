@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rim_service_pkg FOR sa.rim_service_pkg;

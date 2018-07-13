@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.mt305779_motricity_rollback TO dbit_mtoribiolopez;

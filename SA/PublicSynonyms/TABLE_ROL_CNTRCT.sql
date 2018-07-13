@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_rol_cntrct FOR sa.table_rol_cntrct;

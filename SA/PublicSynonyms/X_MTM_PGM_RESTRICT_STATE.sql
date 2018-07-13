@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_mtm_pgm_restrict_state FOR sa.x_mtm_pgm_restrict_state;

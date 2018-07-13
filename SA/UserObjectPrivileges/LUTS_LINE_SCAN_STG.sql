@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.luts_line_scan_stg TO dbit_mtoribiolopez;

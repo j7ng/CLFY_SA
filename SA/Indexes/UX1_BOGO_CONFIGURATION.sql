@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ux1_bogo_configuration ON sa.x_bogo_configuration(brand,bogo_part_number,esn_part_class,esn_part_number,card_pin_part_class,esn_dealer_id,eligible_service_plan,channel,action_type,tsp_id,DECODE("BOGO_STATUS",'DISABLED',TO_CHAR("OBJID"),'EXPIRED',TO_CHAR("OBJID"),"BOGO_STATUS"),TRUNC("BOGO_START_DATE"),TRUNC("BOGO_END_DATE"));

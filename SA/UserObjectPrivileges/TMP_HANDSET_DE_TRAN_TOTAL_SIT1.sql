@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.tmp_handset_de_tran_total_sit1 TO dbit_mtoribiolopez;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_reward_req_ben_earn_objid ON sa.x_reward_request(benefit_earning_objid);

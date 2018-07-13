@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_cingular_mrkt_info_bak TO dbit_mtoribiolopez;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_point_account_comp1 ON sa.table_x_point_account(x_min,x_points_category,bus_org_objid,account_status);

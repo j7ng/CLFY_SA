@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_partner_client_id ON sa.x_partner_transaction_log(client_id);

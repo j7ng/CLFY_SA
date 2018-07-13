@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_sp_ord_log_hdr_org_id ON sa.smartpay_order_log_hdr(bus_org_id);

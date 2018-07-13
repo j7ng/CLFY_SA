@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_ild_global_10_card_rates TO PUBLIC;

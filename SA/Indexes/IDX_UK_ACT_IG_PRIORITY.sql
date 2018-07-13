@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_uk_act_ig_priority ON sa.x_ig_order_type(x_programme_name,x_actual_order_type,x_ig_order_type,x_priority);

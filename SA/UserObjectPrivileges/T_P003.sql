@@ -1,0 +1,4 @@
+GRANT DELETE ON sti.t_p003 TO sa;
+GRANT INSERT ON sti.t_p003 TO sa;
+GRANT SELECT ON sti.t_p003 TO sa;
+GRANT UPDATE ON sti.t_p003 TO sa;

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_demand_dtl2demand_hdr ON sa.table_demand_dtl(demand_dtl2demand_hdr);

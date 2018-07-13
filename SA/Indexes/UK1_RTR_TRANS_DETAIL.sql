@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.uk1_rtr_trans_detail ON sa.x_rtr_trans_detail(order_detail_id);

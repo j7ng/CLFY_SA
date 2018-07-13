@@ -1,0 +1,1 @@
+CREATE INDEX sa.status_batchid_ind ON sa.x_ota_batch_detail(status,batchid);

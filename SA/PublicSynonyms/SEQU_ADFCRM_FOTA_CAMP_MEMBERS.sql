@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM sequ_adfcrm_fota_camp_members FOR sa.sequ_adfcrm_fota_camp_members;

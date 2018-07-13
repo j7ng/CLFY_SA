@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_program_enrolled_new4 ON sa.x_program_enrolled(x_is_grp_primary,x_enrollment_status);

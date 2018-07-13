@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_phone_status_log_idx2 ON sa.x_phone_status_log(x_min);

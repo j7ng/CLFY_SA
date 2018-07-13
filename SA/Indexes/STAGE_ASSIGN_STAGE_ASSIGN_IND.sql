@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.stage_assign_stage_assign_ind ON sa.table_stage_assign(assign2life_cycle,seq_num);

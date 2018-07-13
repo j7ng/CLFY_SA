@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.eco_hdr_objindex ON sa.table_eco_hdr(objid);

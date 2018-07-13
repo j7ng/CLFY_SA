@@ -1,0 +1,18 @@
+CREATE OR REPLACE PROCEDURE sa."GET_PIN"
+
+(
+
+  PARAM1 IN VARCHAR2
+
+, PARAM2 OUT VARCHAR2
+
+) AS
+
+BEGIN
+
+PARAM2:= sa.get_test_pin(Param1);
+
+
+
+END GET_PIN;
+/

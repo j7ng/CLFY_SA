@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_x_not_certify_models;

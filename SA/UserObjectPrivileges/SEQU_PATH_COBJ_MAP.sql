@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_path_cobj_map TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_gsfg2psf2pfsg FOR sa.table_gsfg2psf2pfsg;

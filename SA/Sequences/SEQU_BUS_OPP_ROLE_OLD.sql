@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_bus_opp_role_old;

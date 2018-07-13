@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_extactcase FOR sa.table_extactcase;

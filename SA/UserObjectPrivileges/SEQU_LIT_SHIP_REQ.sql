@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_lit_ship_req TO PUBLIC;

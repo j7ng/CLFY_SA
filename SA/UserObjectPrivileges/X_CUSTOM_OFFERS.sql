@@ -1,0 +1,11 @@
+GRANT ALTER ON sa.x_custom_offers TO role_sa_update;
+GRANT DEBUG ON sa.x_custom_offers TO role_sa_update;
+GRANT DELETE ON sa.x_custom_offers TO role_sa_update;
+GRANT FLASHBACK ON sa.x_custom_offers TO role_sa_update;
+GRANT INSERT ON sa.x_custom_offers TO role_sa_update;
+GRANT ON COMMIT REFRESH ON sa.x_custom_offers TO role_sa_update;
+GRANT QUERY REWRITE ON sa.x_custom_offers TO role_sa_update;
+GRANT SELECT ON sa.x_custom_offers TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_custom_offers TO role_sa_select;
+GRANT SELECT ON sa.x_custom_offers TO role_sa_update;
+GRANT UPDATE ON sa.x_custom_offers TO role_sa_update;

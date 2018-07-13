@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_balance_transaction_order FOR sa.x_balance_transaction_order;

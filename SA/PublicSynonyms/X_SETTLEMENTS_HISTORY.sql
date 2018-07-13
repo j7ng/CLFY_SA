@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_settlements_history FOR sa.x_settlements_history;

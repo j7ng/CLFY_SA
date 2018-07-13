@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.extern_id_i5670_1 ON sa.table_extern_id(clarify_type,clarify_objid);

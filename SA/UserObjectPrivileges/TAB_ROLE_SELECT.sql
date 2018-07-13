@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.tab_role_select TO dbit_mtoribiolopez;

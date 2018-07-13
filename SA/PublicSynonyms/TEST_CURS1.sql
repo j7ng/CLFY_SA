@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM test_curs1 FOR sa.test_curs1;

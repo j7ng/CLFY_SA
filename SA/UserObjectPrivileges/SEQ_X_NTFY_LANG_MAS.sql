@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_ntfy_lang_mas TO PUBLIC;

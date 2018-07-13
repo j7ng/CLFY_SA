@@ -1,0 +1,4 @@
+CREATE OR REPLACE TYPE sa.ILD_REG_TYPE AS OBJECT
+	(	x_ild_region	VARCHAR2(30)
+	);
+/

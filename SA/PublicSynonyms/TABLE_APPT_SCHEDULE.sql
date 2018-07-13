@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_appt_schedule FOR sa.table_appt_schedule;

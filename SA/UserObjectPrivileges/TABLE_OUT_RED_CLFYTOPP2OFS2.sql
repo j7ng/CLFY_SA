@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.table_out_red_clfytopp2ofs2 TO dbit_mtoribiolopez;

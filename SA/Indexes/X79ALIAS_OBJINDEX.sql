@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x79alias_objindex ON sa.table_x79alias(objid);

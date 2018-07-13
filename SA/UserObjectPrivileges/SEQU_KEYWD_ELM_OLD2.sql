@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_keywd_elm_old2 TO PUBLIC;

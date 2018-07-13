@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM error_log_stg FOR sa.error_log_stg;

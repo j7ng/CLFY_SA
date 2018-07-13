@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_isbeforeenrollmentwin FOR sa.billing_isbeforeenrollmentwin;

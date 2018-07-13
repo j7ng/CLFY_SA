@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.part_class_name_index ON sa.table_part_class("NAME");

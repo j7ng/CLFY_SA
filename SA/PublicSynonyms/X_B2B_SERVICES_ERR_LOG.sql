@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_b2b_services_err_log FOR sa.x_b2b_services_err_log;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_job_err_objid ON sa.x_job_errors(objid);

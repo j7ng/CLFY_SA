@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.key_word_key_word_ind ON sa.table_key_word(key_word);

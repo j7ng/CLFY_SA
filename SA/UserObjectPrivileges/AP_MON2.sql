@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.ap_mon2 TO role_sa_update;

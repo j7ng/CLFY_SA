@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_loyalty_rewards FOR sa.x_loyalty_rewards;

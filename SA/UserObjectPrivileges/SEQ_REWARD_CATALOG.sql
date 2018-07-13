@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_reward_catalog TO PUBLIC;

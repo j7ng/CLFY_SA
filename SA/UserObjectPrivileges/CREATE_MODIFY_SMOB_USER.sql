@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.create_modify_smob_user TO crmusradm;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.bus_empl_role_busempl_role_ind ON sa.table_bus_empl_role(role_name,bus_empl_role2bus_org,bus_empl_role2employee);

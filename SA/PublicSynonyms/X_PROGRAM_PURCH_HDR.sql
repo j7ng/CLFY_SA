@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_program_purch_hdr FOR sa.x_program_purch_hdr;

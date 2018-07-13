@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_topp_telecom_territories FOR sa.x_topp_telecom_territories;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.life_cycle_id_number_ind ON sa.table_life_cycle(id_number,appl_id);

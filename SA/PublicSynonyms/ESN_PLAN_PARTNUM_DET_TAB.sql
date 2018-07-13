@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM esn_plan_partnum_det_tab FOR sa.esn_plan_partnum_det_tab;

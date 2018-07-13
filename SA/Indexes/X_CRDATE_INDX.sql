@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_crdate_indx ON sa.x_autoclose_case(x_create_date);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_probdesc_q2queue ON sa.table_probdesc(probdesc_q2queue);

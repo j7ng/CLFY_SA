@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_sl_currvals_idx_min ON sa.x_sl_currentvals(x_current_min);

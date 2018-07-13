@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.inv_locatn_name_index ON sa.table_inv_locatn(location_name);

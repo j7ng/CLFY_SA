@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM gtt_discount_list FOR sa.gtt_discount_list;

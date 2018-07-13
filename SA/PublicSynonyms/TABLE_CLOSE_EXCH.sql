@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_close_exch FOR sa.table_close_exch;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.ux1_bogo_action_type ON sa.x_bogo_action_type(action_type);

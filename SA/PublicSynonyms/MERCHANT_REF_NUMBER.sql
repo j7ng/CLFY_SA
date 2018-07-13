@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM merchant_ref_number FOR sa.merchant_ref_number;

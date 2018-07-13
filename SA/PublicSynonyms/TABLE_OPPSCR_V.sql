@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_oppscr_v FOR sa.table_oppscr_v;

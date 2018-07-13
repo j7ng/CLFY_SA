@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_x_rew_prog_enrol_id TO PUBLIC;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_attachments_objindex ON sa.table_n_attachments(objid);

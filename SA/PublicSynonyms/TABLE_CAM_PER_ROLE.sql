@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_cam_per_role FOR sa.table_cam_per_role;

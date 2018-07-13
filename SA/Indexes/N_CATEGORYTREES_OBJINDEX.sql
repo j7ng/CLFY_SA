@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.n_categorytrees_objindex ON sa.table_n_categorytrees(objid);

@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_opp_role2contact ON sa.table_con_opp_role(opp_role2contact,con_role2opportunity,role_name);

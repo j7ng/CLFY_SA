@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.act_rule_name_rule_id ON sa.table_act_rule_name(parent_type,act_code,rule_name);

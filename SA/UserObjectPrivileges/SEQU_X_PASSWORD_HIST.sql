@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_password_hist TO PUBLIC;

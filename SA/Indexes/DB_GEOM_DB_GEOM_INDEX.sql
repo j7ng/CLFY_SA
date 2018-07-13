@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.db_geom_db_geom_index ON sa.table_db_geom("TYPE","ID",win_id,intval1,user_setting2user);

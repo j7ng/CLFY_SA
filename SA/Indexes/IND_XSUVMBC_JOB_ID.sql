@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_xsuvmbc_job_id ON sa.xsu_vmbc_request(job_data_id);

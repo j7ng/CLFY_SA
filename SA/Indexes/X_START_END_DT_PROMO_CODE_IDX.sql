@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_start_end_dt_promo_code_idx ON sa.table_x_promotion(x_start_date,x_end_date,x_promo_code);

@@ -1,0 +1,4 @@
+CREATE OR REPLACE TYPE sa."TYP_CALC_TAX_TBL"
+IS
+  TABLE OF typ_calc_tax_rec
+/

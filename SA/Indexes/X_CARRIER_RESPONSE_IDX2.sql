@@ -1,0 +1,1 @@
+CREATE INDEX sa.x_carrier_response_idx2 ON sa.x_carrier_response(x_min);

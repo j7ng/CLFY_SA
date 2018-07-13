@@ -1,0 +1,14 @@
+GRANT SELECT ON sa.rtc_criteria_values TO cbo;
+GRANT SELECT ON sa.rtc_criteria_values TO clarify_administrator;
+GRANT SELECT ON sa.rtc_criteria_values TO clarify_reporter;
+GRANT SELECT ON sa.rtc_criteria_values TO clarify_user;
+GRANT SELECT ON sa.rtc_criteria_values TO corecbo;
+GRANT SELECT ON sa.rtc_criteria_values TO csrcbo;
+GRANT SELECT ON sa.rtc_criteria_values TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.rtc_criteria_values TO gw1;
+GRANT SELECT ON sa.rtc_criteria_values TO role_report_select;
+GRANT SELECT ON sa.rtc_criteria_values TO role_sa_select;
+GRANT SELECT ON sa.rtc_criteria_values TO role_sa_update;
+GRANT SELECT ON sa.rtc_criteria_values TO role_tf_select;
+GRANT SELECT ON sa.rtc_criteria_values TO soacbo;
+GRANT SELECT ON sa.rtc_criteria_values TO webcbo;

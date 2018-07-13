@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_map_field_old2 TO PUBLIC;

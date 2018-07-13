@@ -1,0 +1,1 @@
+CREATE INDEX sa.table_x_pref_tech_ix1 ON sa.table_x_pref_tech(x_pref_tech2x_carrier);

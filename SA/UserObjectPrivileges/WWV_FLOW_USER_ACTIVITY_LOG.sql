@@ -1,0 +1,1 @@
+GRANT SELECT ON apex_040000.wwv_flow_user_activity_log TO sa;

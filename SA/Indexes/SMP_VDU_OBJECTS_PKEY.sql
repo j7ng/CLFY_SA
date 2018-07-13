@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.smp_vdu_objects_pkey ON sa.smp_vdu_objects_table("TYPE","OWNER",object_name);

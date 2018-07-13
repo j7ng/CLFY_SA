@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.scr_run_objindex ON sa.table_scr_run(objid);

@@ -1,0 +1,2 @@
+CREATE OR REPLACE TYPE sa."RETENTION_ACTION_TYP_TBL" IS TABLE OF retention_action_typ_obj
+/

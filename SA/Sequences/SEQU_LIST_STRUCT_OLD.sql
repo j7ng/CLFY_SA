@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_list_struct_old;

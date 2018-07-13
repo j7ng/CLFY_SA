@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_open_reqst2site ON sa.table_demand_hdr(open_reqst2site);

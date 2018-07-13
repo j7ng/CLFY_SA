@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_ahis_x_zero_out_max_dt ON sa.tstahis_table_x_zero_out_max(x_change_date);

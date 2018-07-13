@@ -1,0 +1,1 @@
+CREATE INDEX sa.table_x_contact_add_info_ix1 ON sa.table_x_contact_add_info(add_info2contact);

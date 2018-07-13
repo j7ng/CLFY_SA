@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.smtablespacesequence TO PUBLIC;

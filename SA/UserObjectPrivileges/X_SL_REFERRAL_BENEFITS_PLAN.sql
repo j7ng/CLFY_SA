@@ -1,0 +1,11 @@
+GRANT SELECT ON sa.x_sl_referral_benefits_plan TO cbo;
+GRANT SELECT ON sa.x_sl_referral_benefits_plan TO clarify_user;
+GRANT SELECT ON sa.x_sl_referral_benefits_plan TO corecbo;
+GRANT SELECT ON sa.x_sl_referral_benefits_plan TO csrcbo;
+GRANT SELECT ON sa.x_sl_referral_benefits_plan TO dbit_mtoribiolopez;
+GRANT SELECT ON sa.x_sl_referral_benefits_plan TO role_sa_select;
+GRANT SELECT ON sa.x_sl_referral_benefits_plan TO role_sa_update;
+GRANT SELECT ON sa.x_sl_referral_benefits_plan TO role_tf_select;
+GRANT SELECT ON sa.x_sl_referral_benefits_plan TO select_role;
+GRANT SELECT ON sa.x_sl_referral_benefits_plan TO soacbo;
+GRANT SELECT ON sa.x_sl_referral_benefits_plan TO webcbo;

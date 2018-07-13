@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_tracking_deployed_time ON sa.deployment_tracking(deployed_time);

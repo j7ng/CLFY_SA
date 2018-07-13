@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_partner_params FOR sa.table_partner_params;

@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.x_service_provider_config_seq;

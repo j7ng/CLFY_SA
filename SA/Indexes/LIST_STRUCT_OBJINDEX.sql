@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.list_struct_objindex ON sa.table_list_struct(objid);

@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sys.print TO sa;

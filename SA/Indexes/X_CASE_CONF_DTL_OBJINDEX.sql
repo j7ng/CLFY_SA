@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_case_conf_dtl_objindex ON sa.table_x_case_conf_dtl(objid);

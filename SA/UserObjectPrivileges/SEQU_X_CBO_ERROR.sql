@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_cbo_error TO PUBLIC;

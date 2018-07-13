@@ -1,0 +1,10 @@
+GRANT EXECUTE ON sa.get_brm_applicable_flag TO cbo;
+GRANT EXECUTE ON sa.get_brm_applicable_flag TO clarify_administrator;
+GRANT EXECUTE ON sa.get_brm_applicable_flag TO clarify_user;
+GRANT EXECUTE ON sa.get_brm_applicable_flag TO csrcbo;
+GRANT EXECUTE ON sa.get_brm_applicable_flag TO gw1;
+GRANT EXECUTE ON sa.get_brm_applicable_flag TO igate_batch;
+GRANT EXECUTE ON sa.get_brm_applicable_flag TO role_sa_update;
+GRANT EXECUTE ON sa.get_brm_applicable_flag TO soacbo;
+GRANT EXECUTE ON sa.get_brm_applicable_flag TO w3ci;
+GRANT EXECUTE ON sa.get_brm_applicable_flag TO webcbo;

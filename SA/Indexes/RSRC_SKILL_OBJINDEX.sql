@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.rsrc_skill_objindex ON sa.table_rsrc_skill(objid);

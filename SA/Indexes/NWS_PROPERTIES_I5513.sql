@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.nws_properties_i5513 ON sa.table_nws_properties(n_name);

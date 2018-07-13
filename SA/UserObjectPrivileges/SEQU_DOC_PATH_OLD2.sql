@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_doc_path_old2 TO PUBLIC;

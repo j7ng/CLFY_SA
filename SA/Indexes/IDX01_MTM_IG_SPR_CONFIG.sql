@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx01_mtm_ig_spr_config ON sa.x_mtm_ig_spr_config(ig_order_type);

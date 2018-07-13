@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_carrierdealer_objindex ON sa.org_table_x_carrierdealer(objid);

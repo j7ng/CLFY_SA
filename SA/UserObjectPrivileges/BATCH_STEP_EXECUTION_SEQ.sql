@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.batch_step_execution_seq TO PUBLIC;

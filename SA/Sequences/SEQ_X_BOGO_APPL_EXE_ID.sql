@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.seq_x_bogo_appl_exe_id;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_victimcase FOR sa.table_victimcase;

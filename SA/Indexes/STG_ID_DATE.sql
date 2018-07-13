@@ -1,0 +1,1 @@
+CREATE INDEX sa.stg_id_date ON sa.stg_vzw_wap_cases(id_number,process_date);

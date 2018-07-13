@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_program_purch_dtl3 ON sa.x_program_purch_dtl(pgm_purch_dtl2pgm_enrolled);

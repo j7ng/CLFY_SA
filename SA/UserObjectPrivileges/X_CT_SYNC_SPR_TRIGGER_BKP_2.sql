@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.x_ct_sync_spr_trigger_bkp_2 TO dbit_mtoribiolopez;

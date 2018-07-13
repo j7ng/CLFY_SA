@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_pcrf_transaction_detail FOR sa.x_pcrf_transaction_detail;

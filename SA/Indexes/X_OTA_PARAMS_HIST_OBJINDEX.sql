@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_ota_params_hist_objindex ON sa.table_x_ota_params_hist(objid);

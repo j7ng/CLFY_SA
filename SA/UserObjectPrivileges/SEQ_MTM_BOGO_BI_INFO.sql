@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.seq_mtm_bogo_bi_info TO PUBLIC;

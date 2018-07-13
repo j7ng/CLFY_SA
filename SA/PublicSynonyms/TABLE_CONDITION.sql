@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_condition FOR sa.table_condition;

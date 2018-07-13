@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_selfheal_log FOR sa.x_selfheal_log;

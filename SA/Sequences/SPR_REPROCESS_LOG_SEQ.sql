@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.spr_reprocess_log_seq;

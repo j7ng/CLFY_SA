@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sa.apex_carrier_app_pkg TO script_manager;

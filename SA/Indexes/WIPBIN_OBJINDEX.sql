@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.wipbin_objindex ON sa.table_wipbin(objid);

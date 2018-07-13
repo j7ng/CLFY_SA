@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_ig_status_error_message TO PUBLIC;

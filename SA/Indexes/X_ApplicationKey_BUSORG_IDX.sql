@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa."X_ApplicationKey_BUSORG_IDX" ON sa.table_x_altpymtsource(x_application_key,x_altpymtsource2bus_org);

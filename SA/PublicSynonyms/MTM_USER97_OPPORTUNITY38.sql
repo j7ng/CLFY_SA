@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mtm_user97_opportunity38 FOR sa.mtm_user97_opportunity38;

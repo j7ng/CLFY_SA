@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_safelink_data_feed TO PUBLIC;

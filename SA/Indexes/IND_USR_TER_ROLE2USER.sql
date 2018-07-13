@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_usr_ter_role2user ON sa.table_usr_ter_role(usr_ter_role2user,user_role2territory,role_name);

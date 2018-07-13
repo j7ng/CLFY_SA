@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.net10_christmas08_promotion TO dbit_mtoribiolopez;

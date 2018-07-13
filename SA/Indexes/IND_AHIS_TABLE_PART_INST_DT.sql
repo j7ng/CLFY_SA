@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_ahis_table_part_inst_dt ON sa.tstahis_table_part_inst(x_change_date);

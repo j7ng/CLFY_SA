@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM varchar_rec FOR sa.varchar_rec;

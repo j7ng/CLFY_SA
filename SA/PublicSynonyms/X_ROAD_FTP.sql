@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM x_road_ftp FOR sa.x_road_ftp;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.sequ_x_policy_rule_act_sp TO PUBLIC;

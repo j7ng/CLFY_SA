@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM billing_validateenrollid FOR sa.billing_validateenrollid;

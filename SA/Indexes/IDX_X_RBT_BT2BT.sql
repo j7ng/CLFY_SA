@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_x_rbt_bt2bt ON sa.x_reward_benefit_transaction(benefit_trans2benefit_trans);

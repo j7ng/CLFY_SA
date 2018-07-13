@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_fcs_header FOR sa.table_fcs_header;

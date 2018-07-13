@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.task_set_set_id_ind ON sa.table_task_set("ID");

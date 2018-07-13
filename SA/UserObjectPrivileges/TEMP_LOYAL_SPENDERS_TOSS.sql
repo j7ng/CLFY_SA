@@ -1,0 +1,1 @@
+GRANT SELECT ON sa.temp_loyal_spenders_toss TO dbit_mtoribiolopez;

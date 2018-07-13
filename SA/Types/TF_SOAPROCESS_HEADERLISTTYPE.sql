@@ -1,0 +1,8 @@
+CREATE OR REPLACE TYPE sa.TF_SOAPROCESS_HEADERLISTTYPE IS OBJECT (
+   PRIORITY                   VARCHAR2 (250),
+   DELAY                      VARCHAR2 (250),
+   EXPIRATION                 VARCHAR2 (250),
+   CORRELATION                VARCHAR2 (250),
+   RECIPIENTLIST              VARCHAR2 (250),
+   EXCEPTIONQUEUE             VARCHAR2 (250));
+/

@@ -1,0 +1,1 @@
+CREATE INDEX sa.idx_spfv_value_ref ON sa.x_serviceplanfeature_value(value_ref);

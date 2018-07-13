@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM table_wap_case_info FOR sa.table_wap_case_info;

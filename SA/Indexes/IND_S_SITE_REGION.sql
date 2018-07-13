@@ -1,0 +1,1 @@
+CREATE INDEX sa.ind_s_site_region ON sa.table_site(s_region);

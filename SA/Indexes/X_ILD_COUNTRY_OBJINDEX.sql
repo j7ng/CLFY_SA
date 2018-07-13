@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.x_ild_country_objindex ON sa.table_x_ild_country(objid);

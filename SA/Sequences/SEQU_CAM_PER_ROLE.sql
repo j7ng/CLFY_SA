@@ -1,0 +1,1 @@
+CREATE SEQUENCE sa.sequ_cam_per_role;

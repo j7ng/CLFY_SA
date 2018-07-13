@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX sa.idx_x_mtm_program_carrmkt ON sa.x_mtm_program_carrmkt(program_param_objid,carrier_objid);
