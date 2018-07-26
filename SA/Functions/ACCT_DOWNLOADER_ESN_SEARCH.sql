@@ -7,7 +7,7 @@ RETURN VARCHAR2 AS
     part_serial_no = p_esn;
   rec_part_inst  cur_part_inst%ROWTYPE;
   hex_meid   VARCHAR2(30);
-  hex_imei   VARCHAR2(30);
+  hex_imei   VARCHAR2(50);
   l_err_text  VARCHAR2(4000);
   v_ip_decnum VARCHAR2(30); --CR42268_My Account_Downloader_Conversion_Fix
 BEGIN
