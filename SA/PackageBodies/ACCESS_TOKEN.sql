@@ -93,8 +93,7 @@ AS
     WHERE ml.objid                     = ip_n_part_inst2part_mod
     AND pn.objid                       = ml.part_info2part_num
     AND bo.objid                       = pn.part_num2bus_org
-    --AND pm.X_PARAM_NAME                = 'ACTIVE_BRAND'
-    --AND INSTR(X_PARAM_VALUE,BO.ORG_ID) > 0
+
     ;
   --  SELECT   bo.s_org_id brand_name
   --          ,bo.web_site url
