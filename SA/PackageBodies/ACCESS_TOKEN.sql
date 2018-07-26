@@ -229,10 +229,6 @@ BEGIN
     IF Get_ESN%NOTFOUND THEN
       op_err_num := 2; --521;  --Invalid ESN
     ELSE
-      --              IF Get_ESN_rec.x_part_inst_status <> '52'
-      --              THEN
-      --                  op_err_num     := 522;  --ESN Not Active
-      --              ELSE
       OPEN MyAccount(Get_ESN_rec.objid);
       FETCH MyAccount INTO MyAccount_rec;
       IF MyAccount%NOTFOUND THEN
